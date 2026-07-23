@@ -1,6 +1,6 @@
 # Interview Experiences
 
-_Scraped 1853 posts._
+_Scraped 2300 posts._
 
 ---
 
@@ -2801,15 +2801,7 @@ dù tạch algo kha khá
 
 ---
 
-### Post #270 — NahSama [Interview Experiences]
-
-**Date:** Jun 9, 2023 at 9:57 AM
-
-May bac cho em hoi, linkedin dc nhieu head hunter / recruiter pm thi lam sao check legit nhi? nguoi ta nhan role + total comp range luon nhung k co ten cong ty, chi noi industry kieu web3/ blockchain/ health tech etc thoi?
-
----
-
-### Post #271 — s2clouds2 [Interview Experiences]
+### Post #270 — s2clouds2 [Interview Experiences]
 
 **Date:** Jun 9, 2023 at 9:58 AM
 
@@ -2817,7 +2809,7 @@ thì cho lượn, đi pv méo biết tên cty thì làm gì
 
 ---
 
-### Post #272 — Einherjar006 [Interview Experiences]
+### Post #271 — Einherjar006 [Interview Experiences]
 
 **Date:** Jun 9, 2023 at 10:27 AM
 
@@ -2825,7 +2817,7 @@ Không rõ ông apply tech hay research. Tech thì xui rồi, team đó tuyển 
 
 ---
 
-### Post #273 — rs.multiflora [Interview Experiences]
+### Post #272 — rs.multiflora [Interview Experiences]
 
 **Date:** Jun 9, 2023 at 10:32 AM
 
@@ -2833,7 +2825,7 @@ Live coding trong phỏng vấn, thì thường là code giấy + chạy demo ha
 
 ---
 
-### Post #274 — khoahocphothong [Interview Experiences]
+### Post #273 — khoahocphothong [Interview Experiences]
 
 **Date:** Jun 9, 2023 at 10:50 AM
 
@@ -2841,7 +2833,7 @@ thường là trình bày ý tưởng thôi, offline thì vẽ trên whiteboard,
 
 ---
 
-### Post #275 — s2clouds2 [Interview Experiences]
+### Post #274 — s2clouds2 [Interview Experiences]
 
 **Date:** Jun 9, 2023 at 11:32 AM
 
@@ -2849,7 +2841,7 @@ SE thì chắc là Tech rồi
 
 ---
 
-### Post #276 — lazylotte [Interview Experiences]
+### Post #275 — lazylotte [Interview Experiences]
 
 **Date:** Jun 11, 2023 at 9:30 PM
 
@@ -2862,7 +2854,7 @@ for iPhone
 
 ---
 
-### Post #277 — luzstar [Interview Experiences]
+### Post #276 — luzstar [Interview Experiences]
 
 **Date:** Jun 11, 2023 at 11:09 PM
 
@@ -2874,7 +2866,7 @@ Hoặc đường dễ nhất là sang đó học master để có work permit. V
 
 ---
 
-### Post #278 — Darabeny [Interview Experiences]
+### Post #277 — Darabeny [Interview Experiences]
 
 **Date:** Jun 18, 2023 at 11:15 PM
 
@@ -2882,7 +2874,7 @@ Em thấy mấy cái pv kiểu này hơi ảo. Thi thoảng em hay bị cái là
 
 ---
 
-### Post #279 — cokhibk [Interview Experiences]
+### Post #278 — cokhibk [Interview Experiences]
 
 **Date:** Jun 21, 2023 at 12:43 PM
 
@@ -2890,7 +2882,7 @@ bác kiếm thông tin về job đó ở đâu thế ạ, e tìm trên linkedin 
 
 ---
 
-### Post #280 — MaKet23 [Interview Experiences]
+### Post #279 — MaKet23 [Interview Experiences]
 
 **Date:** Jun 21, 2023 at 4:10 PM
 
@@ -2898,7 +2890,7 @@ Các bác cho e xin kinh nghiệm phỏng vấn S3Corp vị trí mobile với �
 
 ---
 
-### Post #281 — Bánh Đa Cua [Interview Experiences]
+### Post #280 — Bánh Đa Cua [Interview Experiences]
 
 **Date:** Jun 30, 2023 at 10:28 AM
 
@@ -2906,7 +2898,7 @@ Có bác nào ứng tuyển Fresher bên Ominext chưa ạ, em hỏi HR thì có
 
 ---
 
-### Post #282 — Ruoi Den [Interview Experiences]
+### Post #281 — Ruoi Den [Interview Experiences]
 
 **Date:** Jun 30, 2023 at 10:53 AM
 
@@ -2914,7 +2906,7 @@ Lương thằng này thấp tẹt, vào làm gì. Kiếm thằng khác mà làm 
 
 ---
 
-### Post #283 — Bánh Đa Cua [Interview Experiences]
+### Post #282 — Bánh Đa Cua [Interview Experiences]
 
 **Date:** Jun 30, 2023 at 10:55 AM
 
@@ -2922,7 +2914,7 @@ Fresher đang được offer nhiêu thế bác, thấy HR đang hỏi "mức lư
 
 ---
 
-### Post #284 — Ruoi Den [Interview Experiences]
+### Post #283 — Ruoi Den [Interview Experiences]
 
 **Date:** Jun 30, 2023 at 11:01 AM
 
@@ -2931,7 +2923,7 @@ Anh ko biết fresher. Anh pv junior. Đợt ấy nó trả có 18 thì phải, 
 
 ---
 
-### Post #285 — anhphailamgideemdungnghi [Interview Experiences]
+### Post #284 — anhphailamgideemdungnghi [Interview Experiences]
 
 **Date:** Jun 30, 2023 at 11:09 AM
 
@@ -2939,7 +2931,7 @@ các bác cho e xin review pvan dev intern của sonat studio đc ko ạ, e cả
 
 ---
 
-### Post #286 — UchihaTaft [Interview Experiences]
+### Post #285 — UchihaTaft [Interview Experiences]
 
 **Date:** Jun 30, 2023 at 1:16 PM
 
@@ -2949,7 +2941,7 @@ vozFApp
 
 ---
 
-### Post #287 — toilanguoitot [Interview Experiences]
+### Post #286 — toilanguoitot [Interview Experiences]
 
 **Date:** Jun 30, 2023 at 1:17 PM
 
@@ -2957,7 +2949,7 @@ vchuong junior mà 18 thì là cao vc rồi chứ thím, giờ lương cao thế
 
 ---
 
-### Post #288 — Tao_Lao [Interview Experiences]
+### Post #287 — Tao_Lao [Interview Experiences]
 
 **Date:** Jun 30, 2023 at 2:36 PM
 
@@ -2968,7 +2960,7 @@ for iPhone
 
 ---
 
-### Post #289 — Dev xịn [Interview Experiences]
+### Post #288 — Dev xịn [Interview Experiences]
 
 **Date:** Jul 1, 2023 at 12:33 AM
 
@@ -2976,7 +2968,7 @@ Ngành it leveling mỗi công ty mỗi khác có gì mà lạ. Nhiều công ty
 
 ---
 
-### Post #290 — Dbeaver [Interview Experiences]
+### Post #289 — Dbeaver [Interview Experiences]
 
 **Date:** Jul 2, 2023 at 9:48 AM
 
@@ -2985,7 +2977,7 @@ Câu này trả lời như nào cho khéo léo tính tế ko bị hớ vậy cá
 
 ---
 
-### Post #291 — odkjabqpmzvmz [Interview Experiences]
+### Post #290 — odkjabqpmzvmz [Interview Experiences]
 
 **Date:** Jul 2, 2023 at 10:16 AM
 
@@ -2993,7 +2985,7 @@ Câu này để trả lời tốt thì bác nên... nghiên cứu thị trườn
 
 ---
 
-### Post #292 — Đổ Sông Đổ Bể [Interview Experiences]
+### Post #291 — Đổ Sông Đổ Bể [Interview Experiences]
 
 **Date:** Jul 2, 2023 at 10:38 AM
 
@@ -3001,7 +2993,7 @@ job fresher nó đăng ở đâu vậy bác, e tìm trên linkedin mà ko thấy
 
 ---
 
-### Post #293 — MaKet23 [Interview Experiences]
+### Post #292 — MaKet23 [Interview Experiences]
 
 **Date:** Jul 2, 2023 at 12:26 PM
 
@@ -3011,7 +3003,7 @@ chưa ạ cho em xin ít review với
 
 ---
 
-### Post #294 — zloda945612 [Interview Experiences]
+### Post #293 — zloda945612 [Interview Experiences]
 
 **Date:** Jul 4, 2023 at 2:37 AM
 
@@ -3019,7 +3011,7 @@ Cho e xin review phỏng vấn fresher software developer ở TTI Việt Nam v�
 
 ---
 
-### Post #295 — Bánh Đa Cua [Interview Experiences]
+### Post #294 — Bánh Đa Cua [Interview Experiences]
 
 **Date:** Jul 4, 2023 at 3:28 PM
 
@@ -3027,7 +3019,7 @@ ko thơm lắm đâu, e mới hỏi đến bảo hiểm hay chế độ là HR �
 
 ---
 
-### Post #296 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #295 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Jul 5, 2023 at 11:17 AM
 
@@ -3035,7 +3027,7 @@ Cty mà không bảo hiểm chế độ 99,9% là rác rồi , tốt nhất là 
 
 ---
 
-### Post #297 — Kalsi [Interview Experiences]
+### Post #296 — Kalsi [Interview Experiences]
 
 **Date:** Jul 5, 2023 at 4:59 PM
 
@@ -3043,7 +3035,7 @@ Hiện tại các bác học tiếng anh thế nào để phỏng vấn + làm v
 
 ---
 
-### Post #298 — tommeng [Interview Experiences]
+### Post #297 — tommeng [Interview Experiences]
 
 **Date:** Jul 25, 2023 at 10:27 AM
 
@@ -3051,7 +3043,7 @@ Có bác nào thi thử Quantitive Research Intern ML tại dytechlab chưa cho 
 
 ---
 
-### Post #299 — farshokat [Interview Experiences]
+### Post #298 — farshokat [Interview Experiences]
 
 **Date:** Jul 25, 2023 at 2:16 PM
 
@@ -3059,7 +3051,7 @@ Bác PV chưa ạ? nay em cx được hunter gửi em job này. Nhưng đọc jd
 
 ---
 
-### Post #300 — Violet_7 [Interview Experiences]
+### Post #299 — Violet_7 [Interview Experiences]
 
 **Date:** Jul 25, 2023 at 9:37 PM
 
@@ -3067,7 +3059,7 @@ Chỉ bt bên world quant full xác suất
 
 ---
 
-### Post #301 — UchihaTaft [Interview Experiences]
+### Post #300 — UchihaTaft [Interview Experiences]
 
 **Date:** Jul 25, 2023 at 11:22 PM
 
@@ -3076,7 +3068,7 @@ red flag đấy bác, né đi, ứng viên nói câu nào interviewer dập câu
 
 ---
 
-### Post #302 — whynotme99 [Interview Experiences]
+### Post #301 — whynotme99 [Interview Experiences]
 
 **Date:** Jul 25, 2023 at 11:29 PM
 
@@ -3084,7 +3076,7 @@ anh ơi, về improve tiếng anh là như thế nào ạ, cải thiện tiếng
 
 ---
 
-### Post #303 — spam102 [Interview Experiences]
+### Post #302 — spam102 [Interview Experiences]
 
 **Date:** Jul 26, 2023 at 6:41 AM
 
@@ -3092,7 +3084,7 @@ Là tiếng anh giao tiếp ấy, đôi lúc mình không thể diễn đạt đ
 
 ---
 
-### Post #304 — farshokat [Interview Experiences]
+### Post #303 — farshokat [Interview Experiences]
 
 **Date:** Jul 26, 2023 at 9:23 AM
 
@@ -3100,7 +3092,7 @@ em cảm ơn bác. Móe, mà thật ra e thấy jd cũng chung chung vl. Em cx r
 
 ---
 
-### Post #305 — dighalk [Interview Experiences]
+### Post #304 — dighalk [Interview Experiences]
 
 **Date:** Jul 26, 2023 at 8:31 PM
 
@@ -3108,7 +3100,7 @@ Em chuẩn bị pv làm backend ở Vietcombank, có bác nào có kinh nghiệm
 
 ---
 
-### Post #306 — whynotme99 [Interview Experiences]
+### Post #305 — whynotme99 [Interview Experiences]
 
 **Date:** Jul 26, 2023 at 9:38 PM
 
@@ -3116,7 +3108,7 @@ vâng ậ, nói như vậy thì e nên cải thiện về từ vựng, còn kỹ
 
 ---
 
-### Post #307 — noob noob [Interview Experiences]
+### Post #306 — noob noob [Interview Experiences]
 
 **Date:** Jul 27, 2023 at 1:52 PM
 
@@ -3124,7 +3116,7 @@ bác đã pv inntern unity dev chưa choe xin review với bác, họ hỏi nh�
 
 ---
 
-### Post #308 — xskaisx [Interview Experiences]
+### Post #307 — xskaisx [Interview Experiences]
 
 **Date:** Jul 30, 2023 at 10:44 PM
 
@@ -3132,7 +3124,7 @@ Có bác nào phỏng vấn bên rikkeisoft chưa ạ. Cho xin ít review ạ
 
 ---
 
-### Post #309 — truong111 [Interview Experiences]
+### Post #308 — truong111 [Interview Experiences]
 
 **Date:** Aug 1, 2023 at 10:06 AM
 
@@ -3140,7 +3132,7 @@ Cho em hỏi ngu xí là sắp tới em phỏng vấn ở Naver, nhưng đọc J
 
 ---
 
-### Post #310 — nhoxbinhduongvn [Interview Experiences]
+### Post #309 — nhoxbinhduongvn [Interview Experiences]
 
 **Date:** Aug 1, 2023 at 11:09 AM
 
@@ -3148,7 +3140,7 @@ làm sao để check dc brower nó có record hay track vậy bạn
 
 ---
 
-### Post #311 — luzstar [Interview Experiences]
+### Post #310 — luzstar [Interview Experiences]
 
 **Date:** Aug 1, 2023 at 11:22 AM
 
@@ -3156,7 +3148,7 @@ làm front-end thì cứ check xem có request lạ bắn lên không thôi bác
 
 ---
 
-### Post #312 — franken392 [Interview Experiences]
+### Post #311 — franken392 [Interview Experiences]
 
 **Date:** Aug 3, 2023 at 2:08 PM
 
@@ -3164,7 +3156,7 @@ Bác nào phỏng vấn DE ở dytechlab cho mình xin ít review với ạ
 
 ---
 
-### Post #313 — manebane [Interview Experiences]
+### Post #312 — manebane [Interview Experiences]
 
 **Date:** Aug 5, 2023 at 6:47 PM
 
@@ -3172,7 +3164,7 @@ Bên này cũng chia division kiểu BU giống Fsoft, bạn pv vào làm thị 
 
 ---
 
-### Post #314 — xskaisx [Interview Experiences]
+### Post #313 — xskaisx [Interview Experiences]
 
 **Date:** Aug 13, 2023 at 10:10 PM
 
@@ -3180,7 +3172,7 @@ e pass phỏng vấn round 1 đc 2 tuần r, vẫn chưa thấy báo round 2 v�
 
 ---
 
-### Post #315 — wheyfordays [Interview Experiences]
+### Post #314 — wheyfordays [Interview Experiences]
 
 **Date:** Aug 14, 2023 at 4:17 AM
 
@@ -3188,7 +3180,7 @@ Cho em hỏi thường mình reach out với HR ở kênh nào vậy các bác, 
 
 ---
 
-### Post #316 — khoahocphothong [Interview Experiences]
+### Post #315 — khoahocphothong [Interview Experiences]
 
 **Date:** Aug 14, 2023 at 9:47 AM
 
@@ -3200,7 +3192,7 @@ mùa uptrend thì để status "open to work" trên linkedin là HR tự lao và
 
 ---
 
-### Post #317 — Hung.is.not.impress [Interview Experiences]
+### Post #316 — Hung.is.not.impress [Interview Experiences]
 
 **Date:** Aug 25, 2023 at 10:37 AM
 
@@ -3209,7 +3201,7 @@ Mà chắc cứ thử sức xem sao
 
 ---
 
-### Post #318 — Zayt__ [Interview Experiences]
+### Post #317 — Zayt__ [Interview Experiences]
 
 **Date:** Aug 25, 2023 at 11:04 AM
 
@@ -3217,7 +3209,7 @@ Bên này thuê HR ngoài nên nó cứ mời lung tung thôi, hên hên ứng v
 
 ---
 
-### Post #319 — tcx2k7 [Interview Experiences]
+### Post #318 — tcx2k7 [Interview Experiences]
 
 **Date:** Aug 25, 2023 at 12:56 PM
 
@@ -3225,7 +3217,7 @@ Kệ, chơi tới đi fen. Được phỏng thôi cũng là cơ hội để nói
 
 ---
 
-### Post #320 — nchhnchh [Interview Experiences]
+### Post #319 — nchhnchh [Interview Experiences]
 
 **Date:** Aug 25, 2023 at 10:13 PM
 
@@ -3233,7 +3225,7 @@ coding test dễ pass lắm, vô pv mấy vòng trong mới xoay. đợt t pv đ
 
 ---
 
-### Post #321 — wheyfordays [Interview Experiences]
+### Post #320 — wheyfordays [Interview Experiences]
 
 **Date:** Aug 26, 2023 at 10:32 PM
 
@@ -3241,7 +3233,7 @@ Em cũng trong tình trạng y chang, em còn ít kinh nghiệm mới fresher n�
 
 ---
 
-### Post #322 — Hung.is.not.impress [Interview Experiences]
+### Post #321 — Hung.is.not.impress [Interview Experiences]
 
 **Date:** Aug 26, 2023 at 10:34 PM
 
@@ -3249,7 +3241,7 @@ Thấy đọc ở page trước thì headhunt/hr tuyển đc nhân sự họ cũ
 
 ---
 
-### Post #323 — s2clouds2 [Interview Experiences]
+### Post #322 — s2clouds2 [Interview Experiences]
 
 **Date:** Aug 28, 2023 at 7:44 PM
 
@@ -3258,7 +3250,7 @@ bài cuối chạy chỉ đc nửa testcase xong TLE
 
 ---
 
-### Post #324 — zzchaolegionzz [Interview Experiences]
+### Post #323 — zzchaolegionzz [Interview Experiences]
 
 **Date:** Sep 1, 2023 at 3:45 PM
 
@@ -3290,7 +3282,7 @@ Mong nhận thêm chia sẻ và gạch đá từ các thím.
 
 ---
 
-### Post #325 — everes121 [Interview Experiences]
+### Post #324 — everes121 [Interview Experiences]
 
 **Date:** Sep 18, 2023 at 5:28 PM
 
@@ -3299,7 +3291,7 @@ edit: dev java
 
 ---
 
-### Post #326 — monmon2265 [Interview Experiences]
+### Post #325 — monmon2265 [Interview Experiences]
 
 **Date:** Sep 18, 2023 at 6:03 PM
 
@@ -3307,7 +3299,7 @@ Có ai từng phỏng vấn Lovepop cho mình xin review với ạ?
 
 ---
 
-### Post #327 — Love U So Much [Interview Experiences]
+### Post #326 — Love U So Much [Interview Experiences]
 
 **Date:** Sep 18, 2023 at 6:38 PM
 
@@ -3320,7 +3312,7 @@ Cuối cùng quan trọng nhất là ng ta tìm người phù hợp chứ ko ph�
 
 ---
 
-### Post #328 — zaqwsxcderfvbgtyhnmjuikl [Interview Experiences]
+### Post #327 — zaqwsxcderfvbgtyhnmjuikl [Interview Experiences]
 
 **Date:** Sep 18, 2023 at 7:49 PM
 
@@ -3328,7 +3320,7 @@ Tuỳ culture fix phỏng vấn với ai, nếu là trục tiếp với hiring m
 
 ---
 
-### Post #329 — xskaisx [Interview Experiences]
+### Post #328 — xskaisx [Interview Experiences]
 
 **Date:** Oct 3, 2023 at 10:28 AM
 
@@ -3336,7 +3328,7 @@ Cho ai phỏng vấn bên synopsys chưa ạ, cho e xin quy trình phỏng vấn
 
 ---
 
-### Post #330 — duongn158 [Interview Experiences]
+### Post #329 — duongn158 [Interview Experiences]
 
 **Date:** Oct 8, 2023 at 4:39 PM
 
@@ -3344,7 +3336,7 @@ bạn pv vấn cty này chưa ạ
 
 ---
 
-### Post #331 — duongn158 [Interview Experiences]
+### Post #330 — duongn158 [Interview Experiences]
 
 **Date:** Oct 8, 2023 at 4:40 PM
 
@@ -3352,7 +3344,7 @@ bạn phỏng vấn cty này ch ạ? cho mình xin ít review vs ạ
 
 ---
 
-### Post #332 — lcminhhp [Interview Experiences]
+### Post #331 — lcminhhp [Interview Experiences]
 
 **Date:** Oct 10, 2023 at 5:51 PM
 
@@ -3362,7 +3354,7 @@ Tiện thể hỏi luôn các bác xác định trình độ như thế nào? Đ
 
 ---
 
-### Post #333 — zzchaolegionzz [Interview Experiences]
+### Post #332 — zzchaolegionzz [Interview Experiences]
 
 **Date:** Oct 10, 2023 at 10:46 PM
 
@@ -3371,7 +3363,7 @@ Tiếc là nhiều công ty "to" ở vn đánh giá thấp phần phỏng vấn 
 
 ---
 
-### Post #334 — đangphanvan [Interview Experiences]
+### Post #333 — đangphanvan [Interview Experiences]
 
 **Date:** Oct 24, 2023 at 3:18 PM
 
@@ -3379,7 +3371,7 @@ Dạ các bác lúc sáng em phỏng vấn intern 1 công ty, buổi phỏng v�
 
 ---
 
-### Post #335 — xskaisx [Interview Experiences]
+### Post #334 — xskaisx [Interview Experiences]
 
 **Date:** Nov 1, 2023 at 10:37 AM
 
@@ -3388,7 +3380,7 @@ pv 1 vòng technical, chỉ hỏi 3 cái kiến thức căn bản, xong đợi s
 
 ---
 
-### Post #336 — thunderga05 [Interview Experiences]
+### Post #335 — thunderga05 [Interview Experiences]
 
 **Date:** Nov 1, 2023 at 10:49 AM
 
@@ -3396,7 +3388,7 @@ bác ơi cho e hỏi phỏng vấn đều online hết hả bác, lúc phỏng v
 
 ---
 
-### Post #337 — seastar [Interview Experiences]
+### Post #336 — seastar [Interview Experiences]
 
 **Date:** Nov 1, 2023 at 11:43 AM
 
@@ -3404,7 +3396,7 @@ sắp xếp gì đâu, xin nghỉ nửa buổi mà đi phỏng vấn chứ sao n
 
 ---
 
-### Post #338 — c0mr4de [Interview Experiences]
+### Post #337 — c0mr4de [Interview Experiences]
 
 **Date:** Nov 15, 2023 at 7:58 PM
 
@@ -3413,7 +3405,7 @@ Em chuẩn bị làm test technical bên đó, không biết vòng như nào. B�
 
 ---
 
-### Post #339 — DanielM [Interview Experiences]
+### Post #338 — DanielM [Interview Experiences]
 
 **Date:** Nov 15, 2023 at 10:52 PM
 
@@ -3421,7 +3413,7 @@ mai em cũng qua bên đấy làm test MCQs SE về UNIX, mạng, .... Không bi
 
 ---
 
-### Post #340 — c0mr4de [Interview Experiences]
+### Post #339 — c0mr4de [Interview Experiences]
 
 **Date:** Nov 16, 2023 at 12:51 PM
 
@@ -3429,7 +3421,7 @@ Em chưa bác ạ, em T6 mới qua làm test. Bác về cho em xin ít kinh nghi
 
 ---
 
-### Post #341 — aftnun [Interview Experiences]
+### Post #340 — aftnun [Interview Experiences]
 
 **Date:** Nov 21, 2023 at 9:54 AM
 
@@ -3437,7 +3429,7 @@ Bạn pv sao rùi ạ, cho mình xin kinh nghiệm với
 
 ---
 
-### Post #342 — manh1451999 [Interview Experiences]
+### Post #341 — manh1451999 [Interview Experiences]
 
 **Date:** Nov 22, 2023 at 3:25 PM
 
@@ -3447,7 +3439,7 @@ e bảo đơn thuần muốn đổi môi trường thôi mà bà cứ ko tin h�
 
 ---
 
-### Post #343 — Ruoi Den [Interview Experiences]
+### Post #342 — Ruoi Den [Interview Experiences]
 
 **Date:** Nov 22, 2023 at 4:27 PM
 
@@ -3455,7 +3447,7 @@ xin anh bạn đừng hoang mang. tui pv 2 chỗ cùng 1 câu này, câu trả l
 
 ---
 
-### Post #344 — manh1451999 [Interview Experiences]
+### Post #343 — manh1451999 [Interview Experiences]
 
 **Date:** Nov 22, 2023 at 4:46 PM
 
@@ -3463,7 +3455,7 @@ kk thì ra có bác chung hoàn cảnh, trước buổi pv 1 câu, vào pv ô le
 
 ---
 
-### Post #345 — Người phát Ikigami [Interview Experiences]
+### Post #344 — Người phát Ikigami [Interview Experiences]
 
 **Date:** Nov 24, 2023 at 7:53 AM
 
@@ -3471,7 +3463,7 @@ Hồi xưa nhớ phỏng vấn chỉ nặng phần Technical thôi, bây giờ c
 
 ---
 
-### Post #346 — kazimhung559 [Interview Experiences]
+### Post #345 — kazimhung559 [Interview Experiences]
 
 **Date:** Nov 24, 2023 at 8:52 AM
 
@@ -3480,7 +3472,7 @@ mình từng gặp 2 case ko fit với team rồi out, 1 case thì do tính các
 
 ---
 
-### Post #347 — deonhodangkylanthumaynua [Interview Experiences]
+### Post #346 — deonhodangkylanthumaynua [Interview Experiences]
 
 **Date:** Nov 24, 2023 at 9:23 AM
 
@@ -3488,7 +3480,7 @@ nói đùa. Tuyển người vào làm, cùng phát triển, tạo nhiều impac
 
 ---
 
-### Post #348 — muvodoi555 [Interview Experiences]
+### Post #347 — muvodoi555 [Interview Experiences]
 
 **Date:** Nov 24, 2023 at 10:35 AM
 
@@ -3496,7 +3488,7 @@ Thế tức là cứ phải ngoan ngoãn nghe lời bác thì mới gọi là fi
 
 ---
 
-### Post #349 — midnight_sun [Interview Experiences]
+### Post #348 — midnight_sun [Interview Experiences]
 
 **Date:** Nov 24, 2023 at 10:44 AM
 
@@ -3504,7 +3496,7 @@ thế nào là ngoan ngoãn ấy chứ, h ở cái team mà thím thấy sai rõ
 
 ---
 
-### Post #350 — h_ngyn [Interview Experiences]
+### Post #349 — h_ngyn [Interview Experiences]
 
 **Date:** Nov 24, 2023 at 10:56 AM
 
@@ -3512,7 +3504,7 @@ thế nào là ngoan ngoãn ấy chứ, h ở cái team mà thím thấy sai rõ
 
 ---
 
-### Post #351 — deonhodangkylanthumaynua [Interview Experiences]
+### Post #350 — deonhodangkylanthumaynua [Interview Experiences]
 
 **Date:** Nov 24, 2023 at 12:55 PM
 
@@ -3523,7 +3515,7 @@ Bản thân từ fit nó đã có ý nghĩa của nó.
 
 ---
 
-### Post #352 — h_ngyn [Interview Experiences]
+### Post #351 — h_ngyn [Interview Experiences]
 
 **Date:** Nov 24, 2023 at 2:13 PM
 
@@ -3533,7 +3525,7 @@ Nhưng mà giờ khi có công ty họ phỏng vấn tech xong đến culture fi
 
 ---
 
-### Post #353 — baosaolamthe [Interview Experiences]
+### Post #352 — baosaolamthe [Interview Experiences]
 
 **Date:** Nov 25, 2023 at 9:23 PM
 
@@ -3543,7 +3535,7 @@ Các bác cho e xin ít kinh nghiệm để làm tech và thuật toán với �
 
 ---
 
-### Post #354 — Young_Dev_In_SG [Interview Experiences]
+### Post #353 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Nov 29, 2023 at 3:14 PM
 
@@ -3555,7 +3547,7 @@ không biết quy trình phỏng vấn mấy vòng, phỏng vấn những gì v�
 
 ---
 
-### Post #355 — cmtryyy [Interview Experiences]
+### Post #354 — cmtryyy [Interview Experiences]
 
 **Date:** Nov 29, 2023 at 3:51 PM
 
@@ -3564,7 +3556,7 @@ bác apply ở đâu v ạ
 
 ---
 
-### Post #356 — nonnonnonnon [Interview Experiences]
+### Post #355 — nonnonnonnon [Interview Experiences]
 
 **Date:** Dec 2, 2023 at 9:48 AM
 
@@ -3572,7 +3564,7 @@ Mọi người cho mình hỏi culture fit thì bình thường hỏi những g�
 
 ---
 
-### Post #357 — manh1451999 [Interview Experiences]
+### Post #356 — manh1451999 [Interview Experiences]
 
 **Date:** Dec 2, 2023 at 11:05 AM
 
@@ -3587,7 +3579,7 @@ E cũng ít pv sau cuộc pv ms thấy mình ngu, e kêu môi trường cũ lặ
 
 ---
 
-### Post #358 — boydepdai92 [Interview Experiences]
+### Post #357 — boydepdai92 [Interview Experiences]
 
 **Date:** Dec 2, 2023 at 11:16 AM
 
@@ -3595,7 +3587,7 @@ E cũng ít pv sau cuộc pv ms thấy mình ngu, e kêu môi trường cũ lặ
 
 ---
 
-### Post #359 — nonnonnonnon [Interview Experiences]
+### Post #358 — nonnonnonnon [Interview Experiences]
 
 **Date:** Dec 2, 2023 at 6:04 PM
 
@@ -3603,7 +3595,7 @@ câu công việc lặp lại nên trả lời ntn nhỉ? mình nghỉ cũng cty
 
 ---
 
-### Post #360 — Love U So Much [Interview Experiences]
+### Post #359 — Love U So Much [Interview Experiences]
 
 **Date:** Dec 2, 2023 at 6:25 PM
 
@@ -3611,7 +3603,7 @@ Business value nó mới, my fen. Với cả e luôn chủ động suy nghĩ, ko
 
 ---
 
-### Post #361 — Myriad [Interview Experiences]
+### Post #360 — Myriad [Interview Experiences]
 
 **Date:** Dec 2, 2023 at 6:41 PM
 
@@ -3619,7 +3611,7 @@ Pv junior java dev 1.5 - 2 yoe thì thường hỏi những gì vậy các bác 
 
 ---
 
-### Post #362 — nonnonnonnon [Interview Experiences]
+### Post #361 — nonnonnonnon [Interview Experiences]
 
 **Date:** Dec 2, 2023 at 6:44 PM
 
@@ -3627,7 +3619,7 @@ e nghỉ cty cũ vì lí do có việc gia đình thì có nên nói kh nhỉ b�
 
 ---
 
-### Post #363 — Mr.T123 [Interview Experiences]
+### Post #362 — Mr.T123 [Interview Experiences]
 
 **Date:** Dec 2, 2023 at 9:37 PM
 
@@ -3635,7 +3627,7 @@ Cứ nói thẳng thôi. Vòng culture fit chủ yếu điều tra thằng này 
 
 ---
 
-### Post #364 — 7mcn2112 [Interview Experiences]
+### Post #363 — 7mcn2112 [Interview Experiences]
 
 **Date:** Dec 8, 2023 at 11:36 AM
 
@@ -3643,7 +3635,7 @@ May bac cho e hoi; linkedin dc nhieu head hunter / recruiter pm thi lam sao chec
 
 ---
 
-### Post #365 — dinhson2212 [Interview Experiences]
+### Post #364 — dinhson2212 [Interview Experiences]
 
 **Date:** Dec 16, 2023 at 1:47 PM
 
@@ -3651,7 +3643,7 @@ Mùa này ít bác nhảy việc nhỉ
 
 ---
 
-### Post #366 — Lập Trình Viên Số Khổ [Interview Experiences]
+### Post #365 — Lập Trình Viên Số Khổ [Interview Experiences]
 
 **Date:** Dec 16, 2023 at 6:17 PM
 
@@ -3659,7 +3651,7 @@ do mùa này kiếm việc khó mà
 
 ---
 
-### Post #367 — manh1451999 [Interview Experiences]
+### Post #366 — manh1451999 [Interview Experiences]
 
 **Date:** Dec 16, 2023 at 7:29 PM
 
@@ -3670,7 +3662,7 @@ for iPhone
 
 ---
 
-### Post #368 — Great Investor [Interview Experiences]
+### Post #367 — Great Investor [Interview Experiences]
 
 **Date:** Dec 16, 2023 at 9:53 PM
 
@@ -3678,7 +3670,7 @@ fen này dạo này sao rồi
 
 ---
 
-### Post #369 — xprogamer [Interview Experiences]
+### Post #368 — xprogamer [Interview Experiences]
 
 **Date:** Dec 25, 2023 at 5:39 AM
 
@@ -3686,7 +3678,7 @@ Công ty như lol... Vào đi rồi khóc
 
 ---
 
-### Post #370 — thanh quoc [Interview Experiences]
+### Post #369 — thanh quoc [Interview Experiences]
 
 **Date:** Dec 27, 2023 at 9:59 PM
 
@@ -3694,7 +3686,7 @@ bác ơi bác phỏng vấn ổn k , cho e xin kinh nghiệm với ạ em cũng 
 
 ---
 
-### Post #371 — MrComNguoi [Interview Experiences]
+### Post #370 — MrComNguoi [Interview Experiences]
 
 **Date:** Jan 4, 2024 at 3:07 AM
 
@@ -3702,7 +3694,7 @@ Cho xin review đi thím
 
 ---
 
-### Post #372 — Nnamhd [Interview Experiences]
+### Post #371 — Nnamhd [Interview Experiences]
 
 **Date:** Jan 4, 2024 at 9:43 AM
 
@@ -3710,7 +3702,7 @@ job 3yoe Spring+angular thì thường hỏi những gì các bác nhỉ?
 
 ---
 
-### Post #373 — Nnamhd [Interview Experiences]
+### Post #372 — Nnamhd [Interview Experiences]
 
 **Date:** Jan 4, 2024 at 11:50 AM
 
@@ -3718,7 +3710,7 @@ hỏi java core khá sâu là hỏi những gì thế thím?
 
 ---
 
-### Post #374 — domitif99 [Interview Experiences]
+### Post #373 — domitif99 [Interview Experiences]
 
 **Date:** Jan 4, 2024 at 1:01 PM
 
@@ -3726,7 +3718,7 @@ lâu quá r mình cũng ko nhớ nữa. Nhớ có câu hỏi về Map, java buil
 
 ---
 
-### Post #375 — dinhson2212 [Interview Experiences]
+### Post #374 — dinhson2212 [Interview Experiences]
 
 **Date:** Jan 7, 2024 at 4:10 PM
 
@@ -3734,7 +3726,7 @@ Năm mới có a e nào đi phỏng vấn chưa nhỉ
 
 ---
 
-### Post #376 — lifehate [Interview Experiences]
+### Post #375 — lifehate [Interview Experiences]
 
 **Date:** Jan 8, 2024 at 3:05 PM
 
@@ -3742,7 +3734,7 @@ Bác phỏng vấn chưa ạ, cho em xin ít reivew với
 
 ---
 
-### Post #377 — kAW2NOnVeP7r0 [Interview Experiences]
+### Post #376 — kAW2NOnVeP7r0 [Interview Experiences]
 
 **Date:** Jan 10, 2024 at 12:12 PM
 
@@ -3750,7 +3742,7 @@ Bác phỏng vấn chưa ạ, cho em xin ít reivew với
 
 ---
 
-### Post #378 — cmtryyy [Interview Experiences]
+### Post #377 — cmtryyy [Interview Experiences]
 
 **Date:** Jan 10, 2024 at 5:09 PM
 
@@ -3758,7 +3750,7 @@ Ai interview frontend ở Zalo rùi cho mình xin review với ạ
 
 ---
 
-### Post #379 — josjos [Interview Experiences]
+### Post #378 — josjos [Interview Experiences]
 
 **Date:** Jan 17, 2024 at 1:32 AM
 
@@ -3766,7 +3758,7 @@ Cho xin ít rv về công ty Finpros này đi các fen. Không hiểu sao tất 
 
 ---
 
-### Post #380 — cmtryyy [Interview Experiences]
+### Post #379 — cmtryyy [Interview Experiences]
 
 **Date:** Jan 17, 2024 at 11:08 AM
 
@@ -3774,7 +3766,7 @@ mới phonescreen bác ơi mà chưa thấy feedback j
 
 ---
 
-### Post #381 — bitua1412 [Interview Experiences]
+### Post #380 — bitua1412 [Interview Experiences]
 
 **Date:** Jan 20, 2024 at 5:13 PM
 
@@ -3798,7 +3790,7 @@ Cuối cùng là phần culture fit + deal lương. Có điểm khá vui là ph�
 
 ---
 
-### Post #382 — polieste [Interview Experiences]
+### Post #381 — polieste [Interview Experiences]
 
 **Date:** Jan 23, 2024 at 1:54 PM
 
@@ -3806,7 +3798,7 @@ Có bác nào phỏng vấn cty Rackspace (Just Analytics) cũ chưa cho em xin 
 
 ---
 
-### Post #383 — MeoVuiVe9121 [Interview Experiences]
+### Post #382 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Jan 24, 2024 at 12:28 PM
 
@@ -3836,7 +3828,7 @@ Ai cb phỏng vấn ở đây thì chúc anh em phỏng vấn đầu xuôi đuô
 
 ---
 
-### Post #384 — dinhson2212 [Interview Experiences]
+### Post #383 — dinhson2212 [Interview Experiences]
 
 **Date:** Feb 17, 2024 at 5:28 PM
 
@@ -3862,7 +3854,7 @@ Nên học thêm về kỹ năng thuyết trình.
 
 ---
 
-### Post #385 — Goosam999 [Interview Experiences]
+### Post #384 — Goosam999 [Interview Experiences]
 
 **Date:** Feb 24, 2024 at 10:39 AM
 
@@ -3870,7 +3862,7 @@ bác nào phỏng vấn dev 3 .net ở F* chưa ạ
 
 ---
 
-### Post #386 — Dong Phuong Muoi Muoi [Interview Experiences]
+### Post #385 — Dong Phuong Muoi Muoi [Interview Experiences]
 
 **Date:** Feb 24, 2024 at 12:04 PM
 
@@ -3878,7 +3870,7 @@ Pv này level nào hả b
 
 ---
 
-### Post #387 — TungDeTien24 [Interview Experiences]
+### Post #386 — TungDeTien24 [Interview Experiences]
 
 **Date:** Feb 24, 2024 at 9:22 PM
 
@@ -3886,7 +3878,7 @@ Bác rep hộp em xin thêm ít thông tin với
 
 ---
 
-### Post #388 — guenhiep [Interview Experiences]
+### Post #387 — guenhiep [Interview Experiences]
 
 **Date:** Feb 27, 2024 at 9:01 AM
 
@@ -3894,7 +3886,7 @@ Anh ơi em sắp phải phỏng vấn với rikkei anh cho em xin mấy câu h�
 
 ---
 
-### Post #389 — Duyenthangne [Interview Experiences]
+### Post #388 — Duyenthangne [Interview Experiences]
 
 **Date:** Feb 27, 2024 at 9:37 AM
 
@@ -3902,7 +3894,7 @@ này là level nào vậy bác
 
 ---
 
-### Post #390 — Dbeaver [Interview Experiences]
+### Post #389 — Dbeaver [Interview Experiences]
 
 **Date:** Feb 28, 2024 at 11:28 PM
 
@@ -3910,7 +3902,7 @@ Giờ kiếm job qua HR trên linkedin là chính hở các bác
 
 ---
 
-### Post #391 — Love U So Much [Interview Experiences]
+### Post #390 — Love U So Much [Interview Experiences]
 
 **Date:** Feb 29, 2024 at 9:30 AM
 
@@ -3918,7 +3910,7 @@ Cách này nó chủ động hơn việc gửi rồi scan CV, hr ở đâu cũng
 
 ---
 
-### Post #392 — ngx3009 [Interview Experiences]
+### Post #391 — ngx3009 [Interview Experiences]
 
 **Date:** Feb 29, 2024 at 7:49 PM
 
@@ -3926,7 +3918,7 @@ Có bác nào từng phỏng vấn vị trí database developer của mấy côn
 
 ---
 
-### Post #393 — DoiToi CoDon [Interview Experiences]
+### Post #392 — DoiToi CoDon [Interview Experiences]
 
 **Date:** Mar 1, 2024 at 2:06 PM
 
@@ -3934,7 +3926,7 @@ Có bác nào review giúp vòng technical cho vị trí fresher backend của O
 
 ---
 
-### Post #394 — Hàn.Tín [Interview Experiences]
+### Post #393 — Hàn.Tín [Interview Experiences]
 
 **Date:** Mar 9, 2024 at 6:37 AM
 
@@ -3942,7 +3934,7 @@ Có bác nào review giúp vòng technical cho vị trí fresher backend của O
 
 ---
 
-### Post #395 — sharkkaizer [Interview Experiences]
+### Post #394 — sharkkaizer [Interview Experiences]
 
 **Date:** Mar 9, 2024 at 2:07 PM
 
@@ -3955,7 +3947,7 @@ Kết quả pass mà đi làm được 3 tháng mình xin nghỉ vì không hợ
 
 ---
 
-### Post #396 — kangtk [Interview Experiences]
+### Post #395 — kangtk [Interview Experiences]
 
 **Date:** Mar 9, 2024 at 2:43 PM
 
@@ -3963,7 +3955,7 @@ Câu hỏi bóng bàn thấy nhiều công ty hỏi nhỉ. Mình thì hỏi cầ
 
 ---
 
-### Post #397 — sharkkaizer [Interview Experiences]
+### Post #396 — sharkkaizer [Interview Experiences]
 
 **Date:** Mar 9, 2024 at 3:21 PM
 
@@ -3971,7 +3963,7 @@ Chắc chủ yếu xem cách xác định vấn đề, tìm hiểu thêm edge ca
 
 ---
 
-### Post #398 — trinhtrang22 [Interview Experiences]
+### Post #397 — trinhtrang22 [Interview Experiences]
 
 **Date:** Mar 9, 2024 at 3:23 PM
 
@@ -3979,7 +3971,7 @@ Khong phai dau bac. Muon tra luong cao thi phai hoi kho de loai ung vien thoi.
 
 ---
 
-### Post #399 — hold_on_never_leave [Interview Experiences]
+### Post #398 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Mar 9, 2024 at 10:59 PM
 
@@ -3987,7 +3979,7 @@ văn hoá micro-management à my fen
 
 ---
 
-### Post #400 — Myriad [Interview Experiences]
+### Post #399 — Myriad [Interview Experiences]
 
 **Date:** Mar 10, 2024 at 6:37 PM
 
@@ -3995,7 +3987,7 @@ Câu bóng bàn này là sao các bác nhỉ ?
 
 ---
 
-### Post #401 — Chung Ly [Interview Experiences]
+### Post #400 — Chung Ly [Interview Experiences]
 
 **Date:** Mar 10, 2024 at 8:34 PM
 
@@ -4004,7 +3996,7 @@ cá nhân tôi thấy nó giống mấy ông lậm self-help, muốn dựa vào 
 
 ---
 
-### Post #402 — sharkkaizer [Interview Experiences]
+### Post #401 — sharkkaizer [Interview Experiences]
 
 **Date:** Mar 10, 2024 at 9:04 PM
 
@@ -4015,7 +4007,7 @@ Bạn có hỏi xem chiếc xe bus độ cao tầng với sàn, số ghế trên
 
 ---
 
-### Post #403 — DanielM [Interview Experiences]
+### Post #402 — DanielM [Interview Experiences]
 
 **Date:** Mar 14, 2024 at 1:01 PM
 
@@ -4023,7 +4015,7 @@ test multiple choices về toán, tiếng anh, linux, mạng máy tính, coding 
 
 ---
 
-### Post #404 — Hàn.Tín [Interview Experiences]
+### Post #403 — Hàn.Tín [Interview Experiences]
 
 **Date:** Mar 14, 2024 at 4:54 PM
 
@@ -4031,7 +4023,7 @@ Lạ thật, em vừa take bài test xong. Chỉ có 1 multiple choice và 5 câ
 
 ---
 
-### Post #405 — leptepkt [Interview Experiences]
+### Post #404 — leptepkt [Interview Experiences]
 
 **Date:** Mar 15, 2024 at 11:53 AM
 
@@ -4039,7 +4031,7 @@ leetcode rất khó mà 5 câu thì làm mất 5h à
 
 ---
 
-### Post #406 — Hàn.Tín [Interview Experiences]
+### Post #405 — Hàn.Tín [Interview Experiences]
 
 **Date:** Mar 15, 2024 at 12:07 PM
 
@@ -4047,7 +4039,7 @@ leetcode rất khó mà 5 câu thì làm mất 5h à
 
 ---
 
-### Post #407 — Dbeaver [Interview Experiences]
+### Post #406 — Dbeaver [Interview Experiences]
 
 **Date:** Mar 16, 2024 at 12:15 AM
 
@@ -4055,7 +4047,7 @@ mới đọc dc review của 1 ông trên gr fb
 
 ---
 
-### Post #408 — thapnhat111 [Interview Experiences]
+### Post #407 — thapnhat111 [Interview Experiences]
 
 **Date:** Mar 16, 2024 at 12:34 AM
 
@@ -4067,7 +4059,7 @@ còn độ tin cậy trust me bro mình cho 4/10
 
 ---
 
-### Post #409 — itachicitus [Interview Experiences]
+### Post #408 — itachicitus [Interview Experiences]
 
 **Date:** Mar 16, 2024 at 4:11 AM
 
@@ -4075,7 +4067,7 @@ còn độ tin cậy trust me bro mình cho 4/10
 
 ---
 
-### Post #410 — Ối Dồi Ôi ! [Interview Experiences]
+### Post #409 — Ối Dồi Ôi ! [Interview Experiences]
 
 **Date:** Mar 18, 2024 at 8:25 PM
 
@@ -4083,7 +4075,7 @@ Các bác phỏng vấn Junior Backend Golang ở OneMount, Sapo, GHTK cho e xin
 
 ---
 
-### Post #411 — Ối Dồi Ôi ! [Interview Experiences]
+### Post #410 — Ối Dồi Ôi ! [Interview Experiences]
 
 **Date:** Mar 18, 2024 at 8:54 PM
 
@@ -4091,7 +4083,7 @@ Junior Backend - Golang ạ
 
 ---
 
-### Post #412 — Dev xịn [Interview Experiences]
+### Post #411 — Dev xịn [Interview Experiences]
 
 **Date:** Mar 18, 2024 at 8:59 PM
 
@@ -4099,7 +4091,7 @@ Bác nào cho em xin review phỏng vấn Upskills, Paradox với ạ
 
 ---
 
-### Post #413 — chiyeuemthoi [Interview Experiences]
+### Post #412 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Mar 18, 2024 at 9:16 PM
 
@@ -4107,7 +4099,7 @@ bác cho em xin link tuyển dc k e kiếm ra mỗi GHTK
 
 ---
 
-### Post #414 — Ối Dồi Ôi ! [Interview Experiences]
+### Post #413 — Ối Dồi Ôi ! [Interview Experiences]
 
 **Date:** Mar 18, 2024 at 9:29 PM
 
@@ -4118,7 +4110,7 @@ itviec.com
 
 ---
 
-### Post #415 — How long will i love u [Interview Experiences]
+### Post #414 — How long will i love u [Interview Experiences]
 
 **Date:** Mar 18, 2024 at 10:47 PM
 
@@ -4126,7 +4118,7 @@ itviec.com
 
 ---
 
-### Post #416 — chiyeuemthoi [Interview Experiences]
+### Post #415 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Mar 18, 2024 at 11:51 PM
 
@@ -4134,7 +4126,7 @@ itviec.com
 
 ---
 
-### Post #417 — Ối Dồi Ôi ! [Interview Experiences]
+### Post #416 — Ối Dồi Ôi ! [Interview Experiences]
 
 **Date:** Mar 18, 2024 at 11:58 PM
 
@@ -4143,7 +4135,7 @@ Cứ apply đại đi thím. Để ý cả range lương nữa ấy
 
 ---
 
-### Post #418 — kp2101 [Interview Experiences]
+### Post #417 — kp2101 [Interview Experiences]
 
 **Date:** Mar 24, 2024 at 7:52 PM
 
@@ -4151,7 +4143,7 @@ Có bác nào phỏng vấn Starcamp NAB chưa ạ? Cho em xin chút review vớ
 
 ---
 
-### Post #419 — recca2007 [Interview Experiences]
+### Post #418 — recca2007 [Interview Experiences]
 
 **Date:** Mar 24, 2024 at 9:50 PM
 
@@ -4159,7 +4151,7 @@ Có bác nào thành công trong việc deal 2 công ty làm remote chưa ạ? C
 
 ---
 
-### Post #420 — recca2007 [Interview Experiences]
+### Post #419 — recca2007 [Interview Experiences]
 
 **Date:** Mar 25, 2024 at 8:53 AM
 
@@ -4167,7 +4159,7 @@ Check nộp thuế là ra mà bác
 
 ---
 
-### Post #421 — recca2007 [Interview Experiences]
+### Post #420 — recca2007 [Interview Experiences]
 
 **Date:** Mar 25, 2024 at 11:33 AM
 
@@ -4176,7 +4168,7 @@ Tax free theo mình hiểu là mình deal với cty đó không đóng thuế m�
 
 ---
 
-### Post #422 — recca2007 [Interview Experiences]
+### Post #421 — recca2007 [Interview Experiences]
 
 **Date:** Mar 25, 2024 at 2:18 PM
 
@@ -4184,7 +4176,7 @@ Vụ này mình không rành, cho hỏi bác có trang nào chuyên tuyển mấ
 
 ---
 
-### Post #423 — Moon.VHT [Interview Experiences]
+### Post #422 — Moon.VHT [Interview Experiences]
 
 **Date:** Mar 29, 2024 at 4:10 PM
 
@@ -4192,7 +4184,7 @@ bác nào pv Axon Active rồi cho e  xin ít kinh nghiệm với.
 
 ---
 
-### Post #424 — Dev cùi [Interview Experiences]
+### Post #423 — Dev cùi [Interview Experiences]
 
 **Date:** Apr 1, 2024 at 3:26 PM
 
@@ -4200,7 +4192,7 @@ bác nào pv Axon Active rồi cho e  xin ít kinh nghiệm với.
 
 ---
 
-### Post #425 — vietttttBau [Interview Experiences]
+### Post #424 — vietttttBau [Interview Experiences]
 
 **Date:** Apr 2, 2024 at 2:33 PM
 
@@ -4208,7 +4200,7 @@ bác pv thằng upskill chưa
 
 ---
 
-### Post #426 — hold_on_never_leave [Interview Experiences]
+### Post #425 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Apr 4, 2024 at 10:43 AM
 
@@ -4217,7 +4209,7 @@ fen ko có round codility trước khi process với HR à
 
 ---
 
-### Post #427 — hold_on_never_leave [Interview Experiences]
+### Post #426 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Apr 4, 2024 at 10:53 AM
 
@@ -4226,7 +4218,7 @@ nếu v fen process khác á, chứ theo tui biết là 1 round codility,xong pr
 
 ---
 
-### Post #428 — hold_on_never_leave [Interview Experiences]
+### Post #427 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Apr 4, 2024 at 11:21 AM
 
@@ -4234,7 +4226,7 @@ chắc là do thế r, codility h chỗ nào chả có, vào mấy round sau v�
 
 ---
 
-### Post #429 — Dbeaver [Interview Experiences]
+### Post #428 — Dbeaver [Interview Experiences]
 
 **Date:** Apr 7, 2024 at 6:54 PM
 
@@ -4243,7 +4235,7 @@ https://www.facebook.com/video.php?v=957569905736991
 
 ---
 
-### Post #430 — Dev xịn [Interview Experiences]
+### Post #429 — Dev xịn [Interview Experiences]
 
 **Date:** Apr 7, 2024 at 7:01 PM
 
@@ -4251,7 +4243,7 @@ Pv sao rồi bác, ổn không
 
 ---
 
-### Post #431 — Momo03 [Interview Experiences]
+### Post #430 — Momo03 [Interview Experiences]
 
 **Date:** Apr 8, 2024 at 1:00 PM
 
@@ -4259,7 +4251,7 @@ Có bác nào đã pv DE với Employment Hero cho em xin ít kn với
 
 ---
 
-### Post #432 — pbq2401 [Interview Experiences]
+### Post #431 — pbq2401 [Interview Experiences]
 
 **Date:** Apr 10, 2024 at 10:48 AM
 
@@ -4267,7 +4259,7 @@ cho em hỏi là trong CV thì mình những công nghệ của dự án thì m�
 
 ---
 
-### Post #433 — Vim chà bồn cầu [Interview Experiences]
+### Post #432 — Vim chà bồn cầu [Interview Experiences]
 
 **Date:** Apr 10, 2024 at 11:36 AM
 
@@ -4275,7 +4267,7 @@ thường chỉ ghi cái j đó mà mình làm. VD như dự án xài native jav
 
 ---
 
-### Post #434 — sieutiendao [Interview Experiences]
+### Post #433 — sieutiendao [Interview Experiences]
 
 **Date:** Apr 11, 2024 at 8:42 AM
 
@@ -4283,7 +4275,7 @@ Có Bác nào PV Software engineer Vietinbank đợt 4 chưa ạ.
 
 ---
 
-### Post #435 — Joseph Hoa [Interview Experiences]
+### Post #434 — Joseph Hoa [Interview Experiences]
 
 **Date:** Apr 12, 2024 at 9:49 AM
 
@@ -4291,7 +4283,7 @@ fen cho tui hỏi, vòng 2 là phỏng vấn về gì vậy, tui t2 pv vòng 2
 
 ---
 
-### Post #436 — MeoVuiVe9121 [Interview Experiences]
+### Post #435 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Apr 12, 2024 at 10:21 AM
 
@@ -4299,7 +4291,7 @@ Có ghi là tạch vòng 2 mà friend, friend vào được vòng 2 thì chúc m
 
 ---
 
-### Post #437 — thuypt [Interview Experiences]
+### Post #436 — thuypt [Interview Experiences]
 
 **Date:** Apr 12, 2024 at 11:44 AM
 
@@ -4307,7 +4299,7 @@ bác đã đi làm chưa ạ, cho em xin review cty với
 
 ---
 
-### Post #438 — Namvh21 [Interview Experiences]
+### Post #437 — Namvh21 [Interview Experiences]
 
 **Date:** Apr 12, 2024 at 11:57 PM
 
@@ -4316,7 +4308,7 @@ Cho em xin ít kinh nghiệm với
 
 ---
 
-### Post #439 — nguyenkhaclong [Interview Experiences]
+### Post #438 — nguyenkhaclong [Interview Experiences]
 
 **Date:** Apr 14, 2024 at 12:35 AM
 
@@ -4324,7 +4316,7 @@ bác đã phỏng vấn intern vị trí này như nào ạ, share 1 tí đượ
 
 ---
 
-### Post #440 — supersoap97 [Interview Experiences]
+### Post #439 — supersoap97 [Interview Experiences]
 
 **Date:** Apr 22, 2024 at 9:34 PM
 
@@ -4332,7 +4324,7 @@ Bác pv vị trí gì đấy
 
 ---
 
-### Post #441 — alittleproductowner [Interview Experiences]
+### Post #440 — alittleproductowner [Interview Experiences]
 
 **Date:** Apr 23, 2024 at 3:18 PM
 
@@ -4340,7 +4332,7 @@ Có ai làm bài test Product Owner round 1 của Orange Logic chưa ạ cho em 
 
 ---
 
-### Post #442 — nammegai [Interview Experiences]
+### Post #441 — nammegai [Interview Experiences]
 
 **Date:** Apr 23, 2024 at 4:09 PM
 
@@ -4348,7 +4340,7 @@ Các bác cho em hỏi English test của NAB starcamp người ta hỏi gì
 
 ---
 
-### Post #443 — greentealatte2105 [Interview Experiences]
+### Post #442 — greentealatte2105 [Interview Experiences]
 
 **Date:** Apr 23, 2024 at 6:32 PM
 
@@ -4356,7 +4348,7 @@ có bác nào pv fresher java developer ở inspire lab chưa nhỉ? Cho em xin 
 
 ---
 
-### Post #444 — devbet [Interview Experiences]
+### Post #443 — devbet [Interview Experiences]
 
 **Date:** Apr 24, 2024 at 6:53 PM
 
@@ -4364,7 +4356,7 @@ Hình như ko có review pv của VNG trên đây luôn phải ko các bác. Tì
 
 ---
 
-### Post #445 — greentealatte2105 [Interview Experiences]
+### Post #444 — greentealatte2105 [Interview Experiences]
 
 **Date:** Apr 26, 2024 at 6:05 PM
 
@@ -4372,7 +4364,7 @@ Cho em hỏi bác apply Level nào vậy bác?
 
 ---
 
-### Post #446 — thapnhat111 [Interview Experiences]
+### Post #445 — thapnhat111 [Interview Experiences]
 
 **Date:** Apr 26, 2024 at 6:18 PM
 
@@ -4381,7 +4373,7 @@ Có thì hơi mệt cho bác đó nhen
 
 ---
 
-### Post #447 — devquenok [Interview Experiences]
+### Post #446 — devquenok [Interview Experiences]
 
 **Date:** Apr 26, 2024 at 6:22 PM
 
@@ -4390,7 +4382,7 @@ Thằng naver này pv cũng không dễ, process cũng lâu, mà bạn đến ro
 
 ---
 
-### Post #448 — Lovevietnam_Forever [Interview Experiences]
+### Post #447 — Lovevietnam_Forever [Interview Experiences]
 
 **Date:** Apr 26, 2024 at 9:33 PM
 
@@ -4398,7 +4390,7 @@ e đang tìm ứng viên C++ ở Hà Nội & Đà Nẵng. Bác nào có hơn 1 n
 
 ---
 
-### Post #449 — xSugarKingx [Interview Experiences]
+### Post #448 — xSugarKingx [Interview Experiences]
 
 **Date:** Apr 27, 2024 at 12:04 AM
 
@@ -4406,7 +4398,7 @@ Mình cũng như bác là năm ngoái cũng pending, năm thì may mắn hơn c�
 
 ---
 
-### Post #450 — sjk013 [Interview Experiences]
+### Post #449 — sjk013 [Interview Experiences]
 
 **Date:** Apr 27, 2024 at 9:13 AM
 
@@ -4414,7 +4406,7 @@ k bác ạ, e bên fe có đề làm giao diện nên ngta còn cho tải đề 
 
 ---
 
-### Post #451 — xSugarKingx [Interview Experiences]
+### Post #450 — xSugarKingx [Interview Experiences]
 
 **Date:** Apr 27, 2024 at 9:23 AM
 
@@ -4427,7 +4419,7 @@ V3: Gặp CEO, CTO người Hàn
 
 ---
 
-### Post #452 — luiz [Interview Experiences]
+### Post #451 — luiz [Interview Experiences]
 
 **Date:** Apr 27, 2024 at 9:38 AM
 
@@ -4435,7 +4427,7 @@ Naver Sài Gòn à thím, k thấy Naver HN tuyển BE nhỉ
 
 ---
 
-### Post #453 — xSugarKingx [Interview Experiences]
+### Post #452 — xSugarKingx [Interview Experiences]
 
 **Date:** Apr 27, 2024 at 11:12 AM
 
@@ -4443,7 +4435,7 @@ Vâng bác, mình thấy HCM đang scale nên đang tuyển nhiều
 
 ---
 
-### Post #454 — luiz [Interview Experiences]
+### Post #453 — luiz [Interview Experiences]
 
 **Date:** Apr 29, 2024 at 4:28 PM
 
@@ -4451,7 +4443,7 @@ Line HN thấy tuyển rồi, chắc sắp tới lượt naver , có thím nào 
 
 ---
 
-### Post #455 — Momo03 [Interview Experiences]
+### Post #454 — Momo03 [Interview Experiences]
 
 **Date:** May 2, 2024 at 4:19 PM
 
@@ -4459,7 +4451,7 @@ Bác nào phỏng vấn Tyme rồi cho mình xin thông tin với
 
 ---
 
-### Post #456 — greentealatte2105 [Interview Experiences]
+### Post #455 — greentealatte2105 [Interview Experiences]
 
 **Date:** May 6, 2024 at 5:52 PM
 
@@ -4467,7 +4459,7 @@ Cho em hỏi bác nào PV bên true platform chưa ạ?
 
 ---
 
-### Post #457 — Vị thầy tu cầm khẩu AK [Interview Experiences]
+### Post #456 — Vị thầy tu cầm khẩu AK [Interview Experiences]
 
 **Date:** May 7, 2024 at 9:39 PM
 
@@ -4478,7 +4470,7 @@ github.com
 
 ---
 
-### Post #458 — Phan Đình Giót [Interview Experiences]
+### Post #457 — Phan Đình Giót [Interview Experiences]
 
 **Date:** May 8, 2024 at 7:51 AM
 
@@ -4486,7 +4478,7 @@ Có bác nào pvan Global Fashion Group chưa ạ, cho e xin ít review
 
 ---
 
-### Post #459 — darkrose1 [Interview Experiences]
+### Post #458 — darkrose1 [Interview Experiences]
 
 **Date:** May 9, 2024 at 11:52 AM
 
@@ -4495,7 +4487,7 @@ giờ muốn sang phỏng vấn BE nodejs thì viết thêm project cá nhân v�
 
 ---
 
-### Post #460 — JinggeNt [Interview Experiences]
+### Post #459 — JinggeNt [Interview Experiences]
 
 **Date:** May 9, 2024 at 12:59 PM
 
@@ -4503,7 +4495,7 @@ Có bác nào phỏng vấn .NET ở OPSWAT rồi cho em xin ít kinh nghiệm v
 
 ---
 
-### Post #461 — nammegai [Interview Experiences]
+### Post #460 — nammegai [Interview Experiences]
 
 **Date:** May 9, 2024 at 10:05 PM
 
@@ -4511,7 +4503,7 @@ có bác nào starcamp batch6 của Nab có kết quả chưa ạ, mấy r
 
 ---
 
-### Post #462 — Lại ngứa chân [Interview Experiences]
+### Post #461 — Lại ngứa chân [Interview Experiences]
 
 **Date:** May 10, 2024 at 1:37 PM
 
@@ -4519,7 +4511,7 @@ Tiếng Việt nghen. Trừ khi pv vô mấy vị trí mà làm ở APAC hay b�
 
 ---
 
-### Post #463 — kevion [Interview Experiences]
+### Post #462 — kevion [Interview Experiences]
 
 **Date:** May 10, 2024 at 8:33 PM
 
@@ -4527,7 +4519,7 @@ có offer hết r bác ơi
 
 ---
 
-### Post #464 — darkrose1 [Interview Experiences]
+### Post #463 — darkrose1 [Interview Experiences]
 
 **Date:** May 10, 2024 at 10:06 PM
 
@@ -4535,7 +4527,7 @@ có web nào cũng chia sẻ case phỏng vấn như thread này k các bác nh�
 
 ---
 
-### Post #465 — Dev xịn [Interview Experiences]
+### Post #464 — Dev xịn [Interview Experiences]
 
 **Date:** May 10, 2024 at 10:10 PM
 
@@ -4543,7 +4535,7 @@ glassdoor, nhưng cũng không chi tiết bằng trên đây, bù lại đa dạ
 
 ---
 
-### Post #466 — Mỹ Chu Lang [Interview Experiences]
+### Post #465 — Mỹ Chu Lang [Interview Experiences]
 
 **Date:** May 10, 2024 at 11:03 PM
 
@@ -4551,7 +4543,7 @@ mấy bác cho em xin review phỏng vấn fresher .NET ở KMS với ạ, cảm
 
 ---
 
-### Post #467 — Kiosolo [Interview Experiences]
+### Post #466 — Kiosolo [Interview Experiences]
 
 **Date:** May 11, 2024 at 8:42 AM
 
@@ -4563,7 +4555,7 @@ Thanks all
 
 ---
 
-### Post #468 — darkrose1 [Interview Experiences]
+### Post #467 — darkrose1 [Interview Experiences]
 
 **Date:** May 12, 2024 at 2:56 PM
 
@@ -4571,7 +4563,7 @@ kiếm job thì apply trên mấy jd trên linkedin hay kiếm HR công ty đó 
 
 ---
 
-### Post #469 — JinggeNt [Interview Experiences]
+### Post #468 — JinggeNt [Interview Experiences]
 
 **Date:** May 12, 2024 at 11:51 PM
 
@@ -4579,7 +4571,7 @@ Fsoft thì tuỳ vị trí. Cơ bản là cũng OOP, design pattern, kinh nghi�
 
 ---
 
-### Post #470 — BadCoder [Interview Experiences]
+### Post #469 — BadCoder [Interview Experiences]
 
 **Date:** May 13, 2024 at 7:50 AM
 
@@ -4589,7 +4581,7 @@ Fsoft thì tuỳ vị trí. Cơ bản là cũng OOP, design pattern, kinh nghi�
 
 ---
 
-### Post #471 — tiencua48651 [Interview Experiences]
+### Post #470 — tiencua48651 [Interview Experiences]
 
 **Date:** May 13, 2024 at 4:22 PM
 
@@ -4597,7 +4589,7 @@ Em vừa apply Junior Java qua vòng 1 Technical được thông báo là vào v
 
 ---
 
-### Post #472 — darkrose1 [Interview Experiences]
+### Post #471 — darkrose1 [Interview Experiences]
 
 **Date:** May 13, 2024 at 6:56 PM
 
@@ -4606,7 +4598,7 @@ eng hay vn
 
 ---
 
-### Post #473 — tiencua48651 [Interview Experiences]
+### Post #472 — tiencua48651 [Interview Experiences]
 
 **Date:** May 13, 2024 at 7:16 PM
 
@@ -4614,7 +4606,7 @@ tiếng việt bác, em apply java dev nên ngoài oop, design pattern thì hỏ
 
 ---
 
-### Post #474 — JinggeNt [Interview Experiences]
+### Post #473 — JinggeNt [Interview Experiences]
 
 **Date:** May 15, 2024 at 2:30 PM
 
@@ -4622,7 +4614,7 @@ Mấy bác cho em xin kinh nghiệm phỏng vấn Fresher .NET ở KMS được 
 
 ---
 
-### Post #475 — Mỹ Chu Lang [Interview Experiences]
+### Post #474 — Mỹ Chu Lang [Interview Experiences]
 
 **Date:** May 15, 2024 at 2:52 PM
 
@@ -4631,7 +4623,7 @@ btw bác cho em xin review phỏng vấn ở OPSWAT với, em apply mà không t
 
 ---
 
-### Post #476 — JinggeNt [Interview Experiences]
+### Post #475 — JinggeNt [Interview Experiences]
 
 **Date:** May 15, 2024 at 11:27 PM
 
@@ -4639,7 +4631,7 @@ Phỏng vấn 2 vòng. Vòng 1 tech vòng 2 lương. Mà có vẻ mình ko hợp
 
 ---
 
-### Post #477 — test_username [Interview Experiences]
+### Post #476 — test_username [Interview Experiences]
 
 **Date:** May 16, 2024 at 1:29 PM
 
@@ -4647,7 +4639,7 @@ Bác nào phỏng vấn intern NodeJS tại VMO chưa ạ, cho em xin review đ�
 
 ---
 
-### Post #478 — chaulinh [Interview Experiences]
+### Post #477 — chaulinh [Interview Experiences]
 
 **Date:** May 23, 2024 at 4:04 PM
 
@@ -4656,7 +4648,7 @@ bác đang làm N à
 
 ---
 
-### Post #479 — luiz [Interview Experiences]
+### Post #478 — luiz [Interview Experiences]
 
 **Date:** May 23, 2024 at 5:46 PM
 
@@ -4664,7 +4656,7 @@ K thím, mình đợi apply Naver HN thôi, những thấy chỉ tuyển FE @@
 
 ---
 
-### Post #480 — chaulinh [Interview Experiences]
+### Post #479 — chaulinh [Interview Experiences]
 
 **Date:** May 23, 2024 at 6:10 PM
 
@@ -4672,7 +4664,7 @@ Naver HN em có thấy tuyển FE nữa đâu nhỉ @@ cũng đang muốn apply 
 
 ---
 
-### Post #481 — luiz [Interview Experiences]
+### Post #480 — luiz [Interview Experiences]
 
 **Date:** May 23, 2024 at 7:04 PM
 
@@ -4680,7 +4672,7 @@ Job HN tháng trước thấy, giờ đóng rồi,
 
 ---
 
-### Post #482 — JinggeNt [Interview Experiences]
+### Post #481 — JinggeNt [Interview Experiences]
 
 **Date:** May 23, 2024 at 9:08 PM
 
@@ -4688,7 +4680,7 @@ Trao đổi phone call nói chuyện bình thường thôi. Sẽ có 1 vòng ph�
 
 ---
 
-### Post #483 — luiz [Interview Experiences]
+### Post #482 — luiz [Interview Experiences]
 
 **Date:** May 24, 2024 at 9:02 AM
 
@@ -4696,7 +4688,7 @@ Thấy mở lại job HCM-HN r này
 
 ---
 
-### Post #484 — minhmssi [Interview Experiences]
+### Post #483 — minhmssi [Interview Experiences]
 
 **Date:** May 25, 2024 at 8:54 AM
 
@@ -4705,7 +4697,7 @@ Có review chưa bác
 
 ---
 
-### Post #485 — darkrose1 [Interview Experiences]
+### Post #484 — darkrose1 [Interview Experiences]
 
 **Date:** May 29, 2024 at 8:03 PM
 
@@ -4713,7 +4705,7 @@ Có review chưa bác
 
 ---
 
-### Post #486 — JinggeNt [Interview Experiences]
+### Post #485 — JinggeNt [Interview Experiences]
 
 **Date:** May 29, 2024 at 8:51 PM
 
@@ -4721,7 +4713,7 @@ Cái này là bình thường mà. Bình thường ko hợp culture fit còn cho
 
 ---
 
-### Post #487 — test_username [Interview Experiences]
+### Post #486 — test_username [Interview Experiences]
 
 **Date:** Jun 2, 2024 at 4:27 AM
 
@@ -4729,7 +4721,7 @@ Bác nào phỏng vấn Fresher Software Engineer của True Platform chưa ạ 
 
 ---
 
-### Post #488 — MeoVuiVe9121 [Interview Experiences]
+### Post #487 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Jun 5, 2024 at 3:59 PM
 
@@ -4737,7 +4729,7 @@ Xoay quanh phần ngữ pháp thím, kiểu kiểu bài kiểm tra cấp 3 vậy
 
 ---
 
-### Post #489 — hicup00 [Interview Experiences]
+### Post #488 — hicup00 [Interview Experiences]
 
 **Date:** Jun 5, 2024 at 7:04 PM
 
@@ -4745,7 +4737,7 @@ Có test gì không bác
 
 ---
 
-### Post #490 — MonsieurOh [Interview Experiences]
+### Post #489 — MonsieurOh [Interview Experiences]
 
 **Date:** Jun 6, 2024 at 5:58 PM
 
@@ -4753,7 +4745,7 @@ Bài writing 10 phút đúng không bác, bác cho e hỏi chủ đề của nó
 
 ---
 
-### Post #491 — MeoVuiVe9121 [Interview Experiences]
+### Post #490 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Jun 6, 2024 at 6:08 PM
 
@@ -4761,7 +4753,7 @@ Nhớ không lầm thì là về quá trình mình trải qua khi chơi game bá
 
 ---
 
-### Post #492 — Hạ Thảo [Interview Experiences]
+### Post #491 — Hạ Thảo [Interview Experiences]
 
 **Date:** Jun 7, 2024 at 3:46 PM
 
@@ -4769,7 +4761,7 @@ phỏng vấn sao rồi bạn ơi, bạn cho mình xin tí review với ạ
 
 ---
 
-### Post #493 — papillontheminions [Interview Experiences]
+### Post #492 — papillontheminions [Interview Experiences]
 
 **Date:** Jun 8, 2024 at 12:57 PM
 
@@ -4777,7 +4769,7 @@ Có bạn nào phỏng vấn android ở axon active (sân bay) cho mình xin t�
 
 ---
 
-### Post #494 — javadev [Interview Experiences]
+### Post #493 — javadev [Interview Experiences]
 
 **Date:** Jun 11, 2024 at 5:09 PM
 
@@ -4785,7 +4777,7 @@ Bác nào pv One Mount chưa cho mình xin review với
 
 ---
 
-### Post #495 — Diệp Vô Ưu [Interview Experiences]
+### Post #494 — Diệp Vô Ưu [Interview Experiences]
 
 **Date:** Jun 16, 2024 at 3:47 PM
 
@@ -4793,7 +4785,7 @@ dạo này các bác apply ở linkedin à
 
 ---
 
-### Post #496 — siunhanvjppro [Interview Experiences]
+### Post #495 — siunhanvjppro [Interview Experiences]
 
 **Date:** Jul 2, 2024 at 10:26 AM
 
@@ -4802,7 +4794,7 @@ Mọi người cho em hỏi có ai từng phỏng vấn vị trí Fresher Softwa
 
 ---
 
-### Post #497 — kidbumz [Interview Experiences]
+### Post #496 — kidbumz [Interview Experiences]
 
 **Date:** Jul 2, 2024 at 3:40 PM
 
@@ -4810,7 +4802,7 @@ mình xin ít kinh nghiệp pv VPBank cho senior Java với các bác
 
 ---
 
-### Post #498 — JinggeNt [Interview Experiences]
+### Post #497 — JinggeNt [Interview Experiences]
 
 **Date:** Jul 2, 2024 at 4:13 PM
 
@@ -4818,7 +4810,7 @@ Theo kn của mình thì thường là 1, 2 câu leetcode easy - medium, OOP, ba
 
 ---
 
-### Post #499 — Dr kine [Interview Experiences]
+### Post #498 — Dr kine [Interview Experiences]
 
 **Date:** Jul 2, 2024 at 9:40 PM
 
@@ -4826,7 +4818,7 @@ Bác pv ở đây chưa cho em xin review với, pv mấy round vậy bác
 
 ---
 
-### Post #500 — MeoVuiVe9121 [Interview Experiences]
+### Post #499 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Jul 3, 2024 at 12:37 PM
 
@@ -4834,7 +4826,7 @@ Lúc phỏng vấn hay bài test bác
 
 ---
 
-### Post #501 — ankeongonthe [Interview Experiences]
+### Post #500 — ankeongonthe [Interview Experiences]
 
 **Date:** Jul 3, 2024 at 6:41 PM
 
@@ -4842,7 +4834,7 @@ Nếu được thì cả 2 luôn nha bác, cảm ơn bác nhiều. Tại mình c
 
 ---
 
-### Post #502 — MeoVuiVe9121 [Interview Experiences]
+### Post #501 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Jul 3, 2024 at 7:27 PM
 
@@ -4850,7 +4842,7 @@ Bài test 2 phần, 1 phần là bài kiểm tra ngữ pháp, situation na ná c
 
 ---
 
-### Post #503 — nghihoang [Interview Experiences]
+### Post #502 — nghihoang [Interview Experiences]
 
 **Date:** Jul 10, 2024 at 11:02 AM
 
@@ -4859,7 +4851,7 @@ Ai phỏng vấn java ở VNPAY đợt này cho e xin ít review được không
 
 ---
 
-### Post #504 — mrt2403 [Interview Experiences]
+### Post #503 — mrt2403 [Interview Experiences]
 
 **Date:** Jul 13, 2024 at 8:15 PM
 
@@ -4867,7 +4859,7 @@ anh/chị nào làm technical test (java, pl/sql, db design) ở Openway rồi c
 
 ---
 
-### Post #505 — vozerbanpho [Interview Experiences]
+### Post #504 — vozerbanpho [Interview Experiences]
 
 **Date:** Jul 13, 2024 at 8:23 PM
 
@@ -4875,7 +4867,7 @@ Phỏng vấn schedule là 1h30 mà mới 1h đã xong là tín hiệu tạch ca
 
 ---
 
-### Post #506 — thapnhat111 [Interview Experiences]
+### Post #505 — thapnhat111 [Interview Experiences]
 
 **Date:** Jul 13, 2024 at 8:27 PM
 
@@ -4883,7 +4875,7 @@ note thêm thông tin gì của ndung cuộc nchuyen để bác nghĩ tạch cao
 
 ---
 
-### Post #507 — vozerbanpho [Interview Experiences]
+### Post #506 — vozerbanpho [Interview Experiences]
 
 **Date:** Jul 13, 2024 at 8:44 PM
 
@@ -4894,7 +4886,7 @@ Bình thường các bác vozer level cao đi phỏng vấn có skip những ph�
 
 ---
 
-### Post #508 — thapnhat111 [Interview Experiences]
+### Post #507 — thapnhat111 [Interview Experiences]
 
 **Date:** Jul 13, 2024 at 9:01 PM
 
@@ -4902,7 +4894,7 @@ chà technical k hỏi thì hơi căng,phần project đã làm bác có nói h�
 
 ---
 
-### Post #509 — vozerbanpho [Interview Experiences]
+### Post #508 — vozerbanpho [Interview Experiences]
 
 **Date:** Jul 18, 2024 at 1:56 PM
 
@@ -4910,7 +4902,7 @@ Mình pass round 1 techinical luôn rùi bác, đang chờ round 2 với manager
 
 ---
 
-### Post #510 — Diệp Vô Ưu [Interview Experiences]
+### Post #509 — Diệp Vô Ưu [Interview Experiences]
 
 **Date:** Jul 20, 2024 at 12:09 PM
 
@@ -4918,7 +4910,7 @@ Java spring 3yoe thì phỏng vấn thường hỏi gì vậy các bác
 
 ---
 
-### Post #511 — teeeeeeeee [Interview Experiences]
+### Post #510 — teeeeeeeee [Interview Experiences]
 
 **Date:** Jul 22, 2024 at 9:52 PM
 
@@ -4948,7 +4940,7 @@ Nói chung thì Naver vẫn chưa có kq chính thức cho mình nhưng mình kh
 
 ---
 
-### Post #512 — darkrose1 [Interview Experiences]
+### Post #511 — darkrose1 [Interview Experiences]
 
 **Date:** Jul 22, 2024 at 9:55 PM
 
@@ -4956,7 +4948,7 @@ MFE là micro front end à fen
 
 ---
 
-### Post #513 — Violet_7 [Interview Experiences]
+### Post #512 — Violet_7 [Interview Experiences]
 
 **Date:** Jul 22, 2024 at 10:54 PM
 
@@ -4965,7 +4957,7 @@ Một cty khác to tổ bố cx tên N 3 chữ thì apply MFE
 
 ---
 
-### Post #514 — teeeeeeeee [Interview Experiences]
+### Post #513 — teeeeeeeee [Interview Experiences]
 
 **Date:** Jul 22, 2024 at 10:58 PM
 
@@ -4974,7 +4966,7 @@ Dựa vào điểm xấu để đánh giá nguyên một mặt bằng chung củ
 
 ---
 
-### Post #515 — kangtk [Interview Experiences]
+### Post #514 — kangtk [Interview Experiences]
 
 **Date:** Jul 22, 2024 at 11:28 PM
 
@@ -4982,7 +4974,7 @@ Trong mấy người việt có ai tên Hoàng không bạn
 
 ---
 
-### Post #516 — teeeeeeeee [Interview Experiences]
+### Post #515 — teeeeeeeee [Interview Experiences]
 
 **Date:** Jul 22, 2024 at 11:31 PM
 
@@ -4990,7 +4982,7 @@ Không thím, nhưng tất cả người Việt trong Naver mà phỏng vấn m�
 
 ---
 
-### Post #517 — freedom.9 [Interview Experiences]
+### Post #516 — freedom.9 [Interview Experiences]
 
 **Date:** Aug 4, 2024 at 12:44 AM
 
@@ -4998,7 +4990,7 @@ Mấy thằng Hàn chắc kiểu khinh mấy nước như VN, chứ đem ra làm
 
 ---
 
-### Post #518 — h_ngyn [Interview Experiences]
+### Post #517 — h_ngyn [Interview Experiences]
 
 **Date:** Aug 7, 2024 at 9:32 AM
 
@@ -5021,7 +5013,7 @@ Về cảm quan thì mình đánh giá là phỏng vấn không quá khó, nhưn
 
 ---
 
-### Post #519 — bibabibover1 [Interview Experiences]
+### Post #518 — bibabibover1 [Interview Experiences]
 
 **Date:** Aug 7, 2024 at 10:13 AM
 
@@ -5029,7 +5021,7 @@ Về cảm quan thì mình đánh giá là phỏng vấn không quá khó, nhưn
 
 ---
 
-### Post #520 — minhmoon [Interview Experiences]
+### Post #519 — minhmoon [Interview Experiences]
 
 **Date:** Aug 7, 2024 at 1:40 PM
 
@@ -5037,7 +5029,7 @@ Nộp qua Amazon Jobs mà được process chắc profile bác phải có gì đ
 
 ---
 
-### Post #521 — small-lambda [Interview Experiences]
+### Post #520 — small-lambda [Interview Experiences]
 
 **Date:** Aug 7, 2024 at 2:21 PM
 
@@ -5045,7 +5037,7 @@ nó thấy giống lòng tham đeo mặt nạ người, nên nó phải hỏi đ
 
 ---
 
-### Post #522 — hiraki_ryo [Interview Experiences]
+### Post #521 — hiraki_ryo [Interview Experiences]
 
 **Date:** Aug 8, 2024 at 2:57 PM
 
@@ -5053,7 +5045,7 @@ Giờ refer không có tác dụng gì đâu vì ai cũng qua refer hết. Từ 
 
 ---
 
-### Post #523 — Goatcr7 [Interview Experiences]
+### Post #522 — Goatcr7 [Interview Experiences]
 
 **Date:** Aug 8, 2024 at 4:17 PM
 
@@ -5061,7 +5053,7 @@ Giờ refer không có tác dụng gì đâu vì ai cũng qua refer hết. Từ 
 
 ---
 
-### Post #524 — MeoVuiVe9121 [Interview Experiences]
+### Post #523 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Aug 8, 2024 at 4:49 PM
 
@@ -5069,7 +5061,7 @@ Bài viết tiếng Anh thì sẽ cho 1 chủ đề cho sẵn (không biết cá
 
 ---
 
-### Post #525 — Goatcr7 [Interview Experiences]
+### Post #524 — Goatcr7 [Interview Experiences]
 
 **Date:** Aug 8, 2024 at 5:17 PM
 
@@ -5077,7 +5069,7 @@ Vâng ạ e cám ơn a nhiều nhé
 
 ---
 
-### Post #526 — nguyennguyen012 [Interview Experiences]
+### Post #525 — nguyennguyen012 [Interview Experiences]
 
 **Date:** Aug 9, 2024 at 1:26 AM
 
@@ -5085,7 +5077,7 @@ Cho mình hỏi bài viết bằng tiếng Anh là chủ đề gì và vòng 2 l
 
 ---
 
-### Post #527 — nguyennguyen012 [Interview Experiences]
+### Post #526 — nguyennguyen012 [Interview Experiences]
 
 **Date:** Aug 9, 2024 at 1:28 AM
 
@@ -5093,7 +5085,7 @@ Cho mình hỏi bài viết tiếng Anh về chủ đề gì và vòng 2 phỏng
 
 ---
 
-### Post #528 — hondaracing [Interview Experiences]
+### Post #527 — hondaracing [Interview Experiences]
 
 **Date:** Aug 9, 2024 at 8:53 AM
 
@@ -5101,7 +5093,7 @@ Có bác nào từng pv Supercoder chưa nhỉ. Cho e xin review về vòng tech
 
 ---
 
-### Post #529 — MeoVuiVe9121 [Interview Experiences]
+### Post #528 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Aug 9, 2024 at 9:38 AM
 
@@ -5109,7 +5101,7 @@ Bác check các reply trước là có. Còn vòng 2 mình tạch, nhưng chắc
 
 ---
 
-### Post #530 — dinhson2212 [Interview Experiences]
+### Post #529 — dinhson2212 [Interview Experiences]
 
 **Date:** Aug 9, 2024 at 1:42 PM
 
@@ -5117,7 +5109,7 @@ culture fit vẫn tạch được à bác
 
 ---
 
-### Post #531 — MeoVuiVe9121 [Interview Experiences]
+### Post #530 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Aug 9, 2024 at 2:24 PM
 
@@ -5125,7 +5117,7 @@ Mình tạch vòng 1 bác: Bài test với phỏng vấn.
 
 ---
 
-### Post #532 — nguyennguyen012 [Interview Experiences]
+### Post #531 — nguyennguyen012 [Interview Experiences]
 
 **Date:** Aug 9, 2024 at 7:22 PM
 
@@ -5133,7 +5125,7 @@ Có hỏi sâu về technical không bác. Tại mình trái ngành á
 
 ---
 
-### Post #533 — MeoVuiVe9121 [Interview Experiences]
+### Post #532 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Aug 9, 2024 at 8:30 PM
 
@@ -5141,7 +5133,7 @@ Không hỏi nhiều về techical bác. Nhìn vào CV của mình, hỏi về d
 
 ---
 
-### Post #534 — depcuibap [Interview Experiences]
+### Post #533 — depcuibap [Interview Experiences]
 
 **Date:** Aug 10, 2024 at 1:20 PM
 
@@ -5151,7 +5143,7 @@ công ty sẽ đánh giá như nào nếu ứng viên có làm một số dự �
 
 ---
 
-### Post #535 — nguyennguyen012 [Interview Experiences]
+### Post #534 — nguyennguyen012 [Interview Experiences]
 
 **Date:** Aug 18, 2024 at 11:32 AM
 
@@ -5159,7 +5151,7 @@ Lúc pv vòng 1 có deal lương à bác. Bác pv vòng 2 như nào
 
 ---
 
-### Post #536 — MeoVuiVe9121 [Interview Experiences]
+### Post #535 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Aug 18, 2024 at 12:07 PM
 
@@ -5167,7 +5159,7 @@ Vòng 2 mới deal lương bác, mà tạch vòng 1 rồi
 
 ---
 
-### Post #537 — havorx [Interview Experiences]
+### Post #536 — havorx [Interview Experiences]
 
 **Date:** Aug 21, 2024 at 5:14 PM
 
@@ -5175,7 +5167,7 @@ Có ai process với shopback gần đây không em xin ít review với
 
 ---
 
-### Post #538 — JeremyX2X [Interview Experiences]
+### Post #537 — JeremyX2X [Interview Experiences]
 
 **Date:** Aug 21, 2024 at 8:49 PM
 
@@ -5183,7 +5175,7 @@ Có bác nào phỏng vấn FrontEnd Engineer ở Vinfast chưa ? Cho e xin ít 
 
 ---
 
-### Post #539 — caothuphu2013 [Interview Experiences]
+### Post #538 — caothuphu2013 [Interview Experiences]
 
 **Date:** Aug 21, 2024 at 10:53 PM
 
@@ -5191,7 +5183,7 @@ Có bác nào phỏng vấn FrontEnd Engineer ở Vinfast chưa ? Cho e xin ít 
 
 ---
 
-### Post #540 — Justabi [Interview Experiences]
+### Post #539 — Justabi [Interview Experiences]
 
 **Date:** Aug 22, 2024 at 2:47 PM
 
@@ -5199,7 +5191,7 @@ Pv sao rồi bác, cho tui xin review vớiii
 
 ---
 
-### Post #541 — JinggeNt [Interview Experiences]
+### Post #540 — JinggeNt [Interview Experiences]
 
 **Date:** Aug 22, 2024 at 3:20 PM
 
@@ -5207,7 +5199,7 @@ Pv sao rồi bác, cho tui xin review vớiii
 
 ---
 
-### Post #542 — havorx [Interview Experiences]
+### Post #541 — havorx [Interview Experiences]
 
 **Date:** Aug 22, 2024 at 3:33 PM
 
@@ -5215,7 +5207,7 @@ Của em thì hơi khác bác, không thấy HR báo có cái OA nào mà interv
 
 ---
 
-### Post #543 — ishigami [Interview Experiences]
+### Post #542 — ishigami [Interview Experiences]
 
 **Date:** Aug 22, 2024 at 4:06 PM
 
@@ -5223,7 +5215,7 @@ role gì bác, mà role gì chả có OA nhỉ
 
 ---
 
-### Post #544 — havorx [Interview Experiences]
+### Post #543 — havorx [Interview Experiences]
 
 **Date:** Aug 22, 2024 at 4:28 PM
 
@@ -5231,7 +5223,7 @@ Em process role backend, chuẩn bị pvan rùi
 
 ---
 
-### Post #545 — ishigami [Interview Experiences]
+### Post #544 — ishigami [Interview Experiences]
 
 **Date:** Aug 22, 2024 at 6:59 PM
 
@@ -5239,7 +5231,7 @@ lạ nhỉ, e mới làm có OA mà
 
 ---
 
-### Post #546 — chuquanthitcho [Interview Experiences]
+### Post #545 — chuquanthitcho [Interview Experiences]
 
 **Date:** Aug 22, 2024 at 11:59 PM
 
@@ -5247,7 +5239,7 @@ các bác pv level gì thế
 
 ---
 
-### Post #547 — devlord [Interview Experiences]
+### Post #546 — devlord [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 11:52 AM
 
@@ -5255,7 +5247,7 @@ bác có offer chưa bác?
 
 ---
 
-### Post #548 — teeeeeeeee [Interview Experiences]
+### Post #547 — teeeeeeeee [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 12:06 PM
 
@@ -5263,7 +5255,7 @@ có r bác mà mình reject r
 
 ---
 
-### Post #549 — buonlixi [Interview Experiences]
+### Post #548 — buonlixi [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 12:12 PM
 
@@ -5271,7 +5263,7 @@ Offer đc khoảng nhiêu bác?
 
 ---
 
-### Post #550 — teeeeeeeee [Interview Experiences]
+### Post #549 — teeeeeeeee [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 12:13 PM
 
@@ -5279,7 +5271,7 @@ Offer đc khoảng nhiêu bác?
 
 ---
 
-### Post #551 — h_ngyn [Interview Experiences]
+### Post #550 — h_ngyn [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 12:29 PM
 
@@ -5287,7 +5279,7 @@ Offer đc khoảng nhiêu bác?
 
 ---
 
-### Post #552 — teeeeeeeee [Interview Experiences]
+### Post #551 — teeeeeeeee [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 1:35 PM
 
@@ -5295,7 +5287,7 @@ bên Naver nhắn là map mình vô đầu của mid
 
 ---
 
-### Post #553 — h_ngyn [Interview Experiences]
+### Post #552 — h_ngyn [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 3:19 PM
 
@@ -5303,7 +5295,7 @@ bên Naver nhắn là map mình vô đầu của mid
 
 ---
 
-### Post #554 — devlord [Interview Experiences]
+### Post #553 — devlord [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 3:36 PM
 
@@ -5311,7 +5303,7 @@ bác có phải show payslip k?
 
 ---
 
-### Post #555 — buonlixi [Interview Experiences]
+### Post #554 — buonlixi [Interview Experiences]
 
 **Date:** Aug 27, 2024 at 4:07 PM
 
@@ -5319,7 +5311,7 @@ Thấy ai pv đây cũng kêu phải show
 
 ---
 
-### Post #556 — Capta1n_Shy [Interview Experiences]
+### Post #555 — Capta1n_Shy [Interview Experiences]
 
 **Date:** Aug 28, 2024 at 6:39 PM
 
@@ -5327,7 +5319,7 @@ Bác apply ShopBack hở :3
 
 ---
 
-### Post #557 — doanak000 [Interview Experiences]
+### Post #556 — doanak000 [Interview Experiences]
 
 **Date:** Aug 28, 2024 at 8:13 PM
 
@@ -5335,7 +5327,7 @@ bác cho e xin thông tin liên hệ tâm sự hỏi thăm về naver được k
 
 ---
 
-### Post #558 — @bdv96 [Interview Experiences]
+### Post #557 — @bdv96 [Interview Experiences]
 
 **Date:** Aug 28, 2024 at 10:34 PM
 
@@ -5343,7 +5335,7 @@ bên naver bác pv bằng tiếng anh hay việt vậy ạ
 
 ---
 
-### Post #559 — doanak000 [Interview Experiences]
+### Post #558 — doanak000 [Interview Experiences]
 
 **Date:** Aug 28, 2024 at 11:20 PM
 
@@ -5351,7 +5343,7 @@ bac pv role j, tuy role, em toi backend nodejs fulleng
 
 ---
 
-### Post #560 — havorx [Interview Experiences]
+### Post #559 — havorx [Interview Experiences]
 
 **Date:** Aug 29, 2024 at 12:14 AM
 
@@ -5359,7 +5351,7 @@ yep em đang process với bên đó
 
 ---
 
-### Post #561 — Capta1n_Shy [Interview Experiences]
+### Post #560 — Capta1n_Shy [Interview Experiences]
 
 **Date:** Aug 29, 2024 at 12:23 AM
 
@@ -5367,7 +5359,7 @@ Cỡ bao lâu là ngta gửi invatation cho bác vậy, bác pass đến vòng O
 
 ---
 
-### Post #562 — Always on Display [Interview Experiences]
+### Post #561 — Always on Display [Interview Experiences]
 
 **Date:** Aug 29, 2024 at 9:23 AM
 
@@ -5375,7 +5367,7 @@ Có bác nào process bên Amanotes chưa cho em xin review với ạ.  Em đang
 
 ---
 
-### Post #563 — caothuphu2013 [Interview Experiences]
+### Post #562 — caothuphu2013 [Interview Experiences]
 
 **Date:** Aug 31, 2024 at 5:05 PM
 
@@ -5383,7 +5375,7 @@ Có bác nào process bên Amanotes chưa cho em xin review với ạ.  Em đang
 
 ---
 
-### Post #564 — teeeeeeeee [Interview Experiences]
+### Post #563 — teeeeeeeee [Interview Experiences]
 
 **Date:** Aug 31, 2024 at 5:42 PM
 
@@ -5394,7 +5386,7 @@ for iPhone
 
 ---
 
-### Post #565 — h_ngyn [Interview Experiences]
+### Post #564 — h_ngyn [Interview Experiences]
 
 **Date:** Sep 1, 2024 at 9:21 AM
 
@@ -5402,7 +5394,7 @@ Còn tuỳ vào interviewer, có thể là sẽ hỏi 2 bài algo, hoặc là 1 
 
 ---
 
-### Post #566 — teeeeeeeee [Interview Experiences]
+### Post #565 — teeeeeeeee [Interview Experiences]
 
 **Date:** Sep 1, 2024 at 9:45 AM
 
@@ -5410,7 +5402,7 @@ tui có review kĩ r á fence, fence cần hỏi vụ gì cứ nhắn trên đâ
 
 ---
 
-### Post #567 — teeeeeeeee [Interview Experiences]
+### Post #566 — teeeeeeeee [Interview Experiences]
 
 **Date:** Sep 1, 2024 at 10:39 AM
 
@@ -5422,7 +5414,7 @@ for iPhone
 
 ---
 
-### Post #568 — teeeeeeeee [Interview Experiences]
+### Post #567 — teeeeeeeee [Interview Experiences]
 
 **Date:** Sep 1, 2024 at 3:15 PM
 
@@ -5430,7 +5422,7 @@ TS ko hỏi nhưng mà FE engineer thì TS chắn chắn phải biết
 
 ---
 
-### Post #569 — emlameo4` [Interview Experiences]
+### Post #568 — emlameo4` [Interview Experiences]
 
 **Date:** Sep 3, 2024 at 1:05 AM
 
@@ -5438,7 +5430,7 @@ Em xin kinh nghiệm pv junior mảng webOS ở LG với các bác ơii
 
 ---
 
-### Post #570 — huungphan [Interview Experiences]
+### Post #569 — huungphan [Interview Experiences]
 
 **Date:** Sep 3, 2024 at 11:52 AM
 
@@ -5446,7 +5438,7 @@ mấy fen học dh chính quy như khtn, bách khoa luyện thuật toán, leetc
 
 ---
 
-### Post #571 — khánh B [Interview Experiences]
+### Post #570 — khánh B [Interview Experiences]
 
 **Date:** Sep 6, 2024 at 7:22 PM
 
@@ -5454,7 +5446,7 @@ tùy ng nhưng mà đa phần là cuối năm 1 á, một số pro chuyên tin t
 
 ---
 
-### Post #572 — chubemuidai [Interview Experiences]
+### Post #571 — chubemuidai [Interview Experiences]
 
 **Date:** Sep 6, 2024 at 8:26 PM
 
@@ -5462,7 +5454,7 @@ ghee dwx v, thấy mấy đứa bạn mình cũng ít thằng nàochuyên giải
 
 ---
 
-### Post #573 — garanphomai [Interview Experiences]
+### Post #572 — garanphomai [Interview Experiences]
 
 **Date:** Sep 9, 2024 at 4:35 PM
 
@@ -5470,7 +5462,7 @@ Có thím nào pv hay đang làm ở alipay chưa cho mình xin review với. S�
 
 ---
 
-### Post #574 — Frankie9x [Interview Experiences]
+### Post #573 — Frankie9x [Interview Experiences]
 
 **Date:** Sep 9, 2024 at 9:40 PM
 
@@ -5479,7 +5471,7 @@ Thanks
 
 ---
 
-### Post #575 — Fang1Dem [Interview Experiences]
+### Post #574 — Fang1Dem [Interview Experiences]
 
 **Date:** Sep 10, 2024 at 10:03 PM
 
@@ -5487,7 +5479,7 @@ cho mình xin review phỏng vấn FPT Telecom với
 
 ---
 
-### Post #576 — khánh B [Interview Experiences]
+### Post #575 — khánh B [Interview Experiences]
 
 **Date:** Sep 20, 2024 at 11:42 AM
 
@@ -5495,7 +5487,7 @@ Có ai từng pvan Microsoft vị trí Software Engineer (L59) chưa ạ cho em 
 
 ---
 
-### Post #577 — Frankie9x [Interview Experiences]
+### Post #576 — Frankie9x [Interview Experiences]
 
 **Date:** Sep 20, 2024 at 7:52 PM
 
@@ -5503,7 +5495,7 @@ Sao bro mới apply mà biết rõ level trong microsoft hay vậy?
 
 ---
 
-### Post #578 — khánh B [Interview Experiences]
+### Post #577 — khánh B [Interview Experiences]
 
 **Date:** Sep 20, 2024 at 9:24 PM
 
@@ -5511,7 +5503,7 @@ mình có tìm hiểu sơ qua thôi á thì swe 1 bên Microsoft hình như là 
 
 ---
 
-### Post #579 — hungxeuvuong01 [Interview Experiences]
+### Post #578 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Sep 22, 2024 at 7:15 PM
 
@@ -5531,7 +5523,7 @@ Bị hỏi định hướng sau này của em là gì thì phải trả lời sa
 
 ---
 
-### Post #580 — nhock_le [Interview Experiences]
+### Post #579 — nhock_le [Interview Experiences]
 
 **Date:** Sep 23, 2024 at 12:53 PM
 
@@ -5543,7 +5535,7 @@ for iPhone
 
 ---
 
-### Post #581 — TungDeTien24 [Interview Experiences]
+### Post #580 — TungDeTien24 [Interview Experiences]
 
 **Date:** Sep 25, 2024 at 2:28 PM
 
@@ -5555,7 +5547,7 @@ for iPhone
 
 ---
 
-### Post #582 — Miracle-- [Interview Experiences]
+### Post #581 — Miracle-- [Interview Experiences]
 
 **Date:** Sep 25, 2024 at 4:35 PM
 
@@ -5563,7 +5555,7 @@ các bác cho e xin kinh nghiệm pvấn fresher devops bên F** với ạ , trc
 
 ---
 
-### Post #583 — luiz [Interview Experiences]
+### Post #582 — luiz [Interview Experiences]
 
 **Date:** Sep 25, 2024 at 4:48 PM
 
@@ -5572,7 +5564,7 @@ Thím pv xong về nhớ review nhé
 
 ---
 
-### Post #584 — VinChip [Interview Experiences]
+### Post #583 — VinChip [Interview Experiences]
 
 **Date:** Sep 25, 2024 at 9:59 PM
 
@@ -5592,7 +5584,7 @@ HR process khá nhanh, không như những gì mình từng đọc review.
 
 ---
 
-### Post #585 — vozerbanpho [Interview Experiences]
+### Post #584 — vozerbanpho [Interview Experiences]
 
 **Date:** Sep 25, 2024 at 10:19 PM
 
@@ -5600,7 +5592,7 @@ Phỏng vấn tiếng bằng tiếng Anh hoàn toàn hả bác, Online assignmen
 
 ---
 
-### Post #586 — VinChip [Interview Experiences]
+### Post #585 — VinChip [Interview Experiences]
 
 **Date:** Sep 25, 2024 at 10:57 PM
 
@@ -5608,7 +5600,7 @@ vừa eng vừa việt luôn nhá, OA thì ko record cam, mà Codility nó check
 
 ---
 
-### Post #587 — hungxeuvuong01 [Interview Experiences]
+### Post #586 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Sep 26, 2024 at 10:52 AM
 
@@ -5617,7 +5609,7 @@ Edit: Đã tạch role DevSecOps do trình còi
 
 ---
 
-### Post #588 — luiz [Interview Experiences]
+### Post #587 — luiz [Interview Experiences]
 
 **Date:** Sep 26, 2024 at 11:39 AM
 
@@ -5625,7 +5617,7 @@ Chúc mừng thím, sang role này thì đời nở hoa rồi, làm system thì 
 
 ---
 
-### Post #589 — JinggeNt [Interview Experiences]
+### Post #588 — JinggeNt [Interview Experiences]
 
 **Date:** Sep 26, 2024 at 2:13 PM
 
@@ -5634,7 +5626,7 @@ Chỉ biết là pv onl với sếp bên Hàn
 
 ---
 
-### Post #590 — Hover [Interview Experiences]
+### Post #589 — Hover [Interview Experiences]
 
 **Date:** Sep 26, 2024 at 4:15 PM
 
@@ -5642,7 +5634,7 @@ Chỉ biết là pv onl với sếp bên Hàn
 
 ---
 
-### Post #591 — hungxeuvuong01 [Interview Experiences]
+### Post #590 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Sep 27, 2024 at 10:08 AM
 
@@ -5656,7 +5648,7 @@ Toàn câu mình ếu hiểu, tối qua có hỏi chatGPT interview question r�
 
 ---
 
-### Post #592 — TungDeTien24 [Interview Experiences]
+### Post #591 — TungDeTien24 [Interview Experiences]
 
 **Date:** Sep 27, 2024 at 10:52 AM
 
@@ -5667,7 +5659,7 @@ for iPhone
 
 ---
 
-### Post #593 — MALFOY [Interview Experiences]
+### Post #592 — MALFOY [Interview Experiences]
 
 **Date:** Sep 27, 2024 at 2:26 PM
 
@@ -5676,7 +5668,7 @@ Có bác nào pvan vị trí  intern/fresher da chưa ạ. Em xin kinh nguyệt
 
 ---
 
-### Post #594 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #593 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Sep 27, 2024 at 2:48 PM
 
@@ -5684,7 +5676,7 @@ hỏi phỏng vấn vị trí , level , công ty chưa có thì ai trả lời n
 
 ---
 
-### Post #595 — Dev fe culi [Interview Experiences]
+### Post #594 — Dev fe culi [Interview Experiences]
 
 **Date:** Sep 27, 2024 at 3:04 PM
 
@@ -5692,7 +5684,7 @@ Tình hình là mình mới pv xong bên Naver, bác nào pv xong cho mình hỏ
 
 ---
 
-### Post #596 — Always on Display [Interview Experiences]
+### Post #595 — Always on Display [Interview Experiences]
 
 **Date:** Sep 27, 2024 at 4:06 PM
 
@@ -5700,7 +5692,7 @@ Em xin review quy trình phỏng vấn với bác ơi.
 
 ---
 
-### Post #597 — Dev fe culi [Interview Experiences]
+### Post #596 — Dev fe culi [Interview Experiences]
 
 **Date:** Sep 27, 2024 at 4:40 PM
 
@@ -5708,7 +5700,7 @@ Em xin review quy trình phỏng vấn với bác ơi.
 
 ---
 
-### Post #598 — Dev fe culi [Interview Experiences]
+### Post #597 — Dev fe culi [Interview Experiences]
 
 **Date:** Sep 27, 2024 at 10:41 PM
 
@@ -5716,7 +5708,7 @@ chưa biết có pass không bạn ơi
 
 ---
 
-### Post #599 — ptdacthanh [Interview Experiences]
+### Post #598 — ptdacthanh [Interview Experiences]
 
 **Date:** Sep 28, 2024 at 4:32 PM
 
@@ -5726,7 +5718,7 @@ Vòng 2 PV với 3 ông department manager. Chủ yếu là hỏi xoáy vào CV 
 
 ---
 
-### Post #600 — MeoVuiVe9121 [Interview Experiences]
+### Post #599 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** Sep 28, 2024 at 4:34 PM
 
@@ -5734,7 +5726,7 @@ Vậy à thím, mình vòng 1 thì là 3 nữ team lead
 
 ---
 
-### Post #601 — ptdacthanh [Interview Experiences]
+### Post #600 — ptdacthanh [Interview Experiences]
 
 **Date:** Sep 28, 2024 at 4:38 PM
 
@@ -5742,7 +5734,7 @@ Bác PV tháng 1 thì chắc tới giờ tháng 8 là đổi nhân sự r. Lần
 
 ---
 
-### Post #602 — Java > .NET [Interview Experiences]
+### Post #601 — Java > .NET [Interview Experiences]
 
 **Date:** Oct 8, 2024 at 9:35 PM
 
@@ -5763,7 +5755,7 @@ kiến thức cơ bản, lý do sử dụng tool, không học vẹt, biết hig
 
 ---
 
-### Post #603 — Minutemen [Interview Experiences]
+### Post #602 — Minutemen [Interview Experiences]
 
 **Date:** Oct 9, 2024 at 1:05 PM
 
@@ -5771,7 +5763,7 @@ xin review Featurii. Mới nhận mail r1, là làm video interview. Bác nào p
 
 ---
 
-### Post #604 — hungxeuvuong01 [Interview Experiences]
+### Post #603 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Oct 9, 2024 at 8:20 PM
 
@@ -5779,7 +5771,7 @@ Mai đi pv làm test bọn big 4 EY. Bác nào có kinh nghiệm chia sẻ mình
 
 ---
 
-### Post #605 — vozerbanpho [Interview Experiences]
+### Post #604 — vozerbanpho [Interview Experiences]
 
 **Date:** Oct 9, 2024 at 8:33 PM
 
@@ -5787,7 +5779,7 @@ Từ lúc nộp CV tới khi có offer thì khoảng bao lâu vậy bác
 
 ---
 
-### Post #606 — Doge Coin [Interview Experiences]
+### Post #605 — Doge Coin [Interview Experiences]
 
 **Date:** Oct 9, 2024 at 10:14 PM
 
@@ -5795,7 +5787,7 @@ Có thím nào có kinh nghiệm phỏng vấn Microsoft Việt Nam chia sẻ v�
 
 ---
 
-### Post #607 — chubemuidai [Interview Experiences]
+### Post #606 — chubemuidai [Interview Experiences]
 
 **Date:** Oct 10, 2024 at 10:41 AM
 
@@ -5804,7 +5796,7 @@ thôi luyện tiếp
 
 ---
 
-### Post #608 — hungxeuvuong01 [Interview Experiences]
+### Post #607 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Oct 10, 2024 at 6:32 PM
 
@@ -5831,7 +5823,7 @@ Thế là hết 3 vòng pv, giờ mình ngồi khấn thôi, dù khá chắc là
 
 ---
 
-### Post #609 — h_ngyn [Interview Experiences]
+### Post #608 — h_ngyn [Interview Experiences]
 
 **Date:** Oct 10, 2024 at 8:47 PM
 
@@ -5840,7 +5832,7 @@ toàn thấy hỏi nhưng mà sau về thì cũng chả mấy ai chịu review.
 
 ---
 
-### Post #610 — ptdacthanh [Interview Experiences]
+### Post #609 — ptdacthanh [Interview Experiences]
 
 **Date:** Oct 10, 2024 at 9:36 PM
 
@@ -5848,7 +5840,7 @@ Vẫn thế. Nhưng không khó. Vững ngữ pháp tiếng Anh ở 12 năm ph�
 
 ---
 
-### Post #611 — Chek_Bmt [Interview Experiences]
+### Post #610 — Chek_Bmt [Interview Experiences]
 
 **Date:** Oct 11, 2024 at 8:40 AM
 
@@ -5856,7 +5848,7 @@ Lương fresher với junior fixed là bao nhiêu á bác, không biết bác c�
 
 ---
 
-### Post #612 — hungxeuvuong01 [Interview Experiences]
+### Post #611 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Oct 11, 2024 at 5:22 PM
 
@@ -5864,7 +5856,7 @@ Lương fresher với junior fixed là bao nhiêu á bác, không biết bác c�
 
 ---
 
-### Post #613 — hungxeuvuong01 [Interview Experiences]
+### Post #612 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Oct 12, 2024 at 9:11 AM
 
@@ -5881,7 +5873,7 @@ Cảm giác hơi thất vọng với lối pv của một công ty đầu ngành
 
 ---
 
-### Post #614 — SL2222 [Interview Experiences]
+### Post #613 — SL2222 [Interview Experiences]
 
 **Date:** Oct 12, 2024 at 6:09 PM
 
@@ -5889,7 +5881,7 @@ cho em hỏi đây là anh đang apply vào soc tier 1 chứ không phải inter
 
 ---
 
-### Post #615 — hungxeuvuong01 [Interview Experiences]
+### Post #614 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Oct 12, 2024 at 6:12 PM
 
@@ -5897,7 +5889,7 @@ Chuẩn fen, cũng tính là lv fresher luôn. Còn nói thật, intern SOC thì
 
 ---
 
-### Post #616 — Zhusss [Interview Experiences]
+### Post #615 — Zhusss [Interview Experiences]
 
 **Date:** Oct 13, 2024 at 3:50 AM
 
@@ -5905,7 +5897,7 @@ Các bác khi rải CV phỏng vấn, chẳng hạn như có 1 công ty đưa ra
 
 ---
 
-### Post #617 — hungxeuvuong01 [Interview Experiences]
+### Post #616 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Oct 13, 2024 at 5:30 AM
 
@@ -5914,7 +5906,7 @@ Fen gặp vấn đề giống mình, câu trả lời sau khi lướt hết tấ
 
 ---
 
-### Post #618 — The Steal [Interview Experiences]
+### Post #617 — The Steal [Interview Experiences]
 
 **Date:** Oct 13, 2024 at 10:03 PM
 
@@ -5922,7 +5914,7 @@ xin review Fresher Java KMS 2024
 
 ---
 
-### Post #619 — hieunm3538 [Interview Experiences]
+### Post #618 — hieunm3538 [Interview Experiences]
 
 **Date:** Oct 15, 2024 at 10:44 AM
 
@@ -5950,7 +5942,7 @@ Câu hỏi bao gồm kinh nghiệm làm việc với dự án trước đây (l�
 
 ---
 
-### Post #620 — longnt20 [Interview Experiences]
+### Post #619 — longnt20 [Interview Experiences]
 
 **Date:** Oct 17, 2024 at 11:16 PM
 
@@ -5958,7 +5950,7 @@ có bác nào nhận offer xong xuôi rồi trong thời gian bàn giao cty cũ 
 
 ---
 
-### Post #621 — Frankie9x [Interview Experiences]
+### Post #620 — Frankie9x [Interview Experiences]
 
 **Date:** Oct 17, 2024 at 11:31 PM
 
@@ -5967,7 +5959,7 @@ Many thanks
 
 ---
 
-### Post #622 — h_ngyn [Interview Experiences]
+### Post #621 — h_ngyn [Interview Experiences]
 
 **Date:** Oct 18, 2024 at 8:33 PM
 
@@ -5983,7 +5975,7 @@ Note là mình phỏng vấn fullstack nhưng mà thiên về front-end hơn nê
 
 ---
 
-### Post #623 — Frankie9x [Interview Experiences]
+### Post #622 — Frankie9x [Interview Experiences]
 
 **Date:** Oct 19, 2024 at 12:05 AM
 
@@ -5991,7 +5983,7 @@ Nếu apply level senior thì có thể chọn trả lời pv bằng tiếng Vi�
 
 ---
 
-### Post #624 — h_ngyn [Interview Experiences]
+### Post #623 — h_ngyn [Interview Experiences]
 
 **Date:** Oct 19, 2024 at 3:59 PM
 
@@ -6007,7 +5999,7 @@ Nhận xét tổng thể thì phỏng vấn không quá khó, range lương thì
 
 ---
 
-### Post #625 — dinhson2212 [Interview Experiences]
+### Post #624 — dinhson2212 [Interview Experiences]
 
 **Date:** Oct 19, 2024 at 4:06 PM
 
@@ -6015,7 +6007,7 @@ SE thôi mà nghe khó vậy ngài.
 
 ---
 
-### Post #626 — h_ngyn [Interview Experiences]
+### Post #625 — h_ngyn [Interview Experiences]
 
 **Date:** Oct 19, 2024 at 4:14 PM
 
@@ -6023,7 +6015,7 @@ SE thôi mà nghe khó vậy ngài.
 
 ---
 
-### Post #627 — thanhtam28ss [Interview Experiences]
+### Post #626 — thanhtam28ss [Interview Experiences]
 
 **Date:** Oct 23, 2024 at 3:08 PM
 
@@ -6031,7 +6023,7 @@ b phỏng vấn ở đây chưa, cho mình hỏi quy trình pv
 
 ---
 
-### Post #628 — tsongafan [Interview Experiences]
+### Post #627 — tsongafan [Interview Experiences]
 
 **Date:** Oct 23, 2024 at 11:10 PM
 
@@ -6063,7 +6055,7 @@ Behaviour cũng khá nhẹ nhàng kiểu trò chuyện
 
 ---
 
-### Post #629 — bitua1412 [Interview Experiences]
+### Post #628 — bitua1412 [Interview Experiences]
 
 **Date:** Oct 27, 2024 at 11:13 AM
 
@@ -6072,7 +6064,7 @@ Behaviour cũng khá nhẹ nhàng kiểu trò chuyện
 
 ---
 
-### Post #630 — h_ngyn [Interview Experiences]
+### Post #629 — h_ngyn [Interview Experiences]
 
 **Date:** Oct 27, 2024 at 11:14 AM
 
@@ -6080,7 +6072,7 @@ Mình mà là fen là mình bật ngay. Làm cho Zalopay thôi mà tưởng làm
 
 ---
 
-### Post #631 — bitua1412 [Interview Experiences]
+### Post #630 — bitua1412 [Interview Experiences]
 
 **Date:** Oct 27, 2024 at 11:19 AM
 
@@ -6089,7 +6081,7 @@ mình chỉ bất ngờ vì interviewer của mình đợt đó lại thể hi�
 
 ---
 
-### Post #632 — hiraki_ryo [Interview Experiences]
+### Post #631 — hiraki_ryo [Interview Experiences]
 
 **Date:** Oct 27, 2024 at 11:46 AM
 
@@ -6097,7 +6089,7 @@ Chắc không có ai dám nói thế này đâu. Làm ở big tech interviewer d
 
 ---
 
-### Post #633 — tsongafan [Interview Experiences]
+### Post #632 — tsongafan [Interview Experiences]
 
 **Date:** Oct 28, 2024 at 12:33 AM
 
@@ -6105,7 +6097,7 @@ Mình thì thấy các anh hỏi sâu về technical cũng hơn run, còn lại 
 
 ---
 
-### Post #634 — minhmoon [Interview Experiences]
+### Post #633 — minhmoon [Interview Experiences]
 
 **Date:** Oct 28, 2024 at 5:26 PM
 
@@ -6125,7 +6117,7 @@ Chưa hài lòng ở chỗ là dành nhiều time để phỏng vấn mà không
 
 ---
 
-### Post #635 — hungxeuvuong01 [Interview Experiences]
+### Post #634 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Oct 28, 2024 at 9:29 PM
 
@@ -6133,7 +6125,7 @@ Quá hạn 10 ngày mà không có phản hồi thì 90% fen đang ở waitlist 
 
 ---
 
-### Post #636 — minhmoon [Interview Experiences]
+### Post #635 — minhmoon [Interview Experiences]
 
 **Date:** Oct 29, 2024 at 8:20 AM
 
@@ -6141,7 +6133,7 @@ Mình cũng bị ghost mấy lần nhưng đa phần là mình tạch OA, round 
 
 ---
 
-### Post #637 — Frankie9x [Interview Experiences]
+### Post #636 — Frankie9x [Interview Experiences]
 
 **Date:** Oct 30, 2024 at 12:43 AM
 
@@ -6150,7 +6142,7 @@ Thanks
 
 ---
 
-### Post #638 — h_ngyn [Interview Experiences]
+### Post #637 — h_ngyn [Interview Experiences]
 
 **Date:** Nov 2, 2024 at 2:03 PM
 
@@ -6167,7 +6159,7 @@ Kết quả: Tạch, có feedback là phần algo thì sol của mình chưa opt
 
 ---
 
-### Post #639 — Frankie9x [Interview Experiences]
+### Post #638 — Frankie9x [Interview Experiences]
 
 **Date:** Nov 2, 2024 at 11:02 PM
 
@@ -6176,7 +6168,7 @@ Thanks
 
 ---
 
-### Post #640 — h_ngyn [Interview Experiences]
+### Post #639 — h_ngyn [Interview Experiences]
 
 **Date:** Nov 2, 2024 at 11:07 PM
 
@@ -6184,7 +6176,7 @@ Nếu mình nhớ k nhầm thì là tiếng Việt.
 
 ---
 
-### Post #641 — Shang Nguyen [Interview Experiences]
+### Post #640 — Shang Nguyen [Interview Experiences]
 
 **Date:** Nov 4, 2024 at 9:08 AM
 
@@ -6192,7 +6184,7 @@ bác share câu hỏi live coding được không
 
 ---
 
-### Post #642 — Namvh21 [Interview Experiences]
+### Post #641 — Namvh21 [Interview Experiences]
 
 **Date:** Nov 4, 2024 at 12:17 PM
 
@@ -6201,7 +6193,7 @@ Ae cho mình hỏi là round 2 nghe bảo có livecode, mà lại livecode java 
 
 ---
 
-### Post #643 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #642 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Nov 4, 2024 at 1:08 PM
 
@@ -6209,7 +6201,7 @@ range lương offer ở zalo pay thơm ko thím, mid level à
 
 ---
 
-### Post #644 — tsongafan [Interview Experiences]
+### Post #643 — tsongafan [Interview Experiences]
 
 **Date:** Nov 4, 2024 at 2:37 PM
 
@@ -6217,7 +6209,7 @@ Hồi đó title là Software Engineer chung chung, chắc là open cho cả jun
 
 ---
 
-### Post #645 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #644 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Nov 4, 2024 at 3:42 PM
 
@@ -6225,7 +6217,7 @@ Hồi đó title là Software Engineer chung chung, chắc là open cho cả jun
 
 ---
 
-### Post #646 — khonghieusaobibanacc_pun [Interview Experiences]
+### Post #645 — khonghieusaobibanacc_pun [Interview Experiences]
 
 **Date:** Nov 4, 2024 at 5:00 PM
 
@@ -6233,7 +6225,7 @@ Shopback nghe bảo process lâu lắm hả các thím. Ai từng pv rồi cho c
 
 ---
 
-### Post #647 — tsongafan [Interview Experiences]
+### Post #646 — tsongafan [Interview Experiences]
 
 **Date:** Nov 4, 2024 at 5:28 PM
 
@@ -6242,7 +6234,7 @@ E expect 30 gross, hồi đó non tay nên không dám deal cao hơn
 
 ---
 
-### Post #648 — shawngolang [Interview Experiences]
+### Post #647 — shawngolang [Interview Experiences]
 
 **Date:** Nov 5, 2024 at 12:57 AM
 
@@ -6290,7 +6282,7 @@ Mà cũng may là em biết sớm. Chứ vào làm việc ổn định xong nó 
 
 ---
 
-### Post #649 — botofloser [Interview Experiences]
+### Post #648 — botofloser [Interview Experiences]
 
 **Date:** Nov 5, 2024 at 11:13 PM
 
@@ -6298,7 +6290,7 @@ Xin detail SAP với bác ơi
 
 ---
 
-### Post #650 — shawngolang [Interview Experiences]
+### Post #649 — shawngolang [Interview Experiences]
 
 **Date:** Nov 5, 2024 at 11:27 PM
 
@@ -6307,7 +6299,7 @@ Same với SB đó thím. Không khác nhiều lắm đâu. Bên đó chủ yế
 
 ---
 
-### Post #651 — Amumu199x [Interview Experiences]
+### Post #650 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 5, 2024 at 11:28 PM
 
@@ -6315,7 +6307,7 @@ ai phỏng vấn FE optimzely hà nội chưa cho mình xin ít kn. cần pv ful
 
 ---
 
-### Post #652 — khonghieusaobibanacc_pun [Interview Experiences]
+### Post #651 — khonghieusaobibanacc_pun [Interview Experiences]
 
 **Date:** Nov 5, 2024 at 11:37 PM
 
@@ -6323,7 +6315,7 @@ Moá cái SB nó kéo lê thê thiệt, sáng nay e cũng mới initial chat v�
 
 ---
 
-### Post #653 — botofloser [Interview Experiences]
+### Post #652 — botofloser [Interview Experiences]
 
 **Date:** Nov 6, 2024 at 12:44 AM
 
@@ -6331,7 +6323,7 @@ Moá cái SB nó kéo lê thê thiệt, sáng nay e cũng mới initial chat v�
 
 ---
 
-### Post #654 — cit91 [Interview Experiences]
+### Post #653 — cit91 [Interview Experiences]
 
 **Date:** Nov 6, 2024 at 11:33 AM
 
@@ -6340,7 +6332,7 @@ Many thanks
 
 ---
 
-### Post #655 — anhboyvip_tq [Interview Experiences]
+### Post #654 — anhboyvip_tq [Interview Experiences]
 
 **Date:** Nov 7, 2024 at 4:09 PM
 
@@ -6348,7 +6340,7 @@ có bác nào đang làm VCB share kn phỏng vấn đc ko ạ?
 
 ---
 
-### Post #656 — Frankie9x [Interview Experiences]
+### Post #655 — Frankie9x [Interview Experiences]
 
 **Date:** Nov 7, 2024 at 4:34 PM
 
@@ -6357,7 +6349,7 @@ Thanks
 
 ---
 
-### Post #657 — shawngolang [Interview Experiences]
+### Post #656 — shawngolang [Interview Experiences]
 
 **Date:** Nov 7, 2024 at 4:53 PM
 
@@ -6365,7 +6357,7 @@ có tương tác hết nha thím
 
 ---
 
-### Post #658 — hieunm3538 [Interview Experiences]
+### Post #657 — hieunm3538 [Interview Experiences]
 
 **Date:** Nov 7, 2024 at 11:52 PM
 
@@ -6373,7 +6365,7 @@ có tương tác hết nha thím
 
 ---
 
-### Post #659 — hieunm3538 [Interview Experiences]
+### Post #658 — hieunm3538 [Interview Experiences]
 
 **Date:** Nov 7, 2024 at 11:57 PM
 
@@ -6398,7 +6390,7 @@ Round này gồm 2 phần, phần đầu 30 phút trao đổi với HR Director 
 
 ---
 
-### Post #660 — h_ngyn [Interview Experiences]
+### Post #659 — h_ngyn [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 12:36 AM
 
@@ -6409,7 +6401,7 @@ for iPhone
 
 ---
 
-### Post #661 — whynotme99 [Interview Experiences]
+### Post #660 — whynotme99 [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 1:06 AM
 
@@ -6417,7 +6409,7 @@ for iPhone
 
 ---
 
-### Post #662 — haiphan2411 [Interview Experiences]
+### Post #661 — haiphan2411 [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 10:51 AM
 
@@ -6425,7 +6417,7 @@ bạn ơi bạn có interview bên Featurii chưa vậy ạ, nếu rồi thì b�
 
 ---
 
-### Post #663 — tiencua48651 [Interview Experiences]
+### Post #662 — tiencua48651 [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 11:55 AM
 
@@ -6433,7 +6425,7 @@ Họ ko tuyển gì đâu thím, bên đó là app hỗ trợ tuyển dụng, đ
 
 ---
 
-### Post #664 — hieunm3538 [Interview Experiences]
+### Post #663 — hieunm3538 [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 12:23 PM
 
@@ -6442,7 +6434,7 @@ Mình cũng sốc đó các bác
 
 ---
 
-### Post #665 — hiraki_ryo [Interview Experiences]
+### Post #664 — hiraki_ryo [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 1:23 PM
 
@@ -6450,7 +6442,7 @@ Có người khác ngon hơn thôi, có gì mà sốc bác. Cái thời chỉ c�
 
 ---
 
-### Post #666 — hieunm3538 [Interview Experiences]
+### Post #665 — hieunm3538 [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 5:07 PM
 
@@ -6459,7 +6451,7 @@ Tại kèo đó cũng tưởng là có offer rùi do gặp HR Director nói về
 
 ---
 
-### Post #667 — Amumu199x [Interview Experiences]
+### Post #666 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 5:13 PM
 
@@ -6467,7 +6459,7 @@ thời nay 1 chọi trăm. bác đưa expect bn?
 
 ---
 
-### Post #668 — shawngolang [Interview Experiences]
+### Post #667 — shawngolang [Interview Experiences]
 
 **Date:** Nov 8, 2024 at 7:46 PM
 
@@ -6475,7 +6467,7 @@ Bọn này hề hước lắm. Em pass hết HackerRank xong gửi email cảm �
 
 ---
 
-### Post #669 — tnkhanh2909 [Interview Experiences]
+### Post #668 — tnkhanh2909 [Interview Experiences]
 
 **Date:** Nov 11, 2024 at 11:14 AM
 
@@ -6483,7 +6475,7 @@ Dạ cho em hỏi có ai từng phỏng vấn ở H**n*k*n, role Data Management
 
 ---
 
-### Post #670 — freedom.9 [Interview Experiences]
+### Post #669 — freedom.9 [Interview Experiences]
 
 **Date:** Nov 11, 2024 at 11:23 AM
 
@@ -6494,7 +6486,7 @@ for iPhone
 
 ---
 
-### Post #671 — nchhnchh [Interview Experiences]
+### Post #670 — nchhnchh [Interview Experiences]
 
 **Date:** Nov 11, 2024 at 12:04 PM
 
@@ -6502,7 +6494,7 @@ này phải min 3k5 mới nói chuyện tiếp
 
 ---
 
-### Post #672 — hieunm3538 [Interview Experiences]
+### Post #671 — hieunm3538 [Interview Experiences]
 
 **Date:** Nov 11, 2024 at 12:35 PM
 
@@ -6511,7 +6503,7 @@ Em expect 40 gross cơ mà không có offer nên không biết bên này trả n
 
 ---
 
-### Post #673 — chiyeuemthoi [Interview Experiences]
+### Post #672 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Nov 11, 2024 at 2:29 PM
 
@@ -6519,7 +6511,7 @@ bào quá hay OT liên tục đó fen
 
 ---
 
-### Post #674 — nchhnchh [Interview Experiences]
+### Post #673 — nchhnchh [Interview Experiences]
 
 **Date:** Nov 11, 2024 at 9:23 PM
 
@@ -6527,7 +6519,7 @@ bào quá hay OT liên tục đó fen
 
 ---
 
-### Post #675 — akiradang [Interview Experiences]
+### Post #674 — akiradang [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 12:08 AM
 
@@ -6549,7 +6541,7 @@ Chủ yếu là ngồi nói chuyện vui vẻ, tech chỉ có vòng 1 là sâu, 
 
 ---
 
-### Post #676 — botofloser [Interview Experiences]
+### Post #675 — botofloser [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 2:49 AM
 
@@ -6557,7 +6549,7 @@ Này phỏng vấn vị trí gì, có livecode hong fen, eng hay việt thế
 
 ---
 
-### Post #677 — bitua1412 [Interview Experiences]
+### Post #676 — bitua1412 [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 7:50 AM
 
@@ -6565,7 +6557,7 @@ toàn pv với người ở văn phòng nước ngoài thì chắc kèo là full
 
 ---
 
-### Post #678 — akiradang [Interview Experiences]
+### Post #677 — akiradang [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 10:25 AM
 
@@ -6575,7 +6567,7 @@ Full eng nha bác, dù ngồi với team VN nhưng chưa gặp được team mem
 
 ---
 
-### Post #679 — akiradang [Interview Experiences]
+### Post #678 — akiradang [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 10:27 AM
 
@@ -6583,7 +6575,7 @@ Bị cái là kéo hơi lâu, tính ra hơn 2 tháng mới xong, vòng cuối c�
 
 ---
 
-### Post #680 — 100 [Interview Experiences]
+### Post #679 — 100 [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 10:37 AM
 
@@ -6591,7 +6583,7 @@ Chà, bác hóng được SAP có plan gì cho vn sắp tới không (các role 
 
 ---
 
-### Post #681 — akiradang [Interview Experiences]
+### Post #680 — akiradang [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 11:23 AM
 
@@ -6599,7 +6591,7 @@ Chà, bác hóng được SAP có plan gì cho vn sắp tới không (các role 
 
 ---
 
-### Post #682 — hieunm3538 [Interview Experiences]
+### Post #681 — hieunm3538 [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 2:26 PM
 
@@ -6607,7 +6599,7 @@ Engineering Manager đó thím
 
 ---
 
-### Post #683 — sirtuankiet [Interview Experiences]
+### Post #682 — sirtuankiet [Interview Experiences]
 
 **Date:** Nov 12, 2024 at 8:01 PM
 
@@ -6615,7 +6607,7 @@ Mình apply intern DE Shopback thì sau vòng 1 thì nhảy phát tới Cultural
 
 ---
 
-### Post #684 — minhmoon [Interview Experiences]
+### Post #683 — minhmoon [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 9:35 AM
 
@@ -6629,7 +6621,7 @@ failed
 
 ---
 
-### Post #685 — khonghieusaobibanacc_pun [Interview Experiences]
+### Post #684 — khonghieusaobibanacc_pun [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 10:08 AM
 
@@ -6637,7 +6629,7 @@ Mình làm dev thì mấy ai quan tâm đến vấn đề này đâu, nếu thí
 
 ---
 
-### Post #686 — Amumu199x [Interview Experiences]
+### Post #685 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 10:27 AM
 
@@ -6645,7 +6637,7 @@ thím ko chém là sẽ sử dụng các mối quan hệ các thứ bla bla à
 
 ---
 
-### Post #687 — BadCoder [Interview Experiences]
+### Post #686 — BadCoder [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 11:22 AM
 
@@ -6653,7 +6645,7 @@ Mình mà bị hỏi mình thái độ lại luôn á chứ, engineer mà đi h�
 
 ---
 
-### Post #688 — matuhn [Interview Experiences]
+### Post #687 — matuhn [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 11:22 AM
 
@@ -6661,7 +6653,7 @@ Bác biết range bên SAP này ko bác. Hr họ bảo k share
 
 ---
 
-### Post #689 — Amumu199x [Interview Experiences]
+### Post #688 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 11:30 AM
 
@@ -6669,7 +6661,7 @@ thì đúng là ko phải trách nhiệm của mình thật. nhưng nếu thực
 
 ---
 
-### Post #690 — akiradang [Interview Experiences]
+### Post #689 — akiradang [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 12:13 PM
 
@@ -6677,7 +6669,7 @@ Range SAP thì bác kiếm range của bên India ấy, trả cũng xêm xêm nh
 
 ---
 
-### Post #691 — shawngolang [Interview Experiences]
+### Post #690 — shawngolang [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 2:19 PM
 
@@ -6685,7 +6677,7 @@ Có thím nào phỏng vấn Microsoft level Software Engineer (không có số 
 
 ---
 
-### Post #692 — minhmoon [Interview Experiences]
+### Post #691 — minhmoon [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 2:31 PM
 
@@ -6693,7 +6685,7 @@ Mình thấy review mấy người ở gần đây thì từ medium hard trở l
 
 ---
 
-### Post #693 — khonghieusaobibanacc_pun [Interview Experiences]
+### Post #692 — khonghieusaobibanacc_pun [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 2:44 PM
 
@@ -6701,7 +6693,7 @@ Mình thấy review mấy người ở gần đây thì từ medium hard trở l
 
 ---
 
-### Post #694 — LmaoSuVuong [Interview Experiences]
+### Post #693 — LmaoSuVuong [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 2:47 PM
 
@@ -6709,7 +6701,7 @@ ko chỉ algo mà nó còn có trl theo format nữa ấy nha bác, clarify -> s
 
 ---
 
-### Post #695 — haiphan2411 [Interview Experiences]
+### Post #694 — haiphan2411 [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 3:12 PM
 
@@ -6717,7 +6709,7 @@ ko chỉ algo mà nó còn có trl theo format nữa ấy nha bác, clarify -> s
 
 ---
 
-### Post #696 — sirtuankiet [Interview Experiences]
+### Post #695 — sirtuankiet [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 3:14 PM
 
@@ -6725,7 +6717,7 @@ Vòng 1 vào nói chuyện sơ qua thôi chứ có tí tech nào đâu mà ko pa
 
 ---
 
-### Post #697 — haiphan2411 [Interview Experiences]
+### Post #696 — haiphan2411 [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 3:16 PM
 
@@ -6733,7 +6725,7 @@ tui cũng apply intern DE bên Shopback mà mới làm test Hackerrank cuối tu
 
 ---
 
-### Post #698 — haiphan2411 [Interview Experiences]
+### Post #697 — haiphan2411 [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 3:24 PM
 
@@ -6741,7 +6733,7 @@ bác nhận được mail pass vòng Hackerrank lun r à
 
 ---
 
-### Post #699 — shawngolang [Interview Experiences]
+### Post #698 — shawngolang [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 3:47 PM
 
@@ -6752,7 +6744,7 @@ Mình cũng nên ra solution không tối ưu trước, sau đó phân tích và
 
 ---
 
-### Post #700 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #699 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 3:54 PM
 
@@ -6760,7 +6752,7 @@ Mình cũng nên ra solution không tối ưu trước, sau đó phân tích và
 
 ---
 
-### Post #701 — shawngolang [Interview Experiences]
+### Post #700 — shawngolang [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 5:12 PM
 
@@ -6770,7 +6762,7 @@ Thôi chắc chill chill 1-2 tuần lấy lại năng lượng đi kiếm việc
 
 ---
 
-### Post #702 — dangle1907 [Interview Experiences]
+### Post #701 — dangle1907 [Interview Experiences]
 
 **Date:** Nov 13, 2024 at 10:07 PM
 
@@ -6779,7 +6771,7 @@ Em cũng mới nhận mail pass cv vị trí này này bác
 
 ---
 
-### Post #703 — botofloser [Interview Experiences]
+### Post #702 — botofloser [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 10:59 AM
 
@@ -6787,7 +6779,7 @@ hồi em làm 2 câu 1 easy, 1 câu dp
 
 ---
 
-### Post #704 — dangle1907 [Interview Experiences]
+### Post #703 — dangle1907 [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 1:54 PM
 
@@ -6795,7 +6787,7 @@ xong rồi bác có pass ko ạ. Share em ít kinh nghiệm với
 
 ---
 
-### Post #705 — botofloser [Interview Experiences]
+### Post #704 — botofloser [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 2:10 PM
 
@@ -6803,7 +6795,7 @@ xong rồi bác có pass ko ạ. Share em ít kinh nghiệm với
 
 ---
 
-### Post #706 — Honda Tsubasa [Interview Experiences]
+### Post #705 — Honda Tsubasa [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 2:14 PM
 
@@ -6812,7 +6804,7 @@ Nay thấy đào lại cái thớt này ko lội nên ko biết , giải thưở
 
 ---
 
-### Post #707 — dangle1907 [Interview Experiences]
+### Post #706 — dangle1907 [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 2:15 PM
 
@@ -6821,7 +6813,7 @@ hôm sau bác đc gửi OA là process nhanh rồi
 
 ---
 
-### Post #708 — botofloser [Interview Experiences]
+### Post #707 — botofloser [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 2:23 PM
 
@@ -6829,7 +6821,7 @@ MS thì lội mấy topic trên mạng á bác thấy cho câu cũng kinh điể
 
 ---
 
-### Post #709 — test_username [Interview Experiences]
+### Post #708 — test_username [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 2:37 PM
 
@@ -6837,7 +6829,7 @@ Bác nào đã từng làm test & phỏng vấn Fresher Dev tại VNPT review gi
 
 ---
 
-### Post #710 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #709 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 2:46 PM
 
@@ -6845,7 +6837,7 @@ Vnpt nào mới được chứ vnpt chục công ty con ai biết mà tư vấn 
 
 ---
 
-### Post #711 — haiphan2411 [Interview Experiences]
+### Post #710 — haiphan2411 [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 4:56 PM
 
@@ -6853,7 +6845,7 @@ có bác nào từng làm test offline intern cho VNG/ZaloPay chưa ạ, cho em 
 
 ---
 
-### Post #712 — gymer không tập chân [Interview Experiences]
+### Post #711 — gymer không tập chân [Interview Experiences]
 
 **Date:** Nov 14, 2024 at 9:50 PM
 
@@ -6861,7 +6853,7 @@ có bác nào từng phỏng vấn công ty ryomo solution chưa ạ
 
 ---
 
-### Post #713 — test_username [Interview Experiences]
+### Post #712 — test_username [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 11:21 AM
 
@@ -6870,7 +6862,7 @@ Dạ VNPT-IT bác ạ, gửi CV cả tháng hơn nó mới gọi vs mail làm te
 
 ---
 
-### Post #714 — grossman08 [Interview Experiences]
+### Post #713 — grossman08 [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 11:46 AM
 
@@ -6881,7 +6873,7 @@ for iPhone
 
 ---
 
-### Post #715 — dangle1907 [Interview Experiences]
+### Post #714 — dangle1907 [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 2:41 PM
 
@@ -6889,7 +6881,7 @@ a zai ko làm True platform nữa à
 
 ---
 
-### Post #716 — eddypop2000 [Interview Experiences]
+### Post #715 — eddypop2000 [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 3:15 PM
 
@@ -6897,7 +6889,7 @@ Confirm thím này nói đúng nhé, tôi cũng mới ăn mail từ chợ tốt.
 
 ---
 
-### Post #717 — test_username [Interview Experiences]
+### Post #716 — test_username [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 3:15 PM
 
@@ -6905,7 +6897,7 @@ Em spam để xem môi trường ra sao ạ. Em làm thấy không hợp tech st
 
 ---
 
-### Post #718 — shawngolang [Interview Experiences]
+### Post #717 — shawngolang [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 3:26 PM
 
@@ -6913,7 +6905,7 @@ Có thím nào chia sẻ chút về công việc/môi trường ở Minswap Hà 
 
 ---
 
-### Post #719 — Amumu199x [Interview Experiences]
+### Post #718 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 3:40 PM
 
@@ -6921,7 +6913,7 @@ Nhật mà k biết tiếng mình từng đc cao nhất offer là 37. xin lên 4
 
 ---
 
-### Post #720 — khonghieusaobibanacc_pun [Interview Experiences]
+### Post #719 — khonghieusaobibanacc_pun [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 3:43 PM
 
@@ -6929,7 +6921,7 @@ Nhật mà k biết tiếng mình từng đc cao nhất offer là 37. xin lên 4
 
 ---
 
-### Post #721 — dangle1907 [Interview Experiences]
+### Post #720 — dangle1907 [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 4:09 PM
 
@@ -6937,7 +6929,7 @@ Haha trước em cũng thấy không hợp culture nên quit sớm
 
 ---
 
-### Post #722 — Amumu199x [Interview Experiences]
+### Post #721 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 15, 2024 at 4:15 PM
 
@@ -6945,7 +6937,7 @@ các bác ai phỏng vấn zto lab chưa em xin ít review. thằng này tách r
 
 ---
 
-### Post #723 — Ginnnz [Interview Experiences]
+### Post #722 — Ginnnz [Interview Experiences]
 
 **Date:** Nov 16, 2024 at 1:19 AM
 
@@ -6953,7 +6945,7 @@ Có bác nào phỏng vấn ngành An toàn thông tin ở level Mid với Senio
 
 ---
 
-### Post #724 — Hoangptkd [Interview Experiences]
+### Post #723 — Hoangptkd [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 2:56 AM
 
@@ -6964,7 +6956,7 @@ for iPhone
 
 ---
 
-### Post #725 — test_username [Interview Experiences]
+### Post #724 — test_username [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:12 AM
 
@@ -6973,7 +6965,7 @@ for iPhone
 
 ---
 
-### Post #726 — Amumu199x [Interview Experiences]
+### Post #725 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:13 AM
 
@@ -6981,7 +6973,7 @@ thằng true platform này tuyển senior bèo kinh. giờ tìm job react-native
 
 ---
 
-### Post #727 — test_username [Interview Experiences]
+### Post #726 — test_username [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:14 AM
 
@@ -6989,7 +6981,7 @@ Em làm thì em cũng cảm nhận là range lương level senior bèo nếu so 
 
 ---
 
-### Post #728 — chiyeuemthoi [Interview Experiences]
+### Post #727 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:14 AM
 
@@ -6997,7 +6989,7 @@ thấy cho fresh jun cũng ổn 1k$
 
 ---
 
-### Post #729 — test_username [Interview Experiences]
+### Post #728 — test_username [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:15 AM
 
@@ -7005,7 +6997,7 @@ Em đang fresh chưa được nửa của số đấy
 
 ---
 
-### Post #730 — Amumu199x [Interview Experiences]
+### Post #729 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:18 AM
 
@@ -7013,7 +7005,7 @@ junior upto 1k thôi. thực tế chức 10 mấy
 
 ---
 
-### Post #731 — chiyeuemthoi [Interview Experiences]
+### Post #730 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:24 AM
 
@@ -7021,7 +7013,7 @@ vl thế trôn à chưa dc 500$ mà quảng cáo như thật z
 
 ---
 
-### Post #732 — Shang Nguyen [Interview Experiences]
+### Post #731 — Shang Nguyen [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:42 AM
 
@@ -7029,7 +7021,7 @@ Có bác nào phỏng vấn Naver chưa ạ, e mới qua vòng hackerrank
 
 ---
 
-### Post #733 — test_username [Interview Experiences]
+### Post #732 — test_username [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:48 AM
 
@@ -7038,7 +7030,7 @@ Trong chăn ms biết bác ạ
 
 ---
 
-### Post #734 — Amumu199x [Interview Experiences]
+### Post #733 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 9:56 AM
 
@@ -7046,7 +7038,7 @@ senior phỏng vấn tốt liệu đc 2k ko nhỉ
 
 ---
 
-### Post #735 — dangle1907 [Interview Experiences]
+### Post #734 — dangle1907 [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 11:59 AM
 
@@ -7055,7 +7047,7 @@ haha
 
 ---
 
-### Post #736 — test_username [Interview Experiences]
+### Post #735 — test_username [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 2:38 PM
 
@@ -7063,7 +7055,7 @@ Khả năng là không bác ạ, em thấy cũng không có vẻ ai đến range
 
 ---
 
-### Post #737 — test_username [Interview Experiences]
+### Post #736 — test_username [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 2:39 PM
 
@@ -7071,7 +7063,7 @@ Cũng mới đang thôi bác, chủ yếu làm function cho product / refactor c
 
 ---
 
-### Post #738 — Amumu199x [Interview Experiences]
+### Post #737 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 4:11 PM
 
@@ -7079,7 +7071,7 @@ Ai phỏng vấn Akila chưa mình xin ít review với
 
 ---
 
-### Post #739 — shawngolang [Interview Experiences]
+### Post #738 — shawngolang [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 7:55 PM
 
@@ -7088,7 +7080,7 @@ Em không nhớ họ tuyển level gì nữa. HR bên đó contact em thì phả
 
 ---
 
-### Post #740 — shawngolang [Interview Experiences]
+### Post #739 — shawngolang [Interview Experiences]
 
 **Date:** Nov 18, 2024 at 8:03 PM
 
@@ -7097,7 +7089,7 @@ Exception mới được max con số đề ra thôi thím. Kiểu như thím g�
 
 ---
 
-### Post #741 — Shang Nguyen [Interview Experiences]
+### Post #740 — Shang Nguyen [Interview Experiences]
 
 **Date:** Nov 19, 2024 at 11:42 AM
 
@@ -7107,7 +7099,7 @@ Lần thứ 2 thì có 3 câu, 1 câu easy - mảng, 1 câu medium - quy hoạch
 
 ---
 
-### Post #742 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #741 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Nov 19, 2024 at 2:10 PM
 
@@ -7116,7 +7108,7 @@ BraveBits
 
 ---
 
-### Post #743 — test_username [Interview Experiences]
+### Post #742 — test_username [Interview Experiences]
 
 **Date:** Nov 20, 2024 at 9:57 AM
 
@@ -7124,7 +7116,7 @@ Bác nào đã từng thi & phỏng vấn tại VNPT review cho em bài thi như
 
 ---
 
-### Post #744 — shawngolang [Interview Experiences]
+### Post #743 — shawngolang [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 1:49 PM
 
@@ -7147,7 +7139,7 @@ Một vài câu hỏi khác với HR.
 
 ---
 
-### Post #745 — robertmarkdown [Interview Experiences]
+### Post #744 — robertmarkdown [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 2:25 PM
 
@@ -7155,7 +7147,7 @@ bên Minswap pv tổng bn round thế b, cty này product của 1 team cựu sv 
 
 ---
 
-### Post #746 — chiyeuemthoi [Interview Experiences]
+### Post #745 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 3:05 PM
 
@@ -7164,7 +7156,7 @@ thấy bác chịu khó pv ác
 
 ---
 
-### Post #747 — shawngolang [Interview Experiences]
+### Post #746 — shawngolang [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 3:11 PM
 
@@ -7173,7 +7165,7 @@ Em đang đợt kết quả. Đa phần job em đi phỏng vấn là các bên h
 
 ---
 
-### Post #748 — Diệp Vô Ưu [Interview Experiences]
+### Post #747 — Diệp Vô Ưu [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 5:05 PM
 
@@ -7182,7 +7174,7 @@ lâu lắm mới đi pv lại
 
 ---
 
-### Post #749 — Amumu199x [Interview Experiences]
+### Post #748 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 5:11 PM
 
@@ -7190,7 +7182,7 @@ vòng này cũng có thể tạch đc à
 
 ---
 
-### Post #750 — Diệp Vô Ưu [Interview Experiences]
+### Post #749 — Diệp Vô Ưu [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 5:13 PM
 
@@ -7198,7 +7190,7 @@ vòng này cũng có thể tạch đc à
 
 ---
 
-### Post #751 — Amumu199x [Interview Experiences]
+### Post #750 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 5:18 PM
 
@@ -7206,7 +7198,7 @@ nếu mình cố trả lời thảo mai chắc chả bh tạch đc đâu
 
 ---
 
-### Post #752 — Diệp Vô Ưu [Interview Experiences]
+### Post #751 — Diệp Vô Ưu [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 5:27 PM
 
@@ -7215,7 +7207,7 @@ muốn hỏi ae hay hỏi câu nào để soạn mấy câu thảo mai trc
 
 ---
 
-### Post #753 — Amumu199x [Interview Experiences]
+### Post #752 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 5:29 PM
 
@@ -7224,7 +7216,7 @@ Chứ kiểu định hướng này nọ họ hỏi ở vòng scan cv rồi
 
 ---
 
-### Post #754 — Diệp Vô Ưu [Interview Experiences]
+### Post #753 — Diệp Vô Ưu [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 7:57 PM
 
@@ -7234,7 +7226,7 @@ carrer path với đóng bảo hiểm như nào à
 
 ---
 
-### Post #755 — Amumu199x [Interview Experiences]
+### Post #754 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 8:06 PM
 
@@ -7242,7 +7234,7 @@ Mình hay hỏi nhất là bonus và bảo hiểm và đc hybrid ko
 
 ---
 
-### Post #756 — devbackendjv [Interview Experiences]
+### Post #755 — devbackendjv [Interview Experiences]
 
 **Date:** Nov 21, 2024 at 10:11 PM
 
@@ -7250,7 +7242,7 @@ bác có phỏng vấn chưa, cho xin review đi
 
 ---
 
-### Post #757 — gymer không tập chân [Interview Experiences]
+### Post #756 — gymer không tập chân [Interview Experiences]
 
 **Date:** Nov 22, 2024 at 8:59 AM
 
@@ -7258,7 +7250,7 @@ tui nộp cv từ tuần trước mà họ chưa reply nữa
 
 ---
 
-### Post #758 — devbackendjv [Interview Experiences]
+### Post #757 — devbackendjv [Interview Experiences]
 
 **Date:** Nov 22, 2024 at 10:56 AM
 
@@ -7266,7 +7258,7 @@ bác nộp qua đâu và apply vị trí nào v?
 
 ---
 
-### Post #759 — GeniVN [Interview Experiences]
+### Post #758 — GeniVN [Interview Experiences]
 
 **Date:** Nov 23, 2024 at 10:13 AM
 
@@ -7274,7 +7266,7 @@ cho em hỏi là mốc yoe phổ biến cho junior, mid level, senior là bao nh
 
 ---
 
-### Post #760 — minhmoon [Interview Experiences]
+### Post #759 — minhmoon [Interview Experiences]
 
 **Date:** Nov 23, 2024 at 10:42 AM
 
@@ -7283,7 +7275,7 @@ Cái này chỉ là cảm quan, nhiều bạn mới ra trường có tư duy t�
 
 ---
 
-### Post #761 — Frankie9x [Interview Experiences]
+### Post #760 — Frankie9x [Interview Experiences]
 
 **Date:** Nov 23, 2024 at 4:28 PM
 
@@ -7292,7 +7284,7 @@ Best
 
 ---
 
-### Post #762 — hieunm3538 [Interview Experiences]
+### Post #761 — hieunm3538 [Interview Experiences]
 
 **Date:** Nov 24, 2024 at 2:38 AM
 
@@ -7301,7 +7293,7 @@ Câu Restful API thì phổ biến rồi, mình làm 2 lần đều gặp
 
 ---
 
-### Post #763 — hieunm3538 [Interview Experiences]
+### Post #762 — hieunm3538 [Interview Experiences]
 
 **Date:** Nov 24, 2024 at 2:41 AM
 
@@ -7309,7 +7301,7 @@ Culture Fit tạch rất nhiều là đằng khác bác nhé. Những công ty k
 
 ---
 
-### Post #764 — bitua1412 [Interview Experiences]
+### Post #763 — bitua1412 [Interview Experiences]
 
 **Date:** Nov 24, 2024 at 5:20 PM
 
@@ -7320,7 +7312,7 @@ thường là thế
 
 ---
 
-### Post #765 — ShjRou [Interview Experiences]
+### Post #764 — ShjRou [Interview Experiences]
 
 **Date:** Nov 24, 2024 at 7:06 PM
 
@@ -7329,7 +7321,7 @@ round này ngoài test cách xử lí tình huống, còn test cả tiếng anh,
 
 ---
 
-### Post #766 — shawngolang [Interview Experiences]
+### Post #765 — shawngolang [Interview Experiences]
 
 **Date:** Nov 26, 2024 at 4:39 PM
 
@@ -7338,7 +7330,7 @@ Mấy cái này cần phải luyện và có chút kĩ năng mềm.  Anh em có 
 
 ---
 
-### Post #767 — Amumu199x [Interview Experiences]
+### Post #766 — Amumu199x [Interview Experiences]
 
 **Date:** Nov 26, 2024 at 4:44 PM
 
@@ -7347,7 +7339,7 @@ Thi thoảng mấy ô pv tech hay tiện hỏi luôn câu này mà mình cảm g
 
 ---
 
-### Post #768 — Love U So Much [Interview Experiences]
+### Post #767 — Love U So Much [Interview Experiences]
 
 **Date:** Nov 26, 2024 at 5:00 PM
 
@@ -7358,7 +7350,7 @@ Mentor ở optimizely dạy tôi là đặt mình vào hoàn cảnh người ngh
 
 ---
 
-### Post #769 — shawngolang [Interview Experiences]
+### Post #768 — shawngolang [Interview Experiences]
 
 **Date:** Nov 26, 2024 at 5:26 PM
 
@@ -7369,7 +7361,7 @@ Mấy cái này không phải câu hỏi cho có đâu thím. Tuỳ vào câu tr
 
 ---
 
-### Post #770 — hkt3215 [Interview Experiences]
+### Post #769 — hkt3215 [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 6:52 PM
 
@@ -7377,7 +7369,7 @@ Bạn có kết quả chưa ạ
 
 ---
 
-### Post #771 — rewind_repeat_it [Interview Experiences]
+### Post #770 — rewind_repeat_it [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 7:41 PM
 
@@ -7392,7 +7384,7 @@ có phải do tiêu chí hay cách hỏi của mình có vấn đề ko mn
 
 ---
 
-### Post #772 — teeeeeeeee [Interview Experiences]
+### Post #771 — teeeeeeeee [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 7:55 PM
 
@@ -7400,7 +7392,7 @@ Cụ thể đi thím, nhiều tool cũng đòi hỏi phải hiểu sâu mới bi
 
 ---
 
-### Post #773 — rewind_repeat_it [Interview Experiences]
+### Post #772 — rewind_repeat_it [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 8:06 PM
 
@@ -7414,7 +7406,7 @@ sơ bộ là vậy
 
 ---
 
-### Post #774 — Love U So Much [Interview Experiences]
+### Post #773 — Love U So Much [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 8:38 PM
 
@@ -7422,7 +7414,7 @@ Bạn hỏi level architect, đòi hỏi con nhà người ta phải nghiên c�
 
 ---
 
-### Post #775 — rewind_repeat_it [Interview Experiences]
+### Post #774 — rewind_repeat_it [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 8:46 PM
 
@@ -7431,7 +7423,7 @@ vs lại mình nghĩ tầm level mới này thì càng phải nên đi học, đ
 
 ---
 
-### Post #776 — Xiao_man_tau [Interview Experiences]
+### Post #775 — Xiao_man_tau [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 10:14 PM
 
@@ -7444,7 +7436,7 @@ Mid: Vì sao người ta nói Next.js nhanh?
 
 ---
 
-### Post #777 — rewind_repeat_it [Interview Experiences]
+### Post #776 — rewind_repeat_it [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 10:25 PM
 
@@ -7453,7 +7445,7 @@ nếu trong CV viết 1 cái, thì mình ok, viết 2,3 cái thì mình assume l
 
 ---
 
-### Post #778 — Love U So Much [Interview Experiences]
+### Post #777 — Love U So Much [Interview Experiences]
 
 **Date:** Dec 4, 2024 at 10:39 PM
 
@@ -7461,7 +7453,7 @@ Khi nào dùng mysql, khi nào dùng postgres. Tôi dùng cả 2 trong nhiều n
 
 ---
 
-### Post #779 — chiyeuemthoi [Interview Experiences]
+### Post #778 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Dec 5, 2024 at 9:25 AM
 
@@ -7469,7 +7461,7 @@ trc bị hỏi kiểu này bị dập tơi bời nhưng mà cũng bt được l�
 
 ---
 
-### Post #780 — luzstar [Interview Experiences]
+### Post #779 — luzstar [Interview Experiences]
 
 **Date:** Dec 5, 2024 at 11:30 AM
 
@@ -7479,7 +7471,7 @@ Ví dụ như câu bạn hỏi NoSQL và SQL có gì khác nhau, thực ra là m
 
 ---
 
-### Post #781 — Shang Nguyen [Interview Experiences]
+### Post #780 — Shang Nguyen [Interview Experiences]
 
 **Date:** Dec 5, 2024 at 11:31 AM
 
@@ -7487,7 +7479,7 @@ E xin review công ty Astek Vietnam (HCM site) và công ty CBTW (tiền thân l
 
 ---
 
-### Post #782 — rewind_repeat_it [Interview Experiences]
+### Post #781 — rewind_repeat_it [Interview Experiences]
 
 **Date:** Dec 5, 2024 at 11:37 AM
 
@@ -7497,7 +7489,7 @@ có lẽ do mình đang expect không đúng
 
 ---
 
-### Post #783 — cuongstar9x [Interview Experiences]
+### Post #782 — cuongstar9x [Interview Experiences]
 
 **Date:** Dec 5, 2024 at 10:48 PM
 
@@ -7505,7 +7497,7 @@ thằng này lại đổi tên nữa à
 
 ---
 
-### Post #784 — Shang Nguyen [Interview Experiences]
+### Post #783 — Shang Nguyen [Interview Experiences]
 
 **Date:** Dec 13, 2024 at 2:49 PM
 
@@ -7513,7 +7505,7 @@ vâng bác, thấy bảo là gộp các công ty con lại, đổi tên, đổi 
 
 ---
 
-### Post #785 — shawngolang [Interview Experiences]
+### Post #784 — shawngolang [Interview Experiences]
 
 **Date:** Dec 16, 2024 at 2:19 PM
 
@@ -7529,7 +7521,7 @@ Cần chuẩn bị: kiến thức nền tảng về CS level đại học, leetc
 
 ---
 
-### Post #786 — nvt6301 [Interview Experiences]
+### Post #785 — nvt6301 [Interview Experiences]
 
 **Date:** Dec 16, 2024 at 2:36 PM
 
@@ -7537,7 +7529,7 @@ Em apply junior thì mới pass vòng OA trên hackerrank, tuần này mới đ�
 
 ---
 
-### Post #787 — shawngolang [Interview Experiences]
+### Post #786 — shawngolang [Interview Experiences]
 
 **Date:** Dec 16, 2024 at 2:59 PM
 
@@ -7547,7 +7539,7 @@ Với em thì hơi khó do hơi ngu leetcode, nhưng có thể với thím thì 
 
 ---
 
-### Post #788 — mr.fly1112 [Interview Experiences]
+### Post #787 — mr.fly1112 [Interview Experiences]
 
 **Date:** Dec 17, 2024 at 6:53 AM
 
@@ -7555,7 +7547,7 @@ Với em thì hơi khó do hơi ngu leetcode, nhưng có thể với thím thì 
 
 ---
 
-### Post #789 — vozerbanpho [Interview Experiences]
+### Post #788 — vozerbanpho [Interview Experiences]
 
 **Date:** Dec 17, 2024 at 1:43 PM
 
@@ -7563,7 +7555,7 @@ Bác nào phỏng vấn CoverGo, GTV cho em xin ít review vị trí java dev v�
 
 ---
 
-### Post #790 — hoangphi1650 [Interview Experiences]
+### Post #789 — hoangphi1650 [Interview Experiences]
 
 **Date:** Dec 17, 2024 at 1:49 PM
 
@@ -7571,7 +7563,7 @@ Process pv thằng sau chưa bác ?
 
 ---
 
-### Post #791 — shawngolang [Interview Experiences]
+### Post #790 — shawngolang [Interview Experiences]
 
 **Date:** Dec 17, 2024 at 3:02 PM
 
@@ -7579,7 +7571,7 @@ Em chỉ tìm trên linkedin thôi. Mà đợt này cũng ít job level junior l
 
 ---
 
-### Post #792 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #791 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Dec 17, 2024 at 3:51 PM
 
@@ -7587,7 +7579,7 @@ này full eng à bác , range lương hình như thấy bác share 1500$ nhỉ
 
 ---
 
-### Post #793 — shawngolang [Interview Experiences]
+### Post #792 — shawngolang [Interview Experiences]
 
 **Date:** Dec 18, 2024 at 12:24 AM
 
@@ -7595,7 +7587,7 @@ Full Eng đó thím. range lương thì em không rõ vì cũng không biết b�
 
 ---
 
-### Post #794 — atiredion [Interview Experiences]
+### Post #793 — atiredion [Interview Experiences]
 
 **Date:** Dec 18, 2024 at 9:32 AM
 
@@ -7604,7 +7596,7 @@ Thanks
 
 ---
 
-### Post #795 — lam2000 [Interview Experiences]
+### Post #794 — lam2000 [Interview Experiences]
 
 **Date:** Dec 18, 2024 at 9:40 AM
 
@@ -7616,7 +7608,7 @@ www.linkedin.com
 
 ---
 
-### Post #796 — red_orignal [Interview Experiences]
+### Post #795 — red_orignal [Interview Experiences]
 
 **Date:** Dec 18, 2024 at 5:02 PM
 
@@ -7624,7 +7616,7 @@ Em phỏng vấn junior với một ex google bên này thấy nói chuyện th�
 
 ---
 
-### Post #797 — red_orignal [Interview Experiences]
+### Post #796 — red_orignal [Interview Experiences]
 
 **Date:** Dec 19, 2024 at 6:24 PM
 
@@ -7632,7 +7624,7 @@ Ngài pv xong bao ngày return offer đó ngài
 
 ---
 
-### Post #798 — shawngolang [Interview Experiences]
+### Post #797 — shawngolang [Interview Experiences]
 
 **Date:** Dec 19, 2024 at 10:40 PM
 
@@ -7643,7 +7635,7 @@ Như đợt nọ em thích bên SAP lắm vì anh HR super nice, support siêu n
 
 ---
 
-### Post #799 — Shang Nguyen [Interview Experiences]
+### Post #798 — Shang Nguyen [Interview Experiences]
 
 **Date:** Dec 23, 2024 at 11:35 AM
 
@@ -7652,7 +7644,7 @@ Hr liên hệ trước để giới thiệu về công ty, là công ty Pháp, k
 
 ---
 
-### Post #800 — JinggeNt [Interview Experiences]
+### Post #799 — JinggeNt [Interview Experiences]
 
 **Date:** Dec 23, 2024 at 6:34 PM
 
@@ -7660,7 +7652,7 @@ Có bác nào phỏng vấn bên Thinkprompt level 1yoe chưa em xin kinh nghi�
 
 ---
 
-### Post #801 — Ng Trung Thien [Interview Experiences]
+### Post #800 — Ng Trung Thien [Interview Experiences]
 
 **Date:** Dec 24, 2024 at 4:51 PM
 
@@ -7668,7 +7660,7 @@ Sắp tới e có cuộc pv bên đó, cho e hỏi bên đó pv english căng ko
 
 ---
 
-### Post #802 — shawngolang [Interview Experiences]
+### Post #801 — shawngolang [Interview Experiences]
 
 **Date:** Dec 24, 2024 at 7:54 PM
 
@@ -7678,7 +7670,7 @@ Em chưa hiểu lắm thím lo lắng gì. Dù họ có yêu cầu cao hay thấ
 
 ---
 
-### Post #803 — vozerbanpho [Interview Experiences]
+### Post #802 — vozerbanpho [Interview Experiences]
 
 **Date:** Dec 24, 2024 at 9:16 PM
 
@@ -7686,7 +7678,7 @@ Bên SAP Labs leetcode đến mức medium-hard không bác.
 
 ---
 
-### Post #804 — vanphuoc1029 [Interview Experiences]
+### Post #803 — vanphuoc1029 [Interview Experiences]
 
 **Date:** Dec 30, 2024 at 9:19 PM
 
@@ -7695,7 +7687,7 @@ Có anh chị nào từng phỏng vấn bên này chưa ạ?? Em k biết gì v�
 
 ---
 
-### Post #805 — Sinlee [Interview Experiences]
+### Post #804 — Sinlee [Interview Experiences]
 
 **Date:** Dec 30, 2024 at 9:27 PM
 
@@ -7703,7 +7695,7 @@ bác có học bk ko nhể?bên money forward cũng mới về bên bk làm semi
 
 ---
 
-### Post #806 — Sinlee [Interview Experiences]
+### Post #805 — Sinlee [Interview Experiences]
 
 **Date:** Dec 30, 2024 at 9:32 PM
 
@@ -7711,7 +7703,7 @@ với cho e hỏi bài test khó ko ạ?
 
 ---
 
-### Post #807 — vanphuoc1029 [Interview Experiences]
+### Post #806 — vanphuoc1029 [Interview Experiences]
 
 **Date:** Dec 30, 2024 at 10:29 PM
 
@@ -7722,7 +7714,7 @@ for iPhone
 
 ---
 
-### Post #808 — gaconkute [Interview Experiences]
+### Post #807 — gaconkute [Interview Experiences]
 
 **Date:** Jan 3, 2025 at 11:38 AM
 
@@ -7730,7 +7722,7 @@ cho hỏi thăm anh Harry EM nhé
 
 ---
 
-### Post #809 — vozerbanpho [Interview Experiences]
+### Post #808 — vozerbanpho [Interview Experiences]
 
 **Date:** Jan 3, 2025 at 11:46 AM
 
@@ -7775,7 +7767,7 @@ Ngoại ngữ
 
 ---
 
-### Post #810 — tobecontinue [Interview Experiences]
+### Post #809 — tobecontinue [Interview Experiences]
 
 **Date:** Jan 3, 2025 at 1:13 PM
 
@@ -7784,7 +7776,7 @@ Võ lâm toàn cao thủ ẩn mình chờ thời cơ. Apply cả tháng s
 
 ---
 
-### Post #811 — mr.fly1112 [Interview Experiences]
+### Post #810 — mr.fly1112 [Interview Experiences]
 
 **Date:** Jan 5, 2025 at 10:43 AM
 
@@ -7801,7 +7793,7 @@ Phỏng vấn: 1 round duy nhất, 10' đầu cũng full engish. Team chủ yế
 
 ---
 
-### Post #812 — sharkkaizer [Interview Experiences]
+### Post #811 — sharkkaizer [Interview Experiences]
 
 **Date:** Jan 5, 2025 at 11:08 AM
 
@@ -7812,7 +7804,7 @@ Nói chung cũng dễ, mình trả lời ko tốt lắm mà vẫn đậu
 
 ---
 
-### Post #813 — vanphuoc1029 [Interview Experiences]
+### Post #812 — vanphuoc1029 [Interview Experiences]
 
 **Date:** Jan 5, 2025 at 11:09 AM
 
@@ -7820,7 +7812,7 @@ bác phỏng vấn level gì vậy ạ ?
 
 ---
 
-### Post #814 — sharkkaizer [Interview Experiences]
+### Post #813 — sharkkaizer [Interview Experiences]
 
 **Date:** Jan 5, 2025 at 11:11 AM
 
@@ -7828,7 +7820,7 @@ Mình pv junior BE lúc đó tầm 2 năm kinh nghiệm
 
 ---
 
-### Post #815 — vanphuoc1029 [Interview Experiences]
+### Post #814 — vanphuoc1029 [Interview Experiences]
 
 **Date:** Jan 5, 2025 at 11:12 AM
 
@@ -7836,7 +7828,7 @@ Vâng, em phỏng vấn intern. Hiện tại vẫn đang xem qua cú pháp của
 
 ---
 
-### Post #816 — Frankie9x [Interview Experiences]
+### Post #815 — Frankie9x [Interview Experiences]
 
 **Date:** Jan 6, 2025 at 10:23 AM
 
@@ -7844,7 +7836,7 @@ Fs nay cũng live coding algo luôn
 
 ---
 
-### Post #817 — Amumu199x [Interview Experiences]
+### Post #816 — Amumu199x [Interview Experiences]
 
 **Date:** Jan 6, 2025 at 11:50 AM
 
@@ -7852,7 +7844,7 @@ khách hàng là cha là mẹ mà
 
 ---
 
-### Post #818 — chiyeuemthoi [Interview Experiences]
+### Post #817 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Jan 6, 2025 at 12:08 PM
 
@@ -7860,7 +7852,7 @@ khách đòi phải theo thôi
 
 ---
 
-### Post #819 — minhmoon [Interview Experiences]
+### Post #818 — minhmoon [Interview Experiences]
 
 **Date:** Jan 6, 2025 at 12:57 PM
 
@@ -7869,7 +7861,7 @@ https://leetcode.com/problems/house-robber/
 
 ---
 
-### Post #820 — kusoipro [Interview Experiences]
+### Post #819 — kusoipro [Interview Experiences]
 
 **Date:** Jan 6, 2025 at 5:39 PM
 
@@ -7877,7 +7869,7 @@ r giải được k thím, nhìn có vẻ khoai
 
 ---
 
-### Post #821 — devinnguyen111 [Interview Experiences]
+### Post #820 — devinnguyen111 [Interview Experiences]
 
 **Date:** Jan 7, 2025 at 4:08 AM
 
@@ -7885,7 +7877,7 @@ Bác ơi, bác review cho e với, em cũng mới nhận mail r1 làm video inte
 
 ---
 
-### Post #822 — gitlab [Interview Experiences]
+### Post #821 — gitlab [Interview Experiences]
 
 **Date:** Jan 7, 2025 at 9:09 AM
 
@@ -7909,7 +7901,7 @@ Khá là đuối
 
 ---
 
-### Post #823 — test_username [Interview Experiences]
+### Post #822 — test_username [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 3:16 AM
 
@@ -7918,7 +7910,7 @@ Tình hình thì em hay code JavaScript, giờ phải code C++ hoặc Java nên 
 
 ---
 
-### Post #824 — billjoy2017 [Interview Experiences]
+### Post #823 — billjoy2017 [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 10:43 AM
 
@@ -7926,7 +7918,7 @@ Cho mình hỏi range lương vị trí này tầm bao nhiều và onsite nc ngo
 
 ---
 
-### Post #825 — sinh_vien_nợ_môn [Interview Experiences]
+### Post #824 — sinh_vien_nợ_môn [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 11:16 AM
 
@@ -7934,7 +7926,7 @@ range lương này ướm tầm nhiêu bác nhỉ, em cũng đang chuẩn bị c
 
 ---
 
-### Post #826 — monads [Interview Experiences]
+### Post #825 — monads [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 11:18 AM
 
@@ -7980,7 +7972,7 @@ Phỏng vấn:
 
 ---
 
-### Post #827 — gitlab [Interview Experiences]
+### Post #826 — gitlab [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 3:48 PM
 
@@ -7990,7 +7982,7 @@ Range thì mình báo là 3k5-4k thì họ ok process, k biết nếu đậu th�
 
 ---
 
-### Post #828 — Frankie9x [Interview Experiences]
+### Post #827 — Frankie9x [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 4:24 PM
 
@@ -7998,7 +7990,7 @@ Implement trên IDE luôn hay white board vậy b?
 
 ---
 
-### Post #829 — mr.fly1112 [Interview Experiences]
+### Post #828 — mr.fly1112 [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 7:30 PM
 
@@ -8006,7 +7998,7 @@ Implement trên IDE luôn hay white board vậy b?
 
 ---
 
-### Post #830 — gitlab [Interview Experiences]
+### Post #829 — gitlab [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 8:32 PM
 
@@ -8014,7 +8006,7 @@ Implement trên cái IDE của hackerrank luôn nhé bạn
 
 ---
 
-### Post #831 — Link22 [Interview Experiences]
+### Post #830 — Link22 [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 11:04 PM
 
@@ -8022,7 +8014,7 @@ Em có thể xin bác bài test công ty Create force và Optimizely được ko
 
 ---
 
-### Post #832 — monads [Interview Experiences]
+### Post #831 — monads [Interview Experiences]
 
 **Date:** Jan 8, 2025 at 11:37 PM
 
@@ -8030,7 +8022,7 @@ Cái này thì mình không share được. Nếu bạn apply thì sẽ có bài
 
 ---
 
-### Post #833 — bitua1412 [Interview Experiences]
+### Post #832 — bitua1412 [Interview Experiences]
 
 **Date:** Jan 9, 2025 at 7:22 AM
 
@@ -8039,7 +8031,7 @@ ko biết các bác ở đây cày eng như thế nào để có thể pv bằng
 
 ---
 
-### Post #834 — troioidaucatmoi [Interview Experiences]
+### Post #833 — troioidaucatmoi [Interview Experiences]
 
 **Date:** Jan 9, 2025 at 7:59 AM
 
@@ -8047,7 +8039,7 @@ ko biết các bác ở đây cày eng như thế nào để có thể pv bằng
 
 ---
 
-### Post #835 — bitua1412 [Interview Experiences]
+### Post #834 — bitua1412 [Interview Experiences]
 
 **Date:** Jan 10, 2025 at 7:30 AM
 
@@ -8055,7 +8047,7 @@ kiểu là mình ko biết các bác đang đi làm thì dành thời gian và p
 
 ---
 
-### Post #836 — Love U So Much [Interview Experiences]
+### Post #835 — Love U So Much [Interview Experiences]
 
 **Date:** Jan 10, 2025 at 8:39 AM
 
@@ -8063,7 +8055,7 @@ Tôi học qua điện thoại, tai nghe. Gần 1 năm với mấy cái app ti�
 
 ---
 
-### Post #837 — Lên Đây Tâm Sự 3 [Interview Experiences]
+### Post #836 — Lên Đây Tâm Sự 3 [Interview Experiences]
 
 **Date:** Jan 10, 2025 at 12:21 PM
 
@@ -8071,7 +8063,7 @@ Bài test của optimizely vs creative force là dạng thuật toán hay dạng
 
 ---
 
-### Post #838 — Amumu199x [Interview Experiences]
+### Post #837 — Amumu199x [Interview Experiences]
 
 **Date:** Jan 10, 2025 at 4:49 PM
 
@@ -8079,7 +8071,7 @@ mình cũng vậy nhưng chủ yếu chắc do lười. bạn học cách nào c
 
 ---
 
-### Post #839 — Amumu199x [Interview Experiences]
+### Post #838 — Amumu199x [Interview Experiences]
 
 **Date:** Jan 10, 2025 at 5:03 PM
 
@@ -8087,7 +8079,7 @@ mình cũng vậy nhưng chủ yếu chắc do lười. bạn học cách nào c
 
 ---
 
-### Post #840 — khongchicode [Interview Experiences]
+### Post #839 — khongchicode [Interview Experiences]
 
 **Date:** Jan 14, 2025 at 5:43 PM
 
@@ -8095,7 +8087,7 @@ Chào các fence, e đang làm tại công ty Z mà chán quá ra tết muốn n
 
 ---
 
-### Post #841 — ShjRou [Interview Experiences]
+### Post #840 — ShjRou [Interview Experiences]
 
 **Date:** Jan 17, 2025 at 12:43 PM
 
@@ -8103,7 +8095,7 @@ Chưa apply, chưa pv, chưa gì hết, đã lo có bị hố ko
 
 ---
 
-### Post #842 — monads [Interview Experiences]
+### Post #841 — monads [Interview Experiences]
 
 **Date:** Jan 17, 2025 at 12:59 PM
 
@@ -8111,7 +8103,7 @@ Công việc hàng ngày phen có trao đổi technical bằng tiếng Anh khôn
 
 ---
 
-### Post #843 — bitua1412 [Interview Experiences]
+### Post #842 — bitua1412 [Interview Experiences]
 
 **Date:** Jan 17, 2025 at 2:02 PM
 
@@ -8119,7 +8111,7 @@ công việc hiện tại thì chỉ có mail miếc, đọc document hoặc cha
 
 ---
 
-### Post #844 — luiz [Interview Experiences]
+### Post #843 — luiz [Interview Experiences]
 
 **Date:** Jan 17, 2025 at 5:01 PM
 
@@ -8127,7 +8119,7 @@ Học thôi, chịu khó thuê tutor training online cũng được
 
 ---
 
-### Post #845 — 13121111 [Interview Experiences]
+### Post #844 — 13121111 [Interview Experiences]
 
 **Date:** Jan 23, 2025 at 5:18 PM
 
@@ -8155,7 +8147,7 @@ Mỗi tội tạch
 
 ---
 
-### Post #846 — monads [Interview Experiences]
+### Post #845 — monads [Interview Experiences]
 
 **Date:** Jan 23, 2025 at 6:12 PM
 
@@ -8175,7 +8167,7 @@ Bên này process rất nhanh, round 1 phỏng vấn xong mấy tiếng thì có
 
 ---
 
-### Post #847 — monads [Interview Experiences]
+### Post #846 — monads [Interview Experiences]
 
 **Date:** Jan 23, 2025 at 6:54 PM
 
@@ -8183,7 +8175,7 @@ Mình ở HN. Nếu offer đủ tốt thì có thể cân nhắc relocate.
 
 ---
 
-### Post #848 — FreshLime [Interview Experiences]
+### Post #847 — FreshLime [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 1:26 PM
 
@@ -8198,7 +8190,7 @@ Phỏng vấn technical với 2 anh VN tiếng Việt chủ yếu hỏi lý thuy
 
 ---
 
-### Post #849 — troioidaucatmoi [Interview Experiences]
+### Post #848 — troioidaucatmoi [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 1:28 PM
 
@@ -8206,7 +8198,7 @@ Hackerrank j 8 tiếng fen
 
 ---
 
-### Post #850 — FreshLime [Interview Experiences]
+### Post #849 — FreshLime [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 1:30 PM
 
@@ -8215,7 +8207,7 @@ Hackerrank j 8 tiếng fen
 
 ---
 
-### Post #851 — FreshLime [Interview Experiences]
+### Post #850 — FreshLime [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 1:32 PM
 
@@ -8224,7 +8216,7 @@ Em làm cỡ 4 tiếng do FE cũng làm khá lâu
 
 ---
 
-### Post #852 — cit91 [Interview Experiences]
+### Post #851 — cit91 [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 4:17 PM
 
@@ -8232,7 +8224,7 @@ Vãi thật OA test tận 8h
 
 ---
 
-### Post #853 — caothuphu2013 [Interview Experiences]
+### Post #852 — caothuphu2013 [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 4:25 PM
 
@@ -8240,7 +8232,7 @@ cty này còn sống à? Trả thấp lắm ae =)
 
 ---
 
-### Post #854 — luiz [Interview Experiences]
+### Post #853 — luiz [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 5:04 PM
 
@@ -8248,7 +8240,7 @@ Quả test 8 tiếng này thì nên trả lương cho người đi pv
 
 ---
 
-### Post #855 — FreshLime [Interview Experiences]
+### Post #854 — FreshLime [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 5:08 PM
 
@@ -8257,7 +8249,7 @@ Deal 11m thấy im im xong đi về là thấy tạch rồi
 
 ---
 
-### Post #856 — kane12345 [Interview Experiences]
+### Post #855 — kane12345 [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 7:07 PM
 
@@ -8265,7 +8257,7 @@ Anh ơi pv như nào vậy anh
 
 ---
 
-### Post #857 — kane12345 [Interview Experiences]
+### Post #856 — kane12345 [Interview Experiences]
 
 **Date:** Jan 24, 2025 at 7:08 PM
 
@@ -8273,7 +8265,7 @@ Anh ơi pv ngư nào vậy anh
 
 ---
 
-### Post #858 — aichachaccc [Interview Experiences]
+### Post #857 — aichachaccc [Interview Experiences]
 
 **Date:** Feb 5, 2025 at 12:22 AM
 
@@ -8281,7 +8273,7 @@ sao r bác, e cũng vừa nhận
 
 ---
 
-### Post #859 — haiphan2411 [Interview Experiences]
+### Post #858 — haiphan2411 [Interview Experiences]
 
 **Date:** Feb 5, 2025 at 1:37 AM
 
@@ -8290,7 +8282,7 @@ mình nghe bảo cty này làm bên dịch vụ HR/TA nên lấy hồ sơ mình 
 
 ---
 
-### Post #860 — Sena Mohamed [Interview Experiences]
+### Post #859 — Sena Mohamed [Interview Experiences]
 
 **Date:** Feb 5, 2025 at 10:10 PM
 
@@ -8299,7 +8291,7 @@ Tuyển dụng nexon, việc làm IT chất nhất tại Viet Nam | ITviec (http
 
 ---
 
-### Post #861 — Dragon Fire [Interview Experiences]
+### Post #860 — Dragon Fire [Interview Experiences]
 
 **Date:** Feb 5, 2025 at 10:24 PM
 
@@ -8307,7 +8299,7 @@ Mình cũng interview cty Nexon mà deal trên 600$ vẫn accept nhé với role
 
 ---
 
-### Post #862 — FreshLime [Interview Experiences]
+### Post #861 — FreshLime [Interview Experiences]
 
 **Date:** Feb 5, 2025 at 11:36 PM
 
@@ -8315,7 +8307,7 @@ chúc mừng bác nhé, chắc do em skill issue không match với bên họ.
 
 ---
 
-### Post #863 — zzsakura2020 [Interview Experiences]
+### Post #862 — zzsakura2020 [Interview Experiences]
 
 **Date:** Feb 6, 2025 at 10:10 AM
 
@@ -8332,7 +8324,7 @@ Em cảm ơn
 
 ---
 
-### Post #864 — hold_on_never_leave [Interview Experiences]
+### Post #863 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Feb 6, 2025 at 10:14 AM
 
@@ -8340,7 +8332,7 @@ interview về xong lên đây share nhé fen
 
 ---
 
-### Post #865 — h_ngyn [Interview Experiences]
+### Post #864 — h_ngyn [Interview Experiences]
 
 **Date:** Feb 6, 2025 at 11:53 AM
 
@@ -8349,7 +8341,7 @@ Thế mà lại muốn người khác chia sẻ cho mình là sao?
 
 ---
 
-### Post #866 — shawngolang [Interview Experiences]
+### Post #865 — shawngolang [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 3:59 PM
 
@@ -8375,7 +8367,7 @@ Thực sự nửa năm qua em chưa có phát triển thêm được gì. Kiểu
 
 ---
 
-### Post #867 — NhatVodka [Interview Experiences]
+### Post #866 — NhatVodka [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 4:11 PM
 
@@ -8383,7 +8375,7 @@ bác pv vị trí gì với chia sẻ thêm chỗ làm gì để level up bản 
 
 ---
 
-### Post #868 — shawngolang [Interview Experiences]
+### Post #867 — shawngolang [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 4:43 PM
 
@@ -8395,7 +8387,7 @@ Mấy cái này rất rất tốn thời gian. Ngày xưa đi làm cứ bị qua
 
 ---
 
-### Post #869 — chiyeuemthoi [Interview Experiences]
+### Post #868 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 5:02 PM
 
@@ -8403,7 +8395,7 @@ Go k cho dùng lib ngoài à fen thấy leet có cho dùng DS lib
 
 ---
 
-### Post #870 — hold_on_never_leave [Interview Experiences]
+### Post #869 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 5:07 PM
 
@@ -8411,7 +8403,7 @@ axon process lạ thế, thường là 1 round 1h vs 1 round 4h mà nhỉ
 
 ---
 
-### Post #871 — shawngolang [Interview Experiences]
+### Post #870 — shawngolang [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 5:25 PM
 
@@ -8421,7 +8413,7 @@ Pass round manager mới tới 2 round đó thím ạ
 
 ---
 
-### Post #872 — bitua1412 [Interview Experiences]
+### Post #871 — bitua1412 [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 5:56 PM
 
@@ -8430,7 +8422,7 @@ ko biết có phải rơi vào case của bác ko
 
 ---
 
-### Post #873 — ShjRou [Interview Experiences]
+### Post #872 — ShjRou [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 6:00 PM
 
@@ -8438,7 +8430,7 @@ Round 1h là với Manager đó. Pass round đó ms đến round 4h. Mà hỏi t
 
 ---
 
-### Post #874 — vagabol [Interview Experiences]
+### Post #873 — vagabol [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 6:58 PM
 
@@ -8454,7 +8446,7 @@ Vừa nhận mail rớt hôm qua, cũng hơi tiếc tại cũng làm hết đc t
 
 ---
 
-### Post #875 — FreshLime [Interview Experiences]
+### Post #874 — FreshLime [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 7:01 PM
 
@@ -8462,7 +8454,7 @@ Mới ra trường offer cty 25m là bác giỏi lắm rồi. Em giờ cứ rớ
 
 ---
 
-### Post #876 — vagabol [Interview Experiences]
+### Post #875 — vagabol [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 7:12 PM
 
@@ -8470,7 +8462,7 @@ H tìm được chỗ trả 25m giống bên kia cũng khó :_) lúc đó thấy
 
 ---
 
-### Post #877 — chiyeuemthoi [Interview Experiences]
+### Post #876 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 7:15 PM
 
@@ -8478,7 +8470,7 @@ pass dc mid cũg đỉnh rồi bác e nộp CV axon còn k dc pass
 
 ---
 
-### Post #878 — FreshLime [Interview Experiences]
+### Post #877 — FreshLime [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 7:17 PM
 
@@ -8486,7 +8478,7 @@ Bác apply middle vẫn pass thì tìm việc khác không khó đâu.
 
 ---
 
-### Post #879 — ShjRou [Interview Experiences]
+### Post #878 — ShjRou [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 7:40 PM
 
@@ -8494,7 +8486,7 @@ Sao ko nhận offer rồi ôn pv tiếp. Làm gì cũng phải có đường lui
 
 ---
 
-### Post #880 — hold_on_never_leave [Interview Experiences]
+### Post #879 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 7:40 PM
 
@@ -8503,7 +8495,7 @@ mình là 2 dev vào interview thôi
 
 ---
 
-### Post #881 — kingsmank20 [Interview Experiences]
+### Post #880 — kingsmank20 [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 7:45 PM
 
@@ -8511,7 +8503,7 @@ Bác giỏi quá, Hcmus hay sao nhỉ. Chắc bác đi làm 1 năm rồi nhỉ.
 
 ---
 
-### Post #882 — vagabol [Interview Experiences]
+### Post #881 — vagabol [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 7:57 PM
 
@@ -8520,7 +8512,7 @@ Hông mình FPT thôi bạn, 1 năm làm cho VNG, Hcmus mình có bạn hồi x�
 
 ---
 
-### Post #883 — Rossykini [Interview Experiences]
+### Post #882 — Rossykini [Interview Experiences]
 
 **Date:** Feb 7, 2025 at 9:11 PM
 
@@ -8528,7 +8520,7 @@ Trong đây có ai phỏng vấn ở Nexon vị trí Unity Dev Fresher chưa ạ
 
 ---
 
-### Post #884 — shawngolang [Interview Experiences]
+### Post #883 — shawngolang [Interview Experiences]
 
 **Date:** Feb 9, 2025 at 2:56 PM
 
@@ -8536,7 +8528,7 @@ Em có import thủ công mà không được. IDE nó báo lỗi. Giờ vào l�
 
 ---
 
-### Post #885 — kangtk [Interview Experiences]
+### Post #884 — kangtk [Interview Experiences]
 
 **Date:** Feb 9, 2025 at 3:43 PM
 
@@ -8544,7 +8536,7 @@ Bác có biết ở aspire nếu pass round đó thì có pv mấy round nữa k
 
 ---
 
-### Post #886 — GeniVN [Interview Experiences]
+### Post #885 — GeniVN [Interview Experiences]
 
 **Date:** Feb 9, 2025 at 9:13 PM
 
@@ -8555,7 +8547,7 @@ Mình rớt từ vòng gửi xe nên k review thêm cho các bác được
 
 ---
 
-### Post #887 — Brenda.Othello [Interview Experiences]
+### Post #886 — Brenda.Othello [Interview Experiences]
 
 **Date:** Feb 13, 2025 at 10:59 PM
 
@@ -8563,7 +8555,7 @@ Làm ở đâu mà chưa ra trường tận 50m vậy bác
 
 ---
 
-### Post #888 — GeniVN [Interview Experiences]
+### Post #887 — GeniVN [Interview Experiences]
 
 **Date:** Feb 13, 2025 at 11:28 PM
 
@@ -8571,7 +8563,7 @@ chưa ra trường đã 50m, hoành tráng phết nhỉ, có CP, junior thì ch�
 
 ---
 
-### Post #889 — devquenok [Interview Experiences]
+### Post #888 — devquenok [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 9:29 AM
 
@@ -8579,7 +8571,7 @@ SV chưa ra trường mà đã intermediate ở EH rồi, bh nhiều cu giỏi t
 
 ---
 
-### Post #890 — anti_antifankpop [Interview Experiences]
+### Post #889 — anti_antifankpop [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 9:45 AM
 
@@ -8587,7 +8579,7 @@ hiển nhiên, thời đại giờ thay đổi nhanh, đâu như 15-20 năm 
 
 ---
 
-### Post #891 — Overlord_Toc6 [Interview Experiences]
+### Post #890 — Overlord_Toc6 [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 12:03 PM
 
@@ -8595,7 +8587,7 @@ Bác cho xin knghiem với, e mới nhận đc mail pcan vòng 1
 
 ---
 
-### Post #892 — mr.fly1112 [Interview Experiences]
+### Post #891 — mr.fly1112 [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 12:38 PM
 
@@ -8603,7 +8595,7 @@ Thời này các cháu cũng nhanh nhạy hơn, định hướng ngành nghề t
 
 ---
 
-### Post #893 — mr.fly1112 [Interview Experiences]
+### Post #892 — mr.fly1112 [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 12:38 PM
 
@@ -8611,7 +8603,7 @@ Thời này các cháu cũng nhanh nhạy hơn, định hướng ngành nghề t
 
 ---
 
-### Post #894 — bitua1412 [Interview Experiences]
+### Post #893 — bitua1412 [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 2:09 PM
 
@@ -8619,7 +8611,7 @@ vcl chưa ra trường lương 50tr EH, trong khi mình 5-6 năm exp nộp vào 
 
 ---
 
-### Post #895 — hold_on_never_leave [Interview Experiences]
+### Post #894 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 2:25 PM
 
@@ -8627,7 +8619,7 @@ EH tầm 1-2 năm nay chuộng talent, nên profile xịn là pass, còn 5-6 nă
 
 ---
 
-### Post #896 — bitua1412 [Interview Experiences]
+### Post #895 — bitua1412 [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 2:29 PM
 
@@ -8635,7 +8627,7 @@ nhục nhã hơn là mình cũng apply vị trí intermediate nữa chứ
 
 ---
 
-### Post #897 — hold_on_never_leave [Interview Experiences]
+### Post #896 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 2:33 PM
 
@@ -8643,7 +8635,7 @@ intermediate, 5-6 yoe mà ko pass thì chắc do hiring manager ko thích fen r
 
 ---
 
-### Post #898 — SadboiTMT [Interview Experiences]
+### Post #897 — SadboiTMT [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 3:01 PM
 
@@ -8651,7 +8643,7 @@ bỏ bớt xuống còn 3 năm thử xem fen
 
 ---
 
-### Post #899 — vagabol [Interview Experiences]
+### Post #898 — vagabol [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 5:22 PM
 
@@ -8659,7 +8651,7 @@ E thì không muốn nói rõ ra sợ ai mọi người dễ dò được ai, t�
 
 ---
 
-### Post #900 — bitua1412 [Interview Experiences]
+### Post #899 — bitua1412 [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 5:24 PM
 
@@ -8668,7 +8660,7 @@ còn bác giỏi thì tất nhiên sẽ có mức lương tương xứng rồi
 
 ---
 
-### Post #901 — engineerga [Interview Experiences]
+### Post #900 — engineerga [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 7:45 PM
 
@@ -8677,7 +8669,7 @@ https://www.linkedin.com/in/minhthao-ha/
 
 ---
 
-### Post #902 — h_ngyn [Interview Experiences]
+### Post #901 — h_ngyn [Interview Experiences]
 
 **Date:** Feb 14, 2025 at 11:28 PM
 
@@ -8686,7 +8678,7 @@ Btw, fen này leo rank cũng kinh đấy, nhớ hồi phỏng vấn ở EH thấ
 
 ---
 
-### Post #903 — kusoipro [Interview Experiences]
+### Post #902 — kusoipro [Interview Experiences]
 
 **Date:** Feb 15, 2025 at 11:13 AM
 
@@ -8694,7 +8686,7 @@ mình 7 năm cũng mới pass Intermediate đây, bên này Senior phải cứng
 
 ---
 
-### Post #904 — devquenok [Interview Experiences]
+### Post #903 — devquenok [Interview Experiences]
 
 **Date:** Feb 15, 2025 at 11:17 AM
 
@@ -8702,7 +8694,7 @@ Mỗi cái ACM trong CV là pass cv bao nhiêu cty rồi, cái giải đó thự
 
 ---
 
-### Post #905 — conlon_gamtoi [Interview Experiences]
+### Post #904 — conlon_gamtoi [Interview Experiences]
 
 **Date:** Feb 15, 2025 at 11:45 AM
 
@@ -8710,7 +8702,7 @@ Cũng có thể đấy, mấy người tốt nghiệp Thủ khoa khối CNTT là
 
 ---
 
-### Post #906 — namkt123 [Interview Experiences]
+### Post #905 — namkt123 [Interview Experiences]
 
 **Date:** Feb 24, 2025 at 2:18 PM
 
@@ -8718,7 +8710,7 @@ Ominext fresher đc 18 thế tầm middle 3, 4 năm kn mình offer đc bn a
 
 ---
 
-### Post #907 — namtran0787 [Interview Experiences]
+### Post #906 — namtran0787 [Interview Experiences]
 
 **Date:** Feb 25, 2025 at 1:32 PM
 
@@ -8726,7 +8718,7 @@ Em pass vòng HR và Technical rồi. Tiếp theo sẽ là vòng phỏng vấn r
 
 ---
 
-### Post #908 — billjoy2017 [Interview Experiences]
+### Post #907 — billjoy2017 [Interview Experiences]
 
 **Date:** Feb 25, 2025 at 1:53 PM
 
@@ -8734,7 +8726,7 @@ mình từng đc HR approach, pv tới vòng cuối gặp culture fit hơi ... n
 
 ---
 
-### Post #909 — NguyenHiu [Interview Experiences]
+### Post #908 — NguyenHiu [Interview Experiences]
 
 **Date:** Feb 26, 2025 at 11:41 AM
 
@@ -8742,7 +8734,7 @@ bác review interview được không bác, với bác apply role gì vậy
 
 ---
 
-### Post #910 — FreshLime [Interview Experiences]
+### Post #909 — FreshLime [Interview Experiences]
 
 **Date:** Feb 26, 2025 at 11:49 AM
 
@@ -8750,7 +8742,7 @@ Vừa thấy nexon mở vị trí web fresher nữa thì phải. Vừa rớt ch�
 
 ---
 
-### Post #911 — GeniVN [Interview Experiences]
+### Post #910 — GeniVN [Interview Experiences]
 
 **Date:** Feb 26, 2025 at 2:21 PM
 
@@ -8758,7 +8750,7 @@ hên xui tùy policy của từng cty mà được apply lại liền nha fen, r
 
 ---
 
-### Post #912 — Tuananhwils [Interview Experiences]
+### Post #911 — Tuananhwils [Interview Experiences]
 
 **Date:** Feb 28, 2025 at 1:34 PM
 
@@ -8766,7 +8758,7 @@ em mới nhận đc thư pv QA tester ấy bác cty này ko ổn ạ ?
 
 ---
 
-### Post #913 — new_player [Interview Experiences]
+### Post #912 — new_player [Interview Experiences]
 
 **Date:** Mar 1, 2025 at 10:53 PM
 
@@ -8782,7 +8774,7 @@ Nghe nói phỏng vấn full tiếng Anh nên em rén quá các bác ạ
 
 ---
 
-### Post #914 — MrDangDang [Interview Experiences]
+### Post #913 — MrDangDang [Interview Experiences]
 
 **Date:** Mar 2, 2025 at 12:52 PM
 
@@ -8791,7 +8783,7 @@ tháng 1/2024 mình có pv vị trí Web Publisher, vòng technical lên công t
 
 ---
 
-### Post #915 — monads [Interview Experiences]
+### Post #914 — monads [Interview Experiences]
 
 **Date:** Mar 3, 2025 at 1:32 AM
 
@@ -8799,7 +8791,7 @@ Có bác nào phỏng vấn ở Confluence chưa cho em xin review với.
 
 ---
 
-### Post #916 — new_player [Interview Experiences]
+### Post #915 — new_player [Interview Experiences]
 
 **Date:** Mar 4, 2025 at 5:23 PM
 
@@ -8808,7 +8800,7 @@ Mới đi phỏng vấn về, sang ngày sau người ta mở lại vị trí đ
 
 ---
 
-### Post #917 — farawaywayway [Interview Experiences]
+### Post #916 — farawaywayway [Interview Experiences]
 
 **Date:** Mar 7, 2025 at 7:20 PM
 
@@ -8816,7 +8808,7 @@ Vòng onsite cuối cùng là bác được hỏi những gì? Có phải đem l
 
 ---
 
-### Post #918 — helloworldme [Interview Experiences]
+### Post #917 — helloworldme [Interview Experiences]
 
 **Date:** Mar 7, 2025 at 10:08 PM
 
@@ -8825,7 +8817,7 @@ Pv eng hay tiếng việt vậy bác
 
 ---
 
-### Post #919 — nguyenhuy05012002 [Interview Experiences]
+### Post #918 — nguyenhuy05012002 [Interview Experiences]
 
 **Date:** Mar 9, 2025 at 6:00 PM
 
@@ -8833,7 +8825,7 @@ bác cho mình xin ít kinh nghiệm phỏng vấn Nexon với được không �
 
 ---
 
-### Post #920 — mtl0612 [Interview Experiences]
+### Post #919 — mtl0612 [Interview Experiences]
 
 **Date:** Mar 9, 2025 at 7:28 PM
 
@@ -8841,7 +8833,7 @@ Mấy câu điểm mạnh/ điểm yếu nên trả lời sao nhỉ? Ghét nhấ
 
 ---
 
-### Post #921 — test_username [Interview Experiences]
+### Post #920 — test_username [Interview Experiences]
 
 **Date:** Mar 9, 2025 at 8:26 PM
 
@@ -8849,7 +8841,7 @@ Mấy câu điểm mạnh/ điểm yếu nên trả lời sao nhỉ? Ghét nhấ
 
 ---
 
-### Post #922 — ShjRou [Interview Experiences]
+### Post #921 — ShjRou [Interview Experiences]
 
 **Date:** Mar 9, 2025 at 10:04 PM
 
@@ -8858,7 +8850,7 @@ chứ cứ nói điểm yếu thật lòng thì dễ bị vặn vẹo lắm
 
 ---
 
-### Post #923 — hold_on_never_leave [Interview Experiences]
+### Post #922 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Mar 9, 2025 at 10:18 PM
 
@@ -8867,7 +8859,7 @@ hỏi mấy level entry còn được chứ câu này mà hỏi tầm sen trở 
 
 ---
 
-### Post #924 — ShjRou [Interview Experiences]
+### Post #923 — ShjRou [Interview Experiences]
 
 **Date:** Mar 9, 2025 at 10:21 PM
 
@@ -8875,7 +8867,7 @@ Chịu thôi. Câu này trả lời kiểu gì nó cũng vặn đc thôi, nên t
 
 ---
 
-### Post #925 — GeniVN [Interview Experiences]
+### Post #924 — GeniVN [Interview Experiences]
 
 **Date:** Mar 9, 2025 at 10:50 PM
 
@@ -8885,7 +8877,7 @@ thực ra nhân sự hỏi mấy câu này thôi cứ kỹ sư với nhau đi l�
 
 ---
 
-### Post #926 — ShjRou [Interview Experiences]
+### Post #925 — ShjRou [Interview Experiences]
 
 **Date:** Mar 10, 2025 at 7:43 AM
 
@@ -8893,7 +8885,7 @@ Có đấy, mấy bọn cty nhật hàn hay hỏi, chứ mấy cty Âu Mỹ thì
 
 ---
 
-### Post #927 — Ruoi Den [Interview Experiences]
+### Post #926 — Ruoi Den [Interview Experiences]
 
 **Date:** Mar 10, 2025 at 6:17 PM
 
@@ -8901,7 +8893,7 @@ Tôi pv cty Âu giả cầy có hỏi điểm mạnh điểm yếu nè. Cứ x�
 
 ---
 
-### Post #928 — bitua1412 [Interview Experiences]
+### Post #927 — bitua1412 [Interview Experiences]
 
 **Date:** Mar 10, 2025 at 8:01 PM
 
@@ -8915,7 +8907,7 @@ Tóm lại những câu hỏi như này nó ko có đúng/sai, mà chỉ có h�
 
 ---
 
-### Post #929 — kingsmank20 [Interview Experiences]
+### Post #928 — kingsmank20 [Interview Experiences]
 
 **Date:** Mar 10, 2025 at 8:58 PM
 
@@ -8923,7 +8915,7 @@ Câu này test tiếng anh là chính. Mấy cty global cũng hay sài ví dụ 
 
 ---
 
-### Post #930 — August1008 [Interview Experiences]
+### Post #929 — August1008 [Interview Experiences]
 
 **Date:** Mar 10, 2025 at 9:25 PM
 
@@ -8931,7 +8923,7 @@ Thường thì mấy câu này để test xem khả năng tiếng Anh với vớ
 
 ---
 
-### Post #931 — small-lambda [Interview Experiences]
+### Post #930 — small-lambda [Interview Experiences]
 
 **Date:** Mar 12, 2025 at 7:14 PM
 
@@ -8940,7 +8932,7 @@ Thường thì mấy câu này để test xem khả năng tiếng Anh với vớ
 
 ---
 
-### Post #932 — llamhv [Interview Experiences]
+### Post #931 — llamhv [Interview Experiences]
 
 **Date:** Mar 12, 2025 at 9:35 PM
 
@@ -8951,7 +8943,7 @@ for iPhone
 
 ---
 
-### Post #933 — Ruoi Den [Interview Experiences]
+### Post #932 — Ruoi Den [Interview Experiences]
 
 **Date:** Mar 12, 2025 at 10:04 PM
 
@@ -8959,7 +8951,7 @@ Chưa thấy ae nào review cty Topicus nhỉ
 
 ---
 
-### Post #934 — new_player [Interview Experiences]
+### Post #933 — new_player [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 10:08 AM
 
@@ -8979,7 +8971,7 @@ Wa' pùn
 
 ---
 
-### Post #935 — new_player [Interview Experiences]
+### Post #934 — new_player [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 10:18 AM
 
@@ -8987,7 +8979,7 @@ Em thì newbie thôi, nghe mọi người khuyên là deal mức em mong muốn,
 
 ---
 
-### Post #936 — hold_on_never_leave [Interview Experiences]
+### Post #935 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 10:20 AM
 
@@ -8995,7 +8987,7 @@ nếu giảm thì ko phải là mức fen mong muốn, thì vào làm cũng đâ
 
 ---
 
-### Post #937 — nhocpeter1999 [Interview Experiences]
+### Post #936 — nhocpeter1999 [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 11:42 AM
 
@@ -9004,7 +8996,7 @@ Nghe bảo có live coding + system design mà em chưa biết mức độ thế
 
 ---
 
-### Post #938 — FreshLime [Interview Experiences]
+### Post #937 — FreshLime [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 12:56 PM
 
@@ -9012,7 +9004,7 @@ Giống e pv vị trí web dev trước Tết cũng chill chill xong tạch, mà
 
 ---
 
-### Post #939 — new_player [Interview Experiences]
+### Post #938 — new_player [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 2:26 PM
 
@@ -9021,7 +9013,7 @@ bác nói cũng đúng, mà một phần cũng do em chưa tìm hiểu rõ range
 
 ---
 
-### Post #940 — new_player [Interview Experiences]
+### Post #939 — new_player [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 2:29 PM
 
@@ -9029,7 +9021,7 @@ Trường hợp của e là họ mở lại vị trí y chang luôn, nên em ngh
 
 ---
 
-### Post #941 — chiyeuemthoi [Interview Experiences]
+### Post #940 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 2:32 PM
 
@@ -9037,7 +9029,7 @@ giống tui CV match mà tạch CV từ t10 năm ngoái đến h vân đag tuy�
 
 ---
 
-### Post #942 — FreshLime [Interview Experiences]
+### Post #941 — FreshLime [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 3:06 PM
 
@@ -9045,7 +9037,7 @@ y chang em đấy bác cái vị trí web bên nexon nộp xong thấy đóng, e
 
 ---
 
-### Post #943 — FreshLime [Interview Experiences]
+### Post #942 — FreshLime [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 3:07 PM
 
@@ -9053,7 +9045,7 @@ y chang em đấy bác cái vị trí web bên nexon nộp xong thấy đóng, e
 
 ---
 
-### Post #944 — FreshLime [Interview Experiences]
+### Post #943 — FreshLime [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 3:08 PM
 
@@ -9061,7 +9053,7 @@ y chang em đấy bác cái vị trí web bên nexon nộp xong thấy đóng, e
 
 ---
 
-### Post #945 — kingsmank20 [Interview Experiences]
+### Post #944 — kingsmank20 [Interview Experiences]
 
 **Date:** Mar 13, 2025 at 4:45 PM
 
@@ -9069,7 +9061,7 @@ Bên game hiếm vậy mà range lương fresher cũng tạm ổn phết
 
 ---
 
-### Post #946 — StarFlight [Interview Experiences]
+### Post #945 — StarFlight [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 2:16 AM
 
@@ -9077,7 +9069,7 @@ Dạ các bác cho em hỏi là có ai từng làm việt cho Thoughtworks Vietn
 
 ---
 
-### Post #947 — farawaywayway [Interview Experiences]
+### Post #946 — farawaywayway [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 10:43 AM
 
@@ -9085,7 +9077,7 @@ bên EH có tuyển BE mà stack khác ngoài Ruby không
 
 ---
 
-### Post #948 — FreshLime [Interview Experiences]
+### Post #947 — FreshLime [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 12:41 PM
 
@@ -9093,7 +9085,7 @@ TW đang tuyển à bác.
 
 ---
 
-### Post #949 — StarFlight [Interview Experiences]
+### Post #948 — StarFlight [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 1:04 PM
 
@@ -9101,7 +9093,7 @@ Họ có tuyển nma đang tuyển yêu cầu 2 yoe đổ lên, do họ có tuy�
 
 ---
 
-### Post #950 — namtran0787 [Interview Experiences]
+### Post #949 — namtran0787 [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 1:15 PM
 
@@ -9110,7 +9102,7 @@ Công ty này ít thông tin quá.
 
 ---
 
-### Post #951 — khánh B [Interview Experiences]
+### Post #950 — khánh B [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 5:55 PM
 
@@ -9119,7 +9111,7 @@ từng apply bên này, quay vid tự trả lời mấy câu kiểu giới thi�
 
 ---
 
-### Post #952 — SadboiTMT [Interview Experiences]
+### Post #951 — SadboiTMT [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 10:24 PM
 
@@ -9127,7 +9119,7 @@ Hôm trước đi pv vòng thuật toán cty us, người việt nhưng pv engli
 
 ---
 
-### Post #953 — vozerbanpho [Interview Experiences]
+### Post #952 — vozerbanpho [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 10:30 PM
 
@@ -9135,7 +9127,7 @@ Mình nghĩ nếu bạn nói bạn "quên" cách làm thì người ta không đ
 
 ---
 
-### Post #954 — SadboiTMT [Interview Experiences]
+### Post #953 — SadboiTMT [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 10:34 PM
 
@@ -9143,7 +9135,7 @@ bài này từng làm rồi mà quên, vô đó ko nhớ gì hết nên xin hint
 
 ---
 
-### Post #955 — teeeeeeeee [Interview Experiences]
+### Post #954 — teeeeeeeee [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 10:50 PM
 
@@ -9151,7 +9143,7 @@ cty nào thế thím, review cty thì nên public tên cty lun đi
 
 ---
 
-### Post #956 — Trieu1293 [Interview Experiences]
+### Post #955 — Trieu1293 [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 11:22 PM
 
@@ -9159,7 +9151,7 @@ Bạn cho mình hỏi tình hình sao r ạ ? Mình cx vừa nhận được mai
 
 ---
 
-### Post #957 — Roy_Yang [Interview Experiences]
+### Post #956 — Roy_Yang [Interview Experiences]
 
 **Date:** Mar 14, 2025 at 11:38 PM
 
@@ -9167,7 +9159,7 @@ Hi các bác, có bác nào từng pv round 2 bên Nav*r chưa ạ, cho e xin í
 
 ---
 
-### Post #958 — huyhoang8704 [Interview Experiences]
+### Post #957 — huyhoang8704 [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 11:54 AM
 
@@ -9175,7 +9167,7 @@ Mình cũng mới nhận được mail, bạn cho mình xin in4 để ib trao đ
 
 ---
 
-### Post #959 — thesimple [Interview Experiences]
+### Post #958 — thesimple [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 3:26 PM
 
@@ -9184,7 +9176,7 @@ DSA, System design, Design pattern, SOLID, DB, Network, OS, Cultural fit
 
 ---
 
-### Post #960 — phan thái [Interview Experiences]
+### Post #959 — phan thái [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 6:08 PM
 
@@ -9192,7 +9184,7 @@ phỏng vấn intern, fresher android mà bị hỏi về phần tối ưu thì 
 
 ---
 
-### Post #961 — GeniVN [Interview Experiences]
+### Post #960 — GeniVN [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 7:35 PM
 
@@ -9201,7 +9193,7 @@ intern thì nên hỏi về cơ bản của CS thôi chứ hỏi mấy cái này
 
 ---
 
-### Post #962 — GeniVN [Interview Experiences]
+### Post #961 — GeniVN [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 7:44 PM
 
@@ -9210,7 +9202,7 @@ hình như HR lọc CV linkedin 100+ người lấy vài người xong qua web c
 
 ---
 
-### Post #963 — phan thái [Interview Experiences]
+### Post #962 — phan thái [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 7:52 PM
 
@@ -9218,7 +9210,7 @@ em cũng nghĩ chỉ hỏi mấy cái cơ bản về android, oop các thứ th�
 
 ---
 
-### Post #964 — phan thái [Interview Experiences]
+### Post #963 — phan thái [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 7:53 PM
 
@@ -9226,7 +9218,7 @@ em cũng nghĩ chỉ hỏi mấy cái cơ bản về android, oop các thứ th�
 
 ---
 
-### Post #965 — Dev xịn [Interview Experiences]
+### Post #964 — Dev xịn [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 8:32 PM
 
@@ -9234,7 +9226,7 @@ công ty Nhật/Hàn à bạn
 
 ---
 
-### Post #966 — phan thái [Interview Experiences]
+### Post #965 — phan thái [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 8:44 PM
 
@@ -9242,7 +9234,7 @@ em ko bt bác ạ vào web thấy toàn chứ nhật chắc cty nhật ấy
 
 ---
 
-### Post #967 — phan thái [Interview Experiences]
+### Post #966 — phan thái [Interview Experiences]
 
 **Date:** Mar 15, 2025 at 8:47 PM
 
@@ -9251,7 +9243,7 @@ em apply frehser lương ghi là range 8-18 mà méo hiểu sao lúc pv thì b�
 
 ---
 
-### Post #968 — k3nnjkut3 [Interview Experiences]
+### Post #967 — k3nnjkut3 [Interview Experiences]
 
 **Date:** Mar 16, 2025 at 10:39 AM
 
@@ -9259,7 +9251,7 @@ Hi các bác có ai có kinh nghiệm phỏng vấn Hansen Tecnologies chưa ạ
 
 ---
 
-### Post #969 — tan2cang [Interview Experiences]
+### Post #968 — tan2cang [Interview Experiences]
 
 **Date:** Mar 16, 2025 at 12:04 PM
 
@@ -9267,7 +9259,7 @@ em thấy trên LinkedIn thì connect hoặc follow với mấy tụi HR, thư�
 
 ---
 
-### Post #970 — 123users [Interview Experiences]
+### Post #969 — 123users [Interview Experiences]
 
 **Date:** Mar 16, 2025 at 2:18 PM
 
@@ -9275,7 +9267,7 @@ thằng featurii lấy đâu ra thông tin cv của mình nhỉ. Mình nhớ là
 
 ---
 
-### Post #971 — llamhv [Interview Experiences]
+### Post #970 — llamhv [Interview Experiences]
 
 **Date:** Mar 16, 2025 at 3:51 PM
 
@@ -9286,7 +9278,7 @@ for iPhone
 
 ---
 
-### Post #972 — GeniVN [Interview Experiences]
+### Post #971 — GeniVN [Interview Experiences]
 
 **Date:** Mar 16, 2025 at 4:03 PM
 
@@ -9294,7 +9286,7 @@ nếu được vậy thì quá tốt rùi, dẫu sao nói chuyện với 1 ngư�
 
 ---
 
-### Post #973 — huyhoang8704 [Interview Experiences]
+### Post #972 — huyhoang8704 [Interview Experiences]
 
 **Date:** Mar 16, 2025 at 4:09 PM
 
@@ -9302,7 +9294,7 @@ featurii phải cty lừa đảo ko mng đọc cmt thấy giống v quá
 
 ---
 
-### Post #974 — Sena Mohamed [Interview Experiences]
+### Post #973 — Sena Mohamed [Interview Experiences]
 
 **Date:** Mar 17, 2025 at 3:33 PM
 
@@ -9310,7 +9302,7 @@ từ lúc em pv xong đến lúc nhận mail báo fail là bao lâu nhỉ :v
 
 ---
 
-### Post #975 — sololeveling99 [Interview Experiences]
+### Post #974 — sololeveling99 [Interview Experiences]
 
 **Date:** Mar 17, 2025 at 4:03 PM
 
@@ -9319,7 +9311,7 @@ chẳng là nó làm biếng soạn lại QA cho từng level thôi
 
 ---
 
-### Post #976 — kusoipro [Interview Experiences]
+### Post #975 — kusoipro [Interview Experiences]
 
 **Date:** Mar 17, 2025 at 5:21 PM
 
@@ -9327,7 +9319,7 @@ có team .Net nhé bác
 
 ---
 
-### Post #977 — new_player [Interview Experiences]
+### Post #976 — new_player [Interview Experiences]
 
 **Date:** Mar 17, 2025 at 6:08 PM
 
@@ -9335,7 +9327,7 @@ hơn 1 tuần là có mail á bác (2-3 vòng kia đều hơn 1 tuần mới có
 
 ---
 
-### Post #978 — nghiatao30 [Interview Experiences]
+### Post #977 — nghiatao30 [Interview Experiences]
 
 **Date:** Mar 17, 2025 at 9:31 PM
 
@@ -9343,7 +9335,7 @@ Bác cho em hỏi bài test offline vừa trắc nghiệm vừa viết code tay 
 
 ---
 
-### Post #979 — vagabol [Interview Experiences]
+### Post #978 — vagabol [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 7:00 AM
 
@@ -9351,7 +9343,7 @@ có bác nào có kinh nghiệm pv intern WQ không ạ, e sắp pv vòng đầu
 
 ---
 
-### Post #980 — traiphonui [Interview Experiences]
+### Post #979 — traiphonui [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 9:25 AM
 
@@ -9360,7 +9352,7 @@ công ty con của cty bên nhật ạ
 
 ---
 
-### Post #981 — anti_antifankpop [Interview Experiences]
+### Post #980 — anti_antifankpop [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 10:16 AM
 
@@ -9368,7 +9360,7 @@ cứ deal thử, đây là thời gian để mình đàm phán. tất n
 
 ---
 
-### Post #982 — Hữu Thực [Interview Experiences]
+### Post #981 — Hữu Thực [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 11:39 AM
 
@@ -9376,7 +9368,7 @@ Có kết quả chưa b, rồi video itv bác có làm không
 
 ---
 
-### Post #983 — Hữu Thực [Interview Experiences]
+### Post #982 — Hữu Thực [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 11:44 AM
 
@@ -9384,7 +9376,7 @@ Thế rồi là họ thông báo sao về kết quả rồi có làm luôn khôn
 
 ---
 
-### Post #984 — kingsmank20 [Interview Experiences]
+### Post #983 — kingsmank20 [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 11:49 AM
 
@@ -9392,7 +9384,7 @@ Thấy ko có tin hiệu kêu Pv bác ạ
 
 ---
 
-### Post #985 — Trieu1293 [Interview Experiences]
+### Post #984 — Trieu1293 [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 12:19 PM
 
@@ -9400,7 +9392,7 @@ Mình nhớ là không có nộp CV cho Featurii mà không hiểu sao họ lạ
 
 ---
 
-### Post #986 — GeniVN [Interview Experiences]
+### Post #985 — GeniVN [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 12:27 PM
 
@@ -9408,7 +9400,7 @@ k biết featurii này phỏng vấn lấy tư liệu bán cho khách hay sao ta
 
 ---
 
-### Post #987 — Trieu1293 [Interview Experiences]
+### Post #986 — Trieu1293 [Interview Experiences]
 
 **Date:** Mar 18, 2025 at 12:29 PM
 
@@ -9416,7 +9408,7 @@ Mình cx nghĩ vậy, tại thấy họ là một cái platform kiểu headhunte
 
 ---
 
-### Post #988 — bitua1412 [Interview Experiences]
+### Post #987 — bitua1412 [Interview Experiences]
 
 **Date:** Mar 19, 2025 at 9:18 AM
 
@@ -9425,7 +9417,7 @@ tuỳ vào tình huống thực tế mà quyết định thôi bác, nhưng 90% 
 
 ---
 
-### Post #989 — huyhoang8704 [Interview Experiences]
+### Post #988 — huyhoang8704 [Interview Experiences]
 
 **Date:** Mar 20, 2025 at 10:21 AM
 
@@ -9433,7 +9425,7 @@ Featurii là cty lừa đảo nha các bạn, mình mới làm cái round vòng 
 
 ---
 
-### Post #990 — chiyeuemthoi [Interview Experiences]
+### Post #989 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Mar 20, 2025 at 10:24 AM
 
@@ -9441,7 +9433,7 @@ thật ra bác ko apply cái Featurii nó cũng lộ thui
 
 ---
 
-### Post #991 — huyhoang8704 [Interview Experiences]
+### Post #990 — huyhoang8704 [Interview Experiences]
 
 **Date:** Mar 20, 2025 at 10:27 AM
 
@@ -9449,7 +9441,7 @@ Thật bro ạ! Trước đó mình cũng tìm hiểu cái Featurii nghe mng k�
 
 ---
 
-### Post #992 — chiyeuemthoi [Interview Experiences]
+### Post #991 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Mar 20, 2025 at 10:34 AM
 
@@ -9457,7 +9449,7 @@ nghe mà quay video là mình đã né rồi
 
 ---
 
-### Post #993 — 123users [Interview Experiences]
+### Post #992 — 123users [Interview Experiences]
 
 **Date:** Mar 20, 2025 at 2:13 PM
 
@@ -9465,7 +9457,7 @@ nó kêu ông nộp phạt hả, hay dụ đến chỗ nào đó ?
 
 ---
 
-### Post #994 — huyhoang8704 [Interview Experiences]
+### Post #993 — huyhoang8704 [Interview Experiences]
 
 **Date:** Mar 22, 2025 at 5:56 PM
 
@@ -9473,7 +9465,7 @@ Nó cứ nói vòng vo bảo có đứa lấy thông tin của tôi đi rửa ti
 
 ---
 
-### Post #995 — Minutemen [Interview Experiences]
+### Post #994 — Minutemen [Interview Experiences]
 
 **Date:** Mar 22, 2025 at 6:33 PM
 
@@ -9483,7 +9475,7 @@ Cái lừa của nó là đăng tin tuyển dụng ko ghi rõ là tuyển cho n�
 
 ---
 
-### Post #996 — DragonKnight17 [Interview Experiences]
+### Post #995 — DragonKnight17 [Interview Experiences]
 
 **Date:** Mar 23, 2025 at 1:13 AM
 
@@ -9491,7 +9483,7 @@ Bác nào có phỏng vấn Orange Logic đợt gần đây có thể share kinh
 
 ---
 
-### Post #997 — nguyenduhn [Interview Experiences]
+### Post #996 — nguyenduhn [Interview Experiences]
 
 **Date:** Mar 23, 2025 at 10:18 AM
 
@@ -9499,7 +9491,7 @@ Thím đến vòng nào rồi thế
 
 ---
 
-### Post #998 — 123users [Interview Experiences]
+### Post #997 — 123users [Interview Experiences]
 
 **Date:** Mar 23, 2025 at 5:12 PM
 
@@ -9507,7 +9499,7 @@ Vấn đề là mình còn chả apply Featurii ấy. Nó tự mò đâu ra mail
 
 ---
 
-### Post #999 — new_player [Interview Experiences]
+### Post #998 — new_player [Interview Experiences]
 
 **Date:** Mar 25, 2025 at 1:12 AM
 
@@ -9515,7 +9507,7 @@ Các bác có website hay group nào có các job intern, fresher game developer
 
 ---
 
-### Post #1000 — llamhv [Interview Experiences]
+### Post #999 — llamhv [Interview Experiences]
 
 **Date:** Mar 25, 2025 at 4:07 PM
 
@@ -9526,7 +9518,7 @@ for iPhone
 
 ---
 
-### Post #1001 — leetcode_time [Interview Experiences]
+### Post #1000 — leetcode_time [Interview Experiences]
 
 **Date:** Mar 25, 2025 at 4:34 PM
 
@@ -9534,7 +9526,7 @@ Ai interview Opswat chưa cho em xin review với
 
 ---
 
-### Post #1002 — DragonKnight17 [Interview Experiences]
+### Post #1001 — DragonKnight17 [Interview Experiences]
 
 **Date:** Mar 26, 2025 at 1:13 AM
 
@@ -9542,7 +9534,7 @@ Bác nào phỏng vấn onsite của Caladan có thể review/brief cho mình đ
 
 ---
 
-### Post #1003 — callmegod [Interview Experiences]
+### Post #1002 — callmegod [Interview Experiences]
 
 **Date:** Mar 26, 2025 at 3:45 PM
 
@@ -9550,7 +9542,7 @@ Bác nào phỏng vấn onsite của Caladan có thể review/brief cho mình đ
 
 ---
 
-### Post #1004 — haiphan2411 [Interview Experiences]
+### Post #1003 — haiphan2411 [Interview Experiences]
 
 **Date:** Mar 26, 2025 at 5:01 PM
 
@@ -9559,7 +9551,7 @@ nói thật mình chưa thấy con cty đó nó đi PV ai sau vòng đó cả ch
 
 ---
 
-### Post #1005 — callmegod [Interview Experiences]
+### Post #1004 — callmegod [Interview Experiences]
 
 **Date:** Mar 26, 2025 at 5:45 PM
 
@@ -9567,7 +9559,7 @@ tôi là tôi cũng thấy z nma chắc cứ rải tiếp thui bác
 
 ---
 
-### Post #1006 — leetcode_time [Interview Experiences]
+### Post #1005 — leetcode_time [Interview Experiences]
 
 **Date:** Mar 26, 2025 at 7:55 PM
 
@@ -9575,7 +9567,7 @@ Bên này là kiểu bên trung gian thôi. Bác đăng kí toàn bộ tài kho�
 
 ---
 
-### Post #1007 — haiphan2411 [Interview Experiences]
+### Post #1006 — haiphan2411 [Interview Experiences]
 
 **Date:** Mar 26, 2025 at 8:30 PM
 
@@ -9583,7 +9575,7 @@ nó gửi mail nhiều đến mức vô mục spam chỗ tui không, nó mới g
 
 ---
 
-### Post #1008 — new_player [Interview Experiences]
+### Post #1007 — new_player [Interview Experiences]
 
 **Date:** Mar 28, 2025 at 4:28 PM
 
@@ -9591,7 +9583,7 @@ thank u bác, e có thấy cái program này
 
 ---
 
-### Post #1009 — new_player [Interview Experiences]
+### Post #1008 — new_player [Interview Experiences]
 
 **Date:** Mar 28, 2025 at 4:29 PM
 
@@ -9599,7 +9591,7 @@ Các bác có ai làm bài test offline của role Unity Game Developer (Fresher
 
 ---
 
-### Post #1010 — Duyenthangne [Interview Experiences]
+### Post #1009 — Duyenthangne [Interview Experiences]
 
 **Date:** Apr 1, 2025 at 11:09 AM
 
@@ -9607,7 +9599,7 @@ bác làm qua bài test này chưa cho em xin review với ạ, em cảm ơn
 
 ---
 
-### Post #1011 — h_ngyn [Interview Experiences]
+### Post #1010 — h_ngyn [Interview Experiences]
 
 **Date:** Apr 2, 2025 at 11:11 AM
 
@@ -9618,7 +9610,7 @@ for iPhone
 
 ---
 
-### Post #1012 — 100 [Interview Experiences]
+### Post #1011 — 100 [Interview Experiences]
 
 **Date:** Apr 2, 2025 at 8:22 PM
 
@@ -9626,7 +9618,7 @@ for iPhone
 
 ---
 
-### Post #1013 — JinggeNt [Interview Experiences]
+### Post #1012 — JinggeNt [Interview Experiences]
 
 **Date:** Apr 2, 2025 at 8:29 PM
 
@@ -9635,7 +9627,7 @@ bị gọi 2 lần giọng văn nhấn nhá y chang nhau
 
 ---
 
-### Post #1014 — h_ngyn [Interview Experiences]
+### Post #1013 — h_ngyn [Interview Experiences]
 
 **Date:** Apr 2, 2025 at 9:06 PM
 
@@ -9643,7 +9635,7 @@ Cảm ơn fen nhiều. Dính vô SQL là tử huyệt
 
 ---
 
-### Post #1015 — Mỹ Chu Lang [Interview Experiences]
+### Post #1014 — Mỹ Chu Lang [Interview Experiences]
 
 **Date:** Apr 3, 2025 at 8:01 PM
 
@@ -9651,7 +9643,7 @@ pvan xong Orange Logic chưa bác, hộp lại em cái đề với
 
 ---
 
-### Post #1016 — new_player [Interview Experiences]
+### Post #1015 — new_player [Interview Experiences]
 
 **Date:** Apr 4, 2025 at 10:54 PM
 
@@ -9659,7 +9651,7 @@ Có bác nào mới apply các vị trí game ở Nexon k, bữa em có đi làm
 
 ---
 
-### Post #1017 — Husqvarna701SM [Interview Experiences]
+### Post #1016 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 1:36 PM
 
@@ -9667,7 +9659,7 @@ Vừa tạch vòng tech cuối worldquant các thím ạ, chẹp. Mãi mới có
 
 ---
 
-### Post #1018 — red_orignal [Interview Experiences]
+### Post #1017 — red_orignal [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 2:01 PM
 
@@ -9675,7 +9667,7 @@ Bác app intern hay full time đó bác
 
 ---
 
-### Post #1019 — Husqvarna701SM [Interview Experiences]
+### Post #1018 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 2:02 PM
 
@@ -9683,7 +9675,7 @@ Intern thôi bác r cày 6 tháng lên tiếp chứ full time em thấy toàn th
 
 ---
 
-### Post #1020 — red_orignal [Interview Experiences]
+### Post #1019 — red_orignal [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 2:03 PM
 
@@ -9691,7 +9683,7 @@ Bác app quant research luôn hả. Thấy cái đề OA toán khó
 
 ---
 
-### Post #1021 — Husqvarna701SM [Interview Experiences]
+### Post #1020 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 2:38 PM
 
@@ -9699,7 +9691,7 @@ Bác app quant research luôn hả. Thấy cái đề OA toán khó
 
 ---
 
-### Post #1022 — chiyeuemthoi [Interview Experiences]
+### Post #1021 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 3:30 PM
 
@@ -9707,7 +9699,7 @@ chia buồn dc pv WQ là đỉnh rùi fen
 
 ---
 
-### Post #1023 — Husqvarna701SM [Interview Experiences]
+### Post #1022 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 3:41 PM
 
@@ -9715,7 +9707,7 @@ Buồn mà cũng hơi cay fence à hỏi câu cũng dạng siêu kinh điển, m
 
 ---
 
-### Post #1024 — chiyeuemthoi [Interview Experiences]
+### Post #1023 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 4:10 PM
 
@@ -9723,7 +9715,7 @@ fen ở HN hay SG đó SG dnay thấy nhiều option intern ngon
 
 ---
 
-### Post #1025 — Husqvarna701SM [Interview Experiences]
+### Post #1024 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 4:26 PM
 
@@ -9732,7 +9724,7 @@ em HN nhé
 
 ---
 
-### Post #1026 — Husqvarna701SM [Interview Experiences]
+### Post #1025 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 5:56 PM
 
@@ -9740,7 +9732,7 @@ Có thím nào phỏng vấn SE ở ant international chưa, cho mình xin tí i
 
 ---
 
-### Post #1027 — new_player [Interview Experiences]
+### Post #1026 — new_player [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 7:43 PM
 
@@ -9748,7 +9740,7 @@ có bác nào interview Unity Developer ở Nexon không, cho e xin ít kinh ngh
 
 ---
 
-### Post #1028 — Duyenthangne [Interview Experiences]
+### Post #1027 — Duyenthangne [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 9:42 PM
 
@@ -9757,7 +9749,7 @@ Có bác nào có kinh nghiệm làm bài Cognitive Tests của Momo trên nền
 
 ---
 
-### Post #1029 — BillyzZz [Interview Experiences]
+### Post #1028 — BillyzZz [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 9:46 PM
 
@@ -9765,7 +9757,7 @@ Mới có lịch pv, pv 7 tiếng liên tục không biết làm cái gì trong 
 
 ---
 
-### Post #1030 — StarFlight [Interview Experiences]
+### Post #1029 — StarFlight [Interview Experiences]
 
 **Date:** Apr 5, 2025 at 10:46 PM
 
@@ -9773,7 +9765,7 @@ Mới có lịch pv, pv 7 tiếng liên tục không biết làm cái gì trong 
 
 ---
 
-### Post #1031 — Husqvarna701SM [Interview Experiences]
+### Post #1030 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 6, 2025 at 1:35 AM
 
@@ -9781,7 +9773,7 @@ Em họ náo 1 tiếng thôi thím, lịch hẹn t4 mà em HN, họ sg đang k b
 
 ---
 
-### Post #1032 — BillyzZz [Interview Experiences]
+### Post #1031 — BillyzZz [Interview Experiences]
 
 **Date:** Apr 6, 2025 at 9:20 AM
 
@@ -9790,7 +9782,7 @@ Sao có 1 tiếng nhỉ, mình tính reject mà thấy bên headhunt nhiệt tì
 
 ---
 
-### Post #1033 — SadboiTMT [Interview Experiences]
+### Post #1032 — SadboiTMT [Interview Experiences]
 
 **Date:** Apr 6, 2025 at 9:26 AM
 
@@ -9798,7 +9790,7 @@ Sao có 1 tiếng nhỉ, mình tính reject mà thấy bên headhunt nhiệt tì
 
 ---
 
-### Post #1034 — Husqvarna701SM [Interview Experiences]
+### Post #1033 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 6, 2025 at 10:37 AM
 
@@ -9807,7 +9799,7 @@ Bên họ cũng yêu cầu e cbi dần luôn
 
 ---
 
-### Post #1035 — hiếu thứ tha [Interview Experiences]
+### Post #1034 — hiếu thứ tha [Interview Experiences]
 
 **Date:** Apr 6, 2025 at 11:36 AM
 
@@ -9815,7 +9807,7 @@ bên đó nghe nói có tuyển cả SE đúng ko bạn
 
 ---
 
-### Post #1036 — anhhtuan219 [Interview Experiences]
+### Post #1035 — anhhtuan219 [Interview Experiences]
 
 **Date:** Apr 6, 2025 at 9:54 PM
 
@@ -9823,7 +9815,7 @@ các bác cho xin 1 số bài leetcode hay gặp khi pvan với ạ. Level middl
 
 ---
 
-### Post #1037 — hieunm3538 [Interview Experiences]
+### Post #1036 — hieunm3538 [Interview Experiences]
 
 **Date:** Apr 6, 2025 at 11:20 PM
 
@@ -9833,7 +9825,7 @@ Bác hỏi rộng quá, dạng nào cũng có thể hỏi được mà
 
 ---
 
-### Post #1038 — anhhtuan219 [Interview Experiences]
+### Post #1037 — anhhtuan219 [Interview Experiences]
 
 **Date:** Apr 7, 2025 at 12:18 AM
 
@@ -9841,7 +9833,7 @@ Bác hỏi rộng quá, dạng nào cũng có thể hỏi được mà
 
 ---
 
-### Post #1039 — new_player [Interview Experiences]
+### Post #1038 — new_player [Interview Experiences]
 
 **Date:** Apr 9, 2025 at 9:46 AM
 
@@ -9849,7 +9841,7 @@ Bác hỏi rộng quá, dạng nào cũng có thể hỏi được mà
 
 ---
 
-### Post #1040 — Teddy1510 [Interview Experiences]
+### Post #1039 — Teddy1510 [Interview Experiences]
 
 **Date:** Apr 9, 2025 at 12:43 PM
 
@@ -9857,7 +9849,7 @@ Có bác nào từng apply role BA intern cho DXC chưa, mất bao lâu họ ph�
 
 ---
 
-### Post #1041 — chiyeuemthoi [Interview Experiences]
+### Post #1040 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 9, 2025 at 12:46 PM
 
@@ -9865,7 +9857,7 @@ dxc hình như commit 2 năm đó bác
 
 ---
 
-### Post #1042 — Teddy1510 [Interview Experiences]
+### Post #1041 — Teddy1510 [Interview Experiences]
 
 **Date:** Apr 9, 2025 at 12:55 PM
 
@@ -9873,7 +9865,7 @@ Em mới apply tuần trước ấy bác, mới sửa CV xong thì thấy nó tu
 
 ---
 
-### Post #1043 — GeniVN [Interview Experiences]
+### Post #1042 — GeniVN [Interview Experiences]
 
 **Date:** Apr 9, 2025 at 6:10 PM
 
@@ -9881,7 +9873,7 @@ kèo thối. 2 năm lương cứng k tăng đâu, mà k bỏ được, đền b�
 
 ---
 
-### Post #1044 — 123users [Interview Experiences]
+### Post #1043 — 123users [Interview Experiences]
 
 **Date:** Apr 9, 2025 at 6:21 PM
 
@@ -9889,7 +9881,7 @@ thời nay thì kiếm nơi trú chân qua nạn cái đã. Mà mình bị DXC r
 
 ---
 
-### Post #1045 — chiyeuemthoi [Interview Experiences]
+### Post #1044 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 9, 2025 at 6:48 PM
 
@@ -9897,7 +9889,7 @@ vô đi làm tầm năm lại hối hận thôi fence
 
 ---
 
-### Post #1046 — kanek4ne [Interview Experiences]
+### Post #1045 — kanek4ne [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 10:11 AM
 
@@ -9905,7 +9897,7 @@ Bác review tí interview được không bác với tầm bao lâu thì họ ma
 
 ---
 
-### Post #1047 — new_player [Interview Experiences]
+### Post #1046 — new_player [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 10:24 AM
 
@@ -9913,7 +9905,7 @@ Cỡ 1-2 tuần lận á bác. Theo trải nghiệm của em thì vòng nào cũ
 
 ---
 
-### Post #1048 — kanek4ne [Interview Experiences]
+### Post #1047 — kanek4ne [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 10:45 AM
 
@@ -9921,7 +9913,7 @@ Cũng lâu phết, em mới nộp CV hôm qua thôi
 
 ---
 
-### Post #1049 — chiyeuemthoi [Interview Experiences]
+### Post #1048 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 11:02 AM
 
@@ -9929,7 +9921,7 @@ thế bth fen ơi mình đi pv cty này tổng các vòng rơi tầm tháng mà 
 
 ---
 
-### Post #1050 — kanek4ne [Interview Experiences]
+### Post #1049 — kanek4ne [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 11:20 AM
 
@@ -9937,7 +9929,7 @@ vâng bác, em cũng mới cập nhật CV để ráng rải tiếp
 
 ---
 
-### Post #1051 — Teddy1510 [Interview Experiences]
+### Post #1050 — Teddy1510 [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 12:14 PM
 
@@ -9945,7 +9937,7 @@ Reject CV bên DXC nó có mail ko bác, tầm bao lâu bác nhận dc kết qu�
 
 ---
 
-### Post #1052 — 123users [Interview Experiences]
+### Post #1051 — 123users [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 1:40 PM
 
@@ -9953,7 +9945,7 @@ Không bác ơi, silent treatment
 
 ---
 
-### Post #1053 — kanek4ne [Interview Experiences]
+### Post #1052 — kanek4ne [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 2:30 PM
 
@@ -9961,7 +9953,7 @@ mà bác cho em hỏi phỏng vấn khó không bác nhỉ. Em từ đầu học
 
 ---
 
-### Post #1054 — Teddy1510 [Interview Experiences]
+### Post #1053 — Teddy1510 [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 4:57 PM
 
@@ -9969,7 +9961,7 @@ Vaiz  đạn, e thấy DXC nó cũng có nhỏ đâu ta, em apply KMS ko đậu 
 
 ---
 
-### Post #1055 — chiyeuemthoi [Interview Experiences]
+### Post #1054 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 5:31 PM
 
@@ -9977,7 +9969,7 @@ bth hoá đi fen hr có phaie ở đâu cũg chuyên nghiệp dou
 
 ---
 
-### Post #1056 — Teddy1510 [Interview Experiences]
+### Post #1055 — Teddy1510 [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 5:33 PM
 
@@ -9985,7 +9977,7 @@ Dấu hiệu ĐỎ lè luôn ha bác
 
 ---
 
-### Post #1057 — new_player [Interview Experiences]
+### Post #1056 — new_player [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 6:22 PM
 
@@ -9993,7 +9985,7 @@ Bác apply vị trí gì á
 
 ---
 
-### Post #1058 — 123users [Interview Experiences]
+### Post #1057 — 123users [Interview Experiences]
 
 **Date:** Apr 10, 2025 at 9:06 PM
 
@@ -10001,7 +9993,7 @@ bth bác ơi. Mình đi nhiều chỗ pv xong vẫn đéo mail kết quả rejec
 
 ---
 
-### Post #1059 — bitua1412 [Interview Experiences]
+### Post #1058 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 8:56 AM
 
@@ -10010,7 +10002,7 @@ cứ lấy mốc 1 tuần cho mọi round, sau 1 tuần ko feedback -> tạch, k
 
 ---
 
-### Post #1060 — kanek4ne [Interview Experiences]
+### Post #1059 — kanek4ne [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 12:26 PM
 
@@ -10018,7 +10010,7 @@ thật ra e apply web dev thôi bác ơi mà muốn sang unity phát
 
 ---
 
-### Post #1061 — badworm [Interview Experiences]
+### Post #1060 — badworm [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 5:03 PM
 
@@ -10028,7 +10020,7 @@ Biết là bản thân còn nhiều hạn chế nên muốn lên đây xin lời
 
 ---
 
-### Post #1062 — chiyeuemthoi [Interview Experiences]
+### Post #1061 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 5:12 PM
 
@@ -10036,7 +10028,7 @@ V là vin hay viettel đấy thím
 
 ---
 
-### Post #1063 — ___Moon___ [Interview Experiences]
+### Post #1062 — ___Moon___ [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 5:18 PM
 
@@ -10044,7 +10036,7 @@ V thì không mấy người gọi là tập đoàn Vin mà chỉ gọi thẳng 
 
 ---
 
-### Post #1064 — new_player [Interview Experiences]
+### Post #1063 — new_player [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 5:22 PM
 
@@ -10052,7 +10044,7 @@ Có bác nào có kinh nghiệm làm test Game Development Fresher của VNG kh�
 
 ---
 
-### Post #1065 — shazam [Interview Experiences]
+### Post #1064 — shazam [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 5:24 PM
 
@@ -10060,7 +10052,7 @@ rảnh thì cày leetcode, cloud, k8s, làm prj cá nhân cho thật hoàn
 
 ---
 
-### Post #1066 — badworm [Interview Experiences]
+### Post #1065 — badworm [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 5:27 PM
 
@@ -10070,7 +10062,7 @@ Với cả như em nói ở trên, thời gian làm ở tập đoàn V gần nh�
 
 ---
 
-### Post #1067 — chiyeuemthoi [Interview Experiences]
+### Post #1066 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 5:32 PM
 
@@ -10078,7 +10070,7 @@ làm xog lấy cái mà chém
 
 ---
 
-### Post #1068 — shazam [Interview Experiences]
+### Post #1067 — shazam [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 5:49 PM
 
@@ -10086,7 +10078,7 @@ ko làm thì hỏi mấy ông làm rồi vẽ vời ra, architecture, issu
 
 ---
 
-### Post #1069 — badworm [Interview Experiences]
+### Post #1068 — badworm [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 6:03 PM
 
@@ -10094,7 +10086,7 @@ Ngồi chơi xơi nước real mà bác. Dự án còn không có ấy.
 
 ---
 
-### Post #1070 — !2025unemployee [Interview Experiences]
+### Post #1069 — !2025unemployee [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 7:43 PM
 
@@ -10102,7 +10094,7 @@ chém cho dã xong vào làm như mèo mửa 2 tháng sau nghỉ
 
 ---
 
-### Post #1071 — freedom.9 [Interview Experiences]
+### Post #1070 — freedom.9 [Interview Experiences]
 
 **Date:** Apr 11, 2025 at 8:44 PM
 
@@ -10113,7 +10105,7 @@ for iPhone
 
 ---
 
-### Post #1072 — bitua1412 [Interview Experiences]
+### Post #1071 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 13, 2025 at 8:29 AM
 
@@ -10122,7 +10114,7 @@ như mình đi làm ngồi cạnh leader, nên công việc của leader hầu n
 
 ---
 
-### Post #1073 — Teddy1510 [Interview Experiences]
+### Post #1072 — Teddy1510 [Interview Experiences]
 
 **Date:** Apr 13, 2025 at 11:24 AM
 
@@ -10130,7 +10122,7 @@ Có bác nào pv vị trí BA ở AHT Tech chưa, pv vòng cuối offline họ h
 
 ---
 
-### Post #1074 — llamhv [Interview Experiences]
+### Post #1073 — llamhv [Interview Experiences]
 
 **Date:** Apr 13, 2025 at 11:30 AM
 
@@ -10141,7 +10133,7 @@ for iPhone
 
 ---
 
-### Post #1075 — chiyeuemthoi [Interview Experiences]
+### Post #1074 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 13, 2025 at 11:37 AM
 
@@ -10151,7 +10143,7 @@ còn vài feat vs prj nữa nma ko có docs nên cũng lười
 
 ---
 
-### Post #1076 — What'matter? [Interview Experiences]
+### Post #1075 — What'matter? [Interview Experiences]
 
 **Date:** Apr 14, 2025 at 10:24 PM
 
@@ -10159,7 +10151,7 @@ có thím nào đã nộp ở trusting social không á, mình làm OA khá ngon
 
 ---
 
-### Post #1077 — Cay But Xoa [Interview Experiences]
+### Post #1076 — Cay But Xoa [Interview Experiences]
 
 **Date:** Apr 14, 2025 at 10:34 PM
 
@@ -10167,7 +10159,7 @@ có bác nào phỏng vấn ở yolo lab chưa? mình tìm thông tin mà ít qu
 
 ---
 
-### Post #1078 — What'matter? [Interview Experiences]
+### Post #1077 — What'matter? [Interview Experiences]
 
 **Date:** Apr 14, 2025 at 10:36 PM
 
@@ -10175,7 +10167,7 @@ software intern thím
 
 ---
 
-### Post #1079 — chiyeuemthoi [Interview Experiences]
+### Post #1078 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 14, 2025 at 10:44 PM
 
@@ -10183,7 +10175,7 @@ mình cũg ms tạch chắc do đông
 
 ---
 
-### Post #1080 — phan thái [Interview Experiences]
+### Post #1079 — phan thái [Interview Experiences]
 
 **Date:** Apr 14, 2025 at 10:46 PM
 
@@ -10191,7 +10183,7 @@ có phải bác làm go ko nhỉ, nếu đúng thì bác còn apply intern làm 
 
 ---
 
-### Post #1081 — kanek4ne [Interview Experiences]
+### Post #1080 — kanek4ne [Interview Experiences]
 
 **Date:** Apr 14, 2025 at 10:56 PM
 
@@ -10199,7 +10191,7 @@ em cũng mới nộp, khéo cũng chung cảnh với bác
 
 ---
 
-### Post #1082 — chiyeuemthoi [Interview Experiences]
+### Post #1081 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 14, 2025 at 11:23 PM
 
@@ -10207,7 +10199,7 @@ trình cùi apply intern bác
 
 ---
 
-### Post #1083 — phan thái [Interview Experiences]
+### Post #1082 — phan thái [Interview Experiences]
 
 **Date:** Apr 14, 2025 at 11:37 PM
 
@@ -10215,7 +10207,7 @@ chừa cho ae 1 con đường nữa bác kk
 
 ---
 
-### Post #1084 — Lereste [Interview Experiences]
+### Post #1083 — Lereste [Interview Experiences]
 
 **Date:** Apr 15, 2025 at 1:21 PM
 
@@ -10223,7 +10215,7 @@ Chào mấy bác, em background product giờ sắp qua làm outsource. Mấy b�
 
 ---
 
-### Post #1085 — abc102 [Interview Experiences]
+### Post #1084 — abc102 [Interview Experiences]
 
 **Date:** Apr 16, 2025 at 11:38 AM
 
@@ -10231,7 +10223,7 @@ HI các bác, cho em hỏi Technical interview + English interview bên DXC cho 
 
 ---
 
-### Post #1086 — Rhett Butler567 [Interview Experiences]
+### Post #1085 — Rhett Butler567 [Interview Experiences]
 
 **Date:** Apr 16, 2025 at 12:52 PM
 
@@ -10239,7 +10231,7 @@ Xin kinh nghiệm pv qualcomm các bác ơi
 
 ---
 
-### Post #1087 — GeniVN [Interview Experiences]
+### Post #1086 — GeniVN [Interview Experiences]
 
 **Date:** Apr 16, 2025 at 1:23 PM
 
@@ -10247,7 +10239,7 @@ qualcomm hay vinai (qualcomm)
 
 ---
 
-### Post #1088 — Rhett Butler567 [Interview Experiences]
+### Post #1087 — Rhett Butler567 [Interview Experiences]
 
 **Date:** Apr 16, 2025 at 1:50 PM
 
@@ -10255,7 +10247,7 @@ Qualcomm bác. Méo biết có phải vinai ko
 
 ---
 
-### Post #1089 — What'matter? [Interview Experiences]
+### Post #1088 — What'matter? [Interview Experiences]
 
 **Date:** Apr 16, 2025 at 2:48 PM
 
@@ -10263,7 +10255,7 @@ mình gửi cv, sau đó nhắn tin cho hr có được không nhỉ
 
 ---
 
-### Post #1090 — phan thái [Interview Experiences]
+### Post #1089 — phan thái [Interview Experiences]
 
 **Date:** Apr 16, 2025 at 11:27 PM
 
@@ -10271,7 +10263,7 @@ em xin  review pv fresher android rikkeisoft với ạ.
 
 ---
 
-### Post #1091 — anhhtuan219 [Interview Experiences]
+### Post #1090 — anhhtuan219 [Interview Experiences]
 
 **Date:** Apr 17, 2025 at 4:07 PM
 
@@ -10281,7 +10273,7 @@ Ai pvan ở đây rồi cho mình xin tthoong tin với ạ, mình cảm ơn
 
 ---
 
-### Post #1092 — Husqvarna701SM [Interview Experiences]
+### Post #1091 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 4:56 PM
 
@@ -10289,7 +10281,7 @@ Có thím nào từng pv dytechlab vị trí quant research intern hộp mình t
 
 ---
 
-### Post #1093 — llamhv [Interview Experiences]
+### Post #1092 — llamhv [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 5:21 PM
 
@@ -10300,7 +10292,7 @@ for iPhone
 
 ---
 
-### Post #1094 — Husqvarna701SM [Interview Experiences]
+### Post #1093 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 5:28 PM
 
@@ -10309,7 +10301,7 @@ Em nộp 2 ngày thì họ gửi test cho làm
 
 ---
 
-### Post #1095 — llamhv [Interview Experiences]
+### Post #1094 — llamhv [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 5:46 PM
 
@@ -10320,7 +10312,7 @@ for iPhone
 
 ---
 
-### Post #1096 — Hino2901 [Interview Experiences]
+### Post #1095 — Hino2901 [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 6:31 PM
 
@@ -10328,7 +10320,7 @@ Những kiến thức mình tự học lúc pv nên nói như nào để ngườ
 
 ---
 
-### Post #1097 — Husqvarna701SM [Interview Experiences]
+### Post #1096 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 6:46 PM
 
@@ -10336,7 +10328,7 @@ base toán thím k mạnh thì e nghĩ k cần app đâu, vòng test cho 7
 
 ---
 
-### Post #1098 — llamhv [Interview Experiences]
+### Post #1097 — llamhv [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 7:12 PM
 
@@ -10347,7 +10339,7 @@ for iPhone
 
 ---
 
-### Post #1099 — shazam [Interview Experiences]
+### Post #1098 — shazam [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 7:17 PM
 
@@ -10356,7 +10348,7 @@ chịu, nếu người ta cần có kinh nghiệm thực chiến thì ko có cá
 
 ---
 
-### Post #1100 — h_ngyn [Interview Experiences]
+### Post #1099 — h_ngyn [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 7:24 PM
 
@@ -10364,7 +10356,7 @@ Nếu bạn tự tin có thể trả lời được ở một độ sâu nhất 
 
 ---
 
-### Post #1101 — Husqvarna701SM [Interview Experiences]
+### Post #1100 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Apr 18, 2025 at 7:32 PM
 
@@ -10373,7 +10365,7 @@ Em app quant thì được cho làm đề 7 câu, mỗi câu sàn sàn đề to�
 
 ---
 
-### Post #1102 — pcbaokhoa [Interview Experiences]
+### Post #1101 — pcbaokhoa [Interview Experiences]
 
 **Date:** Apr 23, 2025 at 9:49 AM
 
@@ -10381,7 +10373,7 @@ phone interview phỏng vấn hỏi những gì, phỏng vấn english hay tiế
 
 ---
 
-### Post #1103 — vinhqn [Interview Experiences]
+### Post #1102 — vinhqn [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:02 AM
 
@@ -10389,7 +10381,7 @@ XMind này có free ko hay phải mua bản quyền vậy thím
 
 ---
 
-### Post #1104 — shawngolang [Interview Experiences]
+### Post #1103 — shawngolang [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 12:10 PM
 
@@ -10397,7 +10389,7 @@ Bản free dùng là đủ rồi thím. Kiếm được bản free ngày xưa th
 
 ---
 
-### Post #1105 — bitua1412 [Interview Experiences]
+### Post #1104 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 7:14 PM
 
@@ -10407,7 +10399,7 @@ tạch Nab 3 lần vẫn cố chấp apply
 
 ---
 
-### Post #1106 — chiyeuemthoi [Interview Experiences]
+### Post #1105 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 7:37 PM
 
@@ -10415,7 +10407,7 @@ rút được bài học sau mỗi lần tạch là oke rồi bác
 
 ---
 
-### Post #1107 — SuperDev5219 [Interview Experiences]
+### Post #1106 — SuperDev5219 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 7:41 PM
 
@@ -10424,7 +10416,7 @@ lo tu luyện cho nội tại lên cao đi rồi pv tiếp, cố chấp làm gì
 
 ---
 
-### Post #1108 — bitua1412 [Interview Experiences]
+### Post #1107 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 7:46 PM
 
@@ -10432,7 +10424,7 @@ kiểu nó cứ ko bao giờ đủ ấy bác
 
 ---
 
-### Post #1109 — luiz [Interview Experiences]
+### Post #1108 — luiz [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 9:07 PM
 
@@ -10440,7 +10432,7 @@ Try hard vậy thím, mỗi lần apply cách nhau bao lâu đó
 
 ---
 
-### Post #1110 — bitua1412 [Interview Experiences]
+### Post #1109 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 9:22 PM
 
@@ -10450,7 +10442,7 @@ kiểu cùi rồi ko sợ lở nữa cứ chơi thôi
 
 ---
 
-### Post #1111 — vietttttBau [Interview Experiences]
+### Post #1110 — vietttttBau [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 9:27 PM
 
@@ -10458,7 +10450,7 @@ bro chắc background cũng ngon nó mới process liên tục vậy
 
 ---
 
-### Post #1112 — dhl001 [Interview Experiences]
+### Post #1111 — dhl001 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 9:51 PM
 
@@ -10466,7 +10458,7 @@ chia sẻ kinh nghiệm 3 lần đó được không thím
 
 ---
 
-### Post #1113 — bitua1412 [Interview Experiences]
+### Post #1112 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:02 PM
 
@@ -10475,7 +10467,7 @@ chủ yếu là tạch vòng tech thôi bác, mà cái đó thì trên này nhi�
 
 ---
 
-### Post #1114 — hiếu thứ tha [Interview Experiences]
+### Post #1113 — hiếu thứ tha [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:04 PM
 
@@ -10483,7 +10475,7 @@ bác phỏng vấn role gì đó, bạn em apply QE mà rớt, HR bảo 6 tháng
 
 ---
 
-### Post #1115 — zloda945612 [Interview Experiences]
+### Post #1114 — zloda945612 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:19 PM
 
@@ -10491,7 +10483,7 @@ Thường nếu fail thì sau 6 tháng mới dc apply lại đúng ko fen , fen 
 
 ---
 
-### Post #1116 — vietttttBau [Interview Experiences]
+### Post #1115 — vietttttBau [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:22 PM
 
@@ -10499,7 +10491,7 @@ tôi background cũng dạng như thím, đợt 2022 apply starcamp bị reject 
 
 ---
 
-### Post #1117 — h_ngyn [Interview Experiences]
+### Post #1116 — h_ngyn [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:28 PM
 
@@ -10508,7 +10500,7 @@ Còn nếu mà apply dạng có kinh nghiệm rồi thì yolo thôi. Hồi đó 
 
 ---
 
-### Post #1118 — zloda945612 [Interview Experiences]
+### Post #1117 — zloda945612 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:30 PM
 
@@ -10516,7 +10508,7 @@ Khoảng 1 năm kn apply dc ko bác
 
 ---
 
-### Post #1119 — h_ngyn [Interview Experiences]
+### Post #1118 — h_ngyn [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:30 PM
 
@@ -10524,7 +10516,7 @@ Thấy giờ tuyển toàn mid/sen. 1 yoe mà app mid/sen thì hơi khó.
 
 ---
 
-### Post #1120 — zloda945612 [Interview Experiences]
+### Post #1119 — zloda945612 [Interview Experiences]
 
 **Date:** Apr 24, 2025 at 11:34 PM
 
@@ -10532,7 +10524,7 @@ E đang tính nhảy mà thất ít nơi tuyển jun quá , toàn từ mid đổ
 
 ---
 
-### Post #1121 — bitua1412 [Interview Experiences]
+### Post #1120 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 7:34 AM
 
@@ -10544,7 +10536,7 @@ cứ apply thôi bác, đâu mất mát gì đâu
 
 ---
 
-### Post #1122 — bkhoang [Interview Experiences]
+### Post #1121 — bkhoang [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 8:25 AM
 
@@ -10552,7 +10544,7 @@ thím có chấp niệm gì với NAB à
 
 ---
 
-### Post #1123 — bitua1412 [Interview Experiences]
+### Post #1122 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 10:22 AM
 
@@ -10561,7 +10553,7 @@ chừng nào pass thì thôi, tới đó reject ngược lại cho hả dạ
 
 ---
 
-### Post #1124 — KhaQuyc [Interview Experiences]
+### Post #1123 — KhaQuyc [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 12:31 PM
 
@@ -10570,7 +10562,7 @@ Các tiền bối ơi em đang năm cuối xin đi thực tập, vòng CV pass r
 
 ---
 
-### Post #1125 — chiyeuemthoi [Interview Experiences]
+### Post #1124 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 12:41 PM
 
@@ -10578,7 +10570,7 @@ pv xog hỏi lại feedback tìm điểm yếu cải thiện pv tiếp
 
 ---
 
-### Post #1126 — Rhett Butler567 [Interview Experiences]
+### Post #1125 — Rhett Butler567 [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 3:43 PM
 
@@ -10586,7 +10578,7 @@ pv xog hỏi lại feedback tìm điểm yếu cải thiện pv tiếp
 
 ---
 
-### Post #1127 — bitua1412 [Interview Experiences]
+### Post #1126 — bitua1412 [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 3:54 PM
 
@@ -10596,7 +10588,7 @@ apply HR ko phản hồi thì mail, mail ko dc thì kết bạn zalo/fb nhắn t
 
 ---
 
-### Post #1128 — KhaQuyc [Interview Experiences]
+### Post #1127 — KhaQuyc [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 6:51 PM
 
@@ -10606,7 +10598,7 @@ Hợp lý, cảm ơn tiền bối ạ.
 
 ---
 
-### Post #1129 — Rhett Butler567 [Interview Experiences]
+### Post #1128 — Rhett Butler567 [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 7:04 PM
 
@@ -10614,7 +10606,7 @@ T 3 yoe chứng chỉ đầy mình còn có mác du học còn đang tạch sml 
 
 ---
 
-### Post #1130 — GeniVN [Interview Experiences]
+### Post #1129 — GeniVN [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 7:13 PM
 
@@ -10622,7 +10614,7 @@ quy trình pvan ở bên sing có khó hơn nhiều ở vn k các bác. Kiểu g
 
 ---
 
-### Post #1131 — phan thái [Interview Experiences]
+### Post #1130 — phan thái [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 7:56 PM
 
@@ -10630,7 +10622,7 @@ giống em vậy bác toàn tạch vòng tech haha, nhưng mà chắc mình ôn 
 
 ---
 
-### Post #1132 — KhaQuyc [Interview Experiences]
+### Post #1131 — KhaQuyc [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 9:38 PM
 
@@ -10640,7 +10632,7 @@ Giờ đang đợi phép màu song song với việc học thêm linh tinh thôi
 
 ---
 
-### Post #1133 — Độc Nhất Vô Nhị [Interview Experiences]
+### Post #1132 — Độc Nhất Vô Nhị [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 9:42 PM
 
@@ -10648,7 +10640,7 @@ Giống mình, cái j cũng làm mà ko chuyên 1 cái nào, pv toàn tạch
 
 ---
 
-### Post #1134 — phan thái [Interview Experiences]
+### Post #1133 — phan thái [Interview Experiences]
 
 **Date:** Apr 25, 2025 at 9:50 PM
 
@@ -10656,7 +10648,7 @@ về tech thì mình thấy hỏi sâu về lý thuyết + base về mảng mìn
 
 ---
 
-### Post #1135 — Dn.mystery [Interview Experiences]
+### Post #1134 — Dn.mystery [Interview Experiences]
 
 **Date:** Apr 26, 2025 at 10:57 AM
 
@@ -10664,7 +10656,7 @@ Tech rớt thì k nói, chứ culture fit mà tạch thì thím xem lại các c
 
 ---
 
-### Post #1136 — KhaQuyc [Interview Experiences]
+### Post #1135 — KhaQuyc [Interview Experiences]
 
 **Date:** Apr 26, 2025 at 6:32 PM
 
@@ -10674,7 +10666,7 @@ Cơ mà đúng là mấy chỗ rớt culture fit em nói không lưu loát thậ
 
 ---
 
-### Post #1137 — shawngolang [Interview Experiences]
+### Post #1136 — shawngolang [Interview Experiences]
 
 **Date:** Apr 26, 2025 at 7:33 PM
 
@@ -10685,7 +10677,7 @@ Technical Interview Guide for Busy Engineers | Tech Interview Handbook (https://
 
 ---
 
-### Post #1138 — KhaQuyc [Interview Experiences]
+### Post #1137 — KhaQuyc [Interview Experiences]
 
 **Date:** Apr 26, 2025 at 7:42 PM
 
@@ -10693,7 +10685,7 @@ Em cảm ơn bác nhiều ạ, lần đầu em thấy cái này luôn. Để em 
 
 ---
 
-### Post #1139 — angrypig298 [Interview Experiences]
+### Post #1138 — angrypig298 [Interview Experiences]
 
 **Date:** Apr 27, 2025 at 12:29 AM
 
@@ -10701,7 +10693,7 @@ Bác cho xin ít kinh nghiệm phỏng vấn vòng tech với, e chuẩn bị pv
 
 ---
 
-### Post #1140 — Z1r1t0 [Interview Experiences]
+### Post #1139 — Z1r1t0 [Interview Experiences]
 
 **Date:** Apr 27, 2025 at 6:42 PM
 
@@ -10709,7 +10701,7 @@ Em sắp làm bài test C++ bên dytechlab, có bác nào làm rồi cho em xin 
 
 ---
 
-### Post #1141 — dhl001 [Interview Experiences]
+### Post #1140 — dhl001 [Interview Experiences]
 
 **Date:** Apr 27, 2025 at 7:26 PM
 
@@ -10717,7 +10709,7 @@ mình nghĩ là có record nhiều  thông số càng tốt. Nhưng thím làm �
 
 ---
 
-### Post #1142 — hold_on_never_leave [Interview Experiences]
+### Post #1141 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Apr 27, 2025 at 8:04 PM
 
@@ -10726,7 +10718,7 @@ candidate bên sing hay có bằng master, nhất là mấy a Ấn, nên là ch�
 
 ---
 
-### Post #1143 — ankeongonthe [Interview Experiences]
+### Post #1142 — ankeongonthe [Interview Experiences]
 
 **Date:** May 3, 2025 at 5:58 PM
 
@@ -10734,7 +10726,7 @@ review này hơn 1 năm nhưng cũng cảm ơn bác, cty hẹn mình t5 tuần s
 
 ---
 
-### Post #1144 — MeoVuiVe9121 [Interview Experiences]
+### Post #1143 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** May 3, 2025 at 8:06 PM
 
@@ -10742,7 +10734,7 @@ Mình nghĩ là quy trình phần trắc nghiệm với bài viết tiếng Anh 
 
 ---
 
-### Post #1145 — ankeongonthe [Interview Experiences]
+### Post #1144 — ankeongonthe [Interview Experiences]
 
 **Date:** May 3, 2025 at 8:47 PM
 
@@ -10750,7 +10742,7 @@ và vụ pv có tận 3 leader chắc kiểu chọn người vào team bác nh�
 
 ---
 
-### Post #1146 — MeoVuiVe9121 [Interview Experiences]
+### Post #1145 — MeoVuiVe9121 [Interview Experiences]
 
 **Date:** May 3, 2025 at 9:15 PM
 
@@ -10758,7 +10750,7 @@ Mình cũng không rõ nhưng nghĩ chắc là vậy
 
 ---
 
-### Post #1147 — ankeongonthe [Interview Experiences]
+### Post #1146 — ankeongonthe [Interview Experiences]
 
 **Date:** May 7, 2025 at 4:48 PM
 
@@ -10769,7 +10761,7 @@ mà vòng 1 đã hỏi trong CV mà sang vòng 2 vẫn hỏi tiếp hả bác ?
 
 ---
 
-### Post #1148 — Rhett Butler567 [Interview Experiences]
+### Post #1147 — Rhett Butler567 [Interview Experiences]
 
 **Date:** May 7, 2025 at 5:54 PM
 
@@ -10777,7 +10769,7 @@ E tiết lộ lương cho hr r. Giờ có deal lương cao hơn 30-50% đc k cá
 
 ---
 
-### Post #1149 — bitua1412 [Interview Experiences]
+### Post #1148 — bitua1412 [Interview Experiences]
 
 **Date:** May 8, 2025 at 9:14 AM
 
@@ -10786,7 +10778,7 @@ bác cứ deal thêm 30% thôi, xong HR down xuống còn tầm 15-20% mà bác 
 
 ---
 
-### Post #1150 — HigherPlace [Interview Experiences]
+### Post #1149 — HigherPlace [Interview Experiences]
 
 **Date:** May 8, 2025 at 2:37 PM
 
@@ -10794,7 +10786,7 @@ Có bác nào phỏng vấn dev bên Techvify chưa ạ cho em xin ít kinh nghi
 
 ---
 
-### Post #1151 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
+### Post #1150 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
 
 **Date:** May 13, 2025 at 2:33 PM
 
@@ -10803,7 +10795,7 @@ như hỏi cái gì mà k biết thì "Em sẽ học thêm nếu cty cần thi�
 
 ---
 
-### Post #1152 — hair_29 [Interview Experiences]
+### Post #1151 — hair_29 [Interview Experiences]
 
 **Date:** May 13, 2025 at 4:32 PM
 
@@ -10811,7 +10803,7 @@ như hỏi cái gì mà k biết thì "Em sẽ học thêm nếu cty cần thi�
 
 ---
 
-### Post #1153 — hoangday113 [Interview Experiences]
+### Post #1152 — hoangday113 [Interview Experiences]
 
 **Date:** May 13, 2025 at 5:32 PM
 
@@ -10819,7 +10811,7 @@ Mọi người cho em xin review pvan Eureka Robotics với ạ.
 
 ---
 
-### Post #1154 — hem biếc gì hết [Interview Experiences]
+### Post #1153 — hem biếc gì hết [Interview Experiences]
 
 **Date:** May 14, 2025 at 12:28 PM
 
@@ -10827,7 +10819,7 @@ bác apply qua nab ở đâu thế ạ
 
 ---
 
-### Post #1155 — bitua1412 [Interview Experiences]
+### Post #1154 — bitua1412 [Interview Experiences]
 
 **Date:** May 14, 2025 at 12:32 PM
 
@@ -10836,7 +10828,7 @@ thấy kênh nào apply kênh đó thôi bác
 
 ---
 
-### Post #1156 — hem biếc gì hết [Interview Experiences]
+### Post #1155 — hem biếc gì hết [Interview Experiences]
 
 **Date:** May 14, 2025 at 12:35 PM
 
@@ -10844,7 +10836,7 @@ vâng em cảm ơn bác, bác cho e hỏi xíu là vòng technical là pv tiến
 
 ---
 
-### Post #1157 — bitua1412 [Interview Experiences]
+### Post #1156 — bitua1412 [Interview Experiences]
 
 **Date:** May 14, 2025 at 12:38 PM
 
@@ -10854,7 +10846,7 @@ còn nếu eng bác thường thường, gặp team eng cũng thường thườn
 
 ---
 
-### Post #1158 — hem biếc gì hết [Interview Experiences]
+### Post #1157 — hem biếc gì hết [Interview Experiences]
 
 **Date:** May 14, 2025 at 12:48 PM
 
@@ -10862,7 +10854,7 @@ vậy bác pv xong thì bao lâu có kết quả v bác
 
 ---
 
-### Post #1159 — bitua1412 [Interview Experiences]
+### Post #1158 — bitua1412 [Interview Experiences]
 
 **Date:** May 14, 2025 at 1:09 PM
 
@@ -10870,7 +10862,7 @@ tầm 1 tuần là có kết quả rồi bác
 
 ---
 
-### Post #1160 — GeniVN [Interview Experiences]
+### Post #1159 — GeniVN [Interview Experiences]
 
 **Date:** May 14, 2025 at 10:37 PM
 
@@ -10879,7 +10871,7 @@ toàn engineer pvan nhau, thảo mai là tạch, thẳng thắn là có chầu b
 
 ---
 
-### Post #1161 — hem biếc gì hết [Interview Experiences]
+### Post #1160 — hem biếc gì hết [Interview Experiences]
 
 **Date:** May 15, 2025 at 9:40 AM
 
@@ -10887,7 +10879,7 @@ bác cho em hỏi xíu apply xong thì bao lâu HR gọi cho mình v bác
 
 ---
 
-### Post #1162 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
+### Post #1161 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
 
 **Date:** May 15, 2025 at 10:56 AM
 
@@ -10896,7 +10888,7 @@ cứ reverse question thì hỏi ae có nhậu k các kiểu à
 
 ---
 
-### Post #1163 — ngonthibantiepdi [Interview Experiences]
+### Post #1162 — ngonthibantiepdi [Interview Experiences]
 
 **Date:** May 15, 2025 at 11:04 AM
 
@@ -10904,7 +10896,7 @@ kn của mình là trước khi trả lời thì khựng lại 1,2 nhịp để 
 
 ---
 
-### Post #1164 — test_username [Interview Experiences]
+### Post #1163 — test_username [Interview Experiences]
 
 **Date:** May 19, 2025 at 2:02 PM
 
@@ -10912,7 +10904,7 @@ Các bác nào đã từng phỏng vấn Backend Engineer tại bank M xanh thì
 
 ---
 
-### Post #1165 — redstar1512 [Interview Experiences]
+### Post #1164 — redstar1512 [Interview Experiences]
 
 **Date:** May 20, 2025 at 1:26 PM
 
@@ -10942,7 +10934,7 @@ Sau đợt này em sẽ cày lại kiến thức be, viết cv trung thực hơn
 
 ---
 
-### Post #1166 — phan thái [Interview Experiences]
+### Post #1165 — phan thái [Interview Experiences]
 
 **Date:** May 20, 2025 at 8:41 PM
 
@@ -10950,7 +10942,7 @@ em cũng nộp mà chắc do còn đi học nên fail bác ạ haha
 
 ---
 
-### Post #1167 — test_username [Interview Experiences]
+### Post #1166 — test_username [Interview Experiences]
 
 **Date:** May 21, 2025 at 1:58 AM
 
@@ -10958,7 +10950,7 @@ Bác đừng lo, họ lấy cả trăm người 1 đợt ý, nên cứ chờ đ�
 
 ---
 
-### Post #1168 — atamsnwd [Interview Experiences]
+### Post #1167 — atamsnwd [Interview Experiences]
 
 **Date:** May 22, 2025 at 11:48 PM
 
@@ -10966,7 +10958,7 @@ Mình cbi pvan ben GF* , mn cho mình xin process với, nếu có live code th�
 
 ---
 
-### Post #1169 — caothuphu2013 [Interview Experiences]
+### Post #1168 — caothuphu2013 [Interview Experiences]
 
 **Date:** May 23, 2025 at 7:54 AM
 
@@ -10975,7 +10967,7 @@ cty này nghe đồn trưa nam nữ nằm chung đúng ko ae
 
 ---
 
-### Post #1170 — luiz [Interview Experiences]
+### Post #1169 — luiz [Interview Experiences]
 
 **Date:** May 23, 2025 at 8:02 AM
 
@@ -10983,7 +10975,7 @@ Role gì đó thím, đợt trước có thím process bên đó báo k có live
 
 ---
 
-### Post #1171 — Thanh_Cao [Interview Experiences]
+### Post #1170 — Thanh_Cao [Interview Experiences]
 
 **Date:** May 29, 2025 at 9:41 PM
 
@@ -10995,7 +10987,7 @@ Anh em có thời gian thì cho e xin góp ý thẳng thắn, mình cảm ơn r�
 
 ---
 
-### Post #1172 — chiyeuemthoi [Interview Experiences]
+### Post #1171 — chiyeuemthoi [Interview Experiences]
 
 **Date:** May 29, 2025 at 11:08 PM
 
@@ -11003,7 +10995,7 @@ Anh em có thời gian thì cho e xin góp ý thẳng thắn, mình cảm ơn r�
 
 ---
 
-### Post #1173 — Thanh_Cao [Interview Experiences]
+### Post #1172 — Thanh_Cao [Interview Experiences]
 
 **Date:** May 30, 2025 at 8:46 AM
 
@@ -11012,7 +11004,7 @@ Tại mấy nay e thấy cũng ít job ấy a
 
 ---
 
-### Post #1174 — thanhdeptrai1234 [Interview Experiences]
+### Post #1173 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** May 30, 2025 at 9:39 AM
 
@@ -11020,7 +11012,7 @@ nếu như bạn ở HN thì có MB tuyển kìa
 
 ---
 
-### Post #1175 — hold_on_never_leave [Interview Experiences]
+### Post #1174 — hold_on_never_leave [Interview Experiences]
 
 **Date:** May 31, 2025 at 12:03 PM
 
@@ -11029,7 +11021,7 @@ có vẻ như vibe coding / AI lên ngôi dẫn đến các cty đang thay đổ
 
 ---
 
-### Post #1176 — thanhdeptrai1234 [Interview Experiences]
+### Post #1175 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** May 31, 2025 at 12:04 PM
 
@@ -11037,7 +11029,7 @@ Khi nào bỏ hẳn algorithm thì lúc đó sẽ đỡ phải cày leetcode
 
 ---
 
-### Post #1177 — hold_on_never_leave [Interview Experiences]
+### Post #1176 — hold_on_never_leave [Interview Experiences]
 
 **Date:** May 31, 2025 at 12:05 PM
 
@@ -11045,7 +11037,7 @@ bigtech vẫn sẽ hỏi leetcode thôi, nhưng dạo 2-3 năm gần đây các 
 
 ---
 
-### Post #1178 — dang_le_1905 [Interview Experiences]
+### Post #1177 — dang_le_1905 [Interview Experiences]
 
 **Date:** Jun 1, 2025 at 9:37 PM
 
@@ -11053,7 +11045,7 @@ Do năng lực bác thôi. Ở Nexon fresher mức đó là đúng rồi
 
 ---
 
-### Post #1179 — 123users [Interview Experiences]
+### Post #1178 — 123users [Interview Experiences]
 
 **Date:** Jun 2, 2025 at 10:16 AM
 
@@ -11061,7 +11053,7 @@ ném link project hay demo sản phẩm vào bác ơi. Nhìn chung skill của b
 
 ---
 
-### Post #1180 — thanhdeptrai1234 [Interview Experiences]
+### Post #1179 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jun 2, 2025 at 10:20 AM
 
@@ -11069,7 +11061,7 @@ Thấy bác để skill security thì bác nên có spring security 6 trong proj
 
 ---
 
-### Post #1181 — 123users [Interview Experiences]
+### Post #1180 — 123users [Interview Experiences]
 
 **Date:** Jun 2, 2025 at 10:20 AM
 
@@ -11077,7 +11069,7 @@ fresher java bây giờ đông hơn giặc Mông Nguyên, nên cv match với jd
 
 ---
 
-### Post #1182 — ongnoimbappe [Interview Experiences]
+### Post #1181 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jun 7, 2025 at 10:21 PM
 
@@ -11085,7 +11077,7 @@ Giờ thì thằng nào chẳng đông hả bác, đã cạnh tranh khó về ki
 
 ---
 
-### Post #1183 — leetcode_time [Interview Experiences]
+### Post #1182 — leetcode_time [Interview Experiences]
 
 **Date:** Jun 7, 2025 at 10:42 PM
 
@@ -11093,7 +11085,7 @@ Công ty mình tuyển vị trí fresher/intern 2 ngày 242 cái CV
 
 ---
 
-### Post #1184 — thanhdeptrai1234 [Interview Experiences]
+### Post #1183 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jun 7, 2025 at 10:45 PM
 
@@ -11101,7 +11093,7 @@ công ty bác tên gì thế cho em xin thông tin với
 
 ---
 
-### Post #1185 — hair_29 [Interview Experiences]
+### Post #1184 — hair_29 [Interview Experiences]
 
 **Date:** Jun 8, 2025 at 12:56 AM
 
@@ -11109,7 +11101,7 @@ bác định tăng lên thành 243 cái cv à
 
 ---
 
-### Post #1186 — thanhdeptrai1234 [Interview Experiences]
+### Post #1185 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jun 8, 2025 at 9:49 AM
 
@@ -11117,7 +11109,7 @@ còn hơn ngồi k , không rải bác ạ, chứ cái tình hình chung nó đ�
 
 ---
 
-### Post #1187 — leetcode_time [Interview Experiences]
+### Post #1186 — leetcode_time [Interview Experiences]
 
 **Date:** Jun 8, 2025 at 10:25 AM
 
@@ -11125,7 +11117,7 @@ Công ty mình sau 3 ngày mở cũng đóng luôn junior/fresher/intern rồi b
 
 ---
 
-### Post #1188 — thanhdeptrai1234 [Interview Experiences]
+### Post #1187 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jun 8, 2025 at 10:26 AM
 
@@ -11133,7 +11125,7 @@ chậc, xem ra có vẻ căng phết
 
 ---
 
-### Post #1189 — Minutemen [Interview Experiences]
+### Post #1188 — Minutemen [Interview Experiences]
 
 **Date:** Jun 9, 2025 at 10:02 AM
 
@@ -11143,7 +11135,7 @@ Trong đám 20 đứa  thì nổi bật có 1 ông thạc sĩ bên Pháp,2 du h�
 
 ---
 
-### Post #1190 — 123users [Interview Experiences]
+### Post #1189 — 123users [Interview Experiences]
 
 **Date:** Jun 9, 2025 at 1:10 PM
 
@@ -11151,7 +11143,7 @@ hả, thạc sĩ apply fresher. Mới nghe lần đầu luôn. Public tên cty l
 
 ---
 
-### Post #1191 — Minutemen [Interview Experiences]
+### Post #1190 — Minutemen [Interview Experiences]
 
 **Date:** Jun 9, 2025 at 1:18 PM
 
@@ -11160,7 +11152,7 @@ cty mẹ là A**** vốn Nhật nhé
 
 ---
 
-### Post #1192 — ongnoimbappe [Interview Experiences]
+### Post #1191 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jun 9, 2025 at 9:56 PM
 
@@ -11168,7 +11160,7 @@ Giờ junior còn không dám thở chứ huống hồ gì fresher, intern thì 
 
 ---
 
-### Post #1193 — llamhv [Interview Experiences]
+### Post #1192 — llamhv [Interview Experiences]
 
 **Date:** Jun 11, 2025 at 10:12 AM
 
@@ -11179,7 +11171,7 @@ for iPhone
 
 ---
 
-### Post #1194 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1193 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 11, 2025 at 10:49 AM
 
@@ -11187,7 +11179,7 @@ tưởng thím có job r mà
 
 ---
 
-### Post #1195 — llamhv [Interview Experiences]
+### Post #1194 — llamhv [Interview Experiences]
 
 **Date:** Jun 11, 2025 at 11:37 AM
 
@@ -11199,7 +11191,7 @@ for iPhone
 
 ---
 
-### Post #1196 — JinggeNt [Interview Experiences]
+### Post #1195 — JinggeNt [Interview Experiences]
 
 **Date:** Jun 11, 2025 at 12:21 PM
 
@@ -11207,7 +11199,7 @@ Cẩn thận bị phát hiện ra là làm 2 cty mà bị đuổi thì mệt đ�
 
 ---
 
-### Post #1197 — llamhv [Interview Experiences]
+### Post #1196 — llamhv [Interview Experiences]
 
 **Date:** Jun 11, 2025 at 12:38 PM
 
@@ -11218,7 +11210,7 @@ for iPhone
 
 ---
 
-### Post #1198 — test_username [Interview Experiences]
+### Post #1197 — test_username [Interview Experiences]
 
 **Date:** Jun 11, 2025 at 8:54 PM
 
@@ -11227,7 +11219,7 @@ Level của em là Fresher ạ
 
 ---
 
-### Post #1199 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1198 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 11, 2025 at 8:59 PM
 
@@ -11235,7 +11227,7 @@ Mai t đi r review cho, cơ mà lv Junior nhé
 
 ---
 
-### Post #1200 — test_username [Interview Experiences]
+### Post #1199 — test_username [Interview Experiences]
 
 **Date:** Jun 12, 2025 at 2:05 PM
 
@@ -11243,7 +11235,7 @@ bác ơi nay bác đi thế nào ạ, em xin review với ạ
 
 ---
 
-### Post #1201 — Neronoctis [Interview Experiences]
+### Post #1200 — Neronoctis [Interview Experiences]
 
 **Date:** Jun 12, 2025 at 2:25 PM
 
@@ -11252,7 +11244,7 @@ Gần đây cty ít task hơn rồi nên cũng muốn thử sức
 
 ---
 
-### Post #1202 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1201 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 12, 2025 at 4:07 PM
 
@@ -11260,7 +11252,7 @@ Mình vừa pv xong 1h trước. Tech stack của mình là .Net với là Junio
 
 ---
 
-### Post #1203 — test_username [Interview Experiences]
+### Post #1202 — test_username [Interview Experiences]
 
 **Date:** Jun 12, 2025 at 7:32 PM
 
@@ -11268,7 +11260,7 @@ Thanks bác nhé :> Em cũng mới chuyển sang Java được 4-5 tháng, sợ 
 
 ---
 
-### Post #1204 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1203 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 12, 2025 at 7:47 PM
 
@@ -11276,7 +11268,7 @@ Mình đang mong người ta hỏi xíu về design mà ko hỏi gì. Cảm giá
 
 ---
 
-### Post #1205 — test_username [Interview Experiences]
+### Post #1204 — test_username [Interview Experiences]
 
 **Date:** Jun 12, 2025 at 7:49 PM
 
@@ -11285,7 +11277,7 @@ Mà không biết là bên đấy đánh giá ứng viên thế nào
 
 ---
 
-### Post #1206 — ongnoimbappe [Interview Experiences]
+### Post #1205 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jun 12, 2025 at 9:38 PM
 
@@ -11293,7 +11285,7 @@ Miền ngoài toàn bank phê nhỉ :3
 
 ---
 
-### Post #1207 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1206 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 12, 2025 at 10:40 PM
 
@@ -11301,7 +11293,7 @@ Cơ mà ít review bank nội quá, ko biết mức lương ra sao. Lúc chiều
 
 ---
 
-### Post #1208 — ongnoimbappe [Interview Experiences]
+### Post #1207 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jun 14, 2025 at 12:06 PM
 
@@ -11309,7 +11301,7 @@ bank thì cứ tăng 10-15% so với offer ngoài đang có chứ bác. Được
 
 ---
 
-### Post #1209 — llamhv [Interview Experiences]
+### Post #1208 — llamhv [Interview Experiences]
 
 **Date:** Jun 14, 2025 at 12:13 PM
 
@@ -11320,7 +11312,7 @@ for iPhone
 
 ---
 
-### Post #1210 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1209 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 14, 2025 at 12:47 PM
 
@@ -11328,7 +11320,7 @@ chưa bác, nhưng khi nào pv cũng phải nói expect lương mà. Nói expect
 
 ---
 
-### Post #1211 — nd0996 [Interview Experiences]
+### Post #1210 — nd0996 [Interview Experiences]
 
 **Date:** Jun 16, 2025 at 9:46 AM
 
@@ -11336,7 +11328,7 @@ Mấy bác cho em hỏi kinh nghiệm phỏng vấn Naver với ạ. Em pv vòng
 
 ---
 
-### Post #1212 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1211 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 16, 2025 at 12:00 PM
 
@@ -11344,7 +11336,7 @@ Mình nhớ naver có review ở thớt share lương hoặc trong thớt này r
 
 ---
 
-### Post #1213 — GeniVN [Interview Experiences]
+### Post #1212 — GeniVN [Interview Experiences]
 
 **Date:** Jun 17, 2025 at 10:35 PM
 
@@ -11352,7 +11344,7 @@ tùy interviewer nha thím, mà cứ chủ động trả lời nhiều vào, nhi
 
 ---
 
-### Post #1214 — toannv68 [Interview Experiences]
+### Post #1213 — toannv68 [Interview Experiences]
 
 **Date:** Jun 18, 2025 at 8:48 AM
 
@@ -11361,7 +11353,7 @@ Ví dụ 1 vấn đề mà mình đã làm, tìm hiểu và họ cũng nói họ
 
 ---
 
-### Post #1215 — JinggeNt [Interview Experiences]
+### Post #1214 — JinggeNt [Interview Experiences]
 
 **Date:** Jun 18, 2025 at 11:04 AM
 
@@ -11369,7 +11361,7 @@ ko những ko giảm mà còn căng hơn
 
 ---
 
-### Post #1216 — luiz [Interview Experiences]
+### Post #1215 — luiz [Interview Experiences]
 
 **Date:** Jun 18, 2025 at 11:05 AM
 
@@ -11377,7 +11369,7 @@ K phải cãi tay đôi, mà là nên discuss nhiều thêm tìm ra solution đ�
 
 ---
 
-### Post #1217 — 123users [Interview Experiences]
+### Post #1216 — 123users [Interview Experiences]
 
 **Date:** Jun 18, 2025 at 9:32 PM
 
@@ -11385,7 +11377,7 @@ K phải cãi tay đôi, mà là nên discuss nhiều thêm tìm ra solution đ�
 
 ---
 
-### Post #1218 — Phhoang98a [Interview Experiences]
+### Post #1217 — Phhoang98a [Interview Experiences]
 
 **Date:** Jun 18, 2025 at 10:59 PM
 
@@ -11393,7 +11385,7 @@ ví dụ được k bác, căng vòng coding à bác
 
 ---
 
-### Post #1219 — llamhv [Interview Experiences]
+### Post #1218 — llamhv [Interview Experiences]
 
 **Date:** Jun 19, 2025 at 9:03 AM
 
@@ -11404,7 +11396,7 @@ for iPhone
 
 ---
 
-### Post #1220 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1219 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 19, 2025 at 10:35 AM
 
@@ -11412,7 +11404,7 @@ vl bên đó cho fen phỏng vấn role middle luôn á
 
 ---
 
-### Post #1221 — llamhv [Interview Experiences]
+### Post #1220 — llamhv [Interview Experiences]
 
 **Date:** Jun 19, 2025 at 10:48 AM
 
@@ -11422,7 +11414,7 @@ e cũng bất ngờ mà bác
 
 ---
 
-### Post #1222 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1221 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jun 19, 2025 at 10:53 AM
 
@@ -11431,7 +11423,7 @@ thôi thím cứ thử đi chứ bên này outsource tier còn thấp hơn F n�
 
 ---
 
-### Post #1223 — llamhv [Interview Experiences]
+### Post #1222 — llamhv [Interview Experiences]
 
 **Date:** Jun 19, 2025 at 10:54 AM
 
@@ -11440,7 +11432,7 @@ e xóa ảnh cho đỡ ảnh hưởng, mà tính lương middle cũng 2x thì th
 
 ---
 
-### Post #1224 — ongnoimbappe [Interview Experiences]
+### Post #1223 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jun 19, 2025 at 10:02 PM
 
@@ -11448,7 +11440,7 @@ Chắc mọi round luôn quá, vì candidate giờ nhiều mà bác
 
 ---
 
-### Post #1225 — hello_my_friend [Interview Experiences]
+### Post #1224 — hello_my_friend [Interview Experiences]
 
 **Date:** Jun 19, 2025 at 11:32 PM
 
@@ -11456,7 +11448,7 @@ Bác nào phỏng vấn BE ở M*m* rồi cho e xin chút review ạ
 
 ---
 
-### Post #1226 — canh_1412 [Interview Experiences]
+### Post #1225 — canh_1412 [Interview Experiences]
 
 **Date:** Jun 20, 2025 at 10:24 AM
 
@@ -11468,7 +11460,7 @@ pros - cos:
 
 ---
 
-### Post #1227 — Rain_LN [Interview Experiences]
+### Post #1226 — Rain_LN [Interview Experiences]
 
 **Date:** Jun 20, 2025 at 11:04 AM
 
@@ -11476,7 +11468,7 @@ có fen nào pv BE ở cty MONEY FORWARD VIETNAM cho mình xin kinh nghiệm pv 
 
 ---
 
-### Post #1228 — hungxeuvuong01 [Interview Experiences]
+### Post #1227 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Jun 20, 2025 at 3:41 PM
 
@@ -11493,7 +11485,7 @@ Chắc đây là bài review pv thứ 6 7 gì đó của mình năm nay, hi vọ
 
 ---
 
-### Post #1229 — llamhv [Interview Experiences]
+### Post #1228 — llamhv [Interview Experiences]
 
 **Date:** Jun 21, 2025 at 12:21 AM
 
@@ -11513,7 +11505,7 @@ for iPhone
 
 ---
 
-### Post #1230 — llamhv [Interview Experiences]
+### Post #1229 — llamhv [Interview Experiences]
 
 **Date:** Jun 21, 2025 at 1:35 PM
 
@@ -11524,7 +11516,7 @@ for iPhone
 
 ---
 
-### Post #1231 — hungxeuvuong01 [Interview Experiences]
+### Post #1230 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Jun 21, 2025 at 2:44 PM
 
@@ -11532,7 +11524,7 @@ Cái đó mới làm mình bất ngờ ko trả lời dc mà, nếu mà hỏi ki
 
 ---
 
-### Post #1232 — llamhv [Interview Experiences]
+### Post #1231 — llamhv [Interview Experiences]
 
 **Date:** Jun 23, 2025 at 4:21 PM
 
@@ -11547,7 +11539,7 @@ Bài học rút ra: chuẩn bị kĩ có thể giúp mng tăng trình hơn bth k
 
 ---
 
-### Post #1233 — hungmessi2 [Interview Experiences]
+### Post #1232 — hungmessi2 [Interview Experiences]
 
 **Date:** Jun 26, 2025 at 3:46 AM
 
@@ -11558,7 +11550,7 @@ www.canva.dev
 
 ---
 
-### Post #1234 — Diệp Vô Ưu [Interview Experiences]
+### Post #1233 — Diệp Vô Ưu [Interview Experiences]
 
 **Date:** Jun 26, 2025 at 8:45 AM
 
@@ -11568,7 +11560,7 @@ search index trên google k thấy
 
 ---
 
-### Post #1235 — bkhoang [Interview Experiences]
+### Post #1234 — bkhoang [Interview Experiences]
 
 **Date:** Jun 26, 2025 at 5:17 PM
 
@@ -11577,7 +11569,7 @@ cho e xin review với
 
 ---
 
-### Post #1236 — hungmessi2 [Interview Experiences]
+### Post #1235 — hungmessi2 [Interview Experiences]
 
 **Date:** Jun 26, 2025 at 5:19 PM
 
@@ -11586,7 +11578,7 @@ Xin tên công ty apply ạ
 
 ---
 
-### Post #1237 — minhnx12 [Interview Experiences]
+### Post #1236 — minhnx12 [Interview Experiences]
 
 **Date:** Jun 26, 2025 at 5:35 PM
 
@@ -11594,7 +11586,7 @@ Lương thấp nhỉ , DE thấp quá
 
 ---
 
-### Post #1238 — llamhv [Interview Experiences]
+### Post #1237 — llamhv [Interview Experiences]
 
 **Date:** Jun 26, 2025 at 5:38 PM
 
@@ -11605,7 +11597,7 @@ for iPhone
 
 ---
 
-### Post #1239 — ongnoimbappe [Interview Experiences]
+### Post #1238 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jun 30, 2025 at 2:45 AM
 
@@ -11613,7 +11605,7 @@ Có bác nào từng PV junior backend dev TymeX và EPAM cho mình xin ít revi
 
 ---
 
-### Post #1240 — thanhdeptrai1234 [Interview Experiences]
+### Post #1239 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 4, 2025 at 4:20 PM
 
@@ -11624,7 +11616,7 @@ Bài test 2 coderbyte liên quan đến xoay mảng,start rating và 1 câu sql 
 
 ---
 
-### Post #1241 — thanhdeptrai1234 [Interview Experiences]
+### Post #1240 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 4, 2025 at 7:02 PM
 
@@ -11632,7 +11624,7 @@ online friend, test iq thì bật cam từ đầu test, còn code với sql ch�
 
 ---
 
-### Post #1242 — thanhdeptrai1234 [Interview Experiences]
+### Post #1241 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 4, 2025 at 10:20 PM
 
@@ -11640,7 +11632,7 @@ Star quest thôi bác chắc cỡ fresh , k yêu cầu Kinh nghiệm
 
 ---
 
-### Post #1243 — thanhdeptrai1234 [Interview Experiences]
+### Post #1242 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 4, 2025 at 10:54 PM
 
@@ -11648,7 +11640,7 @@ Không yêu cầu kinh nghiệm friend
 
 ---
 
-### Post #1244 — ongnoimbappe [Interview Experiences]
+### Post #1243 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jul 4, 2025 at 10:56 PM
 
@@ -11656,7 +11648,7 @@ Cảm ơn bác nha, chúc bác may mắn
 
 ---
 
-### Post #1245 — Husqvarna701SM [Interview Experiences]
+### Post #1244 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Jul 5, 2025 at 2:46 AM
 
@@ -11664,7 +11656,7 @@ Be hay role nào thím. Đợt mình pv jun hơi loanh quanh nghiệp vụ, redi
 
 ---
 
-### Post #1246 — Husqvarna701SM [Interview Experiences]
+### Post #1245 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Jul 5, 2025 at 2:47 AM
 
@@ -11672,7 +11664,7 @@ Nghe giống bị đì xuống intern lắm, nên né nhé
 
 ---
 
-### Post #1247 — dhl001 [Interview Experiences]
+### Post #1246 — dhl001 [Interview Experiences]
 
 **Date:** Jul 5, 2025 at 8:39 AM
 
@@ -11680,7 +11672,7 @@ người ta pv từ 22/5 rồi giờ thím mới khuyên né à
 
 ---
 
-### Post #1248 — ongnoimbappe [Interview Experiences]
+### Post #1247 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jul 5, 2025 at 10:25 PM
 
@@ -11688,7 +11680,7 @@ Bác nào pv junior cho em hỏi sẽ cần chuẩn bị TA như nào, mình xin
 
 ---
 
-### Post #1249 — JinggeNt [Interview Experiences]
+### Post #1248 — JinggeNt [Interview Experiences]
 
 **Date:** Jul 5, 2025 at 10:27 PM
 
@@ -11696,7 +11688,7 @@ giao tiếp ổn là dc. Cũng chả có keyword gì cả. Bác ko vững thì k
 
 ---
 
-### Post #1250 — bkhoang [Interview Experiences]
+### Post #1249 — bkhoang [Interview Experiences]
 
 **Date:** Jul 5, 2025 at 11:18 PM
 
@@ -11705,7 +11697,7 @@ ko đào sâu lắm
 
 ---
 
-### Post #1251 — llamhv [Interview Experiences]
+### Post #1250 — llamhv [Interview Experiences]
 
 **Date:** Jul 6, 2025 at 12:11 AM
 
@@ -11719,7 +11711,7 @@ Bài học rút ra: nên ôn luyện thêm leet code và system design
 
 ---
 
-### Post #1252 — dhl001 [Interview Experiences]
+### Post #1251 — dhl001 [Interview Experiences]
 
 **Date:** Jul 6, 2025 at 12:20 AM
 
@@ -11727,7 +11719,7 @@ Junior mà đã system design rồi à. dạo này các công ty trêu ứng vi�
 
 ---
 
-### Post #1253 — llamhv [Interview Experiences]
+### Post #1252 — llamhv [Interview Experiences]
 
 **Date:** Jul 6, 2025 at 12:25 AM
 
@@ -11735,7 +11727,7 @@ phỏng vấn giờ tê lắm bác ạ, khó thsu
 
 ---
 
-### Post #1254 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1253 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jul 6, 2025 at 12:26 AM
 
@@ -11743,7 +11735,7 @@ Chắc phải coi leetcode với system design như bài tập hằng ngày luô
 
 ---
 
-### Post #1255 — llamhv [Interview Experiences]
+### Post #1254 — llamhv [Interview Experiences]
 
 **Date:** Jul 6, 2025 at 12:29 AM
 
@@ -11751,7 +11743,7 @@ cả sql nữa bác ạ, ngày nào  e cũng 1 câu leetcode với sql, có syst
 
 ---
 
-### Post #1256 — Koji_mon [Interview Experiences]
+### Post #1255 — Koji_mon [Interview Experiences]
 
 **Date:** Jul 9, 2025 at 10:01 AM
 
@@ -11759,7 +11751,7 @@ Bác apply vào vị trí nào v
 
 ---
 
-### Post #1257 — thanhdeptrai1234 [Interview Experiences]
+### Post #1256 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 9, 2025 at 11:56 AM
 
@@ -11767,7 +11759,7 @@ start quest bác, k yêu cầu kinh nghiệm
 
 ---
 
-### Post #1258 — thanhdeptrai1234 [Interview Experiences]
+### Post #1257 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 9, 2025 at 12:00 PM
 
@@ -11783,7 +11775,7 @@ Còn lại hỏi ngoài lề.
 
 ---
 
-### Post #1259 — zloda945612 [Interview Experiences]
+### Post #1258 — zloda945612 [Interview Experiences]
 
 **Date:** Jul 9, 2025 at 5:03 PM
 
@@ -11791,7 +11783,7 @@ Này pv level nào thế bác
 
 ---
 
-### Post #1260 — thanhdeptrai1234 [Interview Experiences]
+### Post #1259 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 9, 2025 at 7:12 PM
 
@@ -11799,7 +11791,7 @@ mới làm test thôi bác
 
 ---
 
-### Post #1261 — Nổ bùm bùm [Interview Experiences]
+### Post #1260 — Nổ bùm bùm [Interview Experiences]
 
 **Date:** Jul 10, 2025 at 12:54 AM
 
@@ -11808,7 +11800,7 @@ Thời bây giờ cần những kiến thức gì? Tìm job ở đâu?
 
 ---
 
-### Post #1262 — JinggeNt [Interview Experiences]
+### Post #1261 — JinggeNt [Interview Experiences]
 
 **Date:** Jul 10, 2025 at 7:02 AM
 
@@ -11816,7 +11808,7 @@ Tùy level sẽ có độ sâu khác nhau. Bt bác :V trc e pv fresher còn có 
 
 ---
 
-### Post #1263 — bkhoang [Interview Experiences]
+### Post #1262 — bkhoang [Interview Experiences]
 
 **Date:** Jul 10, 2025 at 9:36 AM
 
@@ -11824,7 +11816,7 @@ thím pvan bên nào căng thế?
 
 ---
 
-### Post #1264 — chiyeuemthoi [Interview Experiences]
+### Post #1263 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Jul 10, 2025 at 9:46 AM
 
@@ -11832,7 +11824,7 @@ trc pv t*k* vs c*b** intern đều có ở T thì basic thoi
 
 ---
 
-### Post #1265 — Husqvarna701SM [Interview Experiences]
+### Post #1264 — Husqvarna701SM [Interview Experiences]
 
 **Date:** Jul 10, 2025 at 9:54 AM
 
@@ -11840,7 +11832,7 @@ K hỏi systemdesign đề cho trước thì kêu trình bày hệ thống làm 
 
 ---
 
-### Post #1266 — JinggeNt [Interview Experiences]
+### Post #1265 — JinggeNt [Interview Experiences]
 
 **Date:** Jul 10, 2025 at 11:15 AM
 
@@ -11848,7 +11840,7 @@ ko căng lắm bác nếu có xem qua r. Họ hỏi ko sâu do level fresher nê
 
 ---
 
-### Post #1267 — Koji_mon [Interview Experiences]
+### Post #1266 — Koji_mon [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 7:05 PM
 
@@ -11856,7 +11848,7 @@ bác phỏng vấn starquest chưa bác
 
 ---
 
-### Post #1268 — thanhdeptrai1234 [Interview Experiences]
+### Post #1267 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 7:08 PM
 
@@ -11864,7 +11856,7 @@ chưa vô vòng 2 nữa bác, chắc rớt rồi.
 
 ---
 
-### Post #1269 — Koji_mon [Interview Experiences]
+### Post #1268 — Koji_mon [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 7:10 PM
 
@@ -11872,7 +11864,7 @@ chắc là thế r bác ạ, mai em pv luôn r
 
 ---
 
-### Post #1270 — giakhuu [Interview Experiences]
+### Post #1269 — giakhuu [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 7:14 PM
 
@@ -11880,7 +11872,7 @@ Bác phỏng vấn mảng nào thế?
 
 ---
 
-### Post #1271 — Koji_mon [Interview Experiences]
+### Post #1270 — Koji_mon [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 7:16 PM
 
@@ -11889,7 +11881,7 @@ bác cũng pv à
 
 ---
 
-### Post #1272 — giakhuu [Interview Experiences]
+### Post #1271 — giakhuu [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 7:19 PM
 
@@ -11897,7 +11889,7 @@ Tôi ngày thứ 6 lận, mà tôi bên android. Có gì về cho xin tí kinh n
 
 ---
 
-### Post #1273 — dang_le_1905 [Interview Experiences]
+### Post #1272 — dang_le_1905 [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 10:18 PM
 
@@ -11916,7 +11908,7 @@ Vòng 1 (và là vòng duy nhất): giải tầm 4 câu thuật toán bằng C++
 
 ---
 
-### Post #1274 — iamamonster07 [Interview Experiences]
+### Post #1273 — iamamonster07 [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 10:25 PM
 
@@ -11924,7 +11916,7 @@ Starcamp này đọc review trên đây đúng nhân phẩm
 
 ---
 
-### Post #1275 — zloda945612 [Interview Experiences]
+### Post #1274 — zloda945612 [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 10:27 PM
 
@@ -11932,7 +11924,7 @@ Bác pv những cty này ở level nào vậy ạ
 
 ---
 
-### Post #1276 — dang_le_1905 [Interview Experiences]
+### Post #1275 — dang_le_1905 [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 10:28 PM
 
@@ -11940,7 +11932,7 @@ Fresher hết á bác ơi (riêng NAB StarCamp thì bản chất là Intern 3 th
 
 ---
 
-### Post #1277 — dang_le_1905 [Interview Experiences]
+### Post #1276 — dang_le_1905 [Interview Experiences]
 
 **Date:** Jul 16, 2025 at 10:29 PM
 
@@ -11948,7 +11940,7 @@ Bạn bè mình cũng bị NAB on hold nhiều. Đứa nào on hold thì có khi
 
 ---
 
-### Post #1278 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1277 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jul 17, 2025 at 9:56 AM
 
@@ -11962,7 +11954,7 @@ MBV: Có kiến thức về core bank T24
 
 ---
 
-### Post #1279 — llamhv [Interview Experiences]
+### Post #1278 — llamhv [Interview Experiences]
 
 **Date:** Jul 17, 2025 at 6:43 PM
 
@@ -11973,7 +11965,7 @@ for iPhone
 
 ---
 
-### Post #1280 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1279 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jul 17, 2025 at 6:45 PM
 
@@ -11981,7 +11973,7 @@ Cái này mình chịu, tạch sao biết đc bác. Cơ mà người ta tuyển 
 
 ---
 
-### Post #1281 — Minutemen [Interview Experiences]
+### Post #1280 — Minutemen [Interview Experiences]
 
 **Date:** Jul 18, 2025 at 10:01 AM
 
@@ -11990,7 +11982,7 @@ công nhận mấy thằng domain đặc thù như Bank, bảo hiểm, ngành đ
 
 ---
 
-### Post #1282 — vtdidauroi [Interview Experiences]
+### Post #1281 — vtdidauroi [Interview Experiences]
 
 **Date:** Jul 18, 2025 at 10:06 AM
 
@@ -11998,7 +11990,7 @@ Bác PV chưa, em xin ít kinh nghiệm với
 
 ---
 
-### Post #1283 — Koji_mon [Interview Experiences]
+### Post #1282 — Koji_mon [Interview Experiences]
 
 **Date:** Jul 18, 2025 at 11:34 PM
 
@@ -12006,7 +11998,7 @@ họ sẽ hỏi những vấn đề liên quan tới cái role bác apply, hỏi
 
 ---
 
-### Post #1284 — dthien0511 [Interview Experiences]
+### Post #1283 — dthien0511 [Interview Experiences]
 
 **Date:** Jul 19, 2025 at 2:47 AM
 
@@ -12016,7 +12008,7 @@ Mình chẳng thấy HR send NDA hay guidance gì cả, cứ thế mà hiring sc
 
 ---
 
-### Post #1285 — awarenism [Interview Experiences]
+### Post #1284 — awarenism [Interview Experiences]
 
 **Date:** Jul 19, 2025 at 6:14 AM
 
@@ -12026,7 +12018,7 @@ Còn không có mail + change status trong action center coi chừng nớ bán q
 
 ---
 
-### Post #1286 — dthien0511 [Interview Experiences]
+### Post #1285 — dthien0511 [Interview Experiences]
 
 **Date:** Jul 19, 2025 at 7:58 AM
 
@@ -12034,7 +12026,7 @@ Còn không có mail + change status trong action center coi chừng nớ bán q
 
 ---
 
-### Post #1287 — awarenism [Interview Experiences]
+### Post #1286 — awarenism [Interview Experiences]
 
 **Date:** Jul 19, 2025 at 9:47 AM
 
@@ -12042,7 +12034,7 @@ Còn không có mail + change status trong action center coi chừng nớ bán q
 
 ---
 
-### Post #1288 — Plzzzz [Interview Experiences]
+### Post #1287 — Plzzzz [Interview Experiences]
 
 **Date:** Jul 19, 2025 at 2:55 PM
 
@@ -12050,7 +12042,7 @@ Nằm ngửa nửa năm, mới apply lại vài chỗ thì được bên HDWEBSO
 
 ---
 
-### Post #1289 — vtdidauroi [Interview Experiences]
+### Post #1288 — vtdidauroi [Interview Experiences]
 
 **Date:** Jul 19, 2025 at 11:54 PM
 
@@ -12058,7 +12050,7 @@ về tech hả bác, em vừa làm test mà khó vkl
 
 ---
 
-### Post #1290 — thanhdeptrai1234 [Interview Experiences]
+### Post #1289 — thanhdeptrai1234 [Interview Experiences]
 
 **Date:** Jul 20, 2025 at 11:04 AM
 
@@ -12066,7 +12058,7 @@ hóng bác đi pv về review, cty này em nộp vào bị ghost
 
 ---
 
-### Post #1291 — Koji_mon [Interview Experiences]
+### Post #1290 — Koji_mon [Interview Experiences]
 
 **Date:** Jul 20, 2025 at 11:41 AM
 
@@ -12074,7 +12066,7 @@ hóng bác đi pv về review, cty này em nộp vào bị ghost
 
 ---
 
-### Post #1292 — minhhai1906 [Interview Experiences]
+### Post #1291 — minhhai1906 [Interview Experiences]
 
 **Date:** Jul 21, 2025 at 12:29 PM
 
@@ -12082,7 +12074,7 @@ pv Java level đầu mid họ thường hỏi gì vậy các bác ơi
 
 ---
 
-### Post #1293 — khangnl24112002 [Interview Experiences]
+### Post #1292 — khangnl24112002 [Interview Experiences]
 
 **Date:** Jul 21, 2025 at 5:11 PM
 
@@ -12090,7 +12082,7 @@ Mn cho em hỏi là phỏng vấn Nodejs/ReactJS họ thường hỏi gì vậy 
 
 ---
 
-### Post #1294 — hophamtuankiet [Interview Experiences]
+### Post #1293 — hophamtuankiet [Interview Experiences]
 
 **Date:** Jul 21, 2025 at 11:07 PM
 
@@ -12098,7 +12090,7 @@ bác ơi cho em xin review với ạ
 
 ---
 
-### Post #1295 — dthien0511 [Interview Experiences]
+### Post #1294 — dthien0511 [Interview Experiences]
 
 **Date:** Jul 25, 2025 at 1:38 PM
 
@@ -12108,7 +12100,7 @@ Ai từng interview OL cho em hỏi vòng vs Tech Lead và vs CTO thường xoay
 
 ---
 
-### Post #1296 — Manmapi [Interview Experiences]
+### Post #1295 — Manmapi [Interview Experiences]
 
 **Date:** Jul 25, 2025 at 8:18 PM
 
@@ -12119,7 +12111,7 @@ Em định thử sức ở các cty tier 1&2
 
 ---
 
-### Post #1297 — awarenism [Interview Experiences]
+### Post #1296 — awarenism [Interview Experiences]
 
 **Date:** Jul 25, 2025 at 8:26 PM
 
@@ -12127,7 +12119,7 @@ Cứ gửi email báo là em đã nhận offer phù hợp với mình hơn là �
 
 ---
 
-### Post #1298 — Ruoi Den [Interview Experiences]
+### Post #1297 — Ruoi Den [Interview Experiences]
 
 **Date:** Jul 28, 2025 at 10:58 PM
 
@@ -12135,7 +12127,7 @@ Có ae nào là ở CoverGo ko ạ? Cho mình hỏi vòng thuật toán cỡ nà
 
 ---
 
-### Post #1299 — hungxeuvuong01 [Interview Experiences]
+### Post #1298 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Jul 29, 2025 at 6:48 PM
 
@@ -12145,7 +12137,7 @@ Những cái fen lăn tăn quá là bth luôn, chẳng có gì đáng ngại:
 
 ---
 
-### Post #1300 — ongnoimbappe [Interview Experiences]
+### Post #1299 — ongnoimbappe [Interview Experiences]
 
 **Date:** Jul 29, 2025 at 11:21 PM
 
@@ -12153,7 +12145,7 @@ Không rõ lắm nhưng chúc bác may mắn
 
 ---
 
-### Post #1301 — Nổ bùm bùm [Interview Experiences]
+### Post #1300 — Nổ bùm bùm [Interview Experiences]
 
 **Date:** Jul 29, 2025 at 11:28 PM
 
@@ -12161,7 +12153,7 @@ Mn ở đây đã có ai pv intern MbBank chưa ạ? Cho e xin ít review
 
 ---
 
-### Post #1302 — dhl001 [Interview Experiences]
+### Post #1301 — dhl001 [Interview Experiences]
 
 **Date:** Jul 31, 2025 at 9:49 AM
 
@@ -12169,7 +12161,7 @@ Các thím có biết về aniday không. Tự nhiên dạo này bị spam refer
 
 ---
 
-### Post #1303 — nart_1412 [Interview Experiences]
+### Post #1302 — nart_1412 [Interview Experiences]
 
 **Date:** Aug 1, 2025 at 4:17 PM
 
@@ -12179,7 +12171,7 @@ Có bác nào đang làm bên này hong cho em xin ít kinh nghiệm pvan vứi 
 
 ---
 
-### Post #1304 — nevergiveup95 [Interview Experiences]
+### Post #1303 — nevergiveup95 [Interview Experiences]
 
 **Date:** Aug 5, 2025 at 1:47 PM
 
@@ -12187,7 +12179,7 @@ sql fen practice ở đâu vậy, còn món CS fundamental học ở đâu vậy
 
 ---
 
-### Post #1305 — nevergiveup95 [Interview Experiences]
+### Post #1304 — nevergiveup95 [Interview Experiences]
 
 **Date:** Aug 5, 2025 at 1:48 PM
 
@@ -12195,7 +12187,7 @@ mấy câu algorithm vậy fen
 
 ---
 
-### Post #1306 — nart_1412 [Interview Experiences]
+### Post #1305 — nart_1412 [Interview Experiences]
 
 **Date:** Aug 5, 2025 at 1:51 PM
 
@@ -12203,7 +12195,7 @@ Em pvan bên Test Engineer cơ bác ạ, hong phải Dev
 
 ---
 
-### Post #1307 — nevergiveup95 [Interview Experiences]
+### Post #1306 — nevergiveup95 [Interview Experiences]
 
 **Date:** Aug 5, 2025 at 2:36 PM
 
@@ -12211,7 +12203,7 @@ các bác cho hỏi ôn Network và OS ở trang nào, hay course nào vậy nh�
 
 ---
 
-### Post #1308 — caothuphu2013 [Interview Experiences]
+### Post #1307 — caothuphu2013 [Interview Experiences]
 
 **Date:** Aug 5, 2025 at 5:13 PM
 
@@ -12219,7 +12211,7 @@ Thời buổi này còn test Algo hơi lởm. Giờ test kiểu viết câu prom
 
 ---
 
-### Post #1309 — some_random_guy [Interview Experiences]
+### Post #1308 — some_random_guy [Interview Experiences]
 
 **Date:** Aug 7, 2025 at 2:50 AM
 
@@ -12227,7 +12219,7 @@ Mọi người ai có thông tin gì về vòng pv technical cho vị trí FE b�
 
 ---
 
-### Post #1310 — cool-girl [Interview Experiences]
+### Post #1309 — cool-girl [Interview Experiences]
 
 **Date:** Aug 7, 2025 at 7:36 AM
 
@@ -12235,7 +12227,7 @@ Giờ bác hỏi gpt ra ôn cả năm không hết á
 
 ---
 
-### Post #1311 — deptraivuitinh [Interview Experiences]
+### Post #1310 — deptraivuitinh [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 9:02 AM
 
@@ -12243,7 +12235,7 @@ Em sắp pv zalora role software engineer II golang, các bác cho em xin ít ki
 
 ---
 
-### Post #1312 — dthien0511 [Interview Experiences]
+### Post #1311 — dthien0511 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 1:38 PM
 
@@ -12252,7 +12244,7 @@ Vòng Tech Lead thì có bác bảo interview gần 2 tiếng, em ngồi chat ch
 
 ---
 
-### Post #1313 — zloda945612 [Interview Experiences]
+### Post #1312 — zloda945612 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 1:42 PM
 
@@ -12260,7 +12252,7 @@ algo bên OL khó ko bác
 
 ---
 
-### Post #1314 — dhl001 [Interview Experiences]
+### Post #1313 — dhl001 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 1:43 PM
 
@@ -12268,7 +12260,7 @@ chỉ biết chúc mừng bạn thôi chứ ko biết nói gì.
 
 ---
 
-### Post #1315 — dthien0511 [Interview Experiences]
+### Post #1314 — dthien0511 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 1:44 PM
 
@@ -12277,7 +12269,7 @@ Em thấy chỉ bị dài thôi, dài vl. Bác rành Regex thì sẽ đỡ, em m
 
 ---
 
-### Post #1316 — NullPointer Exception [Interview Experiences]
+### Post #1315 — NullPointer Exception [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 1:49 PM
 
@@ -12285,7 +12277,7 @@ ngon quá chúc mừng fen senior OL chắc cũng 4 5k chứ chả ít
 
 ---
 
-### Post #1317 — toannv68 [Interview Experiences]
+### Post #1316 — toannv68 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 1:52 PM
 
@@ -12293,7 +12285,7 @@ thím pv level nào mà 20' pass pv luôn đỉnh vậy?
 
 ---
 
-### Post #1318 — trai_it_2003 [Interview Experiences]
+### Post #1317 — trai_it_2003 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:15 PM
 
@@ -12301,7 +12293,7 @@ buồn quá mấy thím, có kèo junior lương 35m, em trình fresher mới ra
 
 ---
 
-### Post #1319 — NullPointer Exception [Interview Experiences]
+### Post #1318 — NullPointer Exception [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:18 PM
 
@@ -12309,7 +12301,7 @@ cái này k phải lý do rớt đâu
 
 ---
 
-### Post #1320 — chiyeuemthoi [Interview Experiences]
+### Post #1319 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:20 PM
 
@@ -12318,7 +12310,7 @@ fen pv BE à lương ngon z
 
 ---
 
-### Post #1321 — trai_it_2003 [Interview Experiences]
+### Post #1320 — trai_it_2003 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:22 PM
 
@@ -12326,7 +12318,7 @@ fen pv BE à lương ngon z
 
 ---
 
-### Post #1322 — NullPointer Exception [Interview Experiences]
+### Post #1321 — NullPointer Exception [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:25 PM
 
@@ -12335,7 +12327,7 @@ chắc có người matching với họ hơn,giỏi tech hơn rồi
 
 ---
 
-### Post #1323 — chiyeuemthoi [Interview Experiences]
+### Post #1322 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:26 PM
 
@@ -12343,7 +12335,7 @@ chắc có người matching với họ hơn,giỏi tech hơn rồi
 
 ---
 
-### Post #1324 — trai_it_2003 [Interview Experiences]
+### Post #1323 — trai_it_2003 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:31 PM
 
@@ -12351,7 +12343,7 @@ Dạ tại mình mới phỏng vấn hôm qua, sáng nay có kết quả luôn n
 
 ---
 
-### Post #1325 — naiveryan [Interview Experiences]
+### Post #1324 — naiveryan [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:39 PM
 
@@ -12359,7 +12351,7 @@ Dạ tại mình mới phỏng vấn hôm qua, sáng nay có kết quả luôn n
 
 ---
 
-### Post #1326 — trai_it_2003 [Interview Experiences]
+### Post #1325 — trai_it_2003 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:47 PM
 
@@ -12367,7 +12359,7 @@ Thôi thì cũng rút kinh nghiệm bác ạ. Hồi xưa mình phỏng vấn ch�
 
 ---
 
-### Post #1327 — naiveryan [Interview Experiences]
+### Post #1326 — naiveryan [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:50 PM
 
@@ -12376,7 +12368,7 @@ Ví dụ người tuyển dụng họ đang có 2 ứng viên có trình độ c
 
 ---
 
-### Post #1328 — trai_it_2003 [Interview Experiences]
+### Post #1327 — trai_it_2003 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 2:59 PM
 
@@ -12384,7 +12376,7 @@ Dạ cảm ơn bác. Mình không thể nói được tên sản phẩm của h�
 
 ---
 
-### Post #1329 — vanhesling189 [Interview Experiences]
+### Post #1328 — vanhesling189 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 3:54 PM
 
@@ -12393,7 +12385,7 @@ Mà nge HH bên mình bảo vô được round 4 thì cứ 7,8 thì vô được
 
 ---
 
-### Post #1330 — uncle3 [Interview Experiences]
+### Post #1329 — uncle3 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 4:38 PM
 
@@ -12401,7 +12393,7 @@ kể lại quá trình round 1 -> round 4 được không người anh em?
 
 ---
 
-### Post #1331 — vanhesling189 [Interview Experiences]
+### Post #1330 — vanhesling189 [Interview Experiences]
 
 **Date:** Aug 8, 2025 at 4:50 PM
 
@@ -12412,7 +12404,7 @@ Round 4 CEO,CTO giới thiệu bản thân, hỏi dựa theo cv mình đã làm 
 
 ---
 
-### Post #1332 — thesimple [Interview Experiences]
+### Post #1331 — thesimple [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 10:06 AM
 
@@ -12420,7 +12412,7 @@ pv có vẻ khó hơn bên NAB, MFV bro hè, thấy có mấy post review mấy 
 
 ---
 
-### Post #1333 — hoangNam_33 [Interview Experiences]
+### Post #1332 — hoangNam_33 [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 8:12 PM
 
@@ -12428,7 +12420,7 @@ Phỏng vấn vòng 1 nói chuyện với HR, không có technical mà rớt là
 
 ---
 
-### Post #1334 — hoangNam_33 [Interview Experiences]
+### Post #1333 — hoangNam_33 [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 8:21 PM
 
@@ -12436,7 +12428,7 @@ Phỏng vấn vòng 1 nói chuyện với HR, không có technical mà rớt là
 
 ---
 
-### Post #1335 — leetcode_time [Interview Experiences]
+### Post #1334 — leetcode_time [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 9:23 PM
 
@@ -12444,7 +12436,7 @@ Nghe giống P**tCo v bác
 
 ---
 
-### Post #1336 — chiyeuemthoi [Interview Experiences]
+### Post #1335 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 9:24 PM
 
@@ -12452,7 +12444,7 @@ bác cx pv bên này rồi à làm ruby đk
 
 ---
 
-### Post #1337 — leetcode_time [Interview Experiences]
+### Post #1336 — leetcode_time [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 9:30 PM
 
@@ -12460,7 +12452,7 @@ chuẩn r bác, đợt tháng 3 có pv qua r
 
 ---
 
-### Post #1338 — vu_nam1905 [Interview Experiences]
+### Post #1337 — vu_nam1905 [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 9:47 PM
 
@@ -12469,7 +12461,7 @@ quy trình cho level này là bao nhiêu vòng mức nàoạ
 
 ---
 
-### Post #1339 — dthien0511 [Interview Experiences]
+### Post #1338 — dthien0511 [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 10:56 PM
 
@@ -12479,7 +12471,7 @@ Cơ bản là CTO có vẻ sense dc việc mình k mặn mà lắm trong vụ ti
 
 ---
 
-### Post #1340 — chiyeuemthoi [Interview Experiences]
+### Post #1339 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Aug 13, 2025 at 11:48 PM
 
@@ -12489,7 +12481,7 @@ thấy trả cao cho jun
 
 ---
 
-### Post #1341 — nchhnchh [Interview Experiences]
+### Post #1340 — nchhnchh [Interview Experiences]
 
 **Date:** Aug 14, 2025 at 7:47 AM
 
@@ -12497,7 +12489,7 @@ tracking từng phút đi đái luôn mà
 
 ---
 
-### Post #1342 — dthien0511 [Interview Experiences]
+### Post #1341 — dthien0511 [Interview Experiences]
 
 **Date:** Aug 15, 2025 at 12:23 AM
 
@@ -12506,7 +12498,7 @@ Có bác nào từng pv ở đây cho mình xin tẹo thông tin với ạ.
 
 ---
 
-### Post #1343 — vanhesling189 [Interview Experiences]
+### Post #1342 — vanhesling189 [Interview Experiences]
 
 **Date:** Aug 15, 2025 at 2:34 PM
 
@@ -12514,7 +12506,7 @@ algo cũng dễ thôi bác không khó lắm đâu, chủ yếu xem cách giải
 
 ---
 
-### Post #1344 — hungpn2212 [Interview Experiences]
+### Post #1343 — hungpn2212 [Interview Experiences]
 
 **Date:** Aug 15, 2025 at 7:02 PM
 
@@ -12522,7 +12514,7 @@ JS thì là role FE à bác
 
 ---
 
-### Post #1345 — leetcode_time [Interview Experiences]
+### Post #1344 — leetcode_time [Interview Experiences]
 
 **Date:** Aug 15, 2025 at 8:10 PM
 
@@ -12532,7 +12524,7 @@ Round 3 : Interview với CEO/CTO
 
 ---
 
-### Post #1346 — dang_le_1905 [Interview Experiences]
+### Post #1345 — dang_le_1905 [Interview Experiences]
 
 **Date:** Aug 15, 2025 at 10:36 PM
 
@@ -12541,7 +12533,7 @@ Technical ở đây khó không bác nhỉ
 
 ---
 
-### Post #1347 — ZenVuNG [Interview Experiences]
+### Post #1346 — ZenVuNG [Interview Experiences]
 
 **Date:** Aug 16, 2025 at 8:59 PM
 
@@ -12549,7 +12541,7 @@ Các bác có ai làm ở shopback cho e xin ít kinh nghiệm phỏng vấn int
 
 ---
 
-### Post #1348 — dthien0511 [Interview Experiences]
+### Post #1347 — dthien0511 [Interview Experiences]
 
 **Date:** Aug 20, 2025 at 12:04 AM
 
@@ -12557,7 +12549,7 @@ Mình đang interview Senior Back End II bên AX*N. Phỏng vấn có khác gì 
 
 ---
 
-### Post #1349 — awarenism [Interview Experiences]
+### Post #1348 — awarenism [Interview Experiences]
 
 **Date:** Aug 20, 2025 at 9:27 AM
 
@@ -12567,7 +12559,7 @@ SSE ii = principle chổ khác à?
 
 ---
 
-### Post #1350 — NhaBanXoi [Interview Experiences]
+### Post #1349 — NhaBanXoi [Interview Experiences]
 
 **Date:** Aug 21, 2025 at 8:57 PM
 
@@ -12577,7 +12569,7 @@ ps: mình có hỏi ở thread kia mà thấy hơi out topic nên chui qua đây
 
 ---
 
-### Post #1351 — h_ngyn [Interview Experiences]
+### Post #1350 — h_ngyn [Interview Experiences]
 
 **Date:** Aug 21, 2025 at 9:11 PM
 
@@ -12585,7 +12577,7 @@ Mình pv 1 bên khác cũng thuộc Moatable thì: 1 round duy nhất gồm 2-3 
 
 ---
 
-### Post #1352 — NhaBanXoi [Interview Experiences]
+### Post #1351 — NhaBanXoi [Interview Experiences]
 
 **Date:** Aug 21, 2025 at 10:04 PM
 
@@ -12593,7 +12585,7 @@ cám ơn bác đã chia sẽ
 
 ---
 
-### Post #1353 — vanhesling189 [Interview Experiences]
+### Post #1352 — vanhesling189 [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 9:41 AM
 
@@ -12601,7 +12593,7 @@ PV ít round vậy chắc là Tr*** Pa** đúng k bác, bên **ofty pv nhiều r
 
 ---
 
-### Post #1354 — shotogun03 [Interview Experiences]
+### Post #1353 — shotogun03 [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 9:49 AM
 
@@ -12611,7 +12603,7 @@ Không hiểu kiểu gì. Không biết có phải do e ko biết chém gió kh�
 
 ---
 
-### Post #1355 — dthien0511 [Interview Experiences]
+### Post #1354 — dthien0511 [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 9:49 AM
 
@@ -12619,7 +12611,7 @@ Feedback nghe ảo vậy bác.
 
 ---
 
-### Post #1356 — shotogun03 [Interview Experiences]
+### Post #1355 — shotogun03 [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 9:54 AM
 
@@ -12629,7 +12621,7 @@ Còn vụ thành tựu thì e chịu. Ở cty cũ làm gì thì e cũng kể h�
 
 ---
 
-### Post #1357 — dthien0511 [Interview Experiences]
+### Post #1356 — dthien0511 [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 10:05 AM
 
@@ -12637,7 +12629,7 @@ Còn vụ thành tựu thì e chịu. Ở cty cũ làm gì thì e cũng kể h�
 
 ---
 
-### Post #1358 — dhl001 [Interview Experiences]
+### Post #1357 — dhl001 [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 3:49 PM
 
@@ -12645,7 +12637,7 @@ thím share Recruiter đã hỏi gì được không
 
 ---
 
-### Post #1359 — shotogun03 [Interview Experiences]
+### Post #1358 — shotogun03 [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 5:03 PM
 
@@ -12657,7 +12649,7 @@ Sơ sơ như này
 
 ---
 
-### Post #1360 — dhl001 [Interview Experiences]
+### Post #1359 — dhl001 [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 6:25 PM
 
@@ -12665,7 +12657,7 @@ Hỏi cơ bản vầy mà fail thì chắc Recruiter muốn thím trả lời th
 
 ---
 
-### Post #1361 — h_ngyn [Interview Experiences]
+### Post #1360 — h_ngyn [Interview Experiences]
 
 **Date:** Aug 22, 2025 at 7:50 PM
 
@@ -12675,7 +12667,7 @@ hay hơn  nên chọn bên đó để process.
 
 ---
 
-### Post #1362 — vanhesling189 [Interview Experiences]
+### Post #1361 — vanhesling189 [Interview Experiences]
 
 **Date:** Aug 25, 2025 at 6:11 PM
 
@@ -12685,7 +12677,7 @@ Pa chắc cũng đang thiếu người thấy tuyển gấp lắm 2 round trong 
 
 ---
 
-### Post #1363 — h_ngyn [Interview Experiences]
+### Post #1362 — h_ngyn [Interview Experiences]
 
 **Date:** Aug 25, 2025 at 7:37 PM
 
@@ -12693,7 +12685,7 @@ Nhưng mà nghe có fen nói Sen bên M**table 9x mà bữa process TP max $2k8.
 
 ---
 
-### Post #1364 — shotogun03 [Interview Experiences]
+### Post #1363 — shotogun03 [Interview Experiences]
 
 **Date:** Aug 26, 2025 at 1:32 PM
 
@@ -12701,7 +12693,7 @@ Uh cũng có khi đúng á thím. TA này mới từ E*ploym*nt H*ro qua Ax*n đ
 
 ---
 
-### Post #1365 — dhl001 [Interview Experiences]
+### Post #1364 — dhl001 [Interview Experiences]
 
 **Date:** Aug 26, 2025 at 7:59 PM
 
@@ -12709,7 +12701,7 @@ rèn lại thôi thím, trên youtube có nhiều clip hướng dẫn, nhớ xem
 
 ---
 
-### Post #1366 — aNotHeRNo0b [Interview Experiences]
+### Post #1365 — aNotHeRNo0b [Interview Experiences]
 
 **Date:** Aug 26, 2025 at 8:27 PM
 
@@ -12717,7 +12709,7 @@ Em cũng đã qua tay TA này :> và đúng là do English ko nuột + ko chuẩ
 
 ---
 
-### Post #1367 — dhl001 [Interview Experiences]
+### Post #1366 — dhl001 [Interview Experiences]
 
 **Date:** Aug 26, 2025 at 9:31 PM
 
@@ -12726,7 +12718,7 @@ Chả trách giờ cả dev của Axon cũng đi tìm uv
 
 ---
 
-### Post #1368 — shotogun03 [Interview Experiences]
+### Post #1367 — shotogun03 [Interview Experiences]
 
 **Date:** Aug 26, 2025 at 10:52 PM
 
@@ -12736,7 +12728,7 @@ Tiếc là lúcđó thiếu sót nhiều nên tạch.
 
 ---
 
-### Post #1369 — dhl001 [Interview Experiences]
+### Post #1368 — dhl001 [Interview Experiences]
 
 **Date:** Aug 26, 2025 at 11:12 PM
 
@@ -12744,7 +12736,7 @@ Hình như ai Ãon cũng pv 1 lần 4 round mà. Họ đánh giá lv sau khi pv 
 
 ---
 
-### Post #1370 — awarenism [Interview Experiences]
+### Post #1369 — awarenism [Interview Experiences]
 
 **Date:** Aug 27, 2025 at 1:15 PM
 
@@ -12752,7 +12744,7 @@ Round cuối online hay offline vậy bác hĩ?
 
 ---
 
-### Post #1371 — shotogun03 [Interview Experiences]
+### Post #1370 — shotogun03 [Interview Experiences]
 
 **Date:** Aug 27, 2025 at 2:36 PM
 
@@ -12760,7 +12752,7 @@ E đợt do dịch nên tất cả pv online á. Bây giờ thì e không biết
 
 ---
 
-### Post #1372 — minhmoon [Interview Experiences]
+### Post #1371 — minhmoon [Interview Experiences]
 
 **Date:** Aug 27, 2025 at 4:44 PM
 
@@ -12771,7 +12763,7 @@ www.linkedin.com
 
 ---
 
-### Post #1373 — longvanren [Interview Experiences]
+### Post #1372 — longvanren [Interview Experiences]
 
 **Date:** Aug 30, 2025 at 3:27 PM
 
@@ -12779,7 +12771,7 @@ Bác pvan miền nam hay bắc
 
 ---
 
-### Post #1374 — dthien0511 [Interview Experiences]
+### Post #1373 — dthien0511 [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 12:24 AM
 
@@ -12788,7 +12780,7 @@ Ko biết vị trí này thì tầm level nào các bác nhỉ? Ông manager mu�
 
 ---
 
-### Post #1375 — Tràng Giang [Interview Experiences]
+### Post #1374 — Tràng Giang [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 1:26 AM
 
@@ -12796,7 +12788,7 @@ Development Architect/Expert thì level phải rất là cao rồi mà sao chỉ
 
 ---
 
-### Post #1376 — some_random_guy [Interview Experiences]
+### Post #1375 — some_random_guy [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 3:04 AM
 
@@ -12804,7 +12796,7 @@ Hỏi fundamentals thì có hỏi mấy phần như OOP, SOLID, Database, Networ
 
 ---
 
-### Post #1377 — Xiao_man_tau [Interview Experiences]
+### Post #1376 — Xiao_man_tau [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 3:31 AM
 
@@ -12814,7 +12806,7 @@ Mị cũng tạch round cuối
 
 ---
 
-### Post #1378 — alex_neo [Interview Experiences]
+### Post #1377 — alex_neo [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 11:38 AM
 
@@ -12822,7 +12814,7 @@ Mấy bác cho em xin kinh nghiệm pv Global Fashion Group vị trí Software E
 
 ---
 
-### Post #1379 — alex_neo [Interview Experiences]
+### Post #1378 — alex_neo [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 2:14 PM
 
@@ -12830,7 +12822,7 @@ Thiệt hả bác, vị trí software engineer mà pv lc hard căng thế nhỉ
 
 ---
 
-### Post #1380 — dhl001 [Interview Experiences]
+### Post #1379 — dhl001 [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 2:54 PM
 
@@ -12838,7 +12830,7 @@ SWE ko hard thì role nào hard nữa bạn
 
 ---
 
-### Post #1381 — alex_neo [Interview Experiences]
+### Post #1380 — alex_neo [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 8:10 PM
 
@@ -12846,7 +12838,7 @@ Mình tưởng phải cỡ senior này nọ, mới chơi tới LC hard, do job t
 
 ---
 
-### Post #1382 — fkphua3 [Interview Experiences]
+### Post #1381 — fkphua3 [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 8:14 PM
 
@@ -12854,7 +12846,7 @@ Job chung chung mới LC hard chứ sao vì đâu yc ngôn ngữ
 
 ---
 
-### Post #1383 — alex_neo [Interview Experiences]
+### Post #1382 — alex_neo [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 8:21 PM
 
@@ -12862,7 +12854,7 @@ do mình cũng ko rành Global Fashion Group lắm, thông tin về nó cũng ko
 
 ---
 
-### Post #1384 — alex_neo [Interview Experiences]
+### Post #1383 — alex_neo [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 8:25 PM
 
@@ -12870,7 +12862,7 @@ Mình cũng có pv 1-2 cty remote, thì số round nhiều (5-6 round) và hỏi
 
 ---
 
-### Post #1385 — dhl001 [Interview Experiences]
+### Post #1384 — dhl001 [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 9:52 PM
 
@@ -12878,7 +12870,7 @@ Trong IT thì thường chỉ có SWE, QA, DE, Infra. Thì SWE phải expect là
 
 ---
 
-### Post #1386 — alex_neo [Interview Experiences]
+### Post #1385 — alex_neo [Interview Experiences]
 
 **Date:** Sep 6, 2025 at 10:15 PM
 
@@ -12886,7 +12878,7 @@ Dạ vâng, thank bác đã thông tin
 
 ---
 
-### Post #1387 — seiyashun [Interview Experiences]
+### Post #1386 — seiyashun [Interview Experiences]
 
 **Date:** Sep 8, 2025 at 10:06 PM
 
@@ -12894,7 +12886,7 @@ Moatabl* thấy mấy nay tuyển dev ios vội lắm. Bác nào phỏng vấn r
 
 ---
 
-### Post #1388 — doraemon_beou [Interview Experiences]
+### Post #1387 — doraemon_beou [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 7:15 AM
 
@@ -12930,7 +12922,7 @@ Nghe vậy có khi còn thuyết phục hơn cái mác Senior rất nhiều.
 
 ---
 
-### Post #1389 — MrTux [Interview Experiences]
+### Post #1388 — MrTux [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 9:53 AM
 
@@ -12938,7 +12930,7 @@ Nó đẹp, nhưng nó không có thật bạn ạ
 
 ---
 
-### Post #1390 — hungpn2212 [Interview Experiences]
+### Post #1389 — hungpn2212 [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 10:14 AM
 
@@ -12946,7 +12938,7 @@ E nghĩ người ta hướng tới Senior vì lương, chứ chả ai quan tâm 
 
 ---
 
-### Post #1391 — doraemon_beou [Interview Experiences]
+### Post #1390 — doraemon_beou [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 10:16 AM
 
@@ -12954,7 +12946,7 @@ thế sao bạn k qua Mỹ ?
 
 ---
 
-### Post #1392 — hungpn2212 [Interview Experiences]
+### Post #1391 — hungpn2212 [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 10:17 AM
 
@@ -12963,7 +12955,7 @@ Nếu qua Mỹ dễ như đi Mỹ Đình thì em đi luôn
 
 ---
 
-### Post #1393 — nchhnchh [Interview Experiences]
+### Post #1392 — nchhnchh [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 10:21 AM
 
@@ -12971,7 +12963,7 @@ thơm quá còn gì, vùa dc lãnh lương to, vừa ko đi kèm nhiều trách 
 
 ---
 
-### Post #1394 — doraemon_beou [Interview Experiences]
+### Post #1393 — doraemon_beou [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 4:52 PM
 
@@ -12979,7 +12971,7 @@ thế bạn có thể apply worldquant ? ở VN, lương top luôn, nhưng việ
 
 ---
 
-### Post #1395 — picolami [Interview Experiences]
+### Post #1394 — picolami [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 5:07 PM
 
@@ -12987,7 +12979,7 @@ Không không, Seniar nói chung là trình độ, không phải chức danh b�
 
 ---
 
-### Post #1396 — aNotHeRNo0b [Interview Experiences]
+### Post #1395 — aNotHeRNo0b [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 7:14 PM
 
@@ -12995,7 +12987,7 @@ Trade off thôi fence
 
 ---
 
-### Post #1397 — doraemon_beou [Interview Experiences]
+### Post #1396 — doraemon_beou [Interview Experiences]
 
 **Date:** Sep 9, 2025 at 7:30 PM
 
@@ -13003,7 +12995,7 @@ Thì bác trên hỏi em có vị trí nào lương cao nhưng làm fresher thì
 
 ---
 
-### Post #1398 — Triết gia [Interview Experiences]
+### Post #1397 — Triết gia [Interview Experiences]
 
 **Date:** Sep 10, 2025 at 9:47 AM
 
@@ -13011,7 +13003,7 @@ Thì bác trên hỏi em có vị trí nào lương cao nhưng làm fresher thì
 
 ---
 
-### Post #1399 — doraemon_beou [Interview Experiences]
+### Post #1398 — doraemon_beou [Interview Experiences]
 
 **Date:** Sep 10, 2025 at 9:57 AM
 
@@ -13019,7 +13011,7 @@ k thơm đâu bác, mấy bank đang rục rịch làm sàn rồi. "Ai đó" đa
 
 ---
 
-### Post #1400 — daydreamer95 [Interview Experiences]
+### Post #1399 — daydreamer95 [Interview Experiences]
 
 **Date:** Sep 10, 2025 at 8:38 PM
 
@@ -13031,7 +13023,7 @@ Culture fit không biết vì drop.
 
 ---
 
-### Post #1401 — bkhoang [Interview Experiences]
+### Post #1400 — bkhoang [Interview Experiences]
 
 **Date:** Sep 11, 2025 at 11:23 AM
 
@@ -13039,7 +13031,7 @@ bên này domain gì mà pvan ác liệt z fen
 
 ---
 
-### Post #1402 — alex_neo [Interview Experiences]
+### Post #1401 — alex_neo [Interview Experiences]
 
 **Date:** Sep 11, 2025 at 9:05 PM
 
@@ -13047,7 +13039,7 @@ Theo mình thấy bên này làm e-commerce, web bán quần áo thời trang c�
 
 ---
 
-### Post #1403 — Nổ bùm bùm [Interview Experiences]
+### Post #1402 — Nổ bùm bùm [Interview Experiences]
 
 **Date:** Sep 12, 2025 at 12:04 AM
 
@@ -13056,7 +13048,7 @@ Không biết thật, mong bác phổ biến.
 
 ---
 
-### Post #1404 — aNotHeRNo0b [Interview Experiences]
+### Post #1403 — aNotHeRNo0b [Interview Experiences]
 
 **Date:** Sep 12, 2025 at 12:11 AM
 
@@ -13064,7 +13056,7 @@ MB mua platform của Hàn cào đấy bác :v đi maintain chứ phát triển 
 
 ---
 
-### Post #1405 — awarenism [Interview Experiences]
+### Post #1404 — awarenism [Interview Experiences]
 
 **Date:** Sep 12, 2025 at 7:24 AM
 
@@ -13072,7 +13064,7 @@ Cty nào cũng có người nhàn người không, nhóm nhàn nhóm không. Tù
 
 ---
 
-### Post #1406 — bkhoang [Interview Experiences]
+### Post #1405 — bkhoang [Interview Experiences]
 
 **Date:** Sep 12, 2025 at 8:26 AM
 
@@ -13080,7 +13072,7 @@ trước ko nhớ ở thớt nào có bác bảo dev ở WQ chủ yếu làm bê
 
 ---
 
-### Post #1407 — anhvinh2d77 [Interview Experiences]
+### Post #1406 — anhvinh2d77 [Interview Experiences]
 
 **Date:** Sep 12, 2025 at 8:32 AM
 
@@ -13088,7 +13080,7 @@ Pv gắt hơn FAANG là thật, quant hay hft đều pv gắt hơn faang nhiều
 
 ---
 
-### Post #1408 — Nổ bùm bùm [Interview Experiences]
+### Post #1407 — Nổ bùm bùm [Interview Experiences]
 
 **Date:** Sep 13, 2025 at 4:47 PM
 
@@ -13097,7 +13089,7 @@ Môi trường như vậy mà nhàn đc thì cũng ảo thật
 
 ---
 
-### Post #1409 — aNotHeRNo0b [Interview Experiences]
+### Post #1408 — aNotHeRNo0b [Interview Experiences]
 
 **Date:** Sep 13, 2025 at 5:20 PM
 
@@ -13105,7 +13097,7 @@ cũng tùy thôi bác, Quant researcher interview của bọn Jane Street nó pu
 
 ---
 
-### Post #1410 — longvanren [Interview Experiences]
+### Post #1409 — longvanren [Interview Experiences]
 
 **Date:** Sep 14, 2025 at 9:50 AM
 
@@ -13113,7 +13105,7 @@ cũng tùy thôi bác, Quant researcher interview của bọn Jane Street nó pu
 
 ---
 
-### Post #1411 — llamhv [Interview Experiences]
+### Post #1410 — llamhv [Interview Experiences]
 
 **Date:** Sep 14, 2025 at 9:52 AM
 
@@ -13124,7 +13116,7 @@ for iPhone
 
 ---
 
-### Post #1412 — ShjRou [Interview Experiences]
+### Post #1411 — ShjRou [Interview Experiences]
 
 **Date:** Sep 14, 2025 at 7:47 PM
 
@@ -13132,7 +13124,7 @@ Quan trọng 3 năm pass đc role Sen ko thôi. Chứ Sen bên MF có thể deal
 
 ---
 
-### Post #1413 — longvanren [Interview Experiences]
+### Post #1412 — longvanren [Interview Experiences]
 
 **Date:** Sep 14, 2025 at 7:48 PM
 
@@ -13140,7 +13132,7 @@ em pass rồi ạ. Đang phase deal lương ạ.
 
 ---
 
-### Post #1414 — ShjRou [Interview Experiences]
+### Post #1413 — ShjRou [Interview Experiences]
 
 **Date:** Sep 14, 2025 at 9:11 PM
 
@@ -13148,7 +13140,7 @@ Pass Sen hay Mid? Pass thì cứ mạnh dạn mà deal. Ku em mình mid bên đ�
 
 ---
 
-### Post #1415 — longvanren [Interview Experiences]
+### Post #1414 — longvanren [Interview Experiences]
 
 **Date:** Sep 14, 2025 at 9:12 PM
 
@@ -13156,7 +13148,7 @@ em pass sen ạ. Thanks bác nhiều
 
 ---
 
-### Post #1416 — luiz [Interview Experiences]
+### Post #1415 — luiz [Interview Experiences]
 
 **Date:** Sep 14, 2025 at 9:36 PM
 
@@ -13164,7 +13156,7 @@ Bên đó trả khá tốt đó, middle bữa trước có thím vozer cũng đ�
 
 ---
 
-### Post #1417 — mrdendiboss [Interview Experiences]
+### Post #1416 — mrdendiboss [Interview Experiences]
 
 **Date:** Sep 15, 2025 at 7:19 AM
 
@@ -13174,7 +13166,7 @@ Mấy module xịn nhất mà VN được sờ vào, chắc là mấy module sim
 
 ---
 
-### Post #1418 — dang_le_1905 [Interview Experiences]
+### Post #1417 — dang_le_1905 [Interview Experiences]
 
 **Date:** Sep 17, 2025 at 8:35 PM
 
@@ -13194,7 +13186,7 @@ Kết quả: Pass
 
 ---
 
-### Post #1419 — manonon933 [Interview Experiences]
+### Post #1418 — manonon933 [Interview Experiences]
 
 **Date:** Sep 17, 2025 at 10:58 PM
 
@@ -13202,7 +13194,7 @@ Hơi hớ rồi. MFVN trả đc cao nhưng hay ép giá...range sen bên đó k�
 
 ---
 
-### Post #1420 — Fang1Dem [Interview Experiences]
+### Post #1419 — Fang1Dem [Interview Experiences]
 
 **Date:** Sep 17, 2025 at 11:34 PM
 
@@ -13210,7 +13202,7 @@ Bác nào phỏng vấn Droppii chưa ạ cho em xin review
 
 ---
 
-### Post #1421 — huungphan [Interview Experiences]
+### Post #1420 — huungphan [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 5:18 AM
 
@@ -13219,7 +13211,7 @@ Cty này tiền thân là rocket internet, cty mẹ của zalora
 
 ---
 
-### Post #1422 — Tràng Giang [Interview Experiences]
+### Post #1421 — Tràng Giang [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 1:44 PM
 
@@ -13227,7 +13219,7 @@ leetcode hard thì đến FAAG cũng ítkhi hỏi mà bên VN nhiều cty lại 
 
 ---
 
-### Post #1423 — luiz [Interview Experiences]
+### Post #1422 — luiz [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 2:00 PM
 
@@ -13235,7 +13227,7 @@ Tôi k nghĩ là nhiều cty Việt hỏi hard level leetcode đâu. Khả năng
 
 ---
 
-### Post #1424 — vu_nam1905 [Interview Experiences]
+### Post #1423 — vu_nam1905 [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 2:45 PM
 
@@ -13243,7 +13235,7 @@ Có khả năng CV ghi ICPC ACM các kiểu nên mới hỏi hard
 
 ---
 
-### Post #1425 — SuperCryptoCat [Interview Experiences]
+### Post #1424 — SuperCryptoCat [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 3:09 PM
 
@@ -13252,7 +13244,7 @@ cty nào review cũng kêu mid-hard
 
 ---
 
-### Post #1426 — hungpn2212 [Interview Experiences]
+### Post #1425 — hungpn2212 [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 4:19 PM
 
@@ -13260,7 +13252,7 @@ cty nào review cũng kêu mid-hard
 
 ---
 
-### Post #1427 — daydreamer95 [Interview Experiences]
+### Post #1426 — daydreamer95 [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 10:56 PM
 
@@ -13269,7 +13261,7 @@ Mà quan trọng gì mấy cái monkey leetcode anh em, ai trả cao mà pass th
 
 ---
 
-### Post #1428 — Nổ bùm bùm [Interview Experiences]
+### Post #1427 — Nổ bùm bùm [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 11:27 PM
 
@@ -13279,7 +13271,7 @@ Anh chị em nào muốn xem qua đề thì hộp nhé
 
 ---
 
-### Post #1429 — chiyeuemthoi [Interview Experiences]
+### Post #1428 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 11:35 PM
 
@@ -13287,7 +13279,7 @@ vcl cty nào ngáo thế public tên cho ae đi fen
 
 ---
 
-### Post #1430 — chiyeuemthoi [Interview Experiences]
+### Post #1429 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 11:37 PM
 
@@ -13296,7 +13288,7 @@ em 1h/ngày đã mệt não vcut mà leet còn đơn giản hơn cf gấp chục
 
 ---
 
-### Post #1431 — beegucci [Interview Experiences]
+### Post #1430 — beegucci [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 11:38 PM
 
@@ -13304,7 +13296,7 @@ pv it helpdesk support thường hỏi những gì vậy mấy bác, có nên h�
 
 ---
 
-### Post #1432 — beegucci [Interview Experiences]
+### Post #1431 — beegucci [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 11:39 PM
 
@@ -13312,7 +13304,7 @@ cty nào ảo đá vậy bác
 
 ---
 
-### Post #1433 — Nổ bùm bùm [Interview Experiences]
+### Post #1432 — Nổ bùm bùm [Interview Experiences]
 
 **Date:** Sep 18, 2025 at 11:55 PM
 
@@ -13320,7 +13312,7 @@ NCC.ASIA nhe. Cty outsource. Trước e apply thì bảo phải làm việc ở 
 
 ---
 
-### Post #1434 — new_player [Interview Experiences]
+### Post #1433 — new_player [Interview Experiences]
 
 **Date:** Sep 19, 2025 at 12:01 AM
 
@@ -13333,7 +13325,7 @@ Cá nhân em đánh giá nhanh qua thì VNG môi trường làm việc tốt, Ne
 
 ---
 
-### Post #1435 — daydreamer95 [Interview Experiences]
+### Post #1434 — daydreamer95 [Interview Experiences]
 
 **Date:** Sep 19, 2025 at 12:18 AM
 
@@ -13344,7 +13336,7 @@ for iPhone
 
 ---
 
-### Post #1436 — aNotHeRNo0b [Interview Experiences]
+### Post #1435 — aNotHeRNo0b [Interview Experiences]
 
 **Date:** Sep 19, 2025 at 12:36 AM
 
@@ -13353,7 +13345,7 @@ GD thì chỉ lo hút máu người dùng, nghĩ cách hút thật nhiều máu 
 
 ---
 
-### Post #1437 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
+### Post #1436 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
 
 **Date:** Sep 22, 2025 at 11:39 AM
 
@@ -13362,7 +13354,7 @@ burn out rồi
 
 ---
 
-### Post #1438 — Bruno Mars. [Interview Experiences]
+### Post #1437 — Bruno Mars. [Interview Experiences]
 
 **Date:** Sep 22, 2025 at 12:07 PM
 
@@ -13372,7 +13364,7 @@ Nick nhiều người dùng à
 
 ---
 
-### Post #1439 — longvanren [Interview Experiences]
+### Post #1438 — longvanren [Interview Experiences]
 
 **Date:** Sep 22, 2025 at 12:09 PM
 
@@ -13380,7 +13372,7 @@ Post trong này tin 1/3 thôi bác
 
 ---
 
-### Post #1440 — Pumbaa_S [Interview Experiences]
+### Post #1439 — Pumbaa_S [Interview Experiences]
 
 **Date:** Sep 22, 2025 at 2:17 PM
 
@@ -13388,7 +13380,7 @@ Có bác nào từng PV vị trí Front End Web Developer ở Corsair Việt Nam
 
 ---
 
-### Post #1441 — Triết gia [Interview Experiences]
+### Post #1440 — Triết gia [Interview Experiences]
 
 **Date:** Sep 22, 2025 at 3:08 PM
 
@@ -13396,7 +13388,7 @@ vao lam lay exp roi ra nuoc ngoai lam hoy
 
 ---
 
-### Post #1442 — mrdendiboss [Interview Experiences]
+### Post #1441 — mrdendiboss [Interview Experiences]
 
 **Date:** Sep 23, 2025 at 10:42 AM
 
@@ -13404,7 +13396,7 @@ vao lam lay exp roi ra nuoc ngoai lam hoy
 
 ---
 
-### Post #1443 — Triết gia [Interview Experiences]
+### Post #1442 — Triết gia [Interview Experiences]
 
 **Date:** Sep 23, 2025 at 11:01 AM
 
@@ -13413,7 +13405,7 @@ Tất nhiên là technical phải mạnh.
 
 ---
 
-### Post #1444 — phvnang [Interview Experiences]
+### Post #1443 — phvnang [Interview Experiences]
 
 **Date:** Sep 23, 2025 at 11:21 AM
 
@@ -13421,7 +13413,7 @@ cá nhân em thấy làm internal thì quan trọng nhất là BL, nhiều khi f
 
 ---
 
-### Post #1445 — Ruoi Den [Interview Experiences]
+### Post #1444 — Ruoi Den [Interview Experiences]
 
 **Date:** Sep 30, 2025 at 11:20 AM
 
@@ -13429,7 +13421,7 @@ CBTW leetcode đến cỡ nào mấy fen? Medium ko nhỉ
 
 ---
 
-### Post #1446 — MrBenT [Interview Experiences]
+### Post #1445 — MrBenT [Interview Experiences]
 
 **Date:** Sep 30, 2025 at 12:43 PM
 
@@ -13442,7 +13434,7 @@ Dù đã đi phỏng vấn nhiều và chuyện trượt cũng là bình thườ
 
 ---
 
-### Post #1447 — Tràng Giang [Interview Experiences]
+### Post #1446 — Tràng Giang [Interview Experiences]
 
 **Date:** Sep 30, 2025 at 1:18 PM
 
@@ -13450,7 +13442,7 @@ Bên đó trước ko có leetcode đâu , giờ ko biết có đổi policy gì
 
 ---
 
-### Post #1448 — Ruoi Den [Interview Experiences]
+### Post #1447 — Ruoi Den [Interview Experiences]
 
 **Date:** Sep 30, 2025 at 3:27 PM
 
@@ -13458,7 +13450,7 @@ Mình pv cách đây 2 năm, đợt đó apply nhiều cty nên chỉ nhớ mang
 
 ---
 
-### Post #1449 — Resa [Interview Experiences]
+### Post #1448 — Resa [Interview Experiences]
 
 **Date:** Sep 30, 2025 at 5:10 PM
 
@@ -13467,7 +13459,7 @@ sau khi trao đổi xong hẹn mình kết quả screen cv thì họ ghost luôn
 
 ---
 
-### Post #1450 — nghihoang [Interview Experiences]
+### Post #1449 — nghihoang [Interview Experiences]
 
 **Date:** Oct 1, 2025 at 6:22 PM
 
@@ -13476,7 +13468,7 @@ Ai phỏng vấn java ở napas bao giờ chưa cho mình xin ít review đượ
 
 ---
 
-### Post #1451 — Fang1Dem [Interview Experiences]
+### Post #1450 — Fang1Dem [Interview Experiences]
 
 **Date:** Oct 2, 2025 at 5:10 PM
 
@@ -13484,7 +13476,7 @@ bác nào phỏng vấn mobile dev ở ACB rồi cho e xin review với ạ
 
 ---
 
-### Post #1452 — Call me David [Interview Experiences]
+### Post #1451 — Call me David [Interview Experiences]
 
 **Date:** Oct 2, 2025 at 10:50 PM
 
@@ -13492,7 +13484,7 @@ Bác nào phỏng vấn ở Orient Software cho mình xin review với ạ.
 
 ---
 
-### Post #1453 — phvnang [Interview Experiences]
+### Post #1452 — phvnang [Interview Experiences]
 
 **Date:** Oct 3, 2025 at 11:26 AM
 
@@ -13500,7 +13492,7 @@ e pv thì thấy hr khá là support, ấn tượng khá tốt. Itver thì cũng
 
 ---
 
-### Post #1454 — tonyatran [Interview Experiences]
+### Post #1453 — tonyatran [Interview Experiences]
 
 **Date:** Oct 13, 2025 at 1:50 PM
 
@@ -13508,7 +13500,7 @@ Hi bác phỏng vấn ở Thoughtworks sao rồi. Cho mình xin review được 
 
 ---
 
-### Post #1455 — yulk.039 [Interview Experiences]
+### Post #1454 — yulk.039 [Interview Experiences]
 
 **Date:** Oct 14, 2025 at 2:43 PM
 
@@ -13517,7 +13509,7 @@ ENGINEER PRO - BỆ PHÓNG ĐƯA HỌC VIÊN ĐẾN VỚI CALADAN (https://viblo
 
 ---
 
-### Post #1456 — nchhnchh [Interview Experiences]
+### Post #1455 — nchhnchh [Interview Experiences]
 
 **Date:** Oct 14, 2025 at 2:49 PM
 
@@ -13525,7 +13517,7 @@ sao trong bài pv dễ vậy. hồi t là round 1 cho 1 cái system trading nh�
 
 ---
 
-### Post #1457 — yulk.039 [Interview Experiences]
+### Post #1456 — yulk.039 [Interview Experiences]
 
 **Date:** Oct 14, 2025 at 3:02 PM
 
@@ -13533,7 +13525,7 @@ Nhìn chung là cũng pv kiểu vậy à bác
 
 ---
 
-### Post #1458 — awarenism [Interview Experiences]
+### Post #1457 — awarenism [Interview Experiences]
 
 **Date:** Oct 15, 2025 at 4:53 PM
 
@@ -13541,7 +13533,7 @@ Khi nào bác pv thế? Xong review anh em nào.
 
 ---
 
-### Post #1459 — Duyenthangne [Interview Experiences]
+### Post #1458 — Duyenthangne [Interview Experiences]
 
 **Date:** Oct 17, 2025 at 12:26 AM
 
@@ -13578,7 +13570,7 @@ Nói chung mình có trải nghiệm pv khá tốt với Nam á bank, từ TA v�
 
 ---
 
-### Post #1460 — tkevin [Interview Experiences]
+### Post #1459 — tkevin [Interview Experiences]
 
 **Date:** Oct 17, 2025 at 9:49 AM
 
@@ -13586,7 +13578,7 @@ Analyst Engineer mà sao hỏi kiến thức giống BE vậy bác
 
 ---
 
-### Post #1461 — bkhoang [Interview Experiences]
+### Post #1460 — bkhoang [Interview Experiences]
 
 **Date:** Oct 17, 2025 at 9:54 AM
 
@@ -13594,7 +13586,7 @@ ngta có note là mid SE rồi kìa fen
 
 ---
 
-### Post #1462 — Tràng Giang [Interview Experiences]
+### Post #1461 — Tràng Giang [Interview Experiences]
 
 **Date:** Oct 17, 2025 at 11:53 AM
 
@@ -13602,7 +13594,7 @@ PV xong vòng cuối thì bao lâu họ gửi cho email offer vậy bạn ?
 
 ---
 
-### Post #1463 — Duyenthangne [Interview Experiences]
+### Post #1462 — Duyenthangne [Interview Experiences]
 
 **Date:** Oct 17, 2025 at 12:23 PM
 
@@ -13610,7 +13602,7 @@ tối đa 5 ngày làm việc nha
 
 ---
 
-### Post #1464 — thesimple [Interview Experiences]
+### Post #1463 — thesimple [Interview Experiences]
 
 **Date:** Oct 17, 2025 at 3:54 PM
 
@@ -13619,7 +13611,7 @@ thanks
 
 ---
 
-### Post #1465 — hungxeuvuong01 [Interview Experiences]
+### Post #1464 — hungxeuvuong01 [Interview Experiences]
 
 **Date:** Oct 17, 2025 at 8:21 PM
 
@@ -13634,7 +13626,7 @@ Round 3: Đang chờ kết quả round 2, update sau. Round 3 sẽ là lên offi
 
 ---
 
-### Post #1466 — GeniVN [Interview Experiences]
+### Post #1465 — GeniVN [Interview Experiences]
 
 **Date:** Oct 17, 2025 at 9:01 PM
 
@@ -13642,7 +13634,7 @@ Round 3: Đang chờ kết quả round 2, update sau. Round 3 sẽ là lên offi
 
 ---
 
-### Post #1467 — cit91 [Interview Experiences]
+### Post #1466 — cit91 [Interview Experiences]
 
 **Date:** Oct 18, 2025 at 4:37 PM
 
@@ -13650,7 +13642,7 @@ Middle đã cỡ này thì Senior sẽ hỏi sâu thêm về system design và d
 
 ---
 
-### Post #1468 — MrTux [Interview Experiences]
+### Post #1467 — MrTux [Interview Experiences]
 
 **Date:** Oct 18, 2025 at 5:17 PM
 
@@ -13658,7 +13650,7 @@ Middle đã cỡ này thì Senior sẽ hỏi sâu thêm về system design và d
 
 ---
 
-### Post #1469 — dntt_00 [Interview Experiences]
+### Post #1468 — dntt_00 [Interview Experiences]
 
 **Date:** Oct 18, 2025 at 11:14 PM
 
@@ -13666,7 +13658,7 @@ Tầm này mấy năm kinh nghiệm vậy thím? :v
 
 ---
 
-### Post #1470 — Duyenthangne [Interview Experiences]
+### Post #1469 — Duyenthangne [Interview Experiences]
 
 **Date:** Oct 19, 2025 at 12:08 AM
 
@@ -13674,7 +13666,7 @@ e cỡ 2.5 exp thoai bác
 
 ---
 
-### Post #1471 — GeniVN [Interview Experiences]
+### Post #1470 — GeniVN [Interview Experiences]
 
 **Date:** Oct 21, 2025 at 7:42 PM
 
@@ -13682,7 +13674,7 @@ mấy fen cho hỏi nvidia việt nam tuyển mấy round thế
 
 ---
 
-### Post #1472 — clonemasteruwu [Interview Experiences]
+### Post #1471 — clonemasteruwu [Interview Experiences]
 
 **Date:** Oct 21, 2025 at 10:53 PM
 
@@ -13690,7 +13682,7 @@ xong rì viu phát nhé thấy bên đó giờ đang tuyển sen thì p
 
 ---
 
-### Post #1473 — devadmin [Interview Experiences]
+### Post #1472 — devadmin [Interview Experiences]
 
 **Date:** Oct 24, 2025 at 12:01 PM
 
@@ -13708,7 +13700,7 @@ Ngay hôm sau có chị HR liên hệ rồi bảo show payship 3 tháng gần nh
 
 ---
 
-### Post #1474 — Momo03 [Interview Experiences]
+### Post #1473 — Momo03 [Interview Experiences]
 
 **Date:** Oct 24, 2025 at 5:55 PM
 
@@ -13716,7 +13708,7 @@ Này là bao nhiêu năm kinh nghiệm vậy bác
 
 ---
 
-### Post #1475 — tonyatran [Interview Experiences]
+### Post #1474 — tonyatran [Interview Experiences]
 
 **Date:** Oct 29, 2025 at 9:18 PM
 
@@ -13724,7 +13716,7 @@ Range senior ở đây bao nhiêu vậy bác?
 
 ---
 
-### Post #1476 — concacuto [Interview Experiences]
+### Post #1475 — concacuto [Interview Experiences]
 
 **Date:** Oct 29, 2025 at 10:58 PM
 
@@ -13732,7 +13724,7 @@ Có ai pv ở holistics role software intern chưa ạ? Cho em xin review với.
 
 ---
 
-### Post #1477 — StarFlight [Interview Experiences]
+### Post #1476 — StarFlight [Interview Experiences]
 
 **Date:** Oct 29, 2025 at 11:01 PM
 
@@ -13741,7 +13733,7 @@ TLDR: Round 1 DSA hackerrank, Round 2 Screening, Round 3 pair coding. Nó rớt 
 
 ---
 
-### Post #1478 — ongnoimbappe [Interview Experiences]
+### Post #1477 — ongnoimbappe [Interview Experiences]
 
 **Date:** Oct 29, 2025 at 11:16 PM
 
@@ -13750,7 +13742,7 @@ Hiện tại mình chỉ có thể chọn 1 trong 2 chứ không thể cuỗm lu
 
 ---
 
-### Post #1479 — Duyenthangne [Interview Experiences]
+### Post #1478 — Duyenthangne [Interview Experiences]
 
 **Date:** Oct 29, 2025 at 11:24 PM
 
@@ -13758,7 +13750,7 @@ Mới 1 năm thì cứ build DSA cho vững trước. Nghiêm túc thì cỡ 3 6
 
 ---
 
-### Post #1480 — h_ngyn [Interview Experiences]
+### Post #1479 — h_ngyn [Interview Experiences]
 
 **Date:** Oct 30, 2025 at 12:49 AM
 
@@ -13766,7 +13758,7 @@ Tại thời điểm mình phỏng vấn thì max là $3k. Nhưng thấy 1 số 
 
 ---
 
-### Post #1481 — ongnoimbappe [Interview Experiences]
+### Post #1480 — ongnoimbappe [Interview Experiences]
 
 **Date:** Oct 30, 2025 at 8:23 PM
 
@@ -13774,7 +13766,7 @@ Mình ghi nhận ạ, cảm ơn bác. Chúc bác onboard thuận buồm xuôi gi
 
 ---
 
-### Post #1482 — chubexuixeo [Interview Experiences]
+### Post #1481 — chubexuixeo [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 7:00 PM
 
@@ -13782,7 +13774,7 @@ dạ cho e hỏi bác nào pv fresher java bên cmc cho e hỏi sẽ hỏi bao g
 
 ---
 
-### Post #1483 — cool-girl [Interview Experiences]
+### Post #1482 — cool-girl [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 7:29 PM
 
@@ -13790,7 +13782,7 @@ Cty rác ko phải ôn lc
 
 ---
 
-### Post #1484 — chubexuixeo [Interview Experiences]
+### Post #1483 — chubexuixeo [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 7:40 PM
 
@@ -13798,7 +13790,7 @@ e vớ đại job mà làm để lấy exp thôi bác, phỏng vấn full eng n�
 
 ---
 
-### Post #1485 — tonyatran [Interview Experiences]
+### Post #1484 — tonyatran [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 8:49 PM
 
@@ -13806,7 +13798,7 @@ Mình phỏng vấn senior ở đây. Trải nghiệm tệ vô cùng. Người i
 
 ---
 
-### Post #1486 — SadboiTMT [Interview Experiences]
+### Post #1485 — SadboiTMT [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 9:18 PM
 
@@ -13814,7 +13806,7 @@ Nghe nói onsite HD bank đúng không nhỉ, cmc bản clone fsoft
 
 ---
 
-### Post #1487 — ongnoimbappe [Interview Experiences]
+### Post #1486 — ongnoimbappe [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 9:23 PM
 
@@ -13822,7 +13814,7 @@ mình tưởng os hd bank là GFT, tại có ông anh chơi chung cũng GFT cũn
 
 ---
 
-### Post #1488 — leetcode_time [Interview Experiences]
+### Post #1487 — leetcode_time [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 9:34 PM
 
@@ -13830,7 +13822,7 @@ outsource cho vikki bank
 
 ---
 
-### Post #1489 — luiz [Interview Experiences]
+### Post #1488 — luiz [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 9:35 PM
 
@@ -13838,7 +13830,7 @@ outsource cho vikki bank
 
 ---
 
-### Post #1490 — chubexuixeo [Interview Experiences]
+### Post #1489 — chubexuixeo [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 9:37 PM
 
@@ -13846,7 +13838,7 @@ Hr vừa nói với e là thông thường sẽ có leetcode, với lại là l�
 
 ---
 
-### Post #1491 — GeniVN [Interview Experiences]
+### Post #1490 — GeniVN [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 9:45 PM
 
@@ -13854,7 +13846,7 @@ chắc là 1 vài câu trong leetcode 75 thôi fen à, học sơ là dc. Chả c
 
 ---
 
-### Post #1492 — chubexuixeo [Interview Experiences]
+### Post #1491 — chubexuixeo [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 9:48 PM
 
@@ -13864,7 +13856,7 @@ hic kiếm việcđể làm trao dồi kinh nghiệm chờ sang năm eđổi qua
 
 ---
 
-### Post #1493 — GeniVN [Interview Experiences]
+### Post #1492 — GeniVN [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 9:55 PM
 
@@ -13872,7 +13864,7 @@ cmc mà hỏi medium thì ai thèm pvan
 
 ---
 
-### Post #1494 — tonyatran [Interview Experiences]
+### Post #1493 — tonyatran [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 10:08 PM
 
@@ -13880,7 +13872,7 @@ Mình apply java dev. Hỏi xoay quanh java core, spring, Cloud. Hỏi mấy sta
 
 ---
 
-### Post #1495 — kai.thehood [Interview Experiences]
+### Post #1494 — kai.thehood [Interview Experiences]
 
 **Date:** Nov 4, 2025 at 11:29 PM
 
@@ -13888,7 +13880,7 @@ CMC fresher lương 7 8tr bạc hỏi leetcode medium chắc chửi luôn rồi 
 
 ---
 
-### Post #1496 — chubexuixeo [Interview Experiences]
+### Post #1495 — chubexuixeo [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 12:01 AM
 
@@ -13897,7 +13889,7 @@ e nói eexpect 12 mà nó nói 7tr e tính thôi luôn, nhưng nghĩ lại hiệ
 
 ---
 
-### Post #1497 — ongnoimbappe [Interview Experiences]
+### Post #1496 — ongnoimbappe [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 12:17 AM
 
@@ -13905,7 +13897,7 @@ Không có leetcode luôn nha, tập trung ôn mấy các khác. Lương này đ
 
 ---
 
-### Post #1498 — chubexuixeo [Interview Experiences]
+### Post #1497 — chubexuixeo [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 12:34 AM
 
@@ -13913,7 +13905,7 @@ v chỉ còn spring boot các kiểu thôi nhỉ, với tập trung eng vì engh
 
 ---
 
-### Post #1499 — kai.thehood [Interview Experiences]
+### Post #1498 — kai.thehood [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 8:18 AM
 
@@ -13921,7 +13913,7 @@ chịu khó tiếng anh thôi, lương 7tr méo có thuật toán gì đâu. Vô
 
 ---
 
-### Post #1500 — SadboiTMT [Interview Experiences]
+### Post #1499 — SadboiTMT [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 8:44 AM
 
@@ -13929,7 +13921,7 @@ vikki bank này mới nên chắc tech cũng mới, chỉ có điều đi onsite
 
 ---
 
-### Post #1501 — phvnang [Interview Experiences]
+### Post #1500 — phvnang [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 11:17 AM
 
@@ -13937,7 +13929,7 @@ bác cứ đùa :v bữa có thg ku người quen đi pv cmc fresher, bị nhấ
 
 ---
 
-### Post #1502 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1501 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 11:42 AM
 
@@ -13945,7 +13937,7 @@ Lmao giờ lương ghẻ cũng học đòi big tech leetcode medium à. Thế th
 
 ---
 
-### Post #1503 — phvnang [Interview Experiences]
+### Post #1502 — phvnang [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 1:01 PM
 
@@ -13953,7 +13945,7 @@ giờ mấy thím intern fresher e thấy vả medium bôm bốp r. nên giờ c
 
 ---
 
-### Post #1504 — chubexuixeo [Interview Experiences]
+### Post #1503 — chubexuixeo [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 2:51 PM
 
@@ -13961,7 +13953,7 @@ vãi thật, luông 7tr mà đòi medium nó mất dạy thật
 
 ---
 
-### Post #1505 — llamhv [Interview Experiences]
+### Post #1504 — llamhv [Interview Experiences]
 
 **Date:** Nov 5, 2025 at 3:51 PM
 
@@ -13975,7 +13967,7 @@ Phỏng vấn cho HR chạy số xong thấy có vẻ pass nên deal lương cao
 
 ---
 
-### Post #1506 — Fang1Dem [Interview Experiences]
+### Post #1505 — Fang1Dem [Interview Experiences]
 
 **Date:** Nov 10, 2025 at 12:41 AM
 
@@ -13986,7 +13978,7 @@ for iPhone
 
 ---
 
-### Post #1507 — nguyenducst [Interview Experiences]
+### Post #1506 — nguyenducst [Interview Experiences]
 
 **Date:** Nov 11, 2025 at 11:11 PM
 
@@ -13994,7 +13986,7 @@ max range bên này bao nhiêu bác?
 
 ---
 
-### Post #1508 — llamhv [Interview Experiences]
+### Post #1507 — llamhv [Interview Experiences]
 
 **Date:** Nov 12, 2025 at 12:35 AM
 
@@ -14005,7 +13997,7 @@ for iPhone
 
 ---
 
-### Post #1509 — Duke@@@ [Interview Experiences]
+### Post #1508 — Duke@@@ [Interview Experiences]
 
 **Date:** Nov 14, 2025 at 10:22 AM
 
@@ -14013,7 +14005,7 @@ for iPhone
 
 ---
 
-### Post #1510 — minhmoon [Interview Experiences]
+### Post #1509 — minhmoon [Interview Experiences]
 
 **Date:** Nov 14, 2025 at 3:11 PM
 
@@ -14021,7 +14013,7 @@ for iPhone
 
 ---
 
-### Post #1511 — chiyeuemthoi [Interview Experiences]
+### Post #1510 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Nov 14, 2025 at 3:24 PM
 
@@ -14030,7 +14022,7 @@ công nhận bài này khó vlin
 
 ---
 
-### Post #1512 — seichan502 [Interview Experiences]
+### Post #1511 — seichan502 [Interview Experiences]
 
 **Date:** Nov 14, 2025 at 5:12 PM
 
@@ -14038,7 +14030,7 @@ Bạn interview cty nào mà quất nguyên câu hard luôn vậy, coi lại sub
 
 ---
 
-### Post #1513 — phvnang [Interview Experiences]
+### Post #1512 — phvnang [Interview Experiences]
 
 **Date:** Nov 14, 2025 at 5:28 PM
 
@@ -14046,7 +14038,7 @@ be hcm trung bình thì tầm 18 net
 
 ---
 
-### Post #1514 — minhmoon [Interview Experiences]
+### Post #1513 — minhmoon [Interview Experiences]
 
 **Date:** Nov 14, 2025 at 6:29 PM
 
@@ -14054,7 +14046,7 @@ Công ty bé remote lương upto 2k gross không bảo hiểm/thuế. Bài này 
 
 ---
 
-### Post #1515 — toannv68 [Interview Experiences]
+### Post #1514 — toannv68 [Interview Experiences]
 
 **Date:** Nov 15, 2025 at 7:27 AM
 
@@ -14062,7 +14054,7 @@ Có phải cty moat*ble không? Đợt t pv session 2 cũng gặp câu này yêu
 
 ---
 
-### Post #1516 — TanPhatt [Interview Experiences]
+### Post #1515 — TanPhatt [Interview Experiences]
 
 **Date:** Nov 29, 2025 at 1:12 PM
 
@@ -14080,7 +14072,7 @@ Kết quả: Qua ngày hôm sau là Hr bắt đầu deal lương, offer.
 
 ---
 
-### Post #1517 — Kaiser2013 [Interview Experiences]
+### Post #1516 — Kaiser2013 [Interview Experiences]
 
 **Date:** Dec 1, 2025 at 1:15 PM
 
@@ -14091,7 +14083,7 @@ Nói chung cái round pv nội bộ vs họ cũng ko quan trọng lắm nên h�
 
 ---
 
-### Post #1518 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
+### Post #1517 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
 
 **Date:** Dec 1, 2025 at 3:54 PM
 
@@ -14100,7 +14092,7 @@ Nói chung cái round pv nội bộ vs họ cũng ko quan trọng lắm nên h�
 
 ---
 
-### Post #1519 — GreenDev [Interview Experiences]
+### Post #1518 — GreenDev [Interview Experiences]
 
 **Date:** Dec 2, 2025 at 2:02 PM
 
@@ -14109,7 +14101,7 @@ mình 4 YOE full stack có tiếng anh luôn thì tầm được nhiêu bạn ?
 
 ---
 
-### Post #1520 — phvnang [Interview Experiences]
+### Post #1519 — phvnang [Interview Experiences]
 
 **Date:** Dec 2, 2025 at 2:45 PM
 
@@ -14117,7 +14109,7 @@ tới tầm 4y thì e cũng méo biết nữa bác ơi. tới đó là tùy scop
 
 ---
 
-### Post #1521 — GreenDev [Interview Experiences]
+### Post #1520 — GreenDev [Interview Experiences]
 
 **Date:** Dec 2, 2025 at 2:46 PM
 
@@ -14125,7 +14117,7 @@ em cũng tò mò lắm , tại mấy thằng bạn range nó cũng trên trời 
 
 ---
 
-### Post #1522 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
+### Post #1521 — Tiền Trong Dân Còn Nhiều [Interview Experiences]
 
 **Date:** Dec 2, 2025 at 2:47 PM
 
@@ -14134,7 +14126,7 @@ tùy cty thôi à
 
 ---
 
-### Post #1523 — phvnang [Interview Experiences]
+### Post #1522 — phvnang [Interview Experiences]
 
 **Date:** Dec 2, 2025 at 2:49 PM
 
@@ -14142,7 +14134,7 @@ tùy cty thôi à
 
 ---
 
-### Post #1524 — GreenDev [Interview Experiences]
+### Post #1523 — GreenDev [Interview Experiences]
 
 **Date:** Dec 2, 2025 at 3:32 PM
 
@@ -14152,7 +14144,7 @@ là mình yếu quá nên người ta giảm offer hay là người ta thuốc m
 
 ---
 
-### Post #1525 — tder.darealest [Interview Experiences]
+### Post #1524 — tder.darealest [Interview Experiences]
 
 **Date:** Dec 4, 2025 at 11:52 PM
 
@@ -14160,7 +14152,7 @@ Rồi bác đc offer công ty này chưa
 
 ---
 
-### Post #1526 — emlameo4` [Interview Experiences]
+### Post #1525 — emlameo4` [Interview Experiences]
 
 **Date:** Dec 5, 2025 at 12:27 AM
 
@@ -14170,7 +14162,7 @@ có tuyển mảng Automotive C++ ko các bác ơi? Bác nào pv rùi cho e xin 
 
 ---
 
-### Post #1527 — sa1ntBuhai [Interview Experiences]
+### Post #1526 — sa1ntBuhai [Interview Experiences]
 
 **Date:** Dec 5, 2025 at 9:48 PM
 
@@ -14178,7 +14170,7 @@ range fresher Datalogic dc bao nhieu the bac
 
 ---
 
-### Post #1528 — Design Pattern [Interview Experiences]
+### Post #1527 — Design Pattern [Interview Experiences]
 
 **Date:** Dec 6, 2025 at 7:41 PM
 
@@ -14186,7 +14178,7 @@ lại 1 mùa nhảy việc sắp đến nữa rồi
 
 ---
 
-### Post #1529 — monads [Interview Experiences]
+### Post #1528 — monads [Interview Experiences]
 
 **Date:** Dec 6, 2025 at 9:26 PM
 
@@ -14194,18 +14186,7 @@ Lại update CV đi phỏng vấn dạo thôi phen.
 
 ---
 
-### Post #1530 — vvlkssf [Interview Experiences]
-
-**Date:** Dec 8, 2025 at 6:18 PM
-
-bác ơi bác có thể cho em xin review đc ko ạ? em sắp có 1st round lun
-via
-theNEXTvoz
-for iPhone
-
----
-
-### Post #1531 — TanPhatt [Interview Experiences]
+### Post #1529 — TanPhatt [Interview Experiences]
 
 **Date:** Dec 9, 2025 at 10:13 AM
 
@@ -14213,7 +14194,7 @@ mình đoán min 13m bác mình pvan khá fail nên đc mức min thoi
 
 ---
 
-### Post #1532 — vodka_hanoi1 [Interview Experiences]
+### Post #1530 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Dec 10, 2025 at 10:42 AM
 
@@ -14221,7 +14202,7 @@ Có bác nào pv chỗ moatable chưa vòng live code làm trong bao lâu nhỉ
 
 ---
 
-### Post #1533 — Newbie9 [Interview Experiences]
+### Post #1531 — Newbie9 [Interview Experiences]
 
 **Date:** Dec 10, 2025 at 12:54 PM
 
@@ -14231,7 +14212,7 @@ Employee Referrals (https://sap.1brd.com/r/WTLD2H32?currentJob=57ae34f7-f6fa-460
 
 ---
 
-### Post #1534 — vodka_hanoi1 [Interview Experiences]
+### Post #1532 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Dec 10, 2025 at 1:14 PM
 
@@ -14239,7 +14220,7 @@ Employee Referrals (https://sap.1brd.com/r/WTLD2H32?currentJob=57ae34f7-f6fa-460
 
 ---
 
-### Post #1535 — vietttttBau [Interview Experiences]
+### Post #1533 — vietttttBau [Interview Experiences]
 
 **Date:** Dec 10, 2025 at 1:23 PM
 
@@ -14247,7 +14228,7 @@ Employee Referrals (https://sap.1brd.com/r/WTLD2H32?currentJob=57ae34f7-f6fa-460
 
 ---
 
-### Post #1536 — vodka_hanoi1 [Interview Experiences]
+### Post #1534 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Dec 10, 2025 at 1:40 PM
 
@@ -14257,15 +14238,7 @@ Bác pass hay tạch vậy
 
 ---
 
-### Post #1537 — vvlkssf [Interview Experiences]
-
-**Date:** Dec 10, 2025 at 1:52 PM
-
-bác nào pvan bên microsoft chưa em review với ạ
-
----
-
-### Post #1538 — Độc cô cầu bại__ [Interview Experiences]
+### Post #1535 — Độc cô cầu bại__ [Interview Experiences]
 
 **Date:** Dec 10, 2025 at 2:25 PM
 
@@ -14275,7 +14248,7 @@ Sẵn mấy bác có phỏng vấn intern của Orient Software, cho em được
 
 ---
 
-### Post #1539 — vietttttBau [Interview Experiences]
+### Post #1536 — vietttttBau [Interview Experiences]
 
 **Date:** Dec 10, 2025 at 2:49 PM
 
@@ -14283,7 +14256,7 @@ mình tạch round cuối, cũng live code với hỏi tech trên office, all ro
 
 ---
 
-### Post #1540 — KhynNiunt [Interview Experiences]
+### Post #1537 — KhynNiunt [Interview Experiences]
 
 **Date:** Dec 13, 2025 at 5:07 PM
 
@@ -14291,7 +14264,7 @@ Hello các bác, em là dev backend ở Đà Nẵng được 1 năm, nay muốn 
 
 ---
 
-### Post #1541 — JyRAICK [Interview Experiences]
+### Post #1538 — JyRAICK [Interview Experiences]
 
 **Date:** Dec 13, 2025 at 5:34 PM
 
@@ -14300,7 +14273,7 @@ nói đc không bác ơi, TOEIC chỉ để đẹp pass vòng CV thôi á
 
 ---
 
-### Post #1542 — zibon060 [Interview Experiences]
+### Post #1539 — zibon060 [Interview Experiences]
 
 **Date:** Dec 13, 2025 at 6:37 PM
 
@@ -14308,7 +14281,7 @@ Hơi ko liên quan nhma các anh từng làm bank rồi cho em hỏi là có mai
 
 ---
 
-### Post #1543 — JyRAICK [Interview Experiences]
+### Post #1540 — JyRAICK [Interview Experiences]
 
 **Date:** Dec 13, 2025 at 7:05 PM
 
@@ -14316,7 +14289,7 @@ v thoải mái đi bác, mà pv trc có offer sure hết r hẵng vào. C
 
 ---
 
-### Post #1544 — KhynNiunt [Interview Experiences]
+### Post #1541 — KhynNiunt [Interview Experiences]
 
 **Date:** Dec 13, 2025 at 7:08 PM
 
@@ -14324,7 +14297,7 @@ dạ em cũng đang tìm job với update CV để apply đó  bác. cảm ơn b
 
 ---
 
-### Post #1545 — Dev xịn [Interview Experiences]
+### Post #1542 — Dev xịn [Interview Experiences]
 
 **Date:** Dec 14, 2025 at 11:22 AM
 
@@ -14333,7 +14306,7 @@ Dù buổi phỏng vấn ok hay không thì cứ đi phỏng vấn tiếp, đừ
 
 ---
 
-### Post #1546 — Độc cô cầu bại__ [Interview Experiences]
+### Post #1543 — Độc cô cầu bại__ [Interview Experiences]
 
 **Date:** Dec 14, 2025 at 12:36 PM
 
@@ -14343,7 +14316,7 @@ Em xin intern thì được 2tr
 
 ---
 
-### Post #1547 — monads [Interview Experiences]
+### Post #1544 — monads [Interview Experiences]
 
 **Date:** Dec 14, 2025 at 3:44 PM
 
@@ -14351,7 +14324,7 @@ Em xin intern thì được 2tr
 
 ---
 
-### Post #1548 — seichan502 [Interview Experiences]
+### Post #1545 — seichan502 [Interview Experiences]
 
 **Date:** Dec 14, 2025 at 8:47 PM
 
@@ -14359,7 +14332,7 @@ Intern 2 tr mà cũng culture fit, nên kiếm nơi khác cho lẹ đi em.
 
 ---
 
-### Post #1549 — nkciam [Interview Experiences]
+### Post #1546 — nkciam [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 12:19 AM
 
@@ -14367,7 +14340,7 @@ vậy cuối cùng được offer mid hay junior vậy thím. Mà có ae nào pv
 
 ---
 
-### Post #1550 — nkciam [Interview Experiences]
+### Post #1547 — nkciam [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 12:24 AM
 
@@ -14375,7 +14348,7 @@ bác biết range sen dev or sre MF ko ạ e xin thông tin cám ơn bác nhiề
 
 ---
 
-### Post #1551 — hungpn2212 [Interview Experiences]
+### Post #1548 — hungpn2212 [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 9:50 AM
 
@@ -14383,7 +14356,7 @@ live code bên này ez thôi, 20p, 1 câu easy - medium
 
 ---
 
-### Post #1552 — vodka_hanoi1 [Interview Experiences]
+### Post #1549 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 10:30 AM
 
@@ -14391,7 +14364,7 @@ sao có thím bảo hard luôn mà
 
 ---
 
-### Post #1553 — hungpn2212 [Interview Experiences]
+### Post #1550 — hungpn2212 [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 10:32 AM
 
@@ -14399,7 +14372,7 @@ em k biết, như em thì phần code ez
 
 ---
 
-### Post #1554 — vodka_hanoi1 [Interview Experiences]
+### Post #1551 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 10:35 AM
 
@@ -14408,7 +14381,7 @@ mà bác pass hay tạch
 
 ---
 
-### Post #1555 — hungpn2212 [Interview Experiences]
+### Post #1552 — hungpn2212 [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 10:37 AM
 
@@ -14418,7 +14391,7 @@ thế nếu bác cần review thì hộp em
 
 ---
 
-### Post #1556 — vodka_hanoi1 [Interview Experiences]
+### Post #1553 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 10:51 AM
 
@@ -14426,7 +14399,7 @@ em inb bác rồi nhưng hình như bác chặn tin nhắn rồi ko gửi dc
 
 ---
 
-### Post #1557 — longvanren [Interview Experiences]
+### Post #1554 — longvanren [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 10:55 AM
 
@@ -14434,7 +14407,7 @@ Reject rùi bác ạ. Thấy k ổn rồi
 
 ---
 
-### Post #1558 — Duyenthangne [Interview Experiences]
+### Post #1555 — Duyenthangne [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 11:16 AM
 
@@ -14442,7 +14415,7 @@ Mid thím. Mà thím chưa được gọi lại hả. Bữa giờ cũng lâu r�
 
 ---
 
-### Post #1559 — vodka_hanoi1 [Interview Experiences]
+### Post #1556 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 11:58 AM
 
@@ -14450,7 +14423,7 @@ có online không bác em ko hộp dc
 
 ---
 
-### Post #1560 — nkciam [Interview Experiences]
+### Post #1557 — nkciam [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 8:38 PM
 
@@ -14458,7 +14431,7 @@ ok cám ơn thím. Họ prefer và process uv biết code không chỉ mỗi ski
 
 ---
 
-### Post #1561 — Crush on You [Interview Experiences]
+### Post #1558 — Crush on You [Interview Experiences]
 
 **Date:** Dec 15, 2025 at 10:55 PM
 
@@ -14466,7 +14439,7 @@ Có thím nào phỏng vấn SMG (Swiss Marketplace Group) chưa ạ, cho em xin
 
 ---
 
-### Post #1562 — Bruno Mars. [Interview Experiences]
+### Post #1559 — Bruno Mars. [Interview Experiences]
 
 **Date:** Dec 16, 2025 at 8:04 AM
 
@@ -14478,7 +14451,7 @@ Về phỏng vấn mình nghĩ ok. Công ty thấy ae khen tốt và được đ
 
 ---
 
-### Post #1563 — Crush on You [Interview Experiences]
+### Post #1560 — Crush on You [Interview Experiences]
 
 **Date:** Dec 16, 2025 at 1:50 PM
 
@@ -14486,7 +14459,7 @@ Vòng 2 hỏi tiếng anh hay tiếng việt vậy thím, với cả thím có t
 
 ---
 
-### Post #1564 — Bruno Mars. [Interview Experiences]
+### Post #1561 — Bruno Mars. [Interview Experiences]
 
 **Date:** Dec 16, 2025 at 2:55 PM
 
@@ -14495,7 +14468,7 @@ Mình có 3 năm kinh nghiệm, deal được 55 gross
 
 ---
 
-### Post #1565 — dang_le_1905 [Interview Experiences]
+### Post #1562 — dang_le_1905 [Interview Experiences]
 
 **Date:** Dec 16, 2025 at 10:12 PM
 
@@ -14503,7 +14476,7 @@ Có leetcode không bác, hay hỏi về domain
 
 ---
 
-### Post #1566 — phung_uit [Interview Experiences]
+### Post #1563 — phung_uit [Interview Experiences]
 
 **Date:** Dec 24, 2025 at 1:59 PM
 
@@ -14511,7 +14484,7 @@ Có ai  phỏng vấn vị trí dev mà hỏi về AWS chưa nhỉ? Đang tính 
 
 ---
 
-### Post #1567 — phvnang [Interview Experiences]
+### Post #1564 — phvnang [Interview Experiences]
 
 **Date:** Dec 24, 2025 at 3:11 PM
 
@@ -14519,7 +14492,7 @@ theo kn của e thì , độ mid là có rồi bác, nhưng tùy vào scope củ
 
 ---
 
-### Post #1568 — AndrewNguyen16 [Interview Experiences]
+### Post #1565 — AndrewNguyen16 [Interview Experiences]
 
 **Date:** Dec 24, 2025 at 3:21 PM
 
@@ -14527,7 +14500,7 @@ Học network vẫn tốt hơn, trừ khi cty chọn sẵn cloud và ghi trong c
 
 ---
 
-### Post #1569 — phung_uit [Interview Experiences]
+### Post #1566 — phung_uit [Interview Experiences]
 
 **Date:** Dec 25, 2025 at 2:00 PM
 
@@ -14557,7 +14530,7 @@ Tạm thời thế đã, rảnh share tiếp
 
 ---
 
-### Post #1570 — vodka_hanoi1 [Interview Experiences]
+### Post #1567 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Dec 25, 2025 at 2:49 PM
 
@@ -14565,7 +14538,7 @@ alo bác ơi còn online ko bác, em hỏi tí v3 phát bác
 
 ---
 
-### Post #1571 — Fang1Dem [Interview Experiences]
+### Post #1568 — Fang1Dem [Interview Experiences]
 
 **Date:** Dec 27, 2025 at 9:35 AM
 
@@ -14573,7 +14546,7 @@ Cho em xin kinh nghiệm phỏng vấn mobile ở Hitachi với các bác
 
 ---
 
-### Post #1572 — Design Pattern [Interview Experiences]
+### Post #1569 — Design Pattern [Interview Experiences]
 
 **Date:** Dec 29, 2025 at 12:51 AM
 
@@ -14582,7 +14555,7 @@ cho e xin xem thử requirement như nào với
 
 ---
 
-### Post #1573 — GeniVN [Interview Experiences]
+### Post #1570 — GeniVN [Interview Experiences]
 
 **Date:** Dec 30, 2025 at 12:03 PM
 
@@ -14590,7 +14563,7 @@ xin kinh nghiệm phỏng vấn EPAM với các fen. Có pvan thuật toán hay 
 
 ---
 
-### Post #1574 — h_ngyn [Interview Experiences]
+### Post #1571 — h_ngyn [Interview Experiences]
 
 **Date:** Dec 30, 2025 at 12:21 PM
 
@@ -14598,7 +14571,7 @@ Phỏng vấn về share lên đây với nhé fen.
 
 ---
 
-### Post #1575 — nkciam [Interview Experiences]
+### Post #1572 — nkciam [Interview Experiences]
 
 **Date:** Dec 30, 2025 at 1:00 PM
 
@@ -14610,7 +14583,7 @@ V3: PV với Manager người VN, hỏi dự án đã làm, biết ITIL không? 
 
 ---
 
-### Post #1576 — vodka_hanoi1 [Interview Experiences]
+### Post #1573 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Jan 6, 2026 at 2:04 PM
 
@@ -14618,7 +14591,7 @@ livecode dạng gì thế fen
 
 ---
 
-### Post #1577 — nkciam [Interview Experiences]
+### Post #1574 — nkciam [Interview Experiences]
 
 **Date:** Jan 7, 2026 at 9:05 AM
 
@@ -14626,7 +14599,7 @@ Tổng số từ  1 đến 100 fence
 
 ---
 
-### Post #1578 — vodka_hanoi1 [Interview Experiences]
+### Post #1575 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Jan 7, 2026 at 10:54 AM
 
@@ -14634,7 +14607,7 @@ range ở epam bao nhiêu thế bác
 
 ---
 
-### Post #1579 — seiyashun [Interview Experiences]
+### Post #1576 — seiyashun [Interview Experiences]
 
 **Date:** Jan 8, 2026 at 11:04 AM
 
@@ -14642,7 +14615,7 @@ HCM iOS hiện tại có các công ty nào đang open job không các sếp
 
 ---
 
-### Post #1580 — emlameo4` [Interview Experiences]
+### Post #1577 — emlameo4` [Interview Experiences]
 
 **Date:** Jan 8, 2026 at 1:38 PM
 
@@ -14650,7 +14623,7 @@ E xin kn pv Fsoft, BU EIS. Job về Linux Emb Network.
 
 ---
 
-### Post #1581 — Tomy Tèo [Interview Experiences]
+### Post #1578 — Tomy Tèo [Interview Experiences]
 
 **Date:** Jan 8, 2026 at 2:04 PM
 
@@ -14658,7 +14631,7 @@ CBTW process pv như nào vậy các bác, cho e xin ít review vị trí backen
 
 ---
 
-### Post #1582 — ynu_quang [Interview Experiences]
+### Post #1579 — ynu_quang [Interview Experiences]
 
 **Date:** Jan 8, 2026 at 11:10 PM
 
@@ -14670,7 +14643,7 @@ online với 2 bác managers nước ngoài
 
 ---
 
-### Post #1583 — ZenVuNG [Interview Experiences]
+### Post #1580 — ZenVuNG [Interview Experiences]
 
 **Date:** Jan 9, 2026 at 2:46 PM
 
@@ -14678,7 +14651,7 @@ Mng cho em xin ít kinh nghiệm pv intern hay fresher với ạ. Em đi pv cũn
 
 ---
 
-### Post #1584 — chiyeuemthoi [Interview Experiences]
+### Post #1581 — chiyeuemthoi [Interview Experiences]
 
 **Date:** Jan 9, 2026 at 3:05 PM
 
@@ -14686,7 +14659,7 @@ thì ôn lại câu chưa kĩ xog đi pv là dc
 
 ---
 
-### Post #1585 — GeniVN [Interview Experiences]
+### Post #1582 — GeniVN [Interview Experiences]
 
 **Date:** Jan 9, 2026 at 3:43 PM
 
@@ -14694,7 +14667,7 @@ mấy fen cho mình hỏi nội dung PV epam vòng cuối với manager + lead v
 
 ---
 
-### Post #1586 — heehee1 [Interview Experiences]
+### Post #1583 — heehee1 [Interview Experiences]
 
 **Date:** Jan 9, 2026 at 7:25 PM
 
@@ -14702,7 +14675,7 @@ mn ơi, có bác bào đã từng phỏng vấn data engineer ở Sonat Game ch�
 
 ---
 
-### Post #1587 — nkciam [Interview Experiences]
+### Post #1584 — nkciam [Interview Experiences]
 
 **Date:** Jan 10, 2026 at 4:49 PM
 
@@ -14710,7 +14683,7 @@ theo e biết senior devops khoảng 45-70m gross. Còn dev e ko biết
 
 ---
 
-### Post #1588 — sanglee97 [Interview Experiences]
+### Post #1585 — sanglee97 [Interview Experiences]
 
 **Date:** Jan 10, 2026 at 4:50 PM
 
@@ -14718,7 +14691,7 @@ Bạn phỏng vấn vị trí nào đấy
 
 ---
 
-### Post #1589 — ck20222 [Interview Experiences]
+### Post #1586 — ck20222 [Interview Experiences]
 
 **Date:** Jan 10, 2026 at 4:58 PM
 
@@ -14726,7 +14699,7 @@ mọi người cho em hỏi thử em tính đi pv backend java fpt , thì thư�
 
 ---
 
-### Post #1590 — ShjRou [Interview Experiences]
+### Post #1587 — ShjRou [Interview Experiences]
 
 **Date:** Jan 10, 2026 at 7:44 PM
 
@@ -14734,7 +14707,7 @@ Cũng thế thôi, đợt mình hỏi thì Sen 70 quay đầu, chắc exception 
 
 ---
 
-### Post #1591 — nkciam [Interview Experiences]
+### Post #1588 — nkciam [Interview Experiences]
 
 **Date:** Jan 10, 2026 at 8:10 PM
 
@@ -14742,46 +14715,7 @@ Cũng thế thôi, đợt mình hỏi thì Sen 70 quay đầu, chắc exception 
 
 ---
 
-### Post #1592 — Gia Nô ba họ [Interview Experiences]
-
-**Date:** Jan 10, 2026 at 8:47 PM
-
-Công ty: OPSWAT
-Vị trí: Associate Software Engineer, Undergrad (C++)
-Thời điểm: cuối 2024
-Nơi nộp cv: mình chủ động connect với HR trên linkedin và gửi cv cho HR
-1 Round duy nhất:
-phỏng vấn trực tiếp tại office, mình vs 2 anh Engineer Manager của 2 team khác nhau, phỏng vấn tiếng việt
-15p đầu: giới thiệu qua lại, hỏi học trường gì, nếu học trường X thì có học thầy Y, cô Z không, đang intern ở chỗ nào, ...? Sau đó hỏi về các project trong cv, có gì thì mình nói đó
-20p tiếp theo: hỏi về OOP, OOD, UML, design class, design pattern, hồi đó newbie nên chỉ biết code mỗi singleton, follow up white board code singleton
-10p tiếp theo: white board code 1 bài cấp phát mảng 2 chiều m x n dùng con trỏ + follow up
-10p tiếp theo: hỏi nhẹ nhàng về algo, tree, heap
-20p tiếp theo: hỏi về modern C++ (smart ptr, lambda, ...) , biết Qt không, race condition, ...
-10p cuối: nếu trúng vé số sẽ làm gì
-
----
-
-### Post #1593 — Gia Nô ba họ [Interview Experiences]
-
-**Date:** Jan 10, 2026 at 9:06 PM
-
-Công ty: Zalo
-Vị trí: Software Engineer, Newgrad (C++)
-Thời điểm: Sau tết 2025
-Nơi nộp cv: gửi cv qua web zalo career
-Round 1: Call hr, hỏi project, check tiếng anh, rất may mắn khi hr rất support mình, có lẽ là hr tốt nhất mình từng gặp
-Round 2:
-phỏng vấn trực tiếp tại office quận 7, mình vs 1 anh Engineer Manager + 1 senior + 1 HR, phỏng vấn tiếng việt
-10p đầu: giới thiệu qua lại đang làm ở chỗ nào, ...? Sau đó hỏi về các project trong cv, có gì thì mình nói đó
-10p tiếp theo: hỏi về project ở cty, làm gì ở đó, làm những cái gì, ...
-20p tiếp theo: hỏi về modern C++ (smart ptr, lambda, ...), có biết C++20 không, code giấy oop, follow up hỏi về virtual table
-10p tiếp theo: 1 câu algo linkedlist palindrome, có thể do vừa ăn tết xong nên đầu óc vẫn đang trên mây nên chưa solve được 100%, cần hint
-10p tiếp theo: hỏi về 1 bài toán xác xuất
-5p cuối: hỏi code được java không, trao đổi qua lại
-
----
-
-### Post #1594 — vodka_hanoi1 [Interview Experiences]
+### Post #1589 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Jan 11, 2026 at 2:02 AM
 
@@ -14790,7 +14724,7 @@ câu trúng vé số chắc theo format của pv
 
 ---
 
-### Post #1595 — Tomy Tèo [Interview Experiences]
+### Post #1590 — Tomy Tèo [Interview Experiences]
 
 **Date:** Jan 13, 2026 at 1:31 PM
 
@@ -14798,7 +14732,7 @@ Mọi người ai pv công ty Momos, làm về mảng food chưa dị, cho mình
 
 ---
 
-### Post #1596 — FlyingDuckman [Interview Experiences]
+### Post #1591 — FlyingDuckman [Interview Experiences]
 
 **Date:** Jan 13, 2026 at 7:44 PM
 
@@ -14806,7 +14740,7 @@ Em chuẩn bị pv Android bên Naver. Có bác nào trải chưa cho em xin rev
 
 ---
 
-### Post #1597 — Bruno Mars. [Interview Experiences]
+### Post #1592 — Bruno Mars. [Interview Experiences]
 
 **Date:** Jan 14, 2026 at 7:36 AM
 
@@ -14814,7 +14748,7 @@ pv xong e xin review voi nha bac
 
 ---
 
-### Post #1598 — FlyingDuckman [Interview Experiences]
+### Post #1593 — FlyingDuckman [Interview Experiences]
 
 **Date:** Jan 14, 2026 at 8:52 AM
 
@@ -14823,7 +14757,7 @@ E làm hackrank đc có 2 câu nên cook r
 
 ---
 
-### Post #1599 — Bruno Mars. [Interview Experiences]
+### Post #1594 — Bruno Mars. [Interview Experiences]
 
 **Date:** Jan 14, 2026 at 9:27 AM
 
@@ -14832,7 +14766,7 @@ Giống kiểu leetcode phải ko bác
 
 ---
 
-### Post #1600 — mrdendiboss [Interview Experiences]
+### Post #1595 — mrdendiboss [Interview Experiences]
 
 **Date:** Jan 14, 2026 at 10:45 PM
 
@@ -14840,7 +14774,7 @@ Giống kiểu leetcode phải ko bác
 
 ---
 
-### Post #1601 — GeniVN [Interview Experiences]
+### Post #1596 — GeniVN [Interview Experiences]
 
 **Date:** Jan 15, 2026 at 4:05 PM
 
@@ -14848,7 +14782,7 @@ live coding round ở Grab VN cho mid-level thì có thật là LC easy-medium k
 
 ---
 
-### Post #1602 — phvnang [Interview Experiences]
+### Post #1597 — phvnang [Interview Experiences]
 
 **Date:** Jan 16, 2026 at 9:06 AM
 
@@ -14856,7 +14790,7 @@ live coding round ở Grab VN cho mid-level thì có thật là LC easy-medium k
 
 ---
 
-### Post #1603 — atamsnwd [Interview Experiences]
+### Post #1598 — atamsnwd [Interview Experiences]
 
 **Date:** Jan 16, 2026 at 3:30 PM
 
@@ -14864,7 +14798,7 @@ AE ai pv bên HCL Software rồi cho e xin rv ạ, pv client Sing
 
 ---
 
-### Post #1604 — pier2710 [Interview Experiences]
+### Post #1599 — pier2710 [Interview Experiences]
 
 **Date:** Jan 16, 2026 at 3:38 PM
 
@@ -14872,7 +14806,7 @@ ko có test thuật toán gì hả bác
 
 ---
 
-### Post #1605 — nguoi_andanh2026 [Interview Experiences]
+### Post #1600 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 16, 2026 at 10:45 PM
 
@@ -14893,7 +14827,7 @@ HR rất nhiệt tình support, chuyên nghiệp, thời gian feedback từng ro
 
 ---
 
-### Post #1606 — dang_le_1905 [Interview Experiences]
+### Post #1601 — dang_le_1905 [Interview Experiences]
 
 **Date:** Jan 16, 2026 at 11:35 PM
 
@@ -14901,7 +14835,7 @@ Vậy là ai muốn lương cao mà không giỏi leetcode thì cứ vào outsou
 
 ---
 
-### Post #1607 — troioidaucatmoi [Interview Experiences]
+### Post #1602 — troioidaucatmoi [Interview Experiences]
 
 **Date:** Jan 16, 2026 at 11:38 PM
 
@@ -14909,7 +14843,7 @@ làm mấy chỗ v có sợ bench với layoff ko bác
 
 ---
 
-### Post #1608 — dang_le_1905 [Interview Experiences]
+### Post #1603 — dang_le_1905 [Interview Experiences]
 
 **Date:** Jan 16, 2026 at 11:46 PM
 
@@ -14917,7 +14851,7 @@ Mặt trái của outsource thôi bác ạ. Nhưng mà mình nghe review thì nh
 
 ---
 
-### Post #1609 — nguoi_andanh2026 [Interview Experiences]
+### Post #1604 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 17, 2026 at 1:16 AM
 
@@ -14926,7 +14860,7 @@ làm OS lớn thì chắc k thiếu dự án đâu vì nó thường làm nhiề
 
 ---
 
-### Post #1610 — nguoi_andanh2026 [Interview Experiences]
+### Post #1605 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 17, 2026 at 6:28 PM
 
@@ -14958,7 +14892,7 @@ Em làm DevOps ah hay code?
 
 ---
 
-### Post #1611 — Nổ bùm bùm [Interview Experiences]
+### Post #1606 — Nổ bùm bùm [Interview Experiences]
 
 **Date:** Jan 18, 2026 at 3:14 AM
 
@@ -14966,7 +14900,7 @@ giả sử nếu có offer từ cty này thì bác có nhận không?
 
 ---
 
-### Post #1612 — nguoi_andanh2026 [Interview Experiences]
+### Post #1607 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 18, 2026 at 6:19 AM
 
@@ -14976,7 +14910,7 @@ Nhưng mà đâu có dc offer đâu, k quan trọng
 
 ---
 
-### Post #1613 — nchhnchh [Interview Experiences]
+### Post #1608 — nchhnchh [Interview Experiences]
 
 **Date:** Jan 18, 2026 at 7:59 AM
 
@@ -14984,7 +14918,7 @@ interview là 2 chiều, fb như vầy thì chưa chắc interviewer đủ trìn
 
 ---
 
-### Post #1614 — daydreamer95 [Interview Experiences]
+### Post #1609 — daydreamer95 [Interview Experiences]
 
 **Date:** Jan 18, 2026 at 10:46 AM
 
@@ -14995,7 +14929,7 @@ for iPhone
 
 ---
 
-### Post #1615 — huungphan [Interview Experiences]
+### Post #1610 — huungphan [Interview Experiences]
 
 **Date:** Jan 18, 2026 at 6:27 PM
 
@@ -15003,7 +14937,7 @@ feedback quả thật như cl, sau này cứ nói OLTP thì postgresql, olap th�
 
 ---
 
-### Post #1616 — ShjRou [Interview Experiences]
+### Post #1611 — ShjRou [Interview Experiences]
 
 **Date:** Jan 18, 2026 at 6:40 PM
 
@@ -15011,7 +14945,7 @@ HR bên này báo range tầm bn vậy fen
 
 ---
 
-### Post #1617 — nguoi_andanh2026 [Interview Experiences]
+### Post #1612 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 18, 2026 at 8:46 PM
 
@@ -15019,7 +14953,7 @@ mid từ 3x tới 5x nhé. 5x gross chắc tay lắm thì được, còn thườ
 
 ---
 
-### Post #1618 — Design Pattern [Interview Experiences]
+### Post #1613 — Design Pattern [Interview Experiences]
 
 **Date:** Jan 19, 2026 at 2:53 PM
 
@@ -15028,7 +14962,7 @@ các bác có cách nào luyện cho fluent ko ae
 
 ---
 
-### Post #1619 — nguoi_andanh2026 [Interview Experiences]
+### Post #1614 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 19, 2026 at 6:53 PM
 
@@ -15037,7 +14971,7 @@ youtube đi fen, cứ channel nào về nội dung fen thích, mà nói tiếng 
 
 ---
 
-### Post #1620 — sa1ntBuhai [Interview Experiences]
+### Post #1615 — sa1ntBuhai [Interview Experiences]
 
 **Date:** Jan 19, 2026 at 9:27 PM
 
@@ -15046,7 +14980,7 @@ Em chưa apply big tech bao h nên ko biết :v
 
 ---
 
-### Post #1621 — nguoi_andanh2026 [Interview Experiences]
+### Post #1616 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 20, 2026 at 5:09 PM
 
@@ -15073,7 +15007,7 @@ HR tốt bụng, support nhiệt tình, feedback giữa các round ~1-2 ngày. T
 
 ---
 
-### Post #1622 — SuperCryptoCat [Interview Experiences]
+### Post #1617 — SuperCryptoCat [Interview Experiences]
 
 **Date:** Jan 20, 2026 at 5:16 PM
 
@@ -15081,7 +15015,7 @@ Có phải share màn hình làm ko fen? Được code ra IDE trước ko
 
 ---
 
-### Post #1623 — nguoi_andanh2026 [Interview Experiences]
+### Post #1618 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 20, 2026 at 5:19 PM
 
@@ -15090,7 +15024,7 @@ K có intellisense giống ide đâu mà nó giống code ra notepad ấy. Vừa
 
 ---
 
-### Post #1624 — thesimple [Interview Experiences]
+### Post #1619 — thesimple [Interview Experiences]
 
 **Date:** Jan 20, 2026 at 10:47 PM
 
@@ -15098,7 +15032,7 @@ K có intellisense giống ide đâu mà nó giống code ra notepad ấy. Vừa
 
 ---
 
-### Post #1625 — nguoi_andanh2026 [Interview Experiences]
+### Post #1620 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 20, 2026 at 11:10 PM
 
@@ -15106,7 +15040,7 @@ optional nhé fen. Nếu hỏi xong hết câu hỏi mà còn tgian thì họ h�
 
 ---
 
-### Post #1626 — thesimple [Interview Experiences]
+### Post #1621 — thesimple [Interview Experiences]
 
 **Date:** Jan 21, 2026 at 12:01 AM
 
@@ -15115,7 +15049,7 @@ Mà thấy trên JD nói process 4 rounds lận, round cuối là gặp Client
 
 ---
 
-### Post #1627 — nguoi_andanh2026 [Interview Experiences]
+### Post #1622 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 21, 2026 at 12:16 AM
 
@@ -15123,7 +15057,7 @@ sẽ có offer trước khi gặp client. Mà cái này cũng tùy theo client h
 
 ---
 
-### Post #1628 — PH007 [Interview Experiences]
+### Post #1623 — PH007 [Interview Experiences]
 
 **Date:** Jan 22, 2026 at 9:47 PM
 
@@ -15132,7 +15066,7 @@ pv xong nghĩ an toàn, giờ thì hên xui thôi
 
 ---
 
-### Post #1629 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1624 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jan 23, 2026 at 11:34 AM
 
@@ -15140,7 +15074,7 @@ Bên này pv full eng hả bác
 
 ---
 
-### Post #1630 — phvnang [Interview Experiences]
+### Post #1625 — phvnang [Interview Experiences]
 
 **Date:** Jan 23, 2026 at 3:37 PM
 
@@ -15148,7 +15082,7 @@ case e BE làm handle scale realtime
 
 ---
 
-### Post #1631 — crazy9x256 [Interview Experiences]
+### Post #1626 — crazy9x256 [Interview Experiences]
 
 **Date:** Jan 23, 2026 at 3:50 PM
 
@@ -15161,7 +15095,7 @@ Nên đi phỏng vấn chắc cũng hên xui
 
 ---
 
-### Post #1632 — MrBenT [Interview Experiences]
+### Post #1627 — MrBenT [Interview Experiences]
 
 **Date:** Jan 23, 2026 at 10:01 PM
 
@@ -15169,7 +15103,7 @@ Phỏng vấn tiếng việt nhé bác
 
 ---
 
-### Post #1633 — hungpn2212 [Interview Experiences]
+### Post #1628 — hungpn2212 [Interview Experiences]
 
 **Date:** Jan 23, 2026 at 10:27 PM
 
@@ -15177,7 +15111,7 @@ bên này weight khá cao về exp và background của bác có match những g
 
 ---
 
-### Post #1634 — hungpn2212 [Interview Experiences]
+### Post #1629 — hungpn2212 [Interview Experiences]
 
 **Date:** Jan 23, 2026 at 10:33 PM
 
@@ -15186,7 +15120,7 @@ Bác nào k non thì cho em hỏi câu này trả lời thế nào để xác đ
 
 ---
 
-### Post #1635 — nguoi_andanh2026 [Interview Experiences]
+### Post #1630 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 23, 2026 at 10:47 PM
 
@@ -15195,7 +15129,7 @@ làm sao fen tuyệt đối biết 1 con DB làm tốt workload của fen, hay c
 
 ---
 
-### Post #1636 — hold_on_never_leave [Interview Experiences]
+### Post #1631 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Jan 23, 2026 at 11:32 PM
 
@@ -15204,7 +15138,7 @@ tất nhiên phụ thuộc vào kinh nghiệm vận hành, nhưng nhìn chung be
 
 ---
 
-### Post #1637 — cool-girl [Interview Experiences]
+### Post #1632 — cool-girl [Interview Experiences]
 
 **Date:** Jan 24, 2026 at 12:17 AM
 
@@ -15213,7 +15147,7 @@ Vì nó là nền tảng mà, bác theo nghề thì bác phải tiếp cận nó
 
 ---
 
-### Post #1638 — GeniVN [Interview Experiences]
+### Post #1633 — GeniVN [Interview Experiences]
 
 **Date:** Jan 24, 2026 at 12:20 AM
 
@@ -15221,7 +15155,7 @@ k tryhard được giống mấy anh trai bên thread leetcode thì cũng nên l
 
 ---
 
-### Post #1639 — vodka_hanoi1 [Interview Experiences]
+### Post #1634 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Jan 24, 2026 at 3:03 AM
 
@@ -15229,7 +15163,7 @@ Ae nào gặp trường hợp pass rồi có offer rồi xong HR bắt ref check
 
 ---
 
-### Post #1640 — hungpn2212 [Interview Experiences]
+### Post #1635 — hungpn2212 [Interview Experiences]
 
 **Date:** Jan 24, 2026 at 4:57 AM
 
@@ -15237,7 +15171,7 @@ nhiều mà, e gặp mấy lần r. Bác cứ nhờ ae cũ cùng team thôi. Tr�
 
 ---
 
-### Post #1641 — Duyenthangne [Interview Experiences]
+### Post #1636 — Duyenthangne [Interview Experiences]
 
 **Date:** Jan 24, 2026 at 9:31 AM
 
@@ -15245,7 +15179,7 @@ Có chứ. Như Nam Á đỏ ref tối đa 3 công ty trong 5 năm gần nhất 
 
 ---
 
-### Post #1642 — homarox [Interview Experiences]
+### Post #1637 — homarox [Interview Experiences]
 
 **Date:** Jan 24, 2026 at 1:31 PM
 
@@ -15253,7 +15187,7 @@ thấy bên Naver đăng tuyển lại android, bác vào chưa, lương ổn kh
 
 ---
 
-### Post #1643 — me0wMe0w [Interview Experiences]
+### Post #1638 — me0wMe0w [Interview Experiences]
 
 **Date:** Jan 24, 2026 at 9:30 PM
 
@@ -15261,7 +15195,7 @@ Các bác cho em hỏi pv BE dev ở hubble.build 2 round technical sẽ hỏi n
 
 ---
 
-### Post #1644 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1639 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jan 27, 2026 at 12:33 PM
 
@@ -15269,7 +15203,7 @@ Các bác cho em hỏi pv BE dev ở hubble.build 2 round technical sẽ hỏi n
 
 ---
 
-### Post #1645 — Tiểu Màn Thầu BK [Interview Experiences]
+### Post #1640 — Tiểu Màn Thầu BK [Interview Experiences]
 
 **Date:** Jan 27, 2026 at 1:19 PM
 
@@ -15277,7 +15211,7 @@ E cứ tưởng là SE bình thường thôi, bác bảo làm AI mà cần quant
 
 ---
 
-### Post #1646 — nguoi_andanh2026 [Interview Experiences]
+### Post #1641 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 28, 2026 at 9:31 AM
 
@@ -15285,7 +15219,7 @@ xin nội dung round cuối grab VN (culture fit) với các fen ơi
 
 ---
 
-### Post #1647 — olala26 [Interview Experiences]
+### Post #1642 — olala26 [Interview Experiences]
 
 **Date:** Jan 28, 2026 at 9:50 AM
 
@@ -15293,7 +15227,7 @@ Luôn luôn đồng phục Grab chỉn tề  onsite là đc nhé
 
 ---
 
-### Post #1648 — kusoipro [Interview Experiences]
+### Post #1643 — kusoipro [Interview Experiences]
 
 **Date:** Jan 28, 2026 at 11:41 AM
 
@@ -15303,7 +15237,7 @@ Manager hỏi bài toán khó nhất đã giải quyết đc là gì, culture fi
 
 ---
 
-### Post #1649 — nguoi_andanh2026 [Interview Experiences]
+### Post #1644 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 28, 2026 at 11:43 AM
 
@@ -15311,7 +15245,7 @@ lại là hợp lí luôn, để đặt hoả tốc ngay con áo shipper
 
 ---
 
-### Post #1650 — olala26 [Interview Experiences]
+### Post #1645 — olala26 [Interview Experiences]
 
 **Date:** Jan 28, 2026 at 11:54 AM
 
@@ -15319,7 +15253,7 @@ Nào thanh lý thì ới nhá
 
 ---
 
-### Post #1651 — nguoi_andanh2026 [Interview Experiences]
+### Post #1646 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 4:59 PM
 
@@ -15349,7 +15283,7 @@ Thời điểm hiện tại thì benefit + range ngang/kém hơn các công ty V
 
 ---
 
-### Post #1652 — Duke@@@ [Interview Experiences]
+### Post #1647 — Duke@@@ [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 5:01 PM
 
@@ -15357,7 +15291,7 @@ techstack bên này là gì vậy fen
 
 ---
 
-### Post #1653 — nguoi_andanh2026 [Interview Experiences]
+### Post #1648 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 5:07 PM
 
@@ -15365,7 +15299,7 @@ Go + AWS là chính, nhưng một số team có xài cloud khác nữa. Một s�
 
 ---
 
-### Post #1654 — gravity134 [Interview Experiences]
+### Post #1649 — gravity134 [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 5:17 PM
 
@@ -15373,7 +15307,7 @@ v là có update r, đợt tui bài test 3h lận
 
 ---
 
-### Post #1655 — nguoi_andanh2026 [Interview Experiences]
+### Post #1650 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 5:18 PM
 
@@ -15381,7 +15315,7 @@ mình k nhớ 2 tiếng hay 3 tiếng nữa, nma chắc là 2 tiếng
 
 ---
 
-### Post #1656 — nguoi_andanh2026 [Interview Experiences]
+### Post #1651 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 5:21 PM
 
@@ -15389,7 +15323,7 @@ sau 1 tháng đi phỏng vấn vất vả vcl khoảng 5 6 nơi đã review hế
 
 ---
 
-### Post #1657 — Sinh.Vien.GT.58 [Interview Experiences]
+### Post #1652 — Sinh.Vien.GT.58 [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 5:54 PM
 
@@ -15397,7 +15331,7 @@ offer senior tầm bao nhiêu vậy bác?
 
 ---
 
-### Post #1658 — nguoi_andanh2026 [Interview Experiences]
+### Post #1653 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 6:51 PM
 
@@ -15405,7 +15339,7 @@ senior chắc phải 6x-7x gross trở lên fen ơi
 
 ---
 
-### Post #1659 — dntt_00 [Interview Experiences]
+### Post #1654 — dntt_00 [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 8:08 PM
 
@@ -15414,7 +15348,7 @@ dạo này có offer chỗ mới chưa.
 
 ---
 
-### Post #1660 — NamLongHoang [Interview Experiences]
+### Post #1655 — NamLongHoang [Interview Experiences]
 
 **Date:** Jan 30, 2026 at 9:57 PM
 
@@ -15422,7 +15356,7 @@ SMG phỏng vấn dễ không nhỉ các bác? Nghe anh khen SMG lắm, mà có 
 
 ---
 
-### Post #1661 — naiveryan [Interview Experiences]
+### Post #1656 — naiveryan [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 10:33 AM
 
@@ -15431,7 +15365,7 @@ Cũng khó hiểu OA làm khó thế để làm gì, trong khi offer chỉ mức
 
 ---
 
-### Post #1662 — gravity134 [Interview Experiences]
+### Post #1657 — gravity134 [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 11:15 AM
 
@@ -15439,7 +15373,7 @@ có tí biến nên lên núi luyện công , chờ offer r xuống núi
 
 ---
 
-### Post #1663 — nguoi_andanh2026 [Interview Experiences]
+### Post #1658 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 11:18 AM
 
@@ -15447,7 +15381,7 @@ dưới NAB khoảng 20-25% luôn
 
 ---
 
-### Post #1664 — manonon933 [Interview Experiences]
+### Post #1659 — manonon933 [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 11:22 AM
 
@@ -15457,7 +15391,7 @@ Tiếng là làm sản phẩm nhưng sản phẩm ko rõ ràng, thậm chí rấ
 
 ---
 
-### Post #1665 — nguoi_andanh2026 [Interview Experiences]
+### Post #1660 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 11:31 AM
 
@@ -15467,7 +15401,7 @@ offer đúng là rất lowball. Mình có đưa expect từ đầu là 5x vì c�
 
 ---
 
-### Post #1666 — PH007 [Interview Experiences]
+### Post #1661 — PH007 [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 12:19 PM
 
@@ -15476,7 +15410,7 @@ Mấy case offer miệng anh em hối offer qua mail nhanh nhé, méo cho câu g
 
 ---
 
-### Post #1667 — scorpionz [Interview Experiences]
+### Post #1662 — scorpionz [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 12:39 PM
 
@@ -15484,7 +15418,7 @@ có bác nào phỏng vấn AndP** chưa, cho em xin kinh nghiệm với, bên �
 
 ---
 
-### Post #1668 — nguoi_andanh2026 [Interview Experiences]
+### Post #1663 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 1:19 PM
 
@@ -15492,7 +15426,7 @@ mình nhớ k nhầm là 3 round, 1 round technical, 1 round họ bắt show cod
 
 ---
 
-### Post #1669 — manonon933 [Interview Experiences]
+### Post #1664 — manonon933 [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 2:13 PM
 
@@ -15505,7 +15439,7 @@ Vào site sp thì credit 1 cty lạ hoắc ở Thụy Sĩ: Uney GmbH. Vào site 
 
 ---
 
-### Post #1670 — nguoi_andanh2026 [Interview Experiences]
+### Post #1665 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Jan 31, 2026 at 2:41 PM
 
@@ -15514,7 +15448,7 @@ cái skytrack là làm drone thật. Lạ nhỉ
 
 ---
 
-### Post #1671 — Royal Assassinss [Interview Experiences]
+### Post #1666 — Royal Assassinss [Interview Experiences]
 
 **Date:** Feb 4, 2026 at 10:41 AM
 
@@ -15550,7 +15484,7 @@ Các bác cho em hỏi là em cần cải thiện gì trong các vòng PV tiếp
 
 ---
 
-### Post #1672 — hold_on_never_leave [Interview Experiences]
+### Post #1667 — hold_on_never_leave [Interview Experiences]
 
 **Date:** Feb 4, 2026 at 10:45 AM
 
@@ -15558,7 +15492,7 @@ screening thường là với HR mà fen đã có cả technical trong round nà
 
 ---
 
-### Post #1673 — nguoi_andanh2026 [Interview Experiences]
+### Post #1668 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Feb 4, 2026 at 10:54 AM
 
@@ -15569,7 +15503,7 @@ Còn nếu fen k thích thái độ của TA thì cũng k thể trách fen đư�
 
 ---
 
-### Post #1674 — Royal Assassinss [Interview Experiences]
+### Post #1669 — Royal Assassinss [Interview Experiences]
 
 **Date:** Feb 4, 2026 at 11:22 AM
 
@@ -15578,7 +15512,7 @@ Không biết là screening với HR hay với engineer fen ak. interviewer ko g
 
 ---
 
-### Post #1675 — nguoi_andanh2026 [Interview Experiences]
+### Post #1670 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Feb 4, 2026 at 11:25 AM
 
@@ -15586,7 +15520,7 @@ chúc fen lần sau gặp TA thân thiện hơn. Có anh T*n process mình rất
 
 ---
 
-### Post #1676 — Royal Assassinss [Interview Experiences]
+### Post #1671 — Royal Assassinss [Interview Experiences]
 
 **Date:** Feb 4, 2026 at 11:36 AM
 
@@ -15595,7 +15529,7 @@ anyway, cảm ơn fen nhé
 
 ---
 
-### Post #1677 — iamamonster07 [Interview Experiences]
+### Post #1672 — iamamonster07 [Interview Experiences]
 
 **Date:** Feb 5, 2026 at 12:55 AM
 
@@ -15603,7 +15537,7 @@ Mình confirm là giống y như trải nghiệm của mình nhé, cũng là rec
 
 ---
 
-### Post #1678 — iamamonster07 [Interview Experiences]
+### Post #1673 — iamamonster07 [Interview Experiences]
 
 **Date:** Feb 5, 2026 at 12:59 AM
 
@@ -15611,7 +15545,7 @@ K biết là fen có qua referral không nhỉ? Em nghe nói bên này trọng r
 
 ---
 
-### Post #1679 — nguoi_andanh2026 [Interview Experiences]
+### Post #1674 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Feb 5, 2026 at 8:22 AM
 
@@ -15619,7 +15553,7 @@ k fen, mình nộp chay
 
 ---
 
-### Post #1680 — tenoroboebaroque [Interview Experiences]
+### Post #1675 — tenoroboebaroque [Interview Experiences]
 
 **Date:** Feb 5, 2026 at 2:52 PM
 
@@ -15628,7 +15562,7 @@ Em nghĩ là expect của interviewer sẽ phân tích được nên chọn SQL 
 
 ---
 
-### Post #1681 — tenoroboebaroque [Interview Experiences]
+### Post #1676 — tenoroboebaroque [Interview Experiences]
 
 **Date:** Feb 5, 2026 at 5:59 PM
 
@@ -15642,7 +15576,7 @@ Hoai Le (https://www.facebook.com/share/p/1BPKBGcFwf/)
 
 ---
 
-### Post #1682 — hoang_tv [Interview Experiences]
+### Post #1677 — hoang_tv [Interview Experiences]
 
 **Date:** Feb 6, 2026 at 3:48 PM
 
@@ -15650,7 +15584,7 @@ Có bác nào phỏng vấn middle backend (golang) ở TVF chưa ? Cho e xin re
 
 ---
 
-### Post #1683 — hu_cau [Interview Experiences]
+### Post #1678 — hu_cau [Interview Experiences]
 
 **Date:** Feb 6, 2026 at 10:27 PM
 
@@ -15658,7 +15592,7 @@ Round 2 và 3 phỏng vấn tiếng Anh luôn phải không bác
 
 ---
 
-### Post #1684 — ShjRou [Interview Experiences]
+### Post #1679 — ShjRou [Interview Experiences]
 
 **Date:** Feb 6, 2026 at 11:22 PM
 
@@ -15666,7 +15600,7 @@ Hcm mình ko rõ chứ ngoài Hn thì Epam là 1 trong mấy thằng top đầu 
 
 ---
 
-### Post #1685 — thesimple [Interview Experiences]
+### Post #1680 — thesimple [Interview Experiences]
 
 **Date:** Feb 6, 2026 at 11:52 PM
 
@@ -15674,7 +15608,7 @@ Bên này dự án làm lâu dài ko b, thấy ae nói GFT tier 1-2 mà vào là
 
 ---
 
-### Post #1686 — ShjRou [Interview Experiences]
+### Post #1681 — ShjRou [Interview Experiences]
 
 **Date:** Feb 7, 2026 at 12:22 AM
 
@@ -15682,7 +15616,7 @@ Mô hình outsource chung thôi bạn. Hết dự án thì được cho đi pv c
 
 ---
 
-### Post #1687 — Luizions [Interview Experiences]
+### Post #1682 — Luizions [Interview Experiences]
 
 **Date:** Feb 10, 2026 at 11:00 AM
 
@@ -15690,7 +15624,7 @@ Bên này có LC ko bác? Review qua các vòng đc ko bác
 
 ---
 
-### Post #1688 — caothuphu2013 [Interview Experiences]
+### Post #1683 — caothuphu2013 [Interview Experiences]
 
 **Date:** Feb 10, 2026 at 11:36 AM
 
@@ -15698,7 +15632,7 @@ Có eng là đc, nó eng căng lắm.
 
 ---
 
-### Post #1689 — Sysriq [Interview Experiences]
+### Post #1684 — Sysriq [Interview Experiences]
 
 **Date:** Feb 12, 2026 at 12:02 PM
 
@@ -15708,7 +15642,7 @@ Thôi thì coi như fen xui gặp ông khó tính rồi, chứ trải nghiệm p
 
 ---
 
-### Post #1690 — Bé mèo đi hia [Interview Experiences]
+### Post #1685 — Bé mèo đi hia [Interview Experiences]
 
 **Date:** Feb 12, 2026 at 1:59 PM
 
@@ -15717,7 +15651,7 @@ Tui giờ thủ sẵn luôn bộ câu hỏi, phỏng vấn ai cứ phang y chang
 
 ---
 
-### Post #1691 — Young_Dev_In_SG [Interview Experiences]
+### Post #1686 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Feb 12, 2026 at 2:55 PM
 
@@ -15725,7 +15659,7 @@ Chào mọi người, em sắp phỏng vấn ở SMG vị trí FE. Không biết
 
 ---
 
-### Post #1692 — ongthoanh [Interview Experiences]
+### Post #1687 — ongthoanh [Interview Experiences]
 
 **Date:** Feb 26, 2026 at 11:44 PM
 
@@ -15733,7 +15667,7 @@ PV xong cho em xin review với bác
 
 ---
 
-### Post #1693 — yuno.k [Interview Experiences]
+### Post #1688 — yuno.k [Interview Experiences]
 
 **Date:** Feb 27, 2026 at 1:17 AM
 
@@ -15741,7 +15675,7 @@ có bác nào pv ở nexon dev vina ở vị trí web dev chưa ạ cho em xin r
 
 ---
 
-### Post #1694 — Kotlin [Interview Experiences]
+### Post #1689 — Kotlin [Interview Experiences]
 
 **Date:** Feb 27, 2026 at 9:34 AM
 
@@ -15749,7 +15683,7 @@ Có bác nào pv zalo rồi review mình với được ko
 
 ---
 
-### Post #1695 — Young_Dev_In_SG [Interview Experiences]
+### Post #1690 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Mar 5, 2026 at 12:52 PM
 
@@ -15759,7 +15693,7 @@ Không có bác có thể list out ra một số câu mà team bên đó đã h�
 
 ---
 
-### Post #1696 — 8x302009 [Interview Experiences]
+### Post #1691 — 8x302009 [Interview Experiences]
 
 **Date:** Mar 6, 2026 at 8:18 PM
 
@@ -15767,7 +15701,7 @@ có offer chưa bác, e tính vào mà hết headcount rồi :v
 
 ---
 
-### Post #1697 — ongnoimbappe [Interview Experiences]
+### Post #1692 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 6, 2026 at 10:32 PM
 
@@ -15775,7 +15709,7 @@ Có bác nào pv bên momo vnpay chưa ạ
 
 ---
 
-### Post #1698 — phung_uit [Interview Experiences]
+### Post #1693 — phung_uit [Interview Experiences]
 
 **Date:** Mar 6, 2026 at 11:17 PM
 
@@ -15783,7 +15717,7 @@ Bác pv vị trí gì? Cty nào?
 
 ---
 
-### Post #1699 — Young_Dev_In_SG [Interview Experiences]
+### Post #1694 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Mar 6, 2026 at 11:27 PM
 
@@ -15791,7 +15725,7 @@ w3w vị trí FE or full-stack nhé bác
 
 ---
 
-### Post #1700 — phung_uit [Interview Experiences]
+### Post #1695 — phung_uit [Interview Experiences]
 
 **Date:** Mar 7, 2026 at 8:05 AM
 
@@ -15803,7 +15737,7 @@ Tôi  cảm giác w3w họ tuyển level trên cả Senior cơ. Rất nhiều v�
 
 ---
 
-### Post #1701 — Young_Dev_In_SG [Interview Experiences]
+### Post #1696 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Mar 7, 2026 at 1:08 PM
 
@@ -15811,7 +15745,7 @@ Sau vòng take home assignment thì khoảng bao lâu bác pv round cuối thế
 
 ---
 
-### Post #1702 — Young_Dev_In_SG [Interview Experiences]
+### Post #1697 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Mar 7, 2026 at 7:55 PM
 
@@ -15820,7 +15754,7 @@ Vcl
 
 ---
 
-### Post #1703 — phung_uit [Interview Experiences]
+### Post #1698 — phung_uit [Interview Experiences]
 
 **Date:** Mar 8, 2026 at 6:47 AM
 
@@ -15829,7 +15763,7 @@ Graham đúng ko? Tui cũng ko rõ nhiều ứng viên hay không. Nhưng proces
 
 ---
 
-### Post #1704 — ongnoimbappe [Interview Experiences]
+### Post #1699 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 8, 2026 at 5:55 PM
 
@@ -15837,7 +15771,7 @@ Các bác thường trả lời như nào cho khéo nhất cho case "why do you 
 
 ---
 
-### Post #1705 — auauau97 [Interview Experiences]
+### Post #1700 — auauau97 [Interview Experiences]
 
 **Date:** Mar 8, 2026 at 6:22 PM
 
@@ -15845,7 +15779,7 @@ Tìm kiếm cơ hội lương cao hơn và phát triển theo định hướng b
 
 ---
 
-### Post #1706 — casy.DanTruong [Interview Experiences]
+### Post #1701 — casy.DanTruong [Interview Experiences]
 
 **Date:** Mar 8, 2026 at 9:12 PM
 
@@ -15853,7 +15787,7 @@ trả lời thế nào cũng được nhưng red flag là nói xấu công ty c�
 
 ---
 
-### Post #1707 — nguoi_andanh2026 [Interview Experiences]
+### Post #1702 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 7:24 PM
 
@@ -15882,7 +15816,7 @@ Tổng thời gian interview ~2 tuần. Insight là nếu pv SD thì đọc kỹ
 
 ---
 
-### Post #1708 — nguoi_andanh2026 [Interview Experiences]
+### Post #1703 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 7:28 PM
 
@@ -15892,7 +15826,7 @@ nhiều khi trả lời k được câu này là interviewer thấy k có độn
 
 ---
 
-### Post #1709 — nguoi_andanh2026 [Interview Experiences]
+### Post #1704 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 8:34 PM
 
@@ -15900,7 +15834,7 @@ nhiều khi trả lời k được câu này là interviewer thấy k có độn
 
 ---
 
-### Post #1710 — vu_nam1905 [Interview Experiences]
+### Post #1705 — vu_nam1905 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 8:53 PM
 
@@ -15908,7 +15842,7 @@ Có hỏi về CS fundamentals không bác
 
 ---
 
-### Post #1711 — nguoi_andanh2026 [Interview Experiences]
+### Post #1706 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 8:58 PM
 
@@ -15920,7 +15854,7 @@ Thời điểm phỏng vấn:
 2025
 Nơi nộp CV:
 NAVER VIETNAM
-<p><strong><span style="font-family: Verdana, Geneva, sans-serif; font-size: 12px; color: #61bd6d;">About NAVER Corp and NAVER Vietnam:</span></strong><span style="font-family: Verdana, Geneva, sans-serif; font-size: 12px;"><br></span></p> <p> </p> <p>NAVER Corp</p> <p> </p> <p>NAVER Corp is...
+<p><strong><span style="font-family: Verdana, Geneva, sans-serif; font-size: 12px; color: #61bd6d;">About NAVER Corp and NAVER Vietnam:<br><br></span></strong></p> <p><strong>NAVER Corp</strong></p> <p>NAVER Corp is South Korea’s leading technology company, known for the NAVER search engine...
 job-boards.greenhouse.io
 Process:
 4 rounds, online hết
@@ -15940,7 +15874,7 @@ Trải nghiệm thú vị, interviewer trình độ cao, HR tuyệt vời proces
 
 ---
 
-### Post #1712 — nguoi_andanh2026 [Interview Experiences]
+### Post #1707 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 8:59 PM
 
@@ -15948,7 +15882,7 @@ k hỏi 1 cách ad hoc, tự dưng hỏi, mà có thể xuất hiện khi đang 
 
 ---
 
-### Post #1713 — vu_nam1905 [Interview Experiences]
+### Post #1708 — vu_nam1905 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:03 PM
 
@@ -15956,7 +15890,7 @@ Hay quá bác, hóng bác lên nhiều công ty nha. Mà Nav*r có live coding k
 
 ---
 
-### Post #1714 — nguoi_andanh2026 [Interview Experiences]
+### Post #1709 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:05 PM
 
@@ -15964,7 +15898,7 @@ cty k nặng văn hoá Hàn xẻng lắm (tùy team). Live coding thì có thể
 
 ---
 
-### Post #1715 — vu_nam1905 [Interview Experiences]
+### Post #1710 — vu_nam1905 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:11 PM
 
@@ -15972,7 +15906,7 @@ Chúc mừng bác, bác giỏi quá. Không mong vào Axon mà vào được G h
 
 ---
 
-### Post #1716 — nguoi_andanh2026 [Interview Experiences]
+### Post #1711 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:15 PM
 
@@ -15981,7 +15915,7 @@ toàn có offer hết r mới mail, năm ngoái mail 30 tết, năm nay thì 28 
 
 ---
 
-### Post #1717 — Max Flow [Interview Experiences]
+### Post #1712 — Max Flow [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:19 PM
 
@@ -15989,7 +15923,7 @@ bác share các nguồn học CS fundamental được không bác?
 
 ---
 
-### Post #1718 — nguoi_andanh2026 [Interview Experiences]
+### Post #1713 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:24 PM
 
@@ -15997,7 +15931,7 @@ CS 162: Operating Systems and Systems Programming - Berkeley
 與朋友、家人和全世界分享您的影片
 youtube.com
 CMU Intro to Database Systems (15-445/645 - Fall 2025)
-All projects + homework available on course website: https://15445.courses.cs.cmu.edu/fall2025/
+This course rips through data models (relational, document, key/value), storage models (n-ary, decomposition), query languages (SQL, stored procedures), stor...
 youtube.com
 MIT 6.824: Distributed Systems
 Information about accessibility can be found at https://accessibility.mit.edu/
@@ -16009,7 +15943,7 @@ với 1 số course của MIT courseware nha fen
 
 ---
 
-### Post #1719 — conchimnon1233 [Interview Experiences]
+### Post #1714 — conchimnon1233 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:44 PM
 
@@ -16017,7 +15951,7 @@ Có bác nào phỏng vấn mà job về middleware, hay system chưa nhỉ. có
 
 ---
 
-### Post #1720 — biring1 [Interview Experiences]
+### Post #1715 — biring1 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:47 PM
 
@@ -16025,7 +15959,7 @@ công ty nào đó thím, làm nhúng hay gì mà middleware
 
 ---
 
-### Post #1721 — conchimnon1233 [Interview Experiences]
+### Post #1716 — conchimnon1233 [Interview Experiences]
 
 **Date:** Mar 9, 2026 at 9:49 PM
 
@@ -16033,7 +15967,7 @@ Bên nab bác ơi, system engineer, database kiểu v mà hồi giờ có code �
 
 ---
 
-### Post #1722 — The Steal [Interview Experiences]
+### Post #1717 — The Steal [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 12:50 AM
 
@@ -16041,7 +15975,7 @@ Bên nab bác ơi, system engineer, database kiểu v mà hồi giờ có code �
 
 ---
 
-### Post #1723 — phvnang [Interview Experiences]
+### Post #1718 — phvnang [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 9:19 AM
 
@@ -16049,7 +15983,7 @@ Bên nab bác ơi, system engineer, database kiểu v mà hồi giờ có code �
 
 ---
 
-### Post #1724 — JamesHardenFan [Interview Experiences]
+### Post #1719 — JamesHardenFan [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 9:37 AM
 
@@ -16075,7 +16009,7 @@ Tổng thời gian pvan từ R1 tới có offer là khoảng ~2 tháng.
 
 ---
 
-### Post #1725 — nguoi_andanh2026 [Interview Experiences]
+### Post #1720 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 9:39 AM
 
@@ -16083,7 +16017,7 @@ pvan ác thì vcl, thanks fen
 
 ---
 
-### Post #1726 — Bruno Mars. [Interview Experiences]
+### Post #1721 — Bruno Mars. [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 9:58 AM
 
@@ -16091,7 +16025,7 @@ Fen có thể chia sẻ thêm cách fen ôn luyện được không?
 
 ---
 
-### Post #1727 — JamesHardenFan [Interview Experiences]
+### Post #1722 — JamesHardenFan [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 10:17 AM
 
@@ -16101,7 +16035,7 @@ System design thì cái này hơi khó ôn. Lúc pvan mình thấy phần này l
 
 ---
 
-### Post #1728 — lhrilee [Interview Experiences]
+### Post #1723 — lhrilee [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 10:52 AM
 
@@ -16109,7 +16043,7 @@ Em chào các bác ạ, có bác nào ở đây từng phỏng vấn Z*lo vị t
 
 ---
 
-### Post #1729 — Call me David [Interview Experiences]
+### Post #1724 — Call me David [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 11:02 AM
 
@@ -16117,7 +16051,7 @@ Fency bao nhiêu yoe rồi, giỏi quá
 
 ---
 
-### Post #1730 — vodka_hanoi1 [Interview Experiences]
+### Post #1725 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 11:20 AM
 
@@ -16125,7 +16059,7 @@ mình thường tl là do tụi mày tuyển nên tao with my job
 
 ---
 
-### Post #1731 — devquenok [Interview Experiences]
+### Post #1726 — devquenok [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 11:31 AM
 
@@ -16134,7 +16068,7 @@ Tui có vẻ đoán ra bạn là ai rùi đó
 
 ---
 
-### Post #1732 — h_ngyn [Interview Experiences]
+### Post #1727 — h_ngyn [Interview Experiences]
 
 **Date:** Mar 10, 2026 at 12:06 PM
 
@@ -16142,7 +16076,7 @@ Fen bao nhiêu yoe thế.
 
 ---
 
-### Post #1733 — tenoctt9 [Interview Experiences]
+### Post #1728 — tenoctt9 [Interview Experiences]
 
 **Date:** Mar 11, 2026 at 10:55 AM
 
@@ -16164,7 +16098,7 @@ HR nhiệt tình. Các a interviewer rất nice, WLB => 6 tháng sau apply lại
 
 ---
 
-### Post #1734 — h_ngyn [Interview Experiences]
+### Post #1729 — h_ngyn [Interview Experiences]
 
 **Date:** Mar 11, 2026 at 2:50 PM
 
@@ -16172,7 +16106,7 @@ HR nhiệt tình. Các a interviewer rất nice, WLB => 6 tháng sau apply lại
 
 ---
 
-### Post #1735 — JamesHardenFan [Interview Experiences]
+### Post #1730 — JamesHardenFan [Interview Experiences]
 
 **Date:** Mar 11, 2026 at 8:18 PM
 
@@ -16180,7 +16114,7 @@ HR nhiệt tình. Các a interviewer rất nice, WLB => 6 tháng sau apply lại
 
 ---
 
-### Post #1736 — JamesHardenFan [Interview Experiences]
+### Post #1731 — JamesHardenFan [Interview Experiences]
 
 **Date:** Mar 12, 2026 at 8:47 AM
 
@@ -16188,7 +16122,7 @@ Fen hỏi câu này hơi khó, worker ở đây là worker gì nhỉ? Dedicated 
 
 ---
 
-### Post #1737 — nguoi_andanh2026 [Interview Experiences]
+### Post #1732 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 12, 2026 at 9:34 AM
 
@@ -16199,7 +16133,7 @@ lúc nào giờ cao điểm dự đoán được thì set lịch scale up thôi,
 
 ---
 
-### Post #1738 — nguoi_andanh2026 [Interview Experiences]
+### Post #1733 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 12, 2026 at 9:39 AM
 
@@ -16208,7 +16142,7 @@ HPA = 1 cái component sẽ scaleup/scale down số pod consumer theo 1 cái met
 
 ---
 
-### Post #1739 — nguoi_andanh2026 [Interview Experiences]
+### Post #1734 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 12, 2026 at 9:51 AM
 
@@ -16217,7 +16151,7 @@ k baoh phải scale up scale down gì baoh, nói chung nên estimate số lượ
 
 ---
 
-### Post #1740 — atamsnwd [Interview Experiences]
+### Post #1735 — atamsnwd [Interview Experiences]
 
 **Date:** Mar 13, 2026 at 8:27 AM
 
@@ -16225,7 +16159,7 @@ Em xin rv về quy trình phỏng vấn, mức lương và môi trường ở VC
 
 ---
 
-### Post #1741 — shadel [Interview Experiences]
+### Post #1736 — shadel [Interview Experiences]
 
 **Date:** Mar 13, 2026 at 8:11 PM
 
@@ -16233,7 +16167,7 @@ Mình đang cần kiếm vài anh em về làm Startup (có lương đàng hoàn
 
 ---
 
-### Post #1742 — caothuphu2013 [Interview Experiences]
+### Post #1737 — caothuphu2013 [Interview Experiences]
 
 **Date:** Mar 13, 2026 at 9:51 PM
 
@@ -16241,7 +16175,7 @@ ib t, ko đóng bhxh là đc :v
 
 ---
 
-### Post #1743 — ongnoimbappe [Interview Experiences]
+### Post #1738 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 3:40 PM
 
@@ -16249,7 +16183,7 @@ VN*AY bắt đầu layoff và giảm lương rồi các bác
 
 ---
 
-### Post #1744 — Young_Dev_In_SG [Interview Experiences]
+### Post #1739 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 3:41 PM
 
@@ -16257,7 +16191,7 @@ Có thông tin cắt giảm bao nhiêu không bác
 
 ---
 
-### Post #1745 — ongnoimbappe [Interview Experiences]
+### Post #1740 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 3:48 PM
 
@@ -16265,7 +16199,7 @@ Có thông tin cắt giảm bao nhiêu không bác
 
 ---
 
-### Post #1746 — shadel [Interview Experiences]
+### Post #1741 — shadel [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 3:52 PM
 
@@ -16273,7 +16207,7 @@ Có anh em AI, BE/DevOps, QA nào cần job mới thì inbox mình với nha
 
 ---
 
-### Post #1747 — nguoi_andanh2026 [Interview Experiences]
+### Post #1742 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 3:53 PM
 
@@ -16281,7 +16215,7 @@ chưa cắt fen ơi, sếp doạ anh em thế chứ chưa cắt
 
 ---
 
-### Post #1748 — ongnoimbappe [Interview Experiences]
+### Post #1743 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 4:02 PM
 
@@ -16290,7 +16224,7 @@ Vài ông trong team bị ra đi nữa
 
 ---
 
-### Post #1749 — nguoi_andanh2026 [Interview Experiences]
+### Post #1744 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 4:03 PM
 
@@ -16298,7 +16232,7 @@ team nào z fen, phòng lập trình mobile ngoài HN ah
 
 ---
 
-### Post #1750 — ongnoimbappe [Interview Experiences]
+### Post #1745 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 4:06 PM
 
@@ -16306,7 +16240,7 @@ Java HCM ấy ông, ông chắc ngoài HN hả
 
 ---
 
-### Post #1751 — ongnoimbappe [Interview Experiences]
+### Post #1746 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 4:07 PM
 
@@ -16314,7 +16248,7 @@ Không biết nói xạo để được gì, nó cũng đang apply bên khác sa
 
 ---
 
-### Post #1752 — nguoi_andanh2026 [Interview Experiences]
+### Post #1747 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 4:08 PM
 
@@ -16322,7 +16256,7 @@ HCM fen, mà team cũ mình chưa thấy gì
 
 ---
 
-### Post #1753 — ongnoimbappe [Interview Experiences]
+### Post #1748 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 4:22 PM
 
@@ -16330,7 +16264,7 @@ Cái này mình không rõ, mình cũng không hỏi sâu. Bên đó mình thấ
 
 ---
 
-### Post #1754 — minhnguyendev [Interview Experiences]
+### Post #1749 — minhnguyendev [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 9:52 PM
 
@@ -16342,7 +16276,7 @@ Có test coding không ạ. Tiếng Anh em hơi yếu ạ.
 
 ---
 
-### Post #1755 — minhnguyendev [Interview Experiences]
+### Post #1750 — minhnguyendev [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 10:21 PM
 
@@ -16350,7 +16284,7 @@ mình chọn nghỉ rồi bạn ạ, biết là khó khăn nhưng lương có 10
 
 ---
 
-### Post #1756 — minhnguyendev [Interview Experiences]
+### Post #1751 — minhnguyendev [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 10:28 PM
 
@@ -16358,7 +16292,7 @@ Tại sau tết nghỉ nhiều quá bạn ạ, sếp nói chuyện với mình l
 
 ---
 
-### Post #1757 — minhnguyendev [Interview Experiences]
+### Post #1752 — minhnguyendev [Interview Experiences]
 
 **Date:** Mar 14, 2026 at 10:34 PM
 
@@ -16366,7 +16300,7 @@ Thế thì đi pvan thử xem năng lực của mình đến đâu bạn nhỉ, 
 
 ---
 
-### Post #1758 — minhnguyendev [Interview Experiences]
+### Post #1753 — minhnguyendev [Interview Experiences]
 
 **Date:** Mar 15, 2026 at 12:19 PM
 
@@ -16374,7 +16308,7 @@ Không phải bác, công ty nhỏ, nma dự án cũng xịn
 
 ---
 
-### Post #1759 — minhnguyendev [Interview Experiences]
+### Post #1754 — minhnguyendev [Interview Experiences]
 
 **Date:** Mar 15, 2026 at 12:28 PM
 
@@ -16382,7 +16316,7 @@ cảm ơn bác, thực ra em rất muốn bung bác ạ, mấy thằng bạn thg
 
 ---
 
-### Post #1760 — ongnoimbappe [Interview Experiences]
+### Post #1755 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 15, 2026 at 12:56 PM
 
@@ -16390,7 +16324,7 @@ tình hình này cứ lên công ty ngồi ôn, rồi đi pv, khi nào cầm off
 
 ---
 
-### Post #1761 — ongnoimbappe [Interview Experiences]
+### Post #1756 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 15, 2026 at 1:07 PM
 
@@ -16398,7 +16332,7 @@ Em cũng đầu tháng 7 mới hết hợp đồng, giờ vẫn đang ôn đi pv
 
 ---
 
-### Post #1762 — Dustin315 [Interview Experiences]
+### Post #1757 — Dustin315 [Interview Experiences]
 
 **Date:** Mar 17, 2026 at 1:38 PM
 
@@ -16406,15 +16340,7 @@ focus vô security, cloud integration và performance nha
 
 ---
 
-### Post #1763 — shingg [Interview Experiences]
-
-**Date:** Mar 17, 2026 at 7:11 PM
-
-Dạ mọi người ai từng phỏng vấn Axon (vàng) intern cho em tham khảo quy trình và nội dung với ạ
-
----
-
-### Post #1764 — talavuavoz113 [Interview Experiences]
+### Post #1758 — talavuavoz113 [Interview Experiences]
 
 **Date:** Mar 18, 2026 at 8:29 PM
 
@@ -16422,7 +16348,7 @@ Junior BE thì nhận không bác
 
 ---
 
-### Post #1765 — Duongbeosyeudoi [Interview Experiences]
+### Post #1759 — Duongbeosyeudoi [Interview Experiences]
 
 **Date:** Mar 19, 2026 at 5:57 PM
 
@@ -16430,7 +16356,7 @@ có bác nào pv FE ở Vinsmart Future chưa cho em xin review với ạ
 
 ---
 
-### Post #1766 — Young_Dev_In_SG [Interview Experiences]
+### Post #1760 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Mar 19, 2026 at 6:05 PM
 
@@ -16438,7 +16364,7 @@ Bác pv xong cho em xin review với nhé
 
 ---
 
-### Post #1767 — me0wMe0w [Interview Experiences]
+### Post #1761 — me0wMe0w [Interview Experiences]
 
 **Date:** Mar 19, 2026 at 10:29 PM
 
@@ -16446,7 +16372,7 @@ Dạo ni rải CV mà còn méo pass round CV cho 2 yoe :v thị trường ác c
 
 ---
 
-### Post #1768 — thangdq1 [Interview Experiences]
+### Post #1762 — thangdq1 [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 5:22 PM
 
@@ -16454,7 +16380,7 @@ Nay phỏng vấn NAB cảm thấy hẻo quá nên cần xin mấy bác ít ngu�
 
 ---
 
-### Post #1769 — conchimnon1233 [Interview Experiences]
+### Post #1763 — conchimnon1233 [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 5:57 PM
 
@@ -16462,7 +16388,7 @@ bác phỏng vấn vòng nào ấy
 
 ---
 
-### Post #1770 — thangdq1 [Interview Experiences]
+### Post #1764 — thangdq1 [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 5:59 PM
 
@@ -16470,7 +16396,7 @@ vòng technical bác ơi
 
 ---
 
-### Post #1771 — kazuoken [Interview Experiences]
+### Post #1765 — kazuoken [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 7:21 PM
 
@@ -16481,7 +16407,7 @@ for iPhone
 
 ---
 
-### Post #1772 — Young_Dev_In_SG [Interview Experiences]
+### Post #1766 — Young_Dev_In_SG [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 8:04 PM
 
@@ -16489,7 +16415,7 @@ Bác chia sẻ nội dung được hỏi không á
 
 ---
 
-### Post #1773 — hu_cau [Interview Experiences]
+### Post #1767 — hu_cau [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 8:56 PM
 
@@ -16497,7 +16423,7 @@ Nay phỏng vấn live code, gặp bài mình làm rồi mà giờ code lại kh
 
 ---
 
-### Post #1774 — darkreaper2k1 [Interview Experiences]
+### Post #1768 — darkreaper2k1 [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 9:10 PM
 
@@ -16505,7 +16431,7 @@ Pv Grab là auto r1 hr interview sẽ phải có eng ạ các bác. Hay là nế
 
 ---
 
-### Post #1775 — GeniVN [Interview Experiences]
+### Post #1769 — GeniVN [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 9:23 PM
 
@@ -16513,7 +16439,7 @@ Pv Grab là auto r1 hr interview sẽ phải có eng ạ các bác. Hay là nế
 
 ---
 
-### Post #1776 — nguoi_andanh2026 [Interview Experiences]
+### Post #1770 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 20, 2026 at 9:49 PM
 
@@ -16522,7 +16448,7 @@ thảo luận - [Event BOX CNTT 2023] Chia sẻ kinh nghiệm phỏng vấn!!! (
 
 ---
 
-### Post #1777 — darkreaper2k1 [Interview Experiences]
+### Post #1771 — darkreaper2k1 [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 4:06 AM
 
@@ -16530,7 +16456,7 @@ Dạ thank bác, all rounds hay mỗi round 1 hr interview thôi ạ vậy bác
 
 ---
 
-### Post #1778 — vuot_muc_pickleball [Interview Experiences]
+### Post #1772 — vuot_muc_pickleball [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 3:22 PM
 
@@ -16538,7 +16464,7 @@ Vòng nào cũng tiếng Anh nha fen
 
 ---
 
-### Post #1779 — culi_dev [Interview Experiences]
+### Post #1773 — culi_dev [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 9:05 PM
 
@@ -16546,7 +16472,7 @@ hi anh em, sắp tới phỏng vấn tech vị trí SWE II bên Mitek Q7, anh em
 
 ---
 
-### Post #1780 — Cool Duck [Interview Experiences]
+### Post #1774 — Cool Duck [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 9:52 PM
 
@@ -16555,7 +16481,7 @@ Bị layoff từ tháng 12 năm ngoái, ra tết mới bắt đầu apply mà c�
 
 ---
 
-### Post #1781 — Diệp Vô Ưu [Interview Experiences]
+### Post #1775 — Diệp Vô Ưu [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 9:57 PM
 
@@ -16563,7 +16489,7 @@ trả lời cty thua lỗ nên cắt bớt project thôi bác
 
 ---
 
-### Post #1782 — meomao121 [Interview Experiences]
+### Post #1776 — meomao121 [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 11:13 PM
 
@@ -16571,7 +16497,7 @@ Nhưng mà sao phải trả lời là bị layoff ?
 
 ---
 
-### Post #1783 — Cool Duck [Interview Experiences]
+### Post #1777 — Cool Duck [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 11:27 PM
 
@@ -16579,7 +16505,7 @@ thím trả lời sao, mình nói công ty tái cấu trúc thì họ hỏi kĩ 
 
 ---
 
-### Post #1784 — GeniVN [Interview Experiences]
+### Post #1778 — GeniVN [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 11:36 PM
 
@@ -16587,7 +16513,7 @@ fen cứ nói là nghỉ vì cơ hội mới, ai nói gì đâu
 
 ---
 
-### Post #1785 — meomao121 [Interview Experiences]
+### Post #1779 — meomao121 [Interview Experiences]
 
 **Date:** Mar 21, 2026 at 11:37 PM
 
@@ -16595,7 +16521,7 @@ Bác bảo em vẫn đang làm, giờ đơn giản chỉ là muốn nhảy việ
 
 ---
 
-### Post #1786 — Cool Duck [Interview Experiences]
+### Post #1780 — Cool Duck [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 12:00 AM
 
@@ -16604,7 +16530,7 @@ bình thường thì đúng là nói thế này được, mà mình nghỉ 3 th�
 
 ---
 
-### Post #1787 — meomao121 [Interview Experiences]
+### Post #1781 — meomao121 [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 12:09 AM
 
@@ -16612,7 +16538,7 @@ Ví dụ bác là dev và đang làm C# .Net level senior, nhưng cty cũ theo h
 
 ---
 
-### Post #1788 — Xiao_man_tau [Interview Experiences]
+### Post #1782 — Xiao_man_tau [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 12:11 AM
 
@@ -16621,7 +16547,7 @@ Tôi đây toàn nhằm tháng 10 tháng 11 nhảy việc, bỏ 1 tháng thưở
 
 ---
 
-### Post #1789 — chienthandev [Interview Experiences]
+### Post #1783 — chienthandev [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 11:31 AM
 
@@ -16631,7 +16557,7 @@ VOZVNApp
 
 ---
 
-### Post #1790 — ongnoimbappe [Interview Experiences]
+### Post #1784 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 2:31 PM
 
@@ -16639,7 +16565,7 @@ fake cv kéo dài thêm 1-2 tháng được mà, đừng kéo lâu quá thôi.
 
 ---
 
-### Post #1791 — Hoa Đà [Interview Experiences]
+### Post #1785 — Hoa Đà [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 3:36 PM
 
@@ -16648,7 +16574,7 @@ Chuẩn bị đi pv mà bên cty họ gọi gấp quá
 
 ---
 
-### Post #1792 — ongnoimbappe [Interview Experiences]
+### Post #1786 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 6:57 PM
 
@@ -16656,7 +16582,7 @@ thường thì vừa ôn vừa rải CV chứ ai lại đi apply rồi mới ôn
 
 ---
 
-### Post #1793 — vodka_hanoi1 [Interview Experiences]
+### Post #1787 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 7:58 PM
 
@@ -16664,7 +16590,7 @@ vậy tối nay ôn đi em. Còn không thì đi pv xem họ hỏi câu gì ko t
 
 ---
 
-### Post #1794 — vodka_hanoi1 [Interview Experiences]
+### Post #1788 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 7:59 PM
 
@@ -16674,7 +16600,7 @@ vậy tối nay ôn đi em. Còn không thì đi pv xem họ hỏi câu gì ko t
 
 ---
 
-### Post #1795 — Hoa Đà [Interview Experiences]
+### Post #1789 — Hoa Đà [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 8:27 PM
 
@@ -16682,7 +16608,7 @@ Em gửi có 1 cái coi cv có đủ pass ko, ai ngờ hợp bên đó quá tố
 
 ---
 
-### Post #1796 — vodka_hanoi1 [Interview Experiences]
+### Post #1790 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 9:23 PM
 
@@ -16691,7 +16617,7 @@ Thể hiện tốt mong muốn làm chắc nó cũng có khi pass
 
 ---
 
-### Post #1797 — ongnoimbappe [Interview Experiences]
+### Post #1791 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 9:29 PM
 
@@ -16699,7 +16625,7 @@ Kkk thôi cứ đi, biết đâu pass ngon ơ thì sao
 
 ---
 
-### Post #1798 — Hoa Đà [Interview Experiences]
+### Post #1792 — Hoa Đà [Interview Experiences]
 
 **Date:** Mar 22, 2026 at 9:30 PM
 
@@ -16707,7 +16633,7 @@ Với cái kiểu lý thuyết nửa vời e sợ xấu mặt lắm a ạ, code 
 
 ---
 
-### Post #1799 — Web.Coder [Interview Experiences]
+### Post #1793 — Web.Coder [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 12:51 AM
 
@@ -16715,7 +16641,7 @@ Có gì review nha bác. Bên này contact mấy lần mà không share range l�
 
 ---
 
-### Post #1800 — binoy09 [Interview Experiences]
+### Post #1794 — binoy09 [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 7:08 AM
 
@@ -16726,7 +16652,7 @@ for iPhone
 
 ---
 
-### Post #1801 — me0wMe0w [Interview Experiences]
+### Post #1795 — me0wMe0w [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 8:36 AM
 
@@ -16734,7 +16660,7 @@ Mấy con số này là từ dự án thực tế hay pet project chứ cái upt
 
 ---
 
-### Post #1802 — long_hai_2310 [Interview Experiences]
+### Post #1796 — long_hai_2310 [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 9:07 AM
 
@@ -16751,7 +16677,7 @@ Vì leetcode thì còn có pattern để ôn
 
 ---
 
-### Post #1803 — muasao [Interview Experiences]
+### Post #1797 — muasao [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 12:53 PM
 
@@ -16762,7 +16688,7 @@ for iPhone
 
 ---
 
-### Post #1804 — Minutemen [Interview Experiences]
+### Post #1798 — Minutemen [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 1:14 PM
 
@@ -16770,7 +16696,7 @@ exp của thím lúc pv bao lâu  thế. Xong offer thế nào thím ?
 
 ---
 
-### Post #1805 — ongnoimbappe [Interview Experiences]
+### Post #1799 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 7:20 PM
 
@@ -16780,7 +16706,7 @@ Junior sóng gió quá, lương cty hiện tại có 12tr gross
 
 ---
 
-### Post #1806 — long_hai_2310 [Interview Experiences]
+### Post #1800 — long_hai_2310 [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 7:28 PM
 
@@ -16788,7 +16714,7 @@ Mình lúc đó exp 6 tháng intern ở ShopB*ck bác à. Mà rớt vòng cultur
 
 ---
 
-### Post #1807 — ongnoimbappe [Interview Experiences]
+### Post #1801 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 8:11 PM
 
@@ -16796,7 +16722,7 @@ query execution plan và đo từ lúc bắt đầu request đến response (ph�
 
 ---
 
-### Post #1808 — fkphua3 [Interview Experiences]
+### Post #1802 — fkphua3 [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 10:12 PM
 
@@ -16804,7 +16730,7 @@ Chắc có team QA test.
 
 ---
 
-### Post #1809 — sa1ntBuhai [Interview Experiences]
+### Post #1803 — sa1ntBuhai [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 10:39 PM
 
@@ -16812,7 +16738,7 @@ cho em hỏi là phỏng vấn Golang backend thì thường bị hỏi những 
 
 ---
 
-### Post #1810 — me0wMe0w [Interview Experiences]
+### Post #1804 — me0wMe0w [Interview Experiences]
 
 **Date:** Mar 23, 2026 at 11:11 PM
 
@@ -16820,7 +16746,7 @@ go routine, xử lý concurreny là chính vì golang ko có j nhiều để h�
 
 ---
 
-### Post #1811 — vodka_hanoi1 [Interview Experiences]
+### Post #1805 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Mar 24, 2026 at 1:29 AM
 
@@ -16828,7 +16754,7 @@ thì execute query thấy nó 300ms thì là đo rồi đó
 
 ---
 
-### Post #1812 — Alibabacoder [Interview Experiences]
+### Post #1806 — Alibabacoder [Interview Experiences]
 
 **Date:** Mar 24, 2026 at 10:51 PM
 
@@ -16836,7 +16762,7 @@ Các bác cho em xin review phỏng vấn technical NAB level medior với ạ
 
 ---
 
-### Post #1813 — cody_lazy [Interview Experiences]
+### Post #1807 — cody_lazy [Interview Experiences]
 
 **Date:** Mar 25, 2026 at 5:50 AM
 
@@ -16844,7 +16770,7 @@ Hóng, chbi đi check vài vòng market nên tham khảo
 
 ---
 
-### Post #1814 — pmtbkav [Interview Experiences]
+### Post #1808 — pmtbkav [Interview Experiences]
 
 **Date:** Mar 25, 2026 at 4:30 PM
 
@@ -16853,7 +16779,7 @@ Mình bị lụt 5 năm tại công ty hiện tại, cũng là cty duy nhất l�
 
 ---
 
-### Post #1815 — Duongbeosyeudoi [Interview Experiences]
+### Post #1809 — Duongbeosyeudoi [Interview Experiences]
 
 **Date:** Mar 25, 2026 at 10:41 PM
 
@@ -16861,7 +16787,7 @@ nay vừa pass T6 FE ở VSF. Các bác cho mình xin range lương tham khảo 
 
 ---
 
-### Post #1816 — meancar [Interview Experiences]
+### Post #1810 — meancar [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 12:23 AM
 
@@ -16869,7 +16795,7 @@ Em thấy embedded và C++ đang quá hẻo cho level Fr lẫn Junior, xin các 
 
 ---
 
-### Post #1817 — eddypop2000 [Interview Experiences]
+### Post #1811 — eddypop2000 [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 9:46 AM
 
@@ -16877,7 +16803,7 @@ deal min 70 net nhé bác
 
 ---
 
-### Post #1818 — biring1 [Interview Experiences]
+### Post #1812 — biring1 [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 10:14 AM
 
@@ -16885,7 +16811,7 @@ Lương VSF cao thế hả bác, không biết senior embedded ở VF thì deal 
 
 ---
 
-### Post #1819 — kazuoken [Interview Experiences]
+### Post #1813 — kazuoken [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 10:43 AM
 
@@ -16897,7 +16823,7 @@ for iPhone
 
 ---
 
-### Post #1820 — ducanh15 [Interview Experiences]
+### Post #1814 — ducanh15 [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 10:47 AM
 
@@ -16905,7 +16831,7 @@ Bác cho em hỏi quy trình pv bên này thế nào ạ
 
 ---
 
-### Post #1821 — hmmm_950 [Interview Experiences]
+### Post #1815 — hmmm_950 [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 11:16 AM
 
@@ -16913,7 +16839,7 @@ Có cách khác, đi pv rồi lấy offer mới nhất thay thế nhé.
 
 ---
 
-### Post #1822 — vodka_hanoi1 [Interview Experiences]
+### Post #1816 — vodka_hanoi1 [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 4:35 PM
 
@@ -16921,7 +16847,7 @@ qualgo là product hay outsource v bác
 
 ---
 
-### Post #1823 — caothuphu2013 [Interview Experiences]
+### Post #1817 — caothuphu2013 [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 7:51 PM
 
@@ -16929,7 +16855,7 @@ T6 là senior à? có 70 sao trả k nỗi cha
 
 ---
 
-### Post #1824 — kazuoken [Interview Experiences]
+### Post #1818 — kazuoken [Interview Experiences]
 
 **Date:** Mar 26, 2026 at 10:43 PM
 
@@ -16940,7 +16866,7 @@ for iPhone
 
 ---
 
-### Post #1825 — talavuavoz113 [Interview Experiences]
+### Post #1819 — talavuavoz113 [Interview Experiences]
 
 **Date:** Mar 27, 2026 at 1:16 PM
 
@@ -16948,7 +16874,7 @@ Có bác nào phỏng vấn Junior Java bên YouM*d bao giờ chưa ạ. Cho em 
 
 ---
 
-### Post #1826 — Thien Thanh [Interview Experiences]
+### Post #1820 — Thien Thanh [Interview Experiences]
 
 **Date:** Mar 27, 2026 at 2:02 PM
 
@@ -16956,7 +16882,7 @@ mấy bác cho em hỏi apply C++ nhưng giải leetcode = python thì có đư�
 
 ---
 
-### Post #1827 — Ối Dồi Ôi ! [Interview Experiences]
+### Post #1821 — Ối Dồi Ôi ! [Interview Experiences]
 
 **Date:** Mar 27, 2026 at 2:46 PM
 
@@ -16964,7 +16890,7 @@ Thời buổi ghế ít đít nhiều này các cty có chấp nhận đợi mì
 
 ---
 
-### Post #1828 — ongnoimbappe [Interview Experiences]
+### Post #1822 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 27, 2026 at 10:58 PM
 
@@ -16972,7 +16898,7 @@ Thời buổi ghế ít đít nhiều này các cty có chấp nhận đợi mì
 
 ---
 
-### Post #1829 — darkreaper2k1 [Interview Experiences]
+### Post #1823 — darkreaper2k1 [Interview Experiences]
 
 **Date:** Mar 28, 2026 at 3:55 PM
 
@@ -16980,7 +16906,7 @@ Mấy ae vozer pv Grab đã bao giờ culture fit ngay round 1 sau round HR inte
 
 ---
 
-### Post #1830 — nguoi_andanh2026 [Interview Experiences]
+### Post #1824 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Mar 28, 2026 at 6:42 PM
 
@@ -16988,7 +16914,7 @@ vcl pvan hay quá pass luôn technical ah fen
 
 ---
 
-### Post #1831 — darkreaper2k1 [Interview Experiences]
+### Post #1825 — darkreaper2k1 [Interview Experiences]
 
 **Date:** Mar 28, 2026 at 6:54 PM
 
@@ -16996,7 +16922,7 @@ Không bác ơi, bên role em thấy sau round culture fit mới đến technica
 
 ---
 
-### Post #1832 — ongnoimbappe [Interview Experiences]
+### Post #1826 — ongnoimbappe [Interview Experiences]
 
 **Date:** Mar 29, 2026 at 2:52 PM
 
@@ -17004,7 +16930,7 @@ bác có lịch chưa, hóng bác review lại
 
 ---
 
-### Post #1833 — chienthandev [Interview Experiences]
+### Post #1827 — chienthandev [Interview Experiences]
 
 **Date:** Mar 29, 2026 at 7:49 PM
 
@@ -17014,7 +16940,7 @@ VOZVNApp
 
 ---
 
-### Post #1834 — Dustin315 [Interview Experiences]
+### Post #1828 — Dustin315 [Interview Experiences]
 
 **Date:** Mar 30, 2026 at 8:45 AM
 
@@ -17022,7 +16948,7 @@ cty về crypto của Sing đk bác
 
 ---
 
-### Post #1835 — kaffeehsk [Interview Experiences]
+### Post #1829 — kaffeehsk [Interview Experiences]
 
 **Date:** Mar 30, 2026 at 10:22 AM
 
@@ -17030,7 +16956,7 @@ Có bác nào phỏng vấn vpbank vị trí quản trị rủi ro danh mục da
 
 ---
 
-### Post #1836 — chienthandev [Interview Experiences]
+### Post #1830 — chienthandev [Interview Experiences]
 
 **Date:** Mar 30, 2026 at 10:35 AM
 
@@ -17040,7 +16966,7 @@ VOZVNApp
 
 ---
 
-### Post #1837 — Dustin315 [Interview Experiences]
+### Post #1831 — Dustin315 [Interview Experiences]
 
 **Date:** Mar 30, 2026 at 2:53 PM
 
@@ -17048,7 +16974,7 @@ có đợt mình đc headhunt trên linkedin nhắn apply cho bên này, làm v�
 
 ---
 
-### Post #1838 — Dustin315 [Interview Experiences]
+### Post #1832 — Dustin315 [Interview Experiences]
 
 **Date:** Mar 30, 2026 at 2:53 PM
 
@@ -17056,7 +16982,7 @@ mình lười quá kh làm nên skip luôn
 
 ---
 
-### Post #1839 — chienthandev [Interview Experiences]
+### Post #1833 — chienthandev [Interview Experiences]
 
 **Date:** Mar 30, 2026 at 3:59 PM
 
@@ -17066,7 +16992,7 @@ VOZVNApp
 
 ---
 
-### Post #1840 — athxzz [Interview Experiences]
+### Post #1834 — athxzz [Interview Experiences]
 
 **Date:** Mar 31, 2026 at 4:12 PM
 
@@ -17074,7 +17000,7 @@ có bác nào phỏng vấn android bên epos vietnam chưa? cho em hỏi phỏn
 
 ---
 
-### Post #1841 — nguoi_andanh2026 [Interview Experiences]
+### Post #1835 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Apr 1, 2026 at 9:54 AM
 
@@ -17082,7 +17008,7 @@ team mình ở xe ôm xanh lá đang cần tìm TL + SWE Manager, anh em nào c�
 
 ---
 
-### Post #1842 — darkreaper2k1 [Interview Experiences]
+### Post #1836 — darkreaper2k1 [Interview Experiences]
 
 **Date:** Apr 1, 2026 at 3:09 PM
 
@@ -17090,7 +17016,7 @@ Bên xe ôm xanh lá  cty bác không biết G3 có deal được đến 6x gros
 
 ---
 
-### Post #1843 — nguoi_andanh2026 [Interview Experiences]
+### Post #1837 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Apr 1, 2026 at 4:00 PM
 
@@ -17099,7 +17025,7 @@ k được fen ơi, 6x là bằng senior nhiều cty nc ngoài r
 
 ---
 
-### Post #1844 — darkreaper2k1 [Interview Experiences]
+### Post #1838 — darkreaper2k1 [Interview Experiences]
 
 **Date:** Apr 1, 2026 at 4:51 PM
 
@@ -17107,7 +17033,7 @@ Giữa 5x thì được không ạ bác
 
 ---
 
-### Post #1845 — nguoi_andanh2026 [Interview Experiences]
+### Post #1839 — nguoi_andanh2026 [Interview Experiences]
 
 **Date:** Apr 1, 2026 at 5:18 PM
 
@@ -17115,7 +17041,7 @@ có thể, fen pvan tốt + có base lương/offer khác gần đó thì oke. Ma
 
 ---
 
-### Post #1846 — recca2007 [Interview Experiences]
+### Post #1840 — recca2007 [Interview Experiences]
 
 **Date:** Apr 2, 2026 at 2:57 PM
 
@@ -17123,7 +17049,7 @@ Cho hỏi có fen nào làm ở VSF có cần CV ref không cho mình xin ké v�
 
 ---
 
-### Post #1847 — Ối Dồi Ôi ! [Interview Experiences]
+### Post #1841 — Ối Dồi Ôi ! [Interview Experiences]
 
 **Date:** Apr 2, 2026 at 3:38 PM
 
@@ -17132,7 +17058,7 @@ Hồi cuối với đầu năm hr rồi headhunt spam khắp cái fb
 
 ---
 
-### Post #1848 — talavuavoz113 [Interview Experiences]
+### Post #1842 — talavuavoz113 [Interview Experiences]
 
 **Date:** Apr 2, 2026 at 7:25 PM
 
@@ -17140,7 +17066,7 @@ Em thấy ZaloPay có tuyển SWE 2y+. Có bác nào nhận refer không ạ
 
 ---
 
-### Post #1849 — ZenSky1807 [Interview Experiences]
+### Post #1843 — ZenSky1807 [Interview Experiences]
 
 **Date:** Apr 3, 2026 at 9:59 AM
 
@@ -17148,7 +17074,7 @@ Vẫn thấy đăng tuyền ầm ầm đây fen
 
 ---
 
-### Post #1850 — Ối Dồi Ôi ! [Interview Experiences]
+### Post #1844 — Ối Dồi Ôi ! [Interview Experiences]
 
 **Date:** Apr 3, 2026 at 10:04 AM
 
@@ -17156,7 +17082,7 @@ Vẫn thấy đăng tuyền ầm ầm đây fen
 
 ---
 
-### Post #1851 — jiiren [Interview Experiences]
+### Post #1845 — jiiren [Interview Experiences]
 
 **Date:** Apr 4, 2026 at 5:23 PM
 
@@ -17166,7 +17092,7 @@ Cho em xin review về process với
 
 ---
 
-### Post #1852 — CyanRiah [Interview Experiences]
+### Post #1846 — CyanRiah [Interview Experiences]
 
 **Date:** Apr 6, 2026 at 4:09 PM
 
@@ -17174,11 +17100,3988 @@ Lúc pv là bác bao nhiêu năm exp thế ạ
 
 ---
 
-### Post #1853 — tgkien2610 [Interview Experiences]
+### Post #1847 — tgkien2610 [Interview Experiences]
 
 **Date:** Apr 6, 2026 at 4:51 PM
 
 Bên andpad này yêu cầu phải có bằng ĐH trường top thì phải
+
+---
+
+### Post #1848 — nchhnchh [Interview Experiences]
+
+**Date:** Apr 6, 2026 at 4:54 PM
+
+Bên đó level cũng chia như Sing à bác?
+
+---
+
+### Post #1849 — tgkien2610 [Interview Experiences]
+
+**Date:** Apr 6, 2026 at 4:56 PM
+
+Thím có hỏi sao tạch ở R3 ko? Mình cũng đến R3 tạch mà ko hiểu vì sao
+
+---
+
+### Post #1850 — jiiren [Interview Experiences]
+
+**Date:** Apr 6, 2026 at 5:00 PM
+
+Sao dạo này Binance đăng tuyển nhiều thế mấy thím, mà em nộp CV lâu quá r không thấy phản hồi
+Có thím nào ref giúp em CV vào binance với
+
+---
+
+### Post #1851 — ZenSky1807 [Interview Experiences]
+
+**Date:** Apr 6, 2026 at 5:30 PM
+
+bác có phải pv vs client nữa không
+
+---
+
+### Post #1852 — troioidaucatmoi [Interview Experiences]
+
+**Date:** Apr 6, 2026 at 5:31 PM
+
+Mấy bác pvan culture fit thì thường sau mấy hôm sẽ có kqua
+
+---
+
+### Post #1853 — ZenSky1807 [Interview Experiences]
+
+**Date:** Apr 6, 2026 at 7:46 PM
+
+bên đó hỏi sâu không bác, với lại là có cần English fluent hẳn ko ạ
+
+---
+
+### Post #1854 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 6, 2026 at 7:56 PM
+
+fen cứ assume là cty nước ngoài nào thì tiếng Anh cũng là điều kiện cần đi
+sâu thì mình thấy k sâu, vừa đủ
+
+---
+
+### Post #1855 — Dev xịn [Interview Experiences]
+
+**Date:** Apr 7, 2026 at 10:52 AM
+
+Các thím cho hỏi N đỏ mid FE đang process thì HR kêu hết demand, bảo đợi thì khoảng bao lâu mở thêm nhỉ
+
+---
+
+### Post #1856 — auauau97 [Interview Experiences]
+
+**Date:** Apr 7, 2026 at 11:22 AM
+
+Các bác cho em hỏi ai từng làm ở NEC chưa cho em xin review ạ
+
+---
+
+### Post #1857 — chienthandev [Interview Experiences]
+
+**Date:** Apr 7, 2026 at 1:37 PM
+
+Thấy Ant international đang tuyển lại nhiều, mà bên này hỏi design system rắt lắm hả các bác?
+Gửi từ samsung SM-A256E bằng
+VOZVNApp
+
+---
+
+### Post #1858 — recca2007 [Interview Experiences]
+
+**Date:** Apr 7, 2026 at 2:00 PM
+
+fen có đang PV đợt này không?
+
+---
+
+### Post #1859 — chienthandev [Interview Experiences]
+
+**Date:** Apr 7, 2026 at 4:48 PM
+
+Chưa nữa, headhunt có nhắn mà tui chưa gửi CV, thấy đấm system design quá nên cũng hơi rén. Fen đi chưa?
+Gửi từ samsung SM-A256E bằng
+VOZVNApp
+
+---
+
+### Post #1860 — recca2007 [Interview Experiences]
+
+**Date:** Apr 7, 2026 at 4:51 PM
+
+mình làm assignment rồi, đã submit mà ko thấy phản hồi. Ko biết kết quả như nào.
+
+---
+
+### Post #1861 — chienthandev [Interview Experiences]
+
+**Date:** Apr 7, 2026 at 6:16 PM
+
+Dạo này thấy đang tuyển nhiều, nên chắc hơi lâu, headhunt nhắn hối tôi, chắc tui cũng nộp luôn
+Gửi từ samsung SM-A256E bằng
+VOZVNApp
+
+---
+
+### Post #1862 — hoangday113 [Interview Experiences]
+
+**Date:** Apr 8, 2026 at 8:57 AM
+
+Các fen cho hỏi là pvan VSF bình thường bao lâu sẽ có kqua vậy ạ.
+Mình pvan xong xuôi từ T5 tuần trước
+
+---
+
+### Post #1863 — cool-girl [Interview Experiences]
+
+**Date:** Apr 8, 2026 at 9:05 AM
+
+Tôi sáng pv chiều tối có kq
+
+---
+
+### Post #1864 — ducanh15 [Interview Experiences]
+
+**Date:** Apr 8, 2026 at 11:17 AM
+
+Interviewer bên này đấm đau không bác ơi, chia sẻ chút cho em với.
+
+---
+
+### Post #1865 — phongdev25 [Interview Experiences]
+
+**Date:** Apr 8, 2026 at 11:24 AM
+
+k biết bác pv vị trí nào, chứ em pv vị trí IT mes ở vinfast, cũng là VSF mà nó giục pv từng ngày, pv xong im thít k thấy hồi âm gì. Lúc apply thì đủ loại mail, pv xong thì chả thấy mail gì nữa @@
+
+---
+
+### Post #1866 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 8, 2026 at 11:31 AM
+
+trung bìbh mấy cty vn ko lạ lắm cần họ ms hối chứ k cần auto ghost
+
+---
+
+### Post #1867 — ZenSky1807 [Interview Experiences]
+
+**Date:** Apr 8, 2026 at 11:36 AM
+
+e mới nộp CV hôm kia, còn chưa thấy process gì
+
+---
+
+### Post #1868 — phongdev25 [Interview Experiences]
+
+**Date:** Apr 8, 2026 at 11:39 AM
+
+lúc mình nộp cv giục pv từng ngày một, sau im bặt. May mà tư tưởng pv chơi chơi thôi chứ k dứt ra đi.
+thiếu họ mới gọi, khéo còn trôi cả mail rồi ấy chứ
+
+---
+
+### Post #1869 — Nnamhd [Interview Experiences]
+
+**Date:** Apr 8, 2026 at 11:13 PM
+
+Có bác nào ở đây đã từng làm GPbank hay có người quen làm ở GPBank chưa cho em hỏi thăm về môi trường làm việc bên này với
+Thấy bên này giờ do VPBank nắm rồi và người phỏng vấn cũng là VPBank luôn
+
+---
+
+### Post #1870 — jiiren [Interview Experiences]
+
+**Date:** Apr 9, 2026 at 7:19 PM
+
+Có bác nào ở đây đã phỏng vấn bên Momos chưa ạ?
+Cho em xin review về process ở bên này với
+
+---
+
+### Post #1871 — nguyenbee12 [Interview Experiences]
+
+**Date:** Apr 11, 2026 at 1:40 AM
+
+fen pvan VSF ở team nào ạ?
+
+---
+
+### Post #1872 — Jason.Nguyen0112 [Interview Experiences]
+
+**Date:** Apr 11, 2026 at 9:19 PM
+
+Em vừa được offer bên VietCredit 3x gross. Các bác review giúp em môi trường làm việc và dự án các thứ với ạ
+
+---
+
+### Post #1873 — quangpro1201 [Interview Experiences]
+
+**Date:** Apr 11, 2026 at 10:28 PM
+
+bác có thể chia sẻ thêm về quá trình phỏng vấn. và họ hỏi những gì được không aj
+
+---
+
+### Post #1874 — talavuavoz113 [Interview Experiences]
+
+**Date:** Apr 12, 2026 at 12:48 AM
+
+Bác apply level nào thế
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1875 — Jason.Nguyen0112 [Interview Experiences]
+
+**Date:** Apr 12, 2026 at 7:12 AM
+
+Cũng hỏi các kinh nghiệm liên quan, cách xủ lý tình huống thoi
+Mình apply role IT PM, level chắc là middle - senior
+
+---
+
+### Post #1876 — Nnamhd [Interview Experiences]
+
+**Date:** Apr 12, 2026 at 11:54 AM
+
+Hr hôm qua vừa đăng tuyển BE java 7 yoe kinh nghiệm bank nhé
+
+---
+
+### Post #1877 — daydreamer95 [Interview Experiences]
+
+**Date:** Apr 12, 2026 at 3:26 PM
+
+Anh em ai phỏng vấn NVIDIA hay GVRT chưa mình xin review, đa tạ
+
+---
+
+### Post #1878 — chienthandev [Interview Experiences]
+
+**Date:** Apr 13, 2026 at 10:30 AM
+
+Có bác nào có thông tin bên MSM không mọi người, em thấy cũng hay săn dev
+Gửi từ samsung SM-A256E bằng
+VOZVNApp
+
+---
+
+### Post #1879 — Diệp Vô Ưu [Interview Experiences]
+
+**Date:** Apr 13, 2026 at 3:33 PM
+
+Senior FE thì thường hỏi gì vậy mấy fen
+
+---
+
+### Post #1880 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 13, 2026 at 8:59 PM
+
+Hello, momo có đòi payslip không mấy bác
+
+---
+
+### Post #1881 — HanphongGenZ [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 12:13 PM
+
+Các bác cho e hỏi mấy cty thuê người về cho đi onsite ngân hàng các kiểu, thường sẽ có vòng pv đầu sàng lọc ứng viên thì hay hỏi gì nhỉ. Nghe bảo ko hay hỏi tech mà xem kiểu cách nói chuyện các thứ
+Các bác cho e xin tý kinh nghiệm để pass vòng này với
+
+---
+
+### Post #1882 — muasao [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 12:57 PM
+
+match với jd là auto pass, hỏi thêm để kiểm tra thông tin trước khi gửi qua client thôi
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1883 — biring1 [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 2:46 PM
+
+làm bài test trên hackerank của Naver thì sau bao lâu có kết quả nếu pass thế mấy thím.
+
+---
+
+### Post #1884 — Alibabacoder [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 2:52 PM
+
+tối làm là sáng mai báo kết quả rồi
+
+---
+
+### Post #1885 — biring1 [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 3:03 PM
+
+báo email hay có người gọi thế thím, mình làm thứ 7 tuần trước nhưng tới giờ chưa thấy gì.
+
+---
+
+### Post #1886 — Bruno Mars. [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 3:27 PM
+
+Làm full không? Nếu full thì sẽ được contact nhanh thôi
+
+---
+
+### Post #1887 — Alibabacoder [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 3:51 PM
+
+Vậy đợi đi thím ,thím apply BE hay FE á
+
+---
+
+### Post #1888 — biring1 [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 4:16 PM
+
+mình apply BE thím (Windows Engineer), thấy có mỗi job này là dùng C++ nên mình mới nộp.
+
+---
+
+### Post #1889 — luiz [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 4:42 PM
+
+Thím apply job HN hay SG đó, HN lâu r k thấy tuyển BE nhỉ, SG thấy tuyển sột @@
+
+---
+
+### Post #1890 — Alibabacoder [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 5:15 PM
+
+em phỏng vấn BE Kotlin mà 4d rồi chưa có kết quả nữa nè k biết đậu hay tạch mà lâu v chắc là tạch r
+
+---
+
+### Post #1891 — Alibabacoder [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 6:00 PM
+
+mới round 1 à
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1892 — Bruno Mars. [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 6:05 PM
+
+5d làm việc thì nt hỏi nhé, ko phải tạch đâu
+
+---
+
+### Post #1893 — HanphongGenZ [Interview Experiences]
+
+**Date:** Apr 14, 2026 at 11:31 PM
+
+Bác có kinh nghiệm bên CMC rồi ak ? review hộ e phát
+Đang có 3 chỗ đều kiểu onsite ngân hàng, ko biết sao nhiều thế hay mọi khi cũng thế nhỉ
+
+---
+
+### Post #1894 — fkphua3 [Interview Experiences]
+
+**Date:** Apr 15, 2026 at 8:52 AM
+
+Quận 1 hay quận 7. Quận 1 VP
+làm quận mấy, q1 vpbank, q7 vikkibank, q3 hình như hd
+
+---
+
+### Post #1895 — alpha_coder [Interview Experiences]
+
+**Date:** Apr 15, 2026 at 10:23 AM
+
+Thím nào cần refer Frontend N*ver HN thì inb nhé
+
+---
+
+### Post #1896 — Alibabacoder [Interview Experiences]
+
+**Date:** Apr 15, 2026 at 10:41 AM
+
+Dạ vâng em cảm ơn anh ạ
+
+---
+
+### Post #1897 — TsubasaHonda [Interview Experiences]
+
+**Date:** Apr 15, 2026 at 11:36 AM
+
+Fresher front end ở SG giờ chỗ nào cần mấy thím ơi
+
+---
+
+### Post #1898 — tgkien2610 [Interview Experiences]
+
+**Date:** Apr 15, 2026 at 8:03 PM
+
+Thím nào có kinh nghiệm phỏng vấn android ở ingenico không mình xin với
+
+---
+
+### Post #1899 — hoangbon [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 11:46 AM
+
+Test hackerank thì tầm 1,2 ngày gì đậu là có email, còn round pv tech thì có thể lâu hơn 1 tý, thím có thông tin gì chưa?
+
+---
+
+### Post #1900 — biring1 [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 12:02 PM
+
+Chưa thím, chắc tạch rồi
+
+---
+
+### Post #1901 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 12:28 PM
+
+Bác chủ động liên hệ Hr hỏi xem sao
+
+---
+
+### Post #1902 — biring1 [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 12:29 PM
+
+Nhắn tin HR của Naver hỏi hả thím, chứ mấy mail từ đâu tới giờ toàn là email của hệ thống.
+
+---
+
+### Post #1903 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 12:38 PM
+
+Lúc apply bác apply qua web naver luôn hả, nếu vậy thì hơi khó á bác. Mà bác cứ thử tìm bạn nào Hr bên đó hỏi xem sao, linkedin ấy
+
+---
+
+### Post #1904 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 12:57 PM
+
+hỏi làm gì cần sẽ contact im ỉm tự bt đg apply chỗ khác thôi
+
+---
+
+### Post #1905 — biring1 [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 1:19 PM
+
+Thật ra mình apply đi pv cho vui thôi chứ chỗ hiện tại cũng đang ổn
+
+---
+
+### Post #1906 — Bruno Mars. [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 1:38 PM
+
+HR naver TA có 2 ng 1 nam nữ, nếu b tìm ko ra thì có thể inbox mình gửi cho
+
+---
+
+### Post #1907 — hoangbon [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 4:10 PM
+
+Vậy thôi kệ đi thím
+Chà tiếc vậy, vòng Tech khó nhất thím pass rồi thì thường culture sẽ qua trừ khi lệch sóng quá thôi chứ đợt mình sếp ng Hàn pv cũng thoải mái
+
+---
+
+### Post #1908 — Duke@@@ [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 5:27 PM
+
+mấy cái test mang về nhà có được tra AI ko các bác, bên kia ko trả lời gì
+, có mấy cái chưa đụng bao giờ
+
+---
+
+### Post #1909 — recca2007 [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 5:33 PM
+
+Tra thì chắc đc nhưng lúc pv có pass đc ko vấn đề
+
+---
+
+### Post #1910 — recca2007 [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 5:34 PM
+
+Tới round 3 mà còn tạch nữa, tiếc quá fen. Mà hình như N* đòi payslip tăng max 20% phải ko fen?
+
+---
+
+### Post #1911 — biring1 [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 6:34 PM
+
+Cảm ơn thím nhưng mình apply để thử dức thôi nên không được cũng không sao
+
+---
+
+### Post #1912 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 8:09 PM
+
+show offer rồi +20% nghĩa là ai base đang thấp thì không nên qua à
+kk
+Thấy open cả junior nhưng có chỗ junior cũng thấp thì +3tr +4tr à
+
+---
+
+### Post #1913 — luiz [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 8:30 PM
+
+Max 20% thì k đáng để ngta đánh đổi chỗ đang làm ổn định, thân quen sang chỗ mới. Thím nào thất nghiệp, sắp bị layoff hoặc bất mãn cty cũ thì nên apply
+Hoặc đi pv lấy offer về deal lại với sếp, chắc cũng lên đc 10-15% @@
+
+---
+
+### Post #1914 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 9:02 PM
+
+show mà base thấp thì auto skip thôi hope gì nữa
+
+---
+
+### Post #1915 — Thai-Tu-Shang [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 9:34 PM
+
+Trước mình có viết cả một seri về đi phỏng vấn thời sinh viên của mình
+" CNTT những lần pv đáng nhớ"
+Thực ra với mình, trong cuộc đời hơn 12 năm đi làm trải qua vô vàn các cuộc phỏng vấn, vì mình tính trung bình cứ 2 năm mình sẽ đổi công ty một lần.
+Trộm vía thì hầu như lần nào mình target đổi công ty thì đều apply thành công hết (trừ lúc mới ra trường thì phế quá ko nói )
+Mình chia sẻ thêm một chút kinh nghiệm của mình cho các bạn, trong công cuộc đi pv:
+I. Chiến lược phỏng vấn
+Mình luôn đề ra một chiến lược phỏng vấn rõ ràng cho các lần chuẩn bị tìm kiếm cơ hội. Thường nó sẽ có một số bước sau:
+B1: Chuẩn bị Cv theo JD và phong cách của cty định apply.
+Nhiều bạn có thói quen 1 CV spam all nhiều nơi, cách đó đúng với những năm 2015 2017 khi mà CNTT bùng nổ, nhân lực thiếu thốn. Còn hiện tại thì mình cần chú ý xem cty đó thuộc lĩnh vực gì, mình có kinh nghiệm gì trong mảng đó, JD yêu cầu những gì.. từ đó đưa ra một bản CV gây được ấn tượng nhất với nhà tuyển dụng.
+B2. Tiếp cận phỏng vấn:
+Thường mình sẽ ranking các cty mình phỏng vấn theo tiêu chí đánh giá là phù hợp với kinh nghiệm bản thân, offer có thể trả và quy mô của cty. Việc đánh dấu này giúp bạn có một chiến lược đi phỏng vấn phù hợp cho giai đoạn sau. Tùy vào từng giai đoạn thì tiêu chí offer và quy mô cty ( mức độ học hỏi) được hoán đổi cho nhau. Lúc mới ra trường mình đặt học hỏi lên hơn offer và khi có kinh nghiệm thì ngược lại.
+B3. Xếp lịch phỏng vấn.
+Sau khi ranking xong các công ty mình apply, thì mình sẽ tiến hành sắp xếp theo độ ưu tiên sau:
+Cty type B -> S -> A
+Lý do: Sau một khoảng thời gian không đi pv, bạn cần có một số cty "không thực sự muốn lắm" vào danh sách pv để có 2 giá trị sau: khởi động lại đống kiến thức ngủ quên và thực sự bắt nhịp lại với guồng quay phỏng vấn và trả lời câu hỏi.
+Một lý do nữa là nếu như bạn pass được các cty này trước khi pv các cty type S, thì bạn sẽ có lợi thế về mặt tinh thần rất lớn.
+Tiếp tới tất nhiên sẽ là chinh phục các cty type S và cuối cùng là các cty type A.
+Với cách này, mình đã pass 4/5 công ty trong 1 đợt phỏng vấn (cty cuối thuộc type A mà mình bỏ qua vì có offer của cty type S và có quá nhiều vòng pv)
+II. Làm gì sau khi phỏng vấn xong
+Mình không biết các bạn như thế nào, nhưng với mình tâm thế mỗi lần đi pv sẽ là một lần học hỏi kinh nghiệm và trau dồi thêm kiến thức. Vì thế sau khi buổi phỏng vấn kết thúc, mình thường có 2 thói quen sau:
+1. Gửi thư cảm ơn sau pv: Đây sẽ là điểm cộng với nhà tuyển dụng, thể hiện sự chuyên nghiệp và khác biệt so với những ứng viên khác, nhất là những tập đoàn lớn. Bởi vì suy cho cùng, thì tuyển dụng ngoài việc tuyển những bạn giỏi, thì còn cần các bạn biết ứng xử một chút.
+2. Giữ kết nối với Hr hoặc Headhunt: Mình hay tìm việc qua linkedin, vì thế mà mình sẽ có thói quen nhắn tin vs Hr, hoặc có thể order tặng các bạn một ly nước gọi là cảm ơn. Từ đó bạn có thể có thêm các cơ hội cho những lần open job tiếp theo nếu chẳng may không pass phỏng vấn. Mình từng được gọi và được Hr giúp đỡ rất nhiều với mẹo này.
+Trên đây là những kinh nghiệm của "mở bài" và "kết bài" khi phỏng vấn, còn một số điều nữa trong cuộc phỏng vấn thì mình sẽ chia sẻ sau nếu như có thời gian
+
+---
+
+### Post #1916 — vozerlaunamitreact [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 9:53 PM
+
+Tầm này junior mà 20tr thì tôi k nghĩ là thấp.
+Với 1 số case nếu hr tử tế thì khi thấy payslip bác thấp quá thì có thể đẩy lên để offer trong range của họ.
+Còn nếu như thấy offer không như kỳ vọng thì tiếp tục đi kiếm cty khác thôi.
+
+---
+
+### Post #1917 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 10:16 PM
+
+hn thì mức đó vs jun là cao
+
+---
+
+### Post #1918 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 11:03 PM
+
+Móa tụi c*v*r g* tuyển người khó thật (hoặc do tôi gà)
+tạch ngay vòng đầu call với HR:
+trả lời được bằng engrisk với HR (tiếng anh của tôi accent Vietnamese nhưng chưa bao giờ tạch vòng check engrisk)
+xong sau đó HR vứt 3 bài test dạng google form nhìn code như kiểu văn bản
+do không có format rõ ràng, rồi bắt share màn hình để tụi HR check xem có dùng AI không. Ba bài này tôi đánh giá là đơn giản cỡ mấy ông fresher cũng làm được éo hiểu sao đi check làm gì, nội dung gồm:
+1. Cho hai biến A và B, biến A sử dụng primitive thì rõ ràng phải dùng ref nó mới sửa được giá trị, biến B thì là object (reference value) cho phép thay đổi giá trị bằng tham số
+2. Sử dụng finally trong try catch thì cái này chắc ai cũng biết rồi
+3. Một cái lambda expression có sử dụng arrow, gọi hàm đó ra trả về giá trị trong cái return
+Tôi không biết mình failed chỗ nào (HR tận sau 3 ngày mới rep mail reject) tính hỏi nguyên rõ nguyên nhân tạch mà chán
+À trước đấy tôi nộp applicant 1 lần trên linkedin rồi mà bị reject, bẵng đi 2 tháng thì HR bên đó mới hỏi lại có pv không
+
+---
+
+### Post #1919 — vozerlaunamitreact [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 11:16 PM
+
+Có khi là hr đưa CV lên hiring manager thì manager thấy không match nên reject chăng?
+
+---
+
+### Post #1920 — tgkien2610 [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 11:20 PM
+
+Mình cũng tạch ở round culture ở naver nên nhiều khi cũng khó hiểu không hiểu họ muốn tuyển thật không hay chỉ thăm dò. Vì bản thân cuộc phỏng vấn đó cũng nhẹ nhàng, chỉ hỏi về lý do nghỉ việc, cách làm việc với các project gần đây, tại sao muốn vào cty...
+
+---
+
+### Post #1921 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 11:23 PM
+
+cái này cũng chịu
+nhưng mà skill chính là microservice và no sql nghe cũng matching (tôi làm nhiều couchbase và cosmos DB còn quý cty dùng mongo DB) cơ mà tôi  chưa làm angular bao giờ bên  đó lại muốn full snack
+Cái này tôi cũng nói rõ với HR rồi và accept  ứng viên nặng Backend hơn, nếu cần làm js thì vibe code
+
+---
+
+### Post #1922 — buonlixi001 [Interview Experiences]
+
+**Date:** Apr 16, 2026 at 11:48 PM
+
+H ghế ít đít nhiều, pv tốt nhưng có 10 thằng cũng tốt như vậy, chọn thằng background đẹp nhất. Cứ thoải mái tinh thần đi pv tiếp thoi
+
+---
+
+### Post #1923 — jiiren [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 1:02 AM
+
+Phỏng vấn với East Agile khó không mấy thím
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1924 — jiiren [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 1:09 AM
+
+bên đây phần FE bị mấy ông fullsnack quấy nát bấy, cũng do đặc điểm tuyển fullstack mà không care phần FE
+mà cũng chịu th, định hướng công ty ko quan trọng phần đó.
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1925 — Kotlin [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 8:29 AM
+
+Để bác khỏi lăn tăn thì mình confirm là họ đang cần tuyển thật, mình có đọc vài post trước của bạn thì có lẽ mình và bạn apply 1 vị trí giống nhau, mình chỉ mới nhận được offer letter khoảng 1 tuần trước. Vòng culture fit theo mình họ muốn tìm một người dễ làm việc chung, dĩ hoà vi quý, không phải tìm 1 người có cá tính. Mình nghĩ vậy vì đã từng làm việc nhiều với người Hàn và hiểu cái tính này của họ.
+
+---
+
+### Post #1926 — Kotlin [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 8:32 AM
+
+Về mức lương ở Naver, theo mình thấy HR khá ép lương, có lẽ tính chất công việc cũng không quá critical. Tuy nhiên về benefit thì thấy khá tốt, process nhanh, sẽ có 1 bài review quá trình phỏng vấn 2 tháng nay để trả ơn ae voz
+
+---
+
+### Post #1927 — tgkien2610 [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 9:24 AM
+
+Thím cũng pv Android ở HN à? Deal được bao nhiêu vậy thím? Nếu ko tiện thì hộp cho mình đc k
+
+---
+
+### Post #1928 — hoangbon [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 11:31 AM
+
+Case của mình là có tuyển thật ấy thím, có lẽ thím trả lời không có keyword họ cần tìm chăng, mấy câu hỏi của thím mình cũng bị hỏi, cả cách giải quyết conflict nữa, mình nghĩ trọng tâm là cái này.
+Thôi để vài tháng nữa apply lại thím
+Thím apply kotlin à? Level gì thế thím?
+Mình thì k bị ép lương nhưng  chắc do deal thấp quá
+Nhưng không biết môi trường thực tế làm việc thế nào
+
+---
+
+### Post #1929 — dang_le_1905 [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 1:51 PM
+
+Dễ bác à. Chủ yếu vòng pair programming code API thì hơi căng chứ lí thuyết hỏi đơn giản, nhẹ nhàng
+
+---
+
+### Post #1930 — jiiren [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 2:40 PM
+
+Cảm ơn thím nhiều
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1931 — khanhquang [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 3:05 PM
+
+nếu các meesage đó trong cùng 1 partition thì sao bác, vì cùng partition nó sẽ block đám còn lại
+
+---
+
+### Post #1932 — biring1 [Interview Experiences]
+
+**Date:** Apr 17, 2026 at 9:04 PM
+
+được max 30% không thím
+
+---
+
+### Post #1933 — recca2007 [Interview Experiences]
+
+**Date:** Apr 18, 2026 at 11:02 AM
+
+Khi mà HR nói max 30% thì theo mình cứ chia nửa con số. Trừ trường hợp cty quá cần người, hoặc ứng viên là giỏi đặc biệt. Ý kiến cá nhân của mình thôi
+
+---
+
+### Post #1934 — biring1 [Interview Experiences]
+
+**Date:** Apr 18, 2026 at 11:48 AM
+
+mình nói thế vì nghe nói Naver có rule không offer hơn quá 30% hiện tại thôi thím
+
+---
+
+### Post #1935 — harry.tran.2211 [Interview Experiences]
+
+**Date:** Apr 18, 2026 at 1:16 PM
+
+Cho mình hỏi bác apply role gì và lúc pv được hỏi những câu nào ạ
+
+---
+
+### Post #1936 — Kotlin [Interview Experiences]
+
+**Date:** Apr 18, 2026 at 5:27 PM
+
+Đúng rồi thím, android HCM nhưng họ muốn mình ra HN làm
+
+---
+
+### Post #1937 — Kotlin [Interview Experiences]
+
+**Date:** Apr 18, 2026 at 5:30 PM
+
+30% ở đây là mức trần chứ ko phải mức fix nha bác, case mình thì ko, ép lương lắm. Cảm giác phỏng vấn khắp thì thấy các cty xịn xịn ở Hàn mà về VN đều có cái trò ép lương này....
+
+---
+
+### Post #1938 — biring1 [Interview Experiences]
+
+**Date:** Apr 18, 2026 at 5:47 PM
+
+offer tăng được bao nhiêu % vậy bạn, nếu ít hơn thì cũng không đáng chuyển nhỉ
+
+---
+
+### Post #1939 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** Apr 18, 2026 at 10:56 PM
+
+thị trường Hà Nội quái thai thật sự, job đã ít còn gần như fix tech stack, lương lại lẹt đẹt
+
+---
+
+### Post #1940 — picolami [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 12:45 AM
+
+fix tech stack sao lại quái thai nhỉ, đang cần người làm việc, lại tuyển ông stack khác về đập đi xây lại hay thế nào mà không được fix tech stack?
+
+---
+
+### Post #1941 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 12:53 AM
+
+BE concept như nhau thôi, nắm rõ là đc. Giờ có AI thì làm quen cũng chẳng lâu lắm
+
+---
+
+### Post #1942 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 7:02 AM
+
+ngta rảnh đâu mà cho fen hc lại từ đầu cần thg nào nhảy vào làm luôn chứ kể cả có AI vẫn ph take time nắm concept lang + fw thôi
+
+---
+
+### Post #1943 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 9:47 AM
+
+Thật ra khi người ta đậu pv thì có thời gian để làm thủ tục xin nghỉ. Thời gian đó đủ làm quen r fen. Còn ô nào đang thất nghiệp xin 1 job nào đấy chẳng lẽ lại ko tìm hiểu. Ko ai muốn tạch probation cả. Rơi vào mấy trường hợp cá biệt thì chịu
+
+---
+
+### Post #1944 — hello_my_friend [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 10:16 AM
+
+có fen nào pv senior ở zal* pay chưa cho e xin chút review :
+quy trình pv
+range lương
+
+---
+
+### Post #1945 — vozerlaunamitreact [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 10:27 AM
+
+Phải vị trí ở operation team ko bác? Hay team khác
+
+---
+
+### Post #1946 — picolami [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 1:13 PM
+
+Nghe sặc mùi lý thuyết, cậu đã thật sự chuyển stack cùng AI mà kết quả làm việc đạt như kỳ vọng lần nào chưa, trừ việc đập đi xây lại ra.
+
+---
+
+### Post #1947 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 1:52 PM
+
+Từ thời AI chưa ngon cơ
+từng làm outsource đổi ngôn ngữ như cơm bữa. Mất 1 tuần là nắm đc cái cơ bản làm đc task hòm hòm r, 1 tháng là quen tay. Còn trường hợp t nói là apply 1 job nào đấy thì người ta cũng tìm hiểu qua rồi chứ ko phải ko biết tí gì. Cộng thêm thời gian xin nghỉ ngồi làm pet project chẳng lẽ ko nắm đc cái cơ bản. À thời gian đầu vào cty cũng cần đọc codebase để hiểu nữa thì cũng có thêm thời gian đấy. Chuyển stack như t nói là dev đang làm .net chuyển qua python hay java chẳng hạn chứ méo phải migrate 1 dự án sang ngôn ngữ khác đâu
+
+---
+
+### Post #1948 — picolami [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 2:17 PM
+
+Nhìn từ góc độ dev là chắc mình sẽ làm được thôi nên thấy thế là ổn. Còn nếu tôi là người đang phải kiểm soát tech của dự án, tôi còn lâu mới cho dev như thế join vào khi tôi đã yêu cầu có kinh nghiệm stack đó.
+Tôi nói là xây mới thì không chấp, tương tự như vấn đề outsource của cậu, thì như thế có thể chấp nhận được. Còn tiếp nhận dev như câu mô tả vào dự án đang phát triển tiếp thì là rủi ro, chỉ đỡ hơn bọn fake CV tí thôi. Có đầy người, sao phải hỗ trợ 1 ông vừa học vừa làm như thế.
+Ý tôi muốn nói ở đây là yêu cầu tech stack là chuyện đương nhiên với tình huống đó. Còn built team mới, migrate nguyên project, tương đương bắt cả team học stack mới, thì đã chấp nhận chi phí đào tạo lại cả team rồi, thì không khắt khe cái đó.
+
+---
+
+### Post #1949 — MrTux [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 4:12 PM
+
+Người ta giỏi, bạn phân bua nhiều làm gì
+Tôi thấy là bạn ấy mindset như thế là ổn, chỉ cần trông chờ market nó hiểu bạn ấy nữa là thành người thành công thôi
+
+---
+
+### Post #1950 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 4:14 PM
+
+Các công ty chọn vậy giảm rủi ro e thấy đúng mà, chỉ là nếu đã pv thiên về tư duy như big tech thì cũng ko nên khắt khe quá mà a đá đểu e làm gì
+
+---
+
+### Post #1951 — System Design [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 4:25 PM
+
+haizz đi phỏng vấn nghe oải thật
+vất vả k khác gì tìm real love
+
+---
+
+### Post #1952 — LmaoSuVuong [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 4:44 PM
+
+4 năm trc là thế giờ thì khác r. có thiếu cv đúng stack đâu mà cần vợt hết trái stack
+còn lọc cv tư duy như big tech thì market vịt đâu ra lắm bigtech v ní. quay đi quay lại tạch hết cv bigtech là oẳng lun đó.
+
+---
+
+### Post #1953 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 5:02 PM
+
+Cái này nó lại tùy stack ấy. Lướt linkedIn thấy nhiều cty có vài cv thôi fen, đăng mấy tháng ko tuyển đc người như bên mảng C++ chẳng hạn. Chứ java 1m2 trăm ông thì kiểu gì cũng lắm cv đẹp đúng stack cứ thế vợt là đúng r
+
+---
+
+### Post #1954 — bonamana2811 [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 5:05 PM
+
+fen thử thêm tech stack công ty đó vào CV luôn rồi học nhanh cho pvan thôi. Tôi có tg em trước giờ chỉ code golang với php xong lúc apply SAP thì sửa CV thành có xài java rồi lên mạng học thuộc hết mấy cái câu hòi pvan java vẫn đậu đây
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1955 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 5:35 PM
+
+same mà bị vào queue xog tạch lun
+, mà tùy team team nào nó pv dí cho thì cx liệm
+big tech như netflix thì vẫn yêu cầu có exp với Java spring đó
+
+---
+
+### Post #1956 — vozerlaunamitreact [Interview Experiences]
+
+**Date:** Apr 19, 2026 at 9:14 PM
+
+Oke bác.
+Về quy trình PV thì chắc khác team nên tôi k share đc.
+Còn range lương thì đợt tôi process là thế này:
+4x nếu senior 1
+5x nếu senior 2
+(x trung học, tùy theo kết quả PV của bác mà họ đánh giá bác ở level nào)
+Bên zlp là 13 tháng lương + bonus up to 2 tháng (tùy kpi bác).
+
+---
+
+### Post #1957 — tenoctt9 [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 10:54 AM
+
+Hr báo mình là 20 - 30% payslip
+
+---
+
+### Post #1958 — tenoctt9 [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 10:56 AM
+
+Maybe đoạn với sếp Hàn, e trả lời k mượt lắm sếp ạ. Bạn translater phải hỏi lại mấy lần @@
+
+---
+
+### Post #1959 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 11:54 AM
+
+tổng hợp kết quả pv sau khi bị layoff, giờ khó khăn lắm các anh (ít nhất với tôi)
+S*a*d*n*v*a* SP: tạch bị đánh giá middle do chưa đủ tuổi (kêu senior phải sinh năm 8x, WTF?)
+C*v*r g* : tạch, còn không đi đến nổi vòng technical
+C*t*: đi đến vòng cuối, pv được 1 tuần rồi HR ghost => chắc tạch
+Một cty trong sài gòn cho làm remote ít tên tuổi, không nhận cv ngoài => may mắn pass nhưng offer không cao
+trình làng nhàng như tôi chắc tính chuyển nghề quá
+
+---
+
+### Post #1960 — System Design [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 11:57 AM
+
+Bác role gì mấy yoe vậy
+
+---
+
+### Post #1961 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 12:21 PM
+
+dotnet hơn 8 năm exp
+
+---
+
+### Post #1962 — hoangbon [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 12:33 PM
+
+Nếu mà trả lời dùng từ chuyên ngành quá thì cũng khó cho comtor, thím pv role gì thế mấy yoe thế.
+6 tháng sau apply lại thử đi thím thấy bên họ cũng tuyển liên tục
+
+---
+
+### Post #1963 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 1:38 PM
+
+trc bác làm cbtw ạ 8 yoe mà cx khoai z à bác
+
+---
+
+### Post #1964 — System Design [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 1:40 PM
+
+ông anh 96 trong huyền thoại hả bác
+cái nghề giờ bạc thật
+
+---
+
+### Post #1965 — chxo301434 [Interview Experiences]
+
+**Date:** Apr 21, 2026 at 9:26 PM
+
+Netflix cũng đặc biệt bác à. Là big tech không quan trọng leetcode mà quan trọng system design với exp
+
+---
+
+### Post #1966 — Call me David [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 12:51 AM
+
+C*t* ông pv với client rồi hở. Cảm giác bị ghost ta nói nó giống cr phũ
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1967 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 9:26 AM
+
+Đúng rồi thím. Cảm giác bên đấy quá phụ thuộc vào client. Có offer khác rồi nên ko quan tâm. Tẹo có form survey sẽ điền là hr làm ăn như cc
+
+---
+
+### Post #1968 — Ruoi Den [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 10:14 AM
+
+sao mình cũng làm .net mà đọc ko ra tên cty nhỉ
+8 năm bác đang expect bao nhiêu đấy
+
+---
+
+### Post #1969 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 10:16 AM
+
+Đa phần ngoài hà nội nhé, chỉ có c*v*r g* là trong sg. Trình mình làng nhàng nên chỉ expect 5 đến 6x net thôi
+
+---
+
+### Post #1970 — Pikachuuuu [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 11:53 AM
+
+Bác nào phỏng vấn ở Plan-B Technology chưa em xin ít kinh nghiệm với ạ
+
+---
+
+### Post #1971 — Call me David [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 4:49 PM
+
+Vậy là cao lắm rồi á thím
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1972 — jiiren [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 5:32 PM
+
+CoverGo dư sức trả 6x net cho role Senior
+Nhưng mà vào đây workload cũng khá lớn chứ ko phải WLB
+
+---
+
+### Post #1973 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 5:57 PM
+
+Vậy là cao à thím, thấy vozer chia sẻ offer toàn hàng trăm
+
+---
+
+### Post #1974 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 22, 2026 at 5:57 PM
+
+Okie thím, dạo này nhiều bệnh tìm chỗ wlb thôi. Btw, đợt trước vừa từ chối job 92 gross do phải làm đêm
+
+---
+
+### Post #1975 — Ruoi Den [Interview Experiences]
+
+**Date:** Apr 23, 2026 at 11:22 AM
+
+pv bên này căng ko thím?
+
+---
+
+### Post #1976 — jiiren [Interview Experiences]
+
+**Date:** Apr 23, 2026 at 12:03 PM
+
+PV thì dễ thôi, không có leetcode, tùy role thím pv vô mà sẽ hỏi sâu về ngôn ngữ đó, ví dụ: .NET hay Java
+Nhưng mà bên đây cũng có yêu cầu payslip thím nhé
+
+---
+
+### Post #1977 — Ruoi Den [Interview Experiences]
+
+**Date:** Apr 23, 2026 at 12:22 PM
+
+đc 30% sì líp ko thím
+
+---
+
+### Post #1978 — jiiren [Interview Experiences]
+
+**Date:** Apr 23, 2026 at 12:26 PM
+
+cái này e không rõ á, base thím cao sẵn r thì deal sẽ dễ hơn
+
+---
+
+### Post #1979 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 23, 2026 at 7:08 PM
+
+Thông thường apply sau bao lâu là được call vậy các bác, level khoảng junior ạ
+
+---
+
+### Post #1980 — ZenSky1807 [Interview Experiences]
+
+**Date:** Apr 23, 2026 at 7:24 PM
+
+Các bác cho em hỏi là nộp CV trên linked in mà tầm vài tuần vẫn chỉ thấy status Application submitted là CV của mk vẫn chưa được HR xem ạ. Hay là xem rồi nhưng mà ko pass
+
+---
+
+### Post #1981 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 23, 2026 at 7:47 PM
+
+trên 1 tuần là ghost
+
+---
+
+### Post #1982 — biring1 [Interview Experiences]
+
+**Date:** Apr 23, 2026 at 9:08 PM
+
+Mình pass technical rồi mấy thím, còn round cuối pv với leader người Hàn thì pv về gì nhỉ, có tip trick gì chia sẻ cho mình với.
+
+---
+
+### Post #1983 — Alibabacoder [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 6:38 AM
+
+hộp đi bác em nói cho
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #1984 — iyuyui [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 7:24 AM
+
+Chào anh chị, em năm 1 pass CV các cty Axon, VNG(referal ng quen), Fsoft, Rockship. Em được hr vnggames hẹn phỏng vấn in person swe intern. Không biết 2026 process có ai biết họ hỏi những gì không ạ. Em rớt axon do còn trẻ quá và chỉ có thể onb sau tháng 5 mà họ đòi tháng 4
+
+---
+
+### Post #1985 — nxhieu3102 [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 9:30 AM
+
+intern thì ôn kĩ CV, fundamental với algo thôi em
+
+---
+
+### Post #1986 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 10:11 AM
+
+Grab đang tuyển các vị trí Lead Software Engineer, Lead Data Engineer, Software Engineering Manager, Senior Backend Engineer. Các fen nào có nhu cầu có thể ping mình nhé
+
+---
+
+### Post #1987 — IH.NTD [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 12:51 PM
+
+C*t* : chỗ này trc mình cũng tạch round cuối, dc feedback là system design ko đủ mạnh, vẽ diagram lỏ quá
+
+---
+
+### Post #1988 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 3:24 PM
+
+Chắc tùy kh, thấy round cuối ko gắt lắm
+
+---
+
+### Post #1989 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 7:03 PM
+
+Bác onboard rồi hả, trải nghiệm probation ok không bác
+
+---
+
+### Post #1990 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 7:03 PM
+
+ổn fen, cty tốt, benefits + lương tốt
+
+---
+
+### Post #1991 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 7:38 PM
+
+Full team nước ngoài hử bác, giao tiếp Eng à bác. Hình như nhiều người Ấn thì phải
+
+---
+
+### Post #1992 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 7:44 PM
+
+đúng r, nma nói chuyện dễ nghe lắm
+
+---
+
+### Post #1993 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 8:05 PM
+
+Nghe bác ấy review phê thặc bác
+
+---
+
+### Post #1994 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 8:06 PM
+
+IT Office ở q7 đúng không bác
+
+---
+
+### Post #1995 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 8:10 PM
+
+đúng r fen, hơi xa tí mà giờ giấc thoải mái
+
+---
+
+### Post #1996 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 8:13 PM
+
+Tạch round nào đấy bác
+Đợi cooldown rồi làm lại bácà
+
+---
+
+### Post #1997 — vozerlaunamitreact [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 8:50 PM
+
+Tưởng grab thì làm với HQ bên sing
+
+---
+
+### Post #1998 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 9:32 PM
+
+làm riết r k quan tâm locate ở đâu luôn
+) lẫn lộn
+
+---
+
+### Post #1999 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 24, 2026 at 11:38 PM
+
+bài gì thế bác, bác còn nhớ không kkk
+
+---
+
+### Post #2000 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 25, 2026 at 12:25 AM
+
+gạch roi nên k ns he
+
+---
+
+### Post #2001 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 25, 2026 at 12:44 AM
+
+hơ haha, tưởng cái này same như :3 bên fb. Thấy cũng vui vui kk
+
+---
+
+### Post #2002 — Nổ bùm bùm [Interview Experiences]
+
+**Date:** Apr 25, 2026 at 2:42 AM
+
+intern thì chỉ hỏi mấy câu oop, dsa, sql, language như kiểm tra trên trường thôi, dễ ẹc.
+cái quan trọng là có xếp thời gian vừa học vừa đi làm được không kìa
+
+---
+
+### Post #2003 — shark King [Interview Experiences]
+
+**Date:** Apr 25, 2026 at 2:32 PM
+
+Thím nào đã từng phỏng vấn/ làm việc ở VBI (Bảo hiểm Vietinbank) chưa nhỉ, cho em hỏi mặt bằng lương, chế độ với lộ trình thăng tiến ở đây như nào ạ. Sau lễ e có lịch phỏng vấn, à nếu được cho e hỏi phỏng vấn có khó ko và nội dung là gì
+
+---
+
+### Post #2004 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 25, 2026 at 10:27 PM
+
+Hóng các bác share ít nguồn học System Design - Distributed System hay ạ. Em cảm ơn
+
+---
+
+### Post #2005 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 26, 2026 at 1:10 PM
+
+thím tạch sao ấy, tạch vì không critical, reasoning được hay tạch syntax, test case
+
+---
+
+### Post #2006 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 26, 2026 at 1:25 PM
+
+pv xog về thấy mail tạch
+ko giải dc follow up thôi
+
+---
+
+### Post #2007 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 26, 2026 at 8:56 PM
+
+Toang, sửa CV xong quên để phần Short intro yourself ở trên cùng
+Nộp 4 chỗ lúc thứ 5 mà chưa thằng nào gọi luôn, có khi nào thiếu phần này nên ăn ghost không các bác
+Các bác có để phần này vào trong CV không ạ
+
+---
+
+### Post #2008 — vozerlaunamitreact [Interview Experiences]
+
+**Date:** Apr 26, 2026 at 9:00 PM
+
+Không bác, thường tôi thấy hay để kinh nghiệm làm việc, project với tech stack của bác là đủ.
+
+---
+
+### Post #2009 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 26, 2026 at 9:55 PM
+
+ko có lq gì đâu tt h khó thôi
+
+---
+
+### Post #2010 — iyuyui [Interview Experiences]
+
+**Date:** Apr 27, 2026 at 9:17 AM
+
+cảm ơn anh, phỏng vấn intern với fresher có thể khác nhau nhiều không anh
+
+---
+
+### Post #2011 — 2k12 [Interview Experiences]
+
+**Date:** Apr 27, 2026 at 10:02 AM
+
+Pvan gặp mấy cu, mấy ông cứ cái này em/mình chatgpt 1 lúc là ra hoặc cái này search 1 lúc là ra. Chả hiểu bây giờ được bao nhiêu ae bước chân ra khỏi cái bóng thợ dev nữa.
+
+---
+
+### Post #2012 — biring1 [Interview Experiences]
+
+**Date:** Apr 27, 2026 at 10:58 AM
+
+chuẩn, tư duy này là tư duy chỉ cần nó chạy được là được, không cần biết bản chất nó như thế nào. tới lúc hết token thì
+
+---
+
+### Post #2013 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 27, 2026 at 2:04 PM
+
+Khổ vãi ấy chứ, có bác thì nghĩ như bác. Có bác thì lại muốn adapt nhanh, xong task nhanh, thợ code kệ cụ vì ở trên bảo sao thì mày làm vậy. Nên giờ đi phỏng vấn cũng kiểu hên xui vãi, mindset interviewer và candidate match nhau thì mới dễ đến với nhau được.
+
+---
+
+### Post #2014 — devquenok [Interview Experiences]
+
+**Date:** Apr 27, 2026 at 6:04 PM
+
+Thế nên cty tui cứ pv foundation dsa, networking, resolve problem, ...
+
+---
+
+### Post #2015 — picolami [Interview Experiences]
+
+**Date:** Apr 27, 2026 at 9:11 PM
+
+Bọn đấy kệ cụ chúng nó đi, lỗi, đổ vỡ hệ thống, khách bỏ đi là xong thôi. Phụ thuộc AI hay chủ động tận dụng là lựa chọn cơ mà.
+
+---
+
+### Post #2016 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 28, 2026 at 7:26 PM
+
+Chuẩn bị tháng 6, ngành IT đón thêm 40000-50000 nhân tài ra trường nữa
+Job đâu ra cho đủ
+
+---
+
+### Post #2017 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 28, 2026 at 7:44 PM
+
+Aw bác đi làm sớm thế. Gia nhập thị trường lâu rồi mà
+
+---
+
+### Post #2018 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 28, 2026 at 8:07 PM
+
+làm linh tinh thôi fen
+
+---
+
+### Post #2019 — LmaoSuVuong [Interview Experiences]
+
+**Date:** Apr 28, 2026 at 8:16 PM
+
+nhửng lời vô xỉ v củng nói ra dc xiao
+
+---
+
+### Post #2020 — troioidaucatmoi [Interview Experiences]
+
+**Date:** Apr 28, 2026 at 9:08 PM
+
+bác đó làm dâu v fen
+
+---
+
+### Post #2021 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 28, 2026 at 9:50 PM
+
+Ném gạch mạnh vào bác ấy đê
+
+---
+
+### Post #2022 — monads [Interview Experiences]
+
+**Date:** Apr 28, 2026 at 11:35 PM
+
+Công ty S đầu tiên thì HR lọc CV bằng tuổi với yoe.
+Công ty C*t* thì mình cũng bị HR ghost luôn. Chả hiểu phép lịch sự ở đâu trong khi ứng viên phải bỏ thời gian, công sức làm test rồi phỏng vấn mấy vòng.
+
+---
+
+### Post #2023 — goopss [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 10:00 AM
+
+đợt e pv gần hơn 20 cty, thật sự là hiring bar giờ rất cao nhưng lương không ngon. Tầm này lựa mấy chỗ làm mấy mảng ngách, đang mass hiring, liên quan AI thì dễ thở khi phỏng vấn hơn, còn vẫn muốn vào những chỗ khác thì phải gap ôn pv để bù hiring bar mới
+
+---
+
+### Post #2024 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 10:03 AM
+
+bác pv role gì đó với topic thg là gì bác share thêm dc khum
+
+---
+
+### Post #2025 — daydreamer95 [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 10:04 AM
+
+Cụ thể hơn được ko sếp. Lâu rồi chưa đi pvan
+
+---
+
+### Post #2026 — hackviettelxongqwerty [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 12:27 PM
+
+Tụi c*t* nọ inbox lại bảo anh chờ thêm vì tụi em đang push khách hàng. Tin nhắn đó đến nay đã hơn  1 tuần và tôi pv round cuối đã hơn 2 tuần
+
+---
+
+### Post #2027 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 2:58 PM
+
+đù, bác này siêng thế. đúng là mấy cái ngách càng hẹp thì càng khó bị ép mà, cơ mà cũng 2 mặt lắm bác. Cộng đồng nhỏ, cũng ít cơ hội thấy job phù hợp nữa. Mà khi đã thấy thì
+
+---
+
+### Post #2028 — goopss [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 4:48 PM
+
+thì game nào cũng trade-off, ngách thì ít cạnh tranh nhưng khó nhảy nhưng market bây giờ thì cái khó nhảy là default cho cả ngành r nên cái ít cạnh tranh nó lợi thế hơn
+
+---
+
+### Post #2029 — goopss [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 5:00 PM
+
+Hỏi khó hơn kiểu vặn, hỏi nhiều cái trước giờ ở market vn thường không bao giờ hỏi và có thể vào làm cũng không bao giờ làm:
+leetcode med/hard (này trước big tech or quant/trading hỏi thôi giờ đa phần đều cho vào)
+auto hỏi system design cho cả level thấp (< mid) (mang cả mấy câu pv big tech global về hỏi),
+hỏi specification kiểu mấy câu: 1 là biết 2 là tạch,
+cùng 1 mức lương đó trước pass mid là được giờ phải pass senior, staff.
+->Tóm lại là chủ yếu họ tìm chịu nhận lương thấp hơn nhưng hàng xịn hơn
+Nên tìm job đợt này trừ khi dư sức clear mấy game interview của big tech or top tier còn lại khá căng nếu như m.n đang có job.
+Kinh nghiệm của em sau khi có 3 offer (đều là những cty mới grow gần đây) sau hơn 20 interviews từ đủ các cty có cả big tech ở vn là nên target mấy cty đang còn hiring mạnh làm best choice chứ có khi pv mượt pass hết nhưng vẫn rớt là chuyện bình thường (vừa cay vừa mất tg có chỗ nó quần cho 4-5 vòng). À có vài chỗ nhìn thì hiring nhưng thật ra freeze r này phải nhờ internal check nhé (tuyển ảo)
+
+---
+
+### Post #2030 — goopss [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 5:03 PM
+
+em backend quèn thôi
+
+---
+
+### Post #2031 — hungpn2212 [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 5:04 PM
+
+cho 1 số cái tên đi bác.
+Hard thì năm ngoái đã hỏi r, có mấy bài leetcode kiểu, trừ khi bác làm qua r, chứ gần như k thể nghĩ trong từng đó thời gian ấy
+
+---
+
+### Post #2032 — goopss [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 5:12 PM
+
+list big tech vn chắc bác cũng biết r vde hỏi leetcode thì bth nhưng đợt này hỏi sang mấy topic edv thường dân acm/icpc mới luyện
+Em ngại nhắc tên trên này bác, lên linkedin -> software engineer in search -> filter past week/month là đa phần trong đó
+
+---
+
+### Post #2033 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 5:19 PM
+
+tầm jun - mid à bác hay mid sen
+
+---
+
+### Post #2034 — luiz [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 5:23 PM
+
+Thím đang thất nghiệp à mà đi pv được nhiều cty thế, 20 cty trung bình chắc mất tầm 30 buổi nghỉ rồi
+
+---
+
+### Post #2035 — goopss [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 5:26 PM
+
+em nghỉ từ cuối năm ngoái -> đến trước tết thì chốt offer
+
+---
+
+### Post #2036 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 6:35 PM
+
+Tính ra giờ gap mới có time ôn luyện lại xíu, cơ mà vẫn risk. Đúng là game nào cũng có trade-off
+
+---
+
+### Post #2037 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 7:26 PM
+
+Mình để Pet Project của mình lên đầu ở phần Work Experience, ở dưới là job cty hiện tại đang làm. Liệu có hợp lý không các bác. Có khi nào bị coi là red flag vì "job 2" không nhỉ. Cái này mình cũng grow được khoảng 1k2 user. Cái này mình tự làm đầu - cuối, deploy CI/cd đơn giản qua github actions
+
+---
+
+### Post #2038 — fkphua3 [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 7:30 PM
+
+Big tech giờ tuyển dễ hơn cả medium tech vì format pv của tụi nó là format chung và ít thay đổi hơn
+
+---
+
+### Post #2039 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 7:51 PM
+
+k khó để pvan tốt, còn để pass thì vẫn khó
+Nhiều ứng viên thì lúc này thì nó vừa là may mắn, vừa là bar cao hơn, k thuần là pvan tốt, trả lời dc câu hỏi nữa mà phải ấn tượng với interviewer đó fen
+cty bé hơn thì số lượng ứng viên cũng ít hơn, lương cũng thấp hơn thì họ cũng phải hạ bar xuống để scale nhanh, pvan k dễ nhưng chỉ cần pvan tốt là được
+
+---
+
+### Post #2040 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:21 PM
+
+Các bác góp ý CV mình tí.
+CV mình hình như có vấn đề à các bác, ở công ty hiện tại trước kia mình code java, được 2-3 tháng (trước khi vào cty mình cũng base Java) nhưng sau này do đặc thù dự án mình qua C++, cũng làm REST API đồ thôi, bên trong thì gRPC, redis đồ ấy. Mình cũng tìm hiểu đào sâu hết mức mấy cái tool ở đây giải quyết cho vấn đề gì, từ đó khai thác, mở rộng và làm nhiều use case khác nhau. Giờ mình nộp các job Java Dev thì có vẻ bị bơ. Do Techstack công ty hiện tại ghi cả: Java, C++
+Phần Skills bản thân thì mình ghi như thế này, có khi nào HR cảm thấy lan man và không focus nặng vào Java nên bị bơ không các bác. Em thì nghĩ Lang nào không quan trọng, quan trọng xử lý vấn đề, system design, DSA thôi
+Mình khoảng 1.5+ y
+
+---
+
+### Post #2041 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:24 PM
+
+Apply trước lễ giỗ tổ khoảng 2 ngày, đến nay vẫn không có phản hồi gì. Mình nộp 4 thằng, khoảng tier 3-4
+
+---
+
+### Post #2042 — hold_on_never_leave [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:30 PM
+
+mình nghĩ cách viết ko có gì nghiêm trọng,  ở mức 1.5yoe thì chấp nhận đc
+tầm level này thì thường nhìn tên trường r lọc so với candidate khác
+ngoài ra mình cảm nhận CV fen có thể hơi over-qualified với 1 số cty,  vì nhìn CV họ biết fen sẽ ko làm lâu nên reject từ đầu cho khỏe
+
+---
+
+### Post #2043 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:49 PM
+
+Mình tưởng có pet project, real user với exp thực tế đi làm tại doanh nghiệp rồi thì level này họ không quan tâm trường nữa, vẫn quan tâm à bác... mình học trường đại học khá lởm, không đọ với HCMUS hay BK được nếu cạnh tranh về tên trường
+
+---
+
+### Post #2044 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:50 PM
+
+pv sao r fen có offer chưa
+
+---
+
+### Post #2045 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:52 PM
+
+Giờ mới đi apply này ông, apply 4 thằng trước 2 ngày giỗ tổ mà bị bơ tới giờ. Nghi ngờ nhân sinh vãi
+
+---
+
+### Post #2046 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:53 PM
+
+tầm jun thì đầy ngoài đg họ vẫn qtrg branding thôi tại h jun đôg quá mà tầm mid sen ms ít ng nên ngta ms k qtrg truờng mà cty tier 3 4 là cty nào đấy fen luớt voz suốt mà kbt 3 4 lat cty nào Os à
+
+---
+
+### Post #2047 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:57 PM
+
+M**o, 1Mount,... đồ ấy bác. Có thể do đông quá nên họ vẫn lọc theo trường thật.
+
+---
+
+### Post #2048 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 29, 2026 at 11:59 PM
+
+ksao fen mh trg cx kp top đầu apply vẫn dc Hr reach đợi thêm tí
+
+---
+
+### Post #2049 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 12:01 AM
+
+Chắc tại fen đi làm sớm, có kn tầm Mít. Mít chắc cũng chẳng quan tâm trường đâu
+
+---
+
+### Post #2050 — hello_my_friend [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:23 AM
+
+fen làm cty nào để tui pv thử hehe
+
+---
+
+### Post #2051 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 5:42 PM
+
+ở VN nào có công việc kiểu lai lai giữa ML + Software Engineer k các anh em nhỉ. Mình làm backend, nhưng đang học Thạc + muốn theo hướng NLP
+
+---
+
+### Post #2052 — fkphua3 [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 7:49 PM
+
+OneMount h hình như k tuyển jun, hỏi HR chỉ tuyển jun nếu học trường top, GPA từ 3.6 trở lên
+
+---
+
+### Post #2053 — ZenSky1807 [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 8:12 PM
+
+Mới có mấy ngày mà fen. Mk apply vài cty, họ đều bảo là nghỉ lễ dài nên sau nghỉ lễ mới process. cứ bình tĩnh đã my fen
+
+---
+
+### Post #2054 — luiz [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 8:15 PM
+
+Nhất Sơn thấy bảo mtr làm việc như trâu, lại làm thứ 7, benefit thì nhàng nhàng mà cũng tiêu chuẩn cao vậy @@
+
+---
+
+### Post #2055 — fkphua3 [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 8:37 PM
+
+Tuỳ team nhé, có team nhẹ nhàng thôi
+
+---
+
+### Post #2056 — jiiren [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 8:48 PM
+
+Có cty nào đang tuyển thật không mấy thím
+hình như giờ toàn tuyển ảo, e apply mấy chỗ mà gọi screenig xong e bị ghost lun
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2057 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:07 PM
+
+Một Ngọn Núi làm t7 thì range có deal cao hơn thị trường được không các bác, hay ngang - thấp hơn luôn. Thấy bác kia mô tả tiêu chuẩn cũng ảo vãi
+
+---
+
+### Post #2058 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:09 PM
+
+Khoai đấy bác, GPA 3.6 trường top đổ lên chắc không mấy ai chọn 1M
+Chắc hét cho vui
+
+---
+
+### Post #2059 — gravity134 [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:27 PM
+
+vì bên này làm truyền thông tốt á, sinh viên các trường đều biết bên này nên apply nhiều, ko p ai cx biết top tier như trên voz đâu
+
+---
+
+### Post #2060 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:30 PM
+
+Mình cũng nghĩ giống bác, tại từng đi làm 1 cty làm thứ 7, 1 tháng 2 ngày. Ban đầu 1-2 tháng thì thấy cũng bình thường. Sau này thấy cực như cờ hó, không có thời gian nghỉ ngơi hay học, code thêm cái mới để level up. Rồi quay đi quay lại lại thứ 2, cả tuần đó làm trong trạng thái Hết Pin
+Lương cao hẳn hơn thị trường (market + tính OT t7) thì cân nhắc, còn same same thì thôi. Ráng gồng đợi cty khác ổn hơn
+
+---
+
+### Post #2061 — fkphua3 [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:34 PM
+
+Mình thấy bác hay vì suốt ngày lên than hay chê này nọ thì lo ôn pv thì hơn, thấy bài bác từ năm ngoái tới nay
+, còn 1 núi nó trả intern 20 củ thì anh kiếm ai cao hơn phát
+
+---
+
+### Post #2062 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:38 PM
+
+hnhu sen cx dc 700m/ năm
+
+---
+
+### Post #2063 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:39 PM
+
+ko ít đội hust uet nhé fen nma chắc k full gpa xs thôi đợt fresher thấy full trg top rồi
+
+---
+
+### Post #2064 — chiyeuemthoi [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:40 PM
+
+intern 10 củ lên cthuc 16m nhé đâu ra 20m
+
+---
+
+### Post #2065 — luiz [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:41 PM
+
+Tầm đấy chắc max của sen rồi, thằng bạn tôi trước làm lead ở đó cũng same same tầm đó thôi
+
+---
+
+### Post #2066 — h_ngyn [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:42 PM
+
+Xe ôm cũng có role MLE đó, có thể thử.
+
+---
+
+### Post #2067 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:53 PM
+
+Chỉ nói đúng vấn đề trọng tâm, có vẻ anh này fan 1M
+)
+Hóng ai confirm 1M trả intern 20 củ cho mình mở mang tầm mắt @@
+
+---
+
+### Post #2068 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:56 PM
+
+Chỉ thắc mắc rằng bên đó làm T7 (~ OT bên khác) thì range có cao hơn thị trường không thôi, có gì đâu mà bác giãy kinh thế. 1M bác là number one r
+Em không bàn thằng 1M của bác nữa cho bác đỡ bực
+
+---
+
+### Post #2069 — ongnoimbappe [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 9:59 PM
+
+Bên này hình như No Eng ông nhỉ
+
+---
+
+### Post #2070 — kazuoken [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 10:22 PM
+
+1 núi nào trả intern 20 củ vậy. Chương trình fresh geeks ngày trước thì gọi là cộng tác viên, có 11 củ 1 tháng thôi, làm full tháng mới đc. Làm 1 năm xong chưa chắc lên chính thức đc. Lần cuối tổ chức là 2024 thì khả năng làm ăn đ ổn nên đ mở nữa. Đám vào 2024 cũng nhót kha khá
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2071 — h_ngyn [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 11:13 PM
+
+Tôi biết, nên tôi mới bảo là có thể cân nhắc internal transfer. Cái role đó nhớ là ít tuyển ở ngoài lắm.
+
+---
+
+### Post #2072 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Apr 30, 2026 at 11:24 PM
+
+yes sir, chắc học chắc hơn tí r mình kiếm thử cơ hội MLE
+
+---
+
+### Post #2073 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** May 1, 2026 at 1:57 PM
+
+Bác làm N nên HR reach là đúng r
+
+---
+
+### Post #2074 — LazyHero [Interview Experiences]
+
+**Date:** May 1, 2026 at 10:53 PM
+
+Em gần đây hay có thói quen gửi thử cv vào thử 1 số jobs để xem cv mình có khả năng dc process ở cty quy mô đó, level đó ko. chỉ gửi chứ ko có ý định PV.
+Các bác thấy mấy việc này có bị HR blacklist ko.
+Em không spam, chỉ vài cty thôi.
+
+---
+
+### Post #2075 — auauau97 [Interview Experiences]
+
+**Date:** May 1, 2026 at 11:21 PM
+
+HR spam đc inbox mình mà mình lại ko đc apply vào job của công ty hả b
+. Đùa xíu thôi chứ apply chả sao đâu. Mình vẫn đi phỏng vấn dò thị trường suốt, cx tương tự thôi. Nhưng đã mất công nộp CV thì đi tập phỏng vấn luôn chứ
+
+---
+
+### Post #2076 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 3, 2026 at 1:50 PM
+
+Hình như đa số cty nếu pass thì không cần đợi 6 tháng cho lần apply hay sao ấy bạn, còn tạch thì đợi 6 tháng sau mới apply lại được (Đợi thời gian hồi chiêu
+) Mình tốn công cán đi pv thôi
+
+---
+
+### Post #2077 — hello_my_friend [Interview Experiences]
+
+**Date:** May 3, 2026 at 4:45 PM
+
+Có bác nào làm ở công ty logistic B* group (của Việt Nam)chưa ạ cho e xin chút review
+
+---
+
+### Post #2078 — hungpn2212 [Interview Experiences]
+
+**Date:** May 4, 2026 at 6:07 PM
+
+Chắc Qualcom hoặc FPT AI
+Giỏi communication thì thử Aitomatic nữa
+Mà AI ở VN ít đất diễn kiểu làm model hẳn hoi lắm, toàn LLM integration thôi
+
+---
+
+### Post #2079 — chiyeuemthoi [Interview Experiences]
+
+**Date:** May 4, 2026 at 10:36 PM
+
+kiểu tích hợp LLM vài biz đk bác việc ntn task thg lad gì nhỉ
+
+---
+
+### Post #2080 — Qtamle [Interview Experiences]
+
+**Date:** May 5, 2026 at 11:38 AM
+
+Bác cho em hỏi với là technical test là họ hỏi về Unity hay những kiến thức bên lề á
+
+---
+
+### Post #2081 — akiradang [Interview Experiences]
+
+**Date:** May 5, 2026 at 1:57 PM
+
+MLE thì bác hỏi thử team AI Core ấy
+
+---
+
+### Post #2082 — Duke@@@ [Interview Experiences]
+
+**Date:** May 5, 2026 at 7:18 PM
+
+project làm về gì đó fen, mà kiến users sao đó
+
+---
+
+### Post #2083 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 5, 2026 at 7:46 PM
+
+Dạng forum, automation shop cho MMO thôi bác ơi.
+
+---
+
+### Post #2084 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 5, 2026 at 7:47 PM
+
+AI lên quá, live coding có vẻ lại hot trên mặt trận phỏng vấn hả các bác. Mình không biết level mid senior sao chứ Fresher hình như giờ thằng nào cũng live coding round
+
+---
+
+### Post #2085 — chiyeuemthoi [Interview Experiences]
+
+**Date:** May 5, 2026 at 7:48 PM
+
+xin name cty live code fresher fen
+
+---
+
+### Post #2086 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 5, 2026 at 7:50 PM
+
+kms netcompany và globee gì ấy nè bác, hôm qua đến giờ mình thấy 3 thằng này
+
+---
+
+### Post #2087 — chiyeuemthoi [Interview Experiences]
+
+**Date:** May 5, 2026 at 7:50 PM
+
+ao sọt h cx round live code à căg nhỉ
+
+---
+
+### Post #2088 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 5, 2026 at 7:52 PM
+
+không biết level cao hơn thì như nào chứ giờ entry level nhót phết
+
+---
+
+### Post #2089 — LmaoSuVuong [Interview Experiences]
+
+**Date:** May 5, 2026 at 8:58 PM
+
+live coding là dùng AI code chức năng hay sao
+
+---
+
+### Post #2090 — LmaoSuVuong [Interview Experiences]
+
+**Date:** May 5, 2026 at 9:09 PM
+
+thế thì có j lạ nhể. chuyển từ bảng trắng lên text editor thôi mà
+
+---
+
+### Post #2091 — chiyeuemthoi [Interview Experiences]
+
+**Date:** May 5, 2026 at 9:14 PM
+
+trc live code lm gì có entry lv đou
+
+---
+
+### Post #2092 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** May 5, 2026 at 11:50 PM
+
+fsoft tuyển fresher mấy năm trước còn live code nữa là
+
+---
+
+### Post #2093 — Minutemen [Interview Experiences]
+
+**Date:** May 6, 2026 at 9:25 AM
+
+netcompany mà cũng live code à, đó h mình tưởng nó system design
+
+---
+
+### Post #2094 — fkphua3 [Interview Experiences]
+
+**Date:** May 6, 2026 at 12:46 PM
+
+Netcompany đó h vẫn có livecode mà, mà k rõ giờ hỏi mức độ nào thôi
+
+---
+
+### Post #2095 — biring1 [Interview Experiences]
+
+**Date:** May 6, 2026 at 1:40 PM
+
+Vừa xong round culture fit với  CEO người Hàn ở N*ver thì bao lâu có kết quả mấy thím
+
+---
+
+### Post #2096 — tnkhanh2909 [Interview Experiences]
+
+**Date:** May 6, 2026 at 2:17 PM
+
+Bác học master trường nào đấy
+
+---
+
+### Post #2097 — Minutemen [Interview Experiences]
+
+**Date:** May 6, 2026 at 3:36 PM
+
+Thím nào có kn pv KMS Java Junior đợt này cho e xin, nghe bảo đợt này có hỏi thêm AI
+
+---
+
+### Post #2098 — dang_le_1905 [Interview Experiences]
+
+**Date:** May 7, 2026 at 11:40 AM
+
+Netcompany cũng là outsource tier cao mà, có gì lạ đâu
+
+---
+
+### Post #2099 — dang_le_1905 [Interview Experiences]
+
+**Date:** May 7, 2026 at 11:45 AM
+
+Không biết mấy level cao hơn thì sao chứ hồi có thằng em phỏng vấn intern xe ôm role MLE thì cũng hỏi kha khá về software đấy, algo thì cũng đơn giản (chắc do level intern)
+
+---
+
+### Post #2100 — System Design [Interview Experiences]
+
+**Date:** May 13, 2026 at 11:21 AM
+
+mấy cái chuyên sâu về database kiểu kiểu như
+Index Inverter , full text search
+thì tìm đọc ở đâu chi tiết vậy các bác
+
+---
+
+### Post #2101 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** May 13, 2026 at 11:59 AM
+
+google.com
+github.com
+chatgpt.com
+
+---
+
+### Post #2102 — talavuavoz113 [Interview Experiences]
+
+**Date:** May 13, 2026 at 8:00 PM
+
+Lên docs của Elasticsearch đọc fen
+
+---
+
+### Post #2103 — System Design [Interview Experiences]
+
+**Date:** May 24, 2026 at 4:59 PM
+
+Thớt hẻo vậy mn
+Market k tuyển nữa à
+
+---
+
+### Post #2104 — h_ngyn [Interview Experiences]
+
+**Date:** May 24, 2026 at 5:09 PM
+
+hỏi exp phỏng vấn vẫn nhiều, nhưng mà pv xong thì không thấy ai thèm lên đây review chia sẻ lại cho cộng đồng.
+
+---
+
+### Post #2105 — System Design [Interview Experiences]
+
+**Date:** May 24, 2026 at 5:19 PM
+
+K biết pv thời buổi AI agent như nào
+
+---
+
+### Post #2106 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 24, 2026 at 7:31 PM
+
+Vì có pass được đâu, với tạch vớ vẩn, không có feedback gì. Tâm trạng đâu nữa
+
+---
+
+### Post #2107 — h_ngyn [Interview Experiences]
+
+**Date:** May 24, 2026 at 7:43 PM
+
+fen đi pv về nhớ lên review với nhé.
+
+---
+
+### Post #2108 — System Design [Interview Experiences]
+
+**Date:** May 24, 2026 at 7:53 PM
+
+Tạch phone screen suốt fen ạ
+Huhu
+Cứ như đăng job cho vui vậy
+
+---
+
+### Post #2109 — heroni2510 [Interview Experiences]
+
+**Date:** May 24, 2026 at 7:53 PM
+
+Tuần trước có đi pv một cty, không nói chuyện gì cả mà cho bài test 30', hỏi về nghiệp vụ, xử lý vấn đề a b c làm sao (liên quan đến ngôn ngữ lập trình). một bài code khá dễ liên quan đến nghiệp vụ của cty.
+=> TUY NHIÊN. tôi làm không kịp và tôi éo nhớ cú pháp lập trình. hơn 6 tháng nay tôi toàn AI gen. đưa câu làm trình tôi ngớ người luôn. không biết bắt đầu từ đâu. tôi đứng hình tầm 5' phút mới bắt đầu gõ.
+P/S: Mà phỏng vấn middle/senior nhe.
+
+---
+
+### Post #2110 — iawakk [Interview Experiences]
+
+**Date:** May 24, 2026 at 8:22 PM
+
+Bác nào từng làm bài test offline 80 phút của Nexon không bên Unity Developer. Cho em xin ít kinh nghiệm với ạ
+
+---
+
+### Post #2111 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 24, 2026 at 9:34 PM
+
+Bác có nghĩ như này là báo động không, hay chỉ là bình thường trong thời đại này...
+
+---
+
+### Post #2112 — Trình Hà Lân [Interview Experiences]
+
+**Date:** May 24, 2026 at 9:35 PM
+
+bth mà toàn AI gen thì bị phụ thụôc thou
+
+---
+
+### Post #2113 — heroni2510 [Interview Experiences]
+
+**Date:** May 24, 2026 at 9:47 PM
+
+Vừa báo động vừa bình thường. Giờ không dùng ai thì không kịp KPI và dùng thì bị ngu như tôi. Mà mấy công ty nó vẫn test kiểu truyền thống mới chết. Giờ chỉ cần pass được PV, ngôn ngữ nào cũng chơi được chỉ cần biết và hiểu nghiệp vụ (này nói lập trình bình thường thôi nhe BE, FE, mobile, mấy cái AI ML hay LLM, hay system thì không ổn.)
+
+---
+
+### Post #2114 — jiiren [Interview Experiences]
+
+**Date:** May 24, 2026 at 9:49 PM
+
+lạ nhỉ, kêu nó gen xong merge luôn chứ không review gì à?
+Mà ngôn ngữ nào cũng chơi đc mới ghê chứ
+
+---
+
+### Post #2115 — heroni2510 [Interview Experiences]
+
+**Date:** May 24, 2026 at 9:59 PM
+
+Ông nắm được concept của ngôn ngữ là được rồi. bây giờ có AI ông đâu cần lo chuyện cú pháp. chỉ cần ông biết được đoạn code này đang làm gì là được và đặt câu hỏi tại sao. Ví dụ như FE đi thì framework nào cũng là view, controller, quản lý state các thứ.
+Còn về chuyện review thì giờ AI nó review trước một phát rồi mình vào check nó review còn kỹ hơn mình, phần nhiều là chỉ confirm nghiệm vụ và test lại, phạm vi ảnh hưởng các thứ nó giúp mình điều tra luôn rôi.
+
+---
+
+### Post #2116 — fkphua3 [Interview Experiences]
+
+**Date:** May 24, 2026 at 10:29 PM
+
+Bth, trên này nhiều bác pv VSF tier 1 còn chỉ hỏi bao tiền với khi nào onb kìa. Hồi em pv 1 công ty payment ở VN cũng chỉ hỏi kiến thức tầm 5-10p xong cho pass luôn
+
+---
+
+### Post #2117 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 24, 2026 at 10:45 PM
+
+Sao vsf tier 1 được bác
+Nghe bảo việc nhiều, ot liên tục, high risk layoff,... đổi lại lương total cao... mình thấy cũng đúng mà.
+Tier 1 là Worldquant, SAP, Mckinsey,... ấy bọn này trả khiếp thật
+
+---
+
+### Post #2118 — picolami [Interview Experiences]
+
+**Date:** May 24, 2026 at 11:22 PM
+
+Ủa tức là sẽ không bao giờ phát hiện AI làm sai ấy hả. Thế không pass pv là đúng rồi, chắc họ cần ai vẫn dùng AI mà vẫn tự code được chỉ chậm thôi. Anh nào không làm được thì đứng sang 1 bên.
+
+---
+
+### Post #2119 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 24, 2026 at 11:28 PM
+
+Theo ý của mình thì giờ AI phát triển, AI agent. mình thấy code theo TDD thì cũng ổn, nhưng mà liệt code chay chỉ sợ review code không trôi, không đủ safety... chắc điều này làm mấy công ty đau đầu và live coding như thường
+
+---
+
+### Post #2120 — Trình Hà Lân [Interview Experiences]
+
+**Date:** May 24, 2026 at 11:49 PM
+
+cty việt trả ngang fdi ko tier 1 thì tier mấy
+pv thì dễ hơn x2 x5 lần
+
+---
+
+### Post #2121 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 25, 2026 at 12:03 AM
+
+Bác tính mỗi "Lương" thôi hả
+
+---
+
+### Post #2122 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 25, 2026 at 12:03 AM
+
+Mặc dù cũng dạng xịn trong thời điểm này, nhưng mà để nói tier 1 luôn thì hơi quá
+
+---
+
+### Post #2123 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** May 25, 2026 at 12:06 AM
+
+thời buổi này có cty nào dễ vào mà lương cao như V ở lv senior đâu, lên tier 1 là đúng rồi. Mấy cty kia ôn sml phỏng vấn ói ẻ chắc gì đã pass, có phải thời 2021 đâu mà
+
+---
+
+### Post #2124 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 25, 2026 at 12:11 AM
+
+Tiện thể có ae nào đang làm trong Vsf, đang làm gì trong đó mà scale headcount gớm vậy các bác
+
+---
+
+### Post #2125 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 25, 2026 at 12:13 AM
+
+Mình thấy hình như all level, trừ fresher
+
+---
+
+### Post #2126 — Tiểu Màn Thầu BK [Interview Experiences]
+
+**Date:** May 25, 2026 at 12:19 AM
+
+bên vsf có tuyển dưới senior đâu
+
+---
+
+### Post #2127 — dath24 [Interview Experiences]
+
+**Date:** May 25, 2026 at 5:29 AM
+
+A
+Tào lao quá fen, code AI mà đêt nó gen cả cục to, mình k chỉnh thì k khác gì rác.
+Cho nó lên plan, từ cái plan của nó mình review sẽ nhìn ra thêm issues, solutions để từ đó mình nảy sinh ra solutions mới ngon hơn, hoặc optimize lại solutions của nó.
+Dùng nó gen code thì cho nó gen từng mẩu nhỏ để mình đủ sức review và sửa nếu cần thì oke. Làm gì có chuyện k review, còn k đủ năng lực review thì k nói.
+Chứ để nó generate class thừa thãi tính token, method đọc thì nhiều khi k clean khó hiểu.
+Sắp release, phải OT CN, nay 5h sáng phải dậy để refactor lại code cho ông anh mới vào 15 năm exp, lương chắc tầm 100, nghe nói đc traning dùng AI agent, áp dụng Planing mode tạo .md, Skills, MCP server, dùng CLI ngầu đét,.. các kiểu, mà tích hợp vào hệ thống k chạy đây
+Thật ra cũng tại ông anh mới vào, chưa nắm hết project nên dễ oẳng thôi. Cho Claude opus 1M token vào để vibe đến chết cũng có chạy đc đâu. Vẫn cần dev hiểu project để review mới chạy đc.
+Nhầm, k phải k chạy đc mà chạy lỗi tè le. K ai có thể fix đc, vì ông anh có review và maybe hiểu code của AI tạo, nhưng k hiểu luồng project hiện tại.
+Người hiểu project thì k gen code cho module đó, nên cũng k hiểu code module đó, giờ phải review đống do AI tạo cùng với ông anh kia cho lẹ, để chỉ ra AI sai chỗ nào mà sửa.
+Tóm lại phải cần người hiểu cả project hiện tại và code AI gen ra mới có thể fix đc. Vì vậy review code của AI là bắt buộc trong môi trường enterprise.
+
+---
+
+### Post #2128 — fkphua3 [Interview Experiences]
+
+**Date:** May 25, 2026 at 8:59 AM
+
+Lại nghe nữa hả bác
+) ở đây đầy người làm cho VSF ấy và có review ở trên luôn kìa. McKinsey cũng có review luôn bác ngó lên xem làm có nhàn k
+)
+
+---
+
+### Post #2129 — heroni2510 [Interview Experiences]
+
+**Date:** May 25, 2026 at 9:00 AM
+
+mình nói là phải hiểu code và nghiệp vụ mà fen. ai nó giúp mình review nhanh hơn thôi chứ đâu có phải là cho nó làm hết. mình chịu trách nhiệm với code của mình mà. tên commit là của mình, pr, mr do mình tạo, mình merge. thì có gì mình chịu thôi. còn kiểu như ông anh của fen thì ai mà gánh nổi
+
+---
+
+### Post #2130 — picolami [Interview Experiences]
+
+**Date:** May 25, 2026 at 9:02 AM
+
+Bắt giải trình và chạy ngon trước khi merge chứ để merge rồi đi chữa cháy thì toi, hỗ trợ hoặc giám sát đến khi nào chạy không lỗi mới nhận code.
+Các bạn giờ có AI làm gì cũng được kiểu đó có thể làm mấy dự án outsource cơ bản thôi, dạng mà ngày xưa hay thuê sinh viên làm, form nhập liệu là chính.
+
+---
+
+### Post #2131 — dhl001 [Interview Experiences]
+
+**Date:** May 25, 2026 at 9:15 AM
+
+Giờ leetcode tôi cũng ngồi viết cái flow mã giả ra cho con AI nó gen code. Thật đáng báo động.
+
+---
+
+### Post #2132 — ZenSky1807 [Interview Experiences]
+
+**Date:** May 25, 2026 at 10:42 AM
+
+E đã nhận offer bên Vin rồi và phát hiện bị deal hớ
+), chỉ tăng gần 30%. H e đang có offer bên khác same same chỗ Vin thì h cầm đi counter, deal lại lương có được ko ạ
+
+---
+
+### Post #2133 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** May 25, 2026 at 11:20 AM
+
+thử đi fen. Nếu đã deal thì họ sẽ match với offer đó, nên fen phải buff cái offer lên tầm +50-60% để tính thêm chi phí hao tổn tinh thần/sk làm vin nữa
+
+---
+
+### Post #2134 — ZenSky1807 [Interview Experiences]
+
+**Date:** May 25, 2026 at 11:25 AM
+
+e lăn tăn mỗi cái còn 2 ngày nữa onboard, h deal lại họ thấy lôm côm quá, cho vào black list, hủy luôn
+).
+
+---
+
+### Post #2135 — luiz [Interview Experiences]
+
+**Date:** May 25, 2026 at 11:27 AM
+
+Thím nào làm ở Vs* hơn năm rồi cho e hỏi, package 1 năm tầm bao tháng lương nhỉ, có  theo hệ số KPI nhiều k các thím
+
+---
+
+### Post #2136 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** May 25, 2026 at 11:34 AM
+
+v thì chịu thôi
+) nhận offer r k deal lại dc đâu
+
+---
+
+### Post #2137 — kazuoken [Interview Experiences]
+
+**Date:** May 25, 2026 at 11:42 AM
+
+13 tháng + 0/0.5/1 tháng perf tuỳ đánh giá
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2138 — iawakk [Interview Experiences]
+
+**Date:** May 25, 2026 at 12:02 PM
+
+Bác nào từng phỏng vấn ở Nexon chưa ạ, cho em xin kinh nghiệm về bài test 80 về mảng Unity Developer ạ
+
+---
+
+### Post #2139 — Qtamle [Interview Experiences]
+
+**Date:** May 25, 2026 at 3:35 PM
+
+Bác ôn kỹ C# và Unity Object, cùng với đó là bài thuật toán đơn, giản, localization, Coroutine, async await, Monobehaviour và SO, OOP nữa nha sử dụng Interface và abstract. Chủ yếu các câu hỏi thường là sẽ hỏi sự khác nhau, nên bác chịu khó nhớ keyword và được thì có template ghi sẵn tiếng anh để mình nhớ giúp lúc thi viết mình đỡ phải gặn chữ. Chúc bác thi tốt
+
+---
+
+### Post #2140 — iawakk [Interview Experiences]
+
+**Date:** May 25, 2026 at 5:00 PM
+
+Thi viết hoàn toàn bằng tiếng Anh luôn đúng không bác?
+
+---
+
+### Post #2141 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 25, 2026 at 8:22 PM
+
+Hẻo quá, mình góp vui xíu...
+B*
+V***
+Corp
+Role: Software Engineer C++
+Salary: 18m gross
+17 days leave annual
+PVI insurance gì ấy
+Số năm exp khi nhận offer: 1.5+
+Chốt lại: Từ chối offer vì chưa như mong muốn
+Mình có cố gắng deal thêm tí nữa nhưng không được, chắc chạm nóc level này bên đó
+
+---
+
+### Post #2142 — sinh_vien_nợ_môn [Interview Experiences]
+
+**Date:** May 25, 2026 at 9:51 PM
+
+Việc
+tháng 13 là tính theo thâm niên bác làm việc chứ làm gì được full tháng bác nhỉ,  hay quy định của mỗi công ty con khác chứ  ghi rõ nội quy nhân sự mà
+
+---
+
+### Post #2143 — kazuoken [Interview Experiences]
+
+**Date:** May 25, 2026 at 11:16 PM
+
+theo số tháng trong năm dương lịch đấy, làm đủ 12 tháng thì nhận đủ 1 tháng, cty nào chả thế
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2144 — sinh_vien_nợ_môn [Interview Experiences]
+
+**Date:** May 25, 2026 at 11:20 PM
+
+Trước giờ em làm gặp đúng 1 công ty như thế chứ đa phần nv chính thức mà trên 6 tháng là đc rồi :__
+
+---
+
+### Post #2145 — Trình Hà Lân [Interview Experiences]
+
+**Date:** May 25, 2026 at 11:30 PM
+
+fen làm cty nc ngoài r cty việt nào mh để ý tòan z à
+
+---
+
+### Post #2146 — Duke@@@ [Interview Experiences]
+
+**Date:** May 29, 2026 at 1:37 PM
+
+bác nào phỏng vấn ở AvePoint role backend chưa cho e xin review với, em 1yoe .net
+
+---
+
+### Post #2147 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 30, 2026 at 2:02 AM
+
+Công ty này của Tàu bạn nhỉ, thấy bị phốt khá nhiều. Cẩn trọng
+
+---
+
+### Post #2148 — Serryl [Interview Experiences]
+
+**Date:** May 31, 2026 at 12:32 PM
+
+Có bác nào phỏng vấn Front-end ở NAB/EH chưa, cho em xin kinh nghiệm với ạ. Cảm ơn các bác
+
+---
+
+### Post #2149 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 31, 2026 at 12:41 PM
+
+EH thì ít chứ NAB bạn search keyword ra 1 mớ mà, lục lại đi bạn
+
+---
+
+### Post #2150 — Dev xịn [Interview Experiences]
+
+**Date:** May 31, 2026 at 1:59 PM
+
+NAB bác pv level nào thế, hr nói mình FE pending demand 2 tháng nay rồi mà nhỉ
+
+---
+
+### Post #2151 — Serryl [Interview Experiences]
+
+**Date:** May 31, 2026 at 2:04 PM
+
+Em tham khảo kinh nghiệm để chuẩn bị trước thôi á bác, bữa giờ có search mà không thấy open để apply
+
+---
+
+### Post #2152 — ongnoimbappe [Interview Experiences]
+
+**Date:** May 31, 2026 at 2:08 PM
+
+trời tưởng bác có lịch rồi
+
+---
+
+### Post #2153 — blah02 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 3:38 PM
+
+Mình mới pv sen java backend dev ở N xong cơ mà tạch ở vòng technical. Share lại kinh nghiệm cho mọi người:
++ Phỏng vấn khá sâu vào Java core, spring boot, SQL db, microservice. Mình cũng khá tự tin về kiến thức phần này, tuy nhiên có 1 vài câu mình bất đồng quan điểm với interviewer, k biết có phải vì thế mà mình tạch ko
+Ví dụ 1 vài câu:
+Cho câu query sau: select id, name, adress from student where name like ‘abc%’ and id = 1. Em sẽ đánh thêm index gì để tối ưu truy vấn. Mình có hỏi lại interviewer là id có phải mà primary key ko, đã đc confirm lại là có. Thế là mình tự tin trả là ko cần đánh thêm index gì nữa, vì lookup theo primary key đã là tối ưu rồi. Nhưng interviewer k cùng quan điểm, bảo phải đánh composite index (id, name) và bảo mình về search google thêm
+Thứ 2 là hỏi về HashMap khi put 100 key của class User (class này ko implement phương thức nào) vào map thì map.size() trả về bao nhiêu. Câu này mình trả lời luôn là HashMap xài hashCode và equals method của Object để đưa các entry vào bucket, việc k implement 2 method này mà sử dụng HashMap thì sẽ dẫn đến unexpected result nên câu hỏi này chỉ có thử xong xem đáp án là gì => thuộc dạng biết hay k biết vì vốn từ đầu đã dùng Hashmap sai cách
+Thứ 3 vẫn là về db, cụ thể là postgres. Giả sử có 1 table rất lớn, hàng tỷ bản ghi, đã có index đầy đủ, câu query luôn chỉ lấy dữ liệu tối đa 6 tháng nhưng vẫn chậm. Em sẽ làm gì? Tất nhiên, mình đã trả lời là sử dụng paảtitioning tuy nhiên đối với bảng lớn như vậy mà chuyển từ non-partition sang partitioned thì cũng đòi hỏi kế hoạch thực hiện chặt chẽ do postgres k có hỗ trợ built-in tính năng để convert bảng sang paẩtitioned, phải xử manually bằng cách tạo bảng mới và move dần  dữ liệu -> interviewer bảo e có chắc là postgres k có built-in nào hỗ trợ convert ko, cách của e cũng đc nhưng là 1 lựa chọn thôi. Mình cũng đứng hình mất 2s, cũng k chắc là postgres mới thì có hỗ trợ feature đó k, về nhà research lại cũng k thấy postgres mới nhất hỗ trợ. Ngoài ra thì interviewer cũng bảo mình là sao e k nghĩ đến việc anh đánh sai index, anh chỉ bảo là có index đầy đủ, còn anh expect e cần phải đặt lại câu hỏi có đúng là như thế ko (chỗ này mình cũng chịu luôn, chơi câu chữ quá nhưng mà dù sao mình cũng biết làm sao để verify lại index có đc sử dụng hay ko)
+Vẫn còn nhiều câu hỏi lắm, nhưng mình chỉ nhớ những câu mình bất đồng quan điểm với interviewer và đc đánh giá level chỉ ở middle. Share lại cho ae tham khảo, cũng là để cao nhân nào đi ngang qua thấy e sai thì chỉ điểm cho em
+
+---
+
+### Post #2154 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 3:54 PM
+
+Người PV fen chắc không thích fen, fen trả lời vậy quá ok rồi. Lỡ xui fen pass PV làm chung với thanh niên này thì cũng hơi mệt
+
+---
+
+### Post #2155 — gravity134 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 3:56 PM
+
+câu 1 thì tui nghĩ fen đúng r,  về cơ bản query có primary key  đã là best case r
+câu 3 thì tui nghĩ fen trả lời hơi vội, vì chưa biết bottleneck ở đâu, db chậm thì có vô vàn nguyên nhân, ví dụ query chưa tốt, db connection, disk I/O, buffer,  cpu throttle, ...
+cơ mà nghe qua thì thấy interviewer đang cố chứng minh mình giỏi hơn chứ ko còn là thảo luận nữa
+
+---
+
+### Post #2156 — daydreamer95 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 4:01 PM
+
+nice bro, Bạn review cũng cụ thể chất lượng. Đen thôi đỏ quên đi
+Mình còn ko qua đc screen CV
+
+---
+
+### Post #2157 — luiz [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 4:04 PM
+
+Trả lời vậy là hiểu cũng sâu rồi, interviewer vặn vẹo, chi li quá. Tư duy vậy là ok rồi, với câu 1 thì có primary key rồi, thì bản ghi là duy nhất rồi, đi dùng multiple index làm chi nữa, interview có vẻ sách vở và k hiểu hết bản chất
+
+---
+
+### Post #2158 — Momo03 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 4:12 PM
+
+Sợ nhất interview kiểu vặn vẹo và đánh đố ntn
+
+---
+
+### Post #2159 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 4:19 PM
+
+em nhớ bác làm Java dou mà
+
+---
+
+### Post #2160 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 4:22 PM
+
+c3 như ở trên bác hơi vội cho em hỏi chút còn phần nào nữa k bác hay có mỗi java spring db kafka microservice ko có Sys des hay live code ạ
+
+---
+
+### Post #2161 — System Design [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 4:56 PM
+
+kiến thức fen chắc phết đấy chứ
+
+---
+
+### Post #2162 — Alibabacoder [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 5:44 PM
+
+Mình pv N cũng bị vặn vẹo như này và interviewer cũng đang cố chứng tỏ là giỏi hơn maybe mình và thím có thể pv chung người.
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2163 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 5:59 PM
+
+kq sao thím
+chắc N đỏ nhỉ
+
+---
+
+### Post #2164 — picolami [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 7:07 PM
+
+Câu 1 tôi nghĩ người hỏi đang muốn nói đến thứ tự xử lý điều kiện, có thể trả lời kiểu khoe kiến thức hơn sẽ là query optimizer sẽ tự biết tìm prim key trước. Quá đủ tốt rồi nên tối ưu thêm không có ý nghĩa thêm.
+Câu 2 thì tuy lâu không dùng Java nhưng tôi không nghĩ là có chỗ nào trong spec ngôn ngữ nó bảo là unexpected result, mà nó sẽ dùng default hashcode & equals của Object, hình như là dùng tạm địa chỉ object, có lẽ sẽ vẫn trả về 100 bình thường về đề bài yêu cầu tạo 100 key.
+Câu 3 phần partition thì thường ai cũng làm bảng khác rồi move dần an toàn hơn, có thể interviewer thích vặn vẹo kiểu khoe hiểu biết thật. Nhưng query chạy chậm thì nên nghĩ đến tối ưu query trước khi tối ưu bảng là đúng.
+
+---
+
+### Post #2165 — SuperCryptoCat [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 7:11 PM
+
+Có nhớ tên interviewers ko 2 fen
+
+---
+
+### Post #2166 — Ruoi Den [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 8:32 PM
+
+hỏi mấy cái này đc gì fen
+
+---
+
+### Post #2167 — Alibabacoder [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 8:39 PM
+
+Kết quả fail nha gặp quả HR ối dồi ôi nữa, nói chung mình xui
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2168 — blah02 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 8:47 PM
+
+Cảm ơn fen, mình trong ngành cũng 10 năm rồi
+Mình pv ko có sys des hay live code đâu, cái này mình nghĩ là tùy vào interviewer yêu cầu hay ko, đủ thời gian pv hay ko thôi
+C2 ý tôi là kết quả thì tôi ko biết chứ ko phải là java trả về unexpected result
+C3 thì do đề bài có nói đã có index đầy đủ, cũng ko nói thêm về có 1 bảng nào khác nên tôi nghĩ đến partition thôi
+Nhớ nhưng thôi, học tài thi phận
+. Mình cũng hayđi pv các bạn khác vào cty mình nên mình cũng biết là vàođc hay ko nó còn do duyên số chứ cũng ko phải cứ trả lờiđúng làđc
+
+---
+
+### Post #2169 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 9:02 PM
+
+frm đó làm N chắc lùng
+
+---
+
+### Post #2170 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 9:08 PM
+
+nG
+hay phết, cơ mà bác cũng xui... họ vặn vẹo như này chắc vấn đề cá nhân hơn là chuyên môn
+
+---
+
+### Post #2171 — vodka_hanoi1 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 9:11 PM
+
+câu 3 db chậm thì phải nhìn stats mới biết được
+cpu, io disk, query slow, hardware cpu cho 1 core thì cũng gọi là chậm
+từ đó mới có cách giải quyết
+
+---
+
+### Post #2172 — Violet_7 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 9:35 PM
+
+Câu cuối có thể dùng extention timescaleDB. Trc em làm bảng 1tỷ8 hàng mà query bất kì khoảng thời gian nào cx đều dưới 50ms
+
+---
+
+### Post #2173 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 9:37 PM
+
+1 tỷ 8 rows chứ bác, query theo PK hay sao bác. Có partition gì không bác
+
+---
+
+### Post #2174 — Violet_7 [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 9:39 PM
+
+Query bình thường thôi bác, partition theo thời gian do timescaleDB hỗ trợ. Chắc ông PV muốn dùng cái này vì timescaleDB partition rất dễ
+
+---
+
+### Post #2175 — VôKỵTrương [Interview Experiences]
+
+**Date:** Jun 1, 2026 at 10:02 PM
+
+Câu 1: Interviewer troll
+Câu 2: không bàn
+Câu 3: ông troll lại interviewer
+
+---
+
+### Post #2176 — picolami [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 12:32 AM
+
+C2 trả lời unexpected result cũng là 1 câu trả lời và nó không đúng, fen biết nó hoạt động ra sao chỉ là không suy luận đưa ra câu trả lời đúng.
+C3 nếu fen có ôn luyện trước pv thì về index có hẳn 1 lớp câu hỏi đánh index đầy đủ nhưng query chạy chậm
+Tôi vẫn nghĩ là fen 10 kn năm rồi mà vẫn có cái gì đó hơi vội vàng hấp tấp ấy. Tất nhiên mấy thủ thuật này nên dùng cho đố vui, trà dư tửu hậu, chứ dùng đánh giá ứng viên thì e là người pv năng lực làm việc thì không nói, năng lực đánh giá người khác có hơi kém.
+
+---
+
+### Post #2177 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 9:45 AM
+
+Có người PV rất nice. Tuần trước tôi có PV iOS, cũng hỏi những câu cơ bản của ngôn ngữ, 1 bài live code trên hackerrank. Trong lúc làm bài live code, tôi không nhớ cú pháp swift ông interviewer chỉ tôi luôn
+. Khi có những câu tôi ngậm ngừng không nhớ ổng còn gợi ý nữa, vl quá.
+Nếu mà được làm việc với người này thì chắc chắn sẽ học được rất nhiều.
+
+---
+
+### Post #2178 — Pitou [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 11:24 AM
+
+đùa pv còn có cả case như này nữa hả?
+
+---
+
+### Post #2179 — bonamana2811 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 11:29 AM
+
+thím có pass bài test của tg này ko. Mình bữa làm cũng tốt mà ko hiểu sao bị báo fail
+
+---
+
+### Post #2180 — bonamana2811 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 11:33 AM
+
+N này là N*B hay N**ER vậy fen
+
+---
+
+### Post #2181 — crazy9x256 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 12:23 PM
+
+Mé, đánh index trên cột name/ varchar2 thay đổi thì để mỗi lần insert hay update dữ liệu nó scan tới chết à? Có pk là best rồi
+đồng ý với fen, thanh niên interviewer kia đang trả lời không đúng trọng tâm về kỹ thuật cho lắm
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2182 — Dev xịn [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 12:42 PM
+
+Có ai phỏng vấn dev ở Cake (by VPBank) chưa nhỉ. Cho em xin sơ bộ review với, full eng hay 50-50, có livecode không ạ
+
+---
+
+### Post #2183 — blah02 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 1:07 PM
+
+Cảm ơn góp ý của fen. 10 năm làm việc thì cũng chỉ là hạt cát giữa 1 bể kiến thức rộng lớn. Cái gì tôi ko biết thì tôi trả lời tôi ko biết, chứ tôi ko đoán mò.
+C3 thì tôi hiểu sai khái niệm “đầy đủ” và bỏ qua hoàn toàn vấn đề về index. Tất nhiên trên thực tế, để tìm ra bottleneck thật sự đằng sau 1 câu query chậm thì sẽ có rất nhiều metric cần đc đánh giá trc khi nghĩ tới partition. Tuy nhiên, với kinh nghiệm của tôi thì 1 bảng có cả tỷ bản ghi thì đương nhiên phải đc đánh partitioned và query phải áp dụng đc partition-pruning. Thiết kế bảng có partition ngay từ đầu khi bảng đó là bảng chứa dữ liệu của người dùng hàng ngày, tốc độ scale dữ liệu lớn là 1 trong những tiêu chí đầu tiên khi tôi lên giải pháp. Còn tất nhiên dữ liệu ít, chạy mấy năm trời nhưng có dưới 10m bản ghi thì việc blindly đánh partition đúng chỉ là thừa giấy vẽ voi
+
+---
+
+### Post #2184 — nienvu [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 1:38 PM
+
+đang làm ở đây, role fe, quen ông be bên cạnh pvan full en có 1 ông việt sẽ hỗ trợ nếu en bạn kh nói dc(cố gắng nói càng nhiều tỷ lệ pass càng cao) pvan tech cơ bản thôi, middleware là gì, kiểu kiểu vậy.
+mới 1yoe khuyên đừng vào, cty của Trung vào làm mấy feature dễ, feature khó bọn Trung nó méo cho mình làm, môi trường gen z toàn mấy ô trẻ trẻ, có nhiều ô làm 2-3 năm hiểu dự án xíu nó cho lên lead luôn(tech thì kém, quan điểm cá nhân)
+
+---
+
+### Post #2185 — Storm... [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 3:04 PM
+
+job ở VPBank thỉnh thoảng lại thấy hiện lên không biết là tuyển thật hay là... có bác nào làm HR ở VPBank confirm hộ em với
+CV cũng ko đến nỗi nào mà...
+
+---
+
+### Post #2186 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 3:07 PM
+
+nhờ refer đi fen kbt package VP ntn trc deal 3x mid ghost luôn
+
+---
+
+### Post #2187 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 3:44 PM
+
+Tôi apply khá nhiều jobs ngân hàng, đa số ghost, có thằng OCB mới mail thư reject
+. Chắc phải như fen nói. không có refer thì cút.
+
+---
+
+### Post #2188 — leo123123 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 4:46 PM
+
+Dạ có ai có kinh nghiệm phỏng vấn và các vòng process của GFG ko ạ, vị trí middleBE và thường range lương thế nào v ạ
+
+---
+
+### Post #2189 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 7:59 PM
+
+ghost là đúng rồi hihi, bên bank inhouse hơi chán đấy bác, mình sợ 28-30 cũng ghost luôn quá
+
+---
+
+### Post #2190 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:10 PM
+
+Bị đưa qua dự án no code - low code, càng có thêm động lực về ôn luyện rồi đi pv
+
+---
+
+### Post #2191 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:19 PM
+
+dự án cuối cùng của tôi ở cty không hẳn là low code mà code ít, cụ thể là ML OCR, mà cty nó đéo thuê người labeling, không có người lọc data chỉ mình tôi + 2 thực tập mà ML tôi lại không chuyên, thêm sếp hãm nữa thế là thất nghiệp
+.
+
+---
+
+### Post #2192 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:22 PM
+
+Bác có việc mới lại chưa... thất nghiệp do bác nghỉ hay nó layoff thế
+
+---
+
+### Post #2193 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:25 PM
+
+trc còn bị đẩy qua làm prompt
+
+---
+
+### Post #2194 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:27 PM
+
+Stress quá tự nghỉ bác. Bị ép vào dự án không đúng tech stack mà không phải 1 cái mà là 2. Tôi gồng được 4 tháng rồi tự nghỉ.
+Mà nhiều khi là cty nó ép tôi nghỉ cũng không biết chừng.
+
+---
+
+### Post #2195 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:39 PM
+
+Giống mình, mà mình thì đặc thù dự án. họ muốn giữ mà mình thấy tương lai hơi mù mịt nên thôi chủ động nghỉ, làm toàn csv với .xml không à
+
+---
+
+### Post #2196 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:41 PM
+
+nghỉ luôn  bác làm chán lắm lụt hết nghề
+
+---
+
+### Post #2197 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:47 PM
+
+Mình cũng sắp đây bác, qua cái dự án này được 2 tháng mà mình buồn nôn... Cảm thấy lụt nghề hẳn ấy, 8 tiếng ở công ty vô nghĩa vãi. Lương mình htai cũng không cao nên cũng ít đắn đo, mình 1x trung học cơ sở gross à
+
+---
+
+### Post #2198 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:49 PM
+
+Má tôi xin nghỉ ông GĐ ký phát một không hỏi hang gì. Bác nên tìm việc trước khi nghỉ. Tôi nghỉ rồi giờ đang tìm việc cũng há mồm.
+
+---
+
+### Post #2199 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:56 PM
+
+bác role gì và level gì ấy, bị thất nghiệp bao lâu rồi bác
+
+---
+
+### Post #2200 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 8:58 PM
+
+Tìm trước cũng khó bác à, mình đi làm về đến nhà chỉ ráng ôn luyện được 1-2 tiếng. Cảm giác quá khó, mong manh vãi...
+
+---
+
+### Post #2201 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 9:00 PM
+
+cố cày thoi
+tg fen có offer mà k nhảy à
+
+---
+
+### Post #2202 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 9:02 PM
+
+2 offer ấy mình thấy chưa ổn lắm fen, không phải mỗi lương bổng mà là độ smell nữa fen à
+2-3 tháng này cũng ráng về ôn luyện để đi apply mà cảm giác đuối quá, không có thời gian mấy để ôn
+
+---
+
+### Post #2203 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 9:17 PM
+
+mình làm mobile và fullstack tuỳ techstack từ mid -> sen. Thất nghiệp được hơn tháng mà trong tháng mình về quê nghỉ ko làm gì hơn 1 tuần. Có 1 offer rồi mà bèo quá mình ko nhận
+
+---
+
+### Post #2204 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 9:23 PM
+
+level của bạn mình nghĩ đủ tài chính để gồng ở thành phố mà, bạn về quê nghỉ ngơi rồi lên lại kiếm việc hả... bèo thì tiếp tục rải thôi bạn, mới 1 tháng thôi mà
+
+---
+
+### Post #2205 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 9:51 PM
+
+Đúng rồi fen mình về quê hơn tuần mà chán quá nên lên TP lại với tài chính cũng đủ nên mình mới dám nghỉ mà không cần tìm việc trước.
+Nhiều năm rồi mình không đi xin việc nên khá là bị bối rối. Mấy jobs trước là có người ref hoặc việc nó tự tìm đến
+. Giờ thị trường nó khó khăn mình rãi tầm 25 cv trong 3 tuần thì đi PV 4 cty và được 1 offer. Trong khi trước kia mình chỉ cần bật tìm việc ở topcv thôi là có người gọi rồi, ko cần tìm luôn.
+
+---
+
+### Post #2206 — ongnoimbappe [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 9:54 PM
+
+Như thế mình thấy lại hay, để bạn hiểu được thị trường hiện tại để cố gắng sau này, thôi cố gắng ôn luyện rồi lên TP apply tiếp thôi myfen, mình nghĩ fen đôi ba tháng nữa là ổn định...
+
+---
+
+### Post #2207 — nkciam [Interview Experiences]
+
+**Date:** Jun 2, 2026 at 11:47 PM
+
+PV N vẫn cứ là khó ae nhỉ
+
+---
+
+### Post #2208 — Young_Dev_In_SG [Interview Experiences]
+
+**Date:** Jun 3, 2026 at 12:13 PM
+
+Nghe như D_ít_C ở E town
+
+---
+
+### Post #2209 — MrTux [Interview Experiences]
+
+**Date:** Jun 3, 2026 at 12:27 PM
+
+Dễ vl nhưng vào tier-3-4 làm gì, cứ tier-S, tier1-2 mà vã chứ
+
+---
+
+### Post #2210 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 3, 2026 at 1:23 PM
+
+chắc ý là Nvidia chứ kp Nab
+
+---
+
+### Post #2211 — nkciam [Interview Experiences]
+
+**Date:** Jun 4, 2026 at 4:08 PM
+
+Là N*b pv khó nhé các thím. Pv round cuối offline cũng căng nữa đó
+
+---
+
+### Post #2212 — Boycudon666 [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 10:38 AM
+
+Đợt vừa rồi em cũng có đi pvan 1 số công ty có môi trường global, nói chung là tình hình bây giờ khá cạnh tranh, nên yêu cầu của nhà tuyển dụng cũng cao hơn nhiều.
+Cty 1: A*cend (tài chính)
+Role: Middle Software Engineer
+Pvan: 2 vòng: vòng 1 là tech, vòng 2 là culture fit
+Vòng tech: live code trên giấy, bài của em là tìm xem có đường đi từ điểm đầu -> điểm cuối trong 1 đồ thị không trọng số hay không.
+Sau đó thì bắt đầu hỏi về dự án đang làm, architecture gì, công nghệ gì, mô tả cách xử lí trong công việc và các trường hợp đặc biệt.
+Hỏi về core Java, Spring, đào sâu vào các vấn đề như JVM, memory, bean life cycle và quản lý trong spring context.
+Hỏi về cách cải thiện hiệu suất API như tăng TPS, RPS như nào. Hỏi về tối ưu DB: indexing, partioning.
+Hỏi về quy trình test: Auto, integrate, unit test. Sản phẩm làm với AWS nên hỏi cách sử dụng và hiểu về các dịch vụ trong AWS.
+Vòng tech không pass nên em chưa đến được vòng 2. Pvan bằng tiếng Anh nửa buổi, nửa buổi trao đổi tiếng Việt sâu hơn.
+Cty 2: E*am (OS global)
+Role: Middle Software Engineer
+Pvan: 4 vòng: vòng 1 quick call 30' với HR, check TA. Vòng 2: Tech. Vòng 3: culture fit. Vòng 4: pvan với KH. Em cũng tạch ở vòng 2 technical.
+Nội dung pvan tech: Hỏi về Test: test performance, unit, integrate, auto.
+Hỏi về lamda expression, functional interface trong java 8
+Hỏi về JVM, Garbage collector, SpringContext và Bean
+Hỏi về các vde trong concurrency, làm sao để an toàn trong đa luồng.
+Hỏi về các hoạt động của các annotation như
+@Bean
+và @Configuration
+Hỏi về tối ưu DB: indexing, partioning. Phân biệt Stored, Procedure và View...
+Hỏi về AWS.
+Pvan full tiếng Anh đến khi không trả lời được thì qua tiếng Việt.
+Đặc biệt cả 2 đều hỏi cách làm việc hiện tại có dùng AI không và dùng như thế nào hiệu quả.
+Thị trường khó nên yêu cầu cũng cao hơn nhiều, khó khăn cho ae dev level mid non trở xuống qué.
+
+---
+
+### Post #2213 — luiz [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 10:56 AM
+
+Pv middle mà căng thế à
+, thím bao yoe rồi nhỉ
+
+---
+
+### Post #2214 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 10:59 AM
+
+ghế ít đít nhiều mà trừ khi urgent ko thì cty nào cx z thôi, thím còn chưa có sys des dáyd nhé
+
+---
+
+### Post #2215 — Pitou [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 11:18 AM
+
+code thì làm đéo gì có thằng nào hơn đc AI hả gacon
+
+---
+
+### Post #2216 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 11:19 AM
+
+Bên nào giờ cũng vậy thôi bạn, khoảng 4 5 năm trước thị trường khát nhân sự nên PV dễ hơn bây giờ nhiều.
+
+---
+
+### Post #2217 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 11:20 AM
+
+Thì cũng phải có người gõ prompt chứ fency
+
+---
+
+### Post #2218 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 11:27 AM
+
+Bạn nói thế tôi chịu, bạn nên nhớ là AI là cái tool, cái máy, phải có người điều khiển nó, không ai có máy rồi lại làm tay bao giờ. Người ta bây giờ thuê người để vận hành cái máy đó. Đương nhiên là phải biết được cái máy đó làm gì, và kiến thức để vận hành. Bác thuê lao công vào gõ prompt hộ tôi cái.
+
+---
+
+### Post #2219 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 11:47 AM
+
+luơng lậu thím với expect sao á
+
+---
+
+### Post #2220 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 11:59 AM
+
+dm câu hỏi chỉ có thể những thằng gacon mới nghĩ dc
+
+---
+
+### Post #2221 — Boycudon666 [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 1:26 PM
+
+expect cho mid tầm 35-40M á bác, hơi nhỉnh so với đội VN chút thôi
+
+---
+
+### Post #2222 — Storm... [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 1:51 PM
+
+epam thấy ông hàng xóm khoe lương 4k đô, wfh thoải mái vl
+
+---
+
+### Post #2223 — luiz [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 2:22 PM
+
+Ở HN hay SG đó thím, tưởng EP*M đây là làm remote, k có office?
+
+---
+
+### Post #2224 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 5, 2026 at 2:46 PM
+
+ao sụôc remote hybrid hay ko lag ph theo client
+
+---
+
+### Post #2225 — huipwofuwbu [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 12:03 AM
+
+Mấy bác cho em hỏi là phỏng vấn Fresher ở Netcompany có DSA không ạ ? mấy đứa bạn em nó kêu không có thậm chí có đứa mới vào cũng kêu không có mà em đọc mấy reply trước thấy có 2-3 ông kêu có lâu rồi làm em thấy hoang mang quá . Em ở HCM vừa ra trường chưa có exp gì cả .
+
+---
+
+### Post #2226 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 12:30 AM
+
+cứ cbi thôi có thừa gì đâu, ngày làm 1-2 bài
+
+---
+
+### Post #2227 — me0wMe0w [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 10:44 AM
+
+Giờ mỗi lần đọc thấy cái cmt kiểu wtf?!?! là t phải check ngày join liền và kết quả đều giống những gì t nghĩ
+
+---
+
+### Post #2228 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 10:59 AM
+
+kbt gì tốt nhất đừg hc master phí tiền mà còn k hiểu
+
+---
+
+### Post #2229 — tun125 [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 5:13 PM
+
+2 năm sau vẫn cùng bộ câu hỏi, k biết anh nay làm vị trí gì. Em vô pv cũng 1 vs 3 manager hỏi đủ từ trên trời dưới đất, hỏi cả CV, foundation, game knowledge
+Lương thì cũng hơi ít, cty ưu tiên ứng viên ở gần q7 để tiết kiệm tiền grab đi lại
+Công ty nay xoáy cực sâu về vấn đề tại sao em lại nghỉ cty cũ
+
+---
+
+### Post #2230 — MeoVuiVe9121 [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 7:39 PM
+
+Giờ làm nv văn phòng rồi fen, đợt đó tạch cũng đi nộp đủ chỗ mà không có phản hồi, tới tháng 10 mới có việc mà cũng chẳng phải chuyên ngành của mình, nhưng tới giờ  làm cũng được gần 2 năm
+
+---
+
+### Post #2231 — tun125 [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 9:33 PM
+
+Cty nexon giống cty outsrc game, giống fpt bên software. Cty k có careerpath rõ ràng, như từ qa game -> manager bỏ hết skill technical, manage các thứ. Salary dev nexon khá cao so với lv fresher
+Cty có quả dị giáo nếu ot thì 18h về rồi bắt grab lên cty trả tiền)
+Lương QA cũng....., chắc lâu nay ae tester nhảy vô cty làm vài tháng rồi cút cty khác nên cty yêu cầu nặng về tinh thần gắn bó. Mình cũng bí bách lắm nhảy vô làm kiếm tiền ăn
+
+---
+
+### Post #2232 — MeoVuiVe9121 [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 9:45 PM
+
+Cố lên fen, có đồng ra đồng vào là ok. Giờ mà không việc cảm giác bí bách lắm. Lúc đầu pv cũng mơ mộng đủ thứ, giờ skill chắc bay sạch rồi
+
+---
+
+### Post #2233 — tnguyen1308 [Interview Experiences]
+
+**Date:** Jun 7, 2026 at 9:46 PM
+
+Cho xin 2 chữ cái đầu tên 2 người pv bro dc ko ạ, nghe thấy quen quen
+
+---
+
+### Post #2234 — ehwjaq [Interview Experiences]
+
+**Date:** Jun 8, 2026 at 2:50 PM
+
+cảm ơn thím, tuần này cũng có lịch pv E*am
+
+---
+
+### Post #2235 — noneedname [Interview Experiences]
+
+**Date:** Jun 9, 2026 at 8:49 PM
+
+Thằng bạn mới tạch pv dạo Consultant bên N đỏ, cũng hỏi mấy câu tương tự ntn. Thêm 1 số câu như sau:
+Trong Spring  thì @Component để làm gì, dùng nó thay cho
+@service
+hay @Repository được k?
+Bean scope có mấy loại, dùng làm gì khác nhau ntn?
+Java stream là gì, ưu điểm ntn.
+
+---
+
+### Post #2236 — picolami [Interview Experiences]
+
+**Date:** Jun 9, 2026 at 11:47 PM
+
+Thank đồng chí. Tôi note lại để sau bị layoff biết là mình apply sê nho náp được
+
+---
+
+### Post #2237 — Ruoi Den [Interview Experiences]
+
+**Date:** Jun 10, 2026 at 7:47 PM
+
+Vsmart pay có phải là cái V app ko mấy thím?
+
+---
+
+### Post #2238 — _millionsun93_ [Interview Experiences]
+
+**Date:** Jun 10, 2026 at 11:39 PM
+
+ko, là 1 cái khác đó
+
+---
+
+### Post #2239 — small-lambda [Interview Experiences]
+
+**Date:** Jun 15, 2026 at 10:37 AM
+
+câu này có vẻ như query chạy aggregate, như làm report, dashboard, và có vẻ đang muốn hỏi về materialized view
+kết luận: đấm interviewer
+
+---
+
+### Post #2240 — minhmoon [Interview Experiences]
+
+**Date:** Jun 15, 2026 at 3:11 PM
+
+Đi làm bài Assessment của một công ty outsource lỏ ở Hà Nội để kiếm second job làm cho đỡ đói, đề bài mention rõ ràng là làm trong 2h nhưng khi nộp bài thì reviewer feedback lại thì:
+Không có service separation
+Không có message broker.
+Hệ thống production cần scale từng phần độc lập — monolith không đáp ứng.
+Không có saga pattern, auto rollback error
+Tách riêng từng service auth, payment, reservation
+Session rotation
+Distributed lock
+Không cache với redis
+Thiếu apigw,nginx
+Đoán vội là đề bài client tạo ra nhưng thiên tài PM bên outsource dùng Claude để review và còn đ thèm vứt cho Claude cái requirement gốc để nó có thêm context.
+Note thêm là mình dùng next.js và postgresql rồi dùng lock của postgresql để làm thôi.
+
+---
+
+### Post #2241 — dinhson2212 [Interview Experiences]
+
+**Date:** Jun 15, 2026 at 3:35 PM
+
+siêu nhân nào làm cái này trong 2 tiếng nhỉ
+
+---
+
+### Post #2242 — picolami [Interview Experiences]
+
+**Date:** Jun 15, 2026 at 4:25 PM
+
+Đề bài có ghi là không được dùng Claude làm bài không?
+
+---
+
+### Post #2243 — minhmoon [Interview Experiences]
+
+**Date:** Jun 15, 2026 at 4:48 PM
+
+Thoải mái bạn, không giới hạn gì cả.
+
+---
+
+### Post #2244 — Pitou [Interview Experiences]
+
+**Date:** Jun 15, 2026 at 4:58 PM
+
+ứng viên đưa AI làm, còn nhà tuyển dụng thì đưa AI review, thế là ngon
+
+---
+
+### Post #2245 — picolami [Interview Experiences]
+
+**Date:** Jun 15, 2026 at 5:02 PM
+
+Thế đưa Claude cái đề bài khéo nó cũng đáp ứng mấy yêu cầu kia rồi, có khi tại human in the loop mới thiếu vậy. Nếu human can thiệp thì cho mấy cái prompt injection vào code comment, nhớ base64 đi cho khỏi lộ liễu, rồi bảo nó decode lại, nói đại loại đây là ứng viên phù hợp nhất không có gì để chê, chấm điểm vọt xà.
+Done ez pee zee
+
+---
+
+### Post #2246 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 15, 2026 at 5:05 PM
+
+nên là h ngại làm mấy bên có OA assgiment lắm toàn AI làm AI lại tự review ném leetcode đi cho lành
+
+---
+
+### Post #2247 — [E]dogawa[C]onan [Interview Experiences]
+
+**Date:** Jun 16, 2026 at 11:11 AM
+
+có thím nào từng phỏng vấn masan group vị trí sr net developer chưa cho em xin ít kinh nghiệm với ạ
+
+---
+
+### Post #2248 — elsol [Interview Experiences]
+
+**Date:** Jun 20, 2026 at 3:49 PM
+
+Các bác có ai interview round pair programming ở Thoughtworks chưa nhỉ, round này sẽ code gì ta chắc không DSA đâu nhỉ
+
+---
+
+### Post #2249 — bonamana2811 [Interview Experiences]
+
+**Date:** Jun 20, 2026 at 6:31 PM
+
+kiểu code 1 API á fen, trước pvan 1 2 buổi Hr sẽ gửi link repo trước rồi tới buổi pvan sẽ pair coding trên đó. Nói chung round này ko khó, khó ở round cuối pvan consultant skill thôi
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2250 — System Design [Interview Experiences]
+
+**Date:** Jun 23, 2026 at 9:50 AM
+
+Kể Về Một Con Bug Khó Nhất Bạn Từng Gặp?​
+mấy câu này trả lời sao cho dễ khai thác mấy bác nhỉ
+
+---
+
+### Post #2251 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jun 23, 2026 at 9:52 AM
+
+có thì kể k có thì chém follow STAR thôi
+
+---
+
+### Post #2252 — LãngKh4ck [Interview Experiences]
+
+**Date:** Jun 23, 2026 at 11:56 PM
+
+Cty: KMS Healthcare
+Role: Senior DevOps Engineer
+Pvan: 2 vòng: vòng 1 là tech, vòng 2 là culture fit
+Vòng tech: phỏng vấn online với 1 tech  và 1 senior
+Giới thiệu về dự án đang làm, architecture gì, công nghệ gì, mô tả input, output
+Hỏi về CI/CD workflow, cách setup agent, cách phân chia role của user, structure pipeline
+Hỏi về Terraform, repo structure thế nào, module thế nào, tfstate
+Hỏi về Azure, chia RBAC, setup IAM & roles, storage tier trong blob storage, virtual network, Gateway, Sentinel, Defenders
+Hỏi về AWS, lưu file trong S3, mô tả dựng VPC, private subnet, public subnet
+Pvan full tiếng Anh đến khi không trả lời được thì qua tiếng Việt.
+Sau 4 ngày thì mình pass technical, qua culture fit và deal lương
+Vòng 2: phỏng vấn online với hiring manager
+Pv bằng tiếng Anh nửa đầu về behavior, cách giải quyết conflict trong team, conflict với manager., định hướng trong 3-4 năm tới
+Nửa cuối deal lương bằng tiếng Việt
+
+---
+
+### Post #2253 — LãngKh4ck [Interview Experiences]
+
+**Date:** Jun 24, 2026 at 12:15 AM
+
+Cty: Google
+Role: Software Engineer for Chrome
+Tôi nộp trên trang careers của Google, sau 1 ngày thì nhận mail được process.
+Vòng đầu tiên là online assessment. Được làm trong vòng 4 ngày kể từ khi nhận mail
+Đề sẽ là 30 câu trắc nghiệm behavior trong 30p. Trả lời xong không được phép back về câu cũ. Câu hỏi sẽ bị lặp lại hoặc đảo cách hỏi để xem hành vi có nhất quán và cách làm việc với hợp với cty không.
+Tôi tạch nên không thể review thêm
+
+---
+
+### Post #2254 — heroni2510 [Interview Experiences]
+
+**Date:** Jun 24, 2026 at 3:40 PM
+
+đù làm nếu mà pass thì làm remote à bác.
+
+---
+
+### Post #2255 — papillontheminions [Interview Experiences]
+
+**Date:** Jun 24, 2026 at 4:10 PM
+
+có bác nào phỏng vấn ở kredivo/timo vị trí senior chưa? Vòng live coding hỏi cỡ medium hay sao các bác
+
+---
+
+### Post #2256 — SuperCryptoCat [Interview Experiences]
+
+**Date:** Jun 24, 2026 at 4:31 PM
+
+Epam vẫn có office đó thím, mà member lười lên thôi. Làm remote thích hơn nhưng vẫn có 1 cái office nhỏ cho mấy anh em nào ngán việc remote
+
+---
+
+### Post #2257 — LãngKh4ck [Interview Experiences]
+
+**Date:** Jun 24, 2026 at 5:19 PM
+
+Job on-site bác. Mà nghe nói big tech tụi nó sponsor visa luôn ấy. Nên tôi cũng thử vận may, biết đâu được qua Canada
+
+---
+
+### Post #2258 — kazuoken [Interview Experiences]
+
+**Date:** Jun 24, 2026 at 5:39 PM
+
+Có nghĩa là bác ở VN apply job của Google ở Canada và được process?
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2259 — madlyn_03 [Interview Experiences]
+
+**Date:** Jun 25, 2026 at 4:25 PM
+
+Có bác nào phỏng vấn Techvify chưa em xin ít knghiem với, bên này pvan full eng luôn phải không ạ
+
+---
+
+### Post #2260 — Fire Of Heart [Interview Experiences]
+
+**Date:** Jun 25, 2026 at 10:56 PM
+
+làm AI cho V mà chỉ up to 50M á
+
+---
+
+### Post #2261 — noneedname [Interview Experiences]
+
+**Date:** Jun 25, 2026 at 11:05 PM
+
+Có phải cái seat reservation assessment không nhỉ
+Em HH có đưa solution reviewer cho vào  shortlisted dùng nguyên architect mà fency đưa ở trên, mình open 1 cái issue trên repo kêu con Claude chửi nhiệt tình vào xong mail lại cho khứa reviewer
+Mà solution của fency giống hệt của mình, hoá ra Claude nó lười thật
+
+---
+
+### Post #2262 — elsol [Interview Experiences]
+
+**Date:** Jun 30, 2026 at 3:49 PM
+
+Xong round pair programming rồi bác, chuẩn bị round technical, bên này họ sẽ focus vô system mình đang làm, rồi hỏi mấy adhoc case hay sao bác
+
+---
+
+### Post #2263 — Ruoi Den [Interview Experiences]
+
+**Date:** Jun 30, 2026 at 4:49 PM
+
+Mình tạch round này nên review sơ sơ thế này cho bác chuẩn bị.
+Hỏi kĩ về hệ thống, kể cả business, khá dị vì mình chưa bị hỏi kiểu này bao giờ. Kiểu: chức năng này làm gì, ý nghĩa gì với user,...  Hỏi nhiều câu hỏi tại sao, ví dụ tại sao lại chọn database này, message broker này, chọn cái khác đc ko, ưu nhược là gì?
+Đại khái là mình thấy thiên hướng consulting nhiều hơn là technical interview.
+Chúc bro may mắn.
+Kể cả tạch thì đây vẫn là quy trình pv chuyên nghiệp nhất mà mình từng tham gia
+
+---
+
+### Post #2264 — elsol [Interview Experiences]
+
+**Date:** Jun 30, 2026 at 4:57 PM
+
+Yeh thank bác, đọc TW nó đi theo hướng consulting, để mình tự mock chuẩn bị QA theo hướng này. Mình cũng thấy process interview ở đây cũng rất là nice con người cũng nice lun
+
+---
+
+### Post #2265 — bonamana2811 [Interview Experiences]
+
+**Date:** Jun 30, 2026 at 8:53 PM
+
+của mình thì hỏi chủ yếu về project cũ, thí dụ tại sao chọn RabbitMQ thay vì Kafka, rồi CI/CD flow bên mình ra sao, chọn database gì kiểu vậy. Nói chung round này mình thấy ko khó, chủ yếu round cuối về consulting skill mới căng thôi.
+
+---
+
+### Post #2266 — elsol [Interview Experiences]
+
+**Date:** Jun 30, 2026 at 9:05 PM
+
+Bữa HR nói round technical này xong tới round culture, là round này sẽ nói về consulting skill nhỉ
+Sao round này căng vậy bác
+
+---
+
+### Post #2267 — bonamana2811 [Interview Experiences]
+
+**Date:** Jun 30, 2026 at 9:32 PM
+
+của mình thì hỏi về cách deal task với stakeholder, cách làm việc với client… mà mình ko làm về outsource nhiều nên ko trả lời dc á
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2268 — elsol [Interview Experiences]
+
+**Date:** Jun 30, 2026 at 9:43 PM
+
+Bữa interview HR họ cũng hỏi mình kinh nghiệm làm việc với client như nào, tại mình hay làm outsource, mình cũng share làm việc với client thì toàn high level như SA or Tech lead  thôi, dev ít khi involve vô lắm
+
+---
+
+### Post #2269 — khanhduy8 [Interview Experiences]
+
+**Date:** Jul 1, 2026 at 12:40 AM
+
+Kredivo/timo thì manager bên Ấn nói tiếng anh hơi khó nghe, bạn hr thailand thì nói dễ nghe. Qua v2 xong thì k có phản hồi nên k biết thế nào. Vô chỉ hỏi cơ bản kiến thức chứ k test algo hay data structure. Cũng có thể do mình pv bên mảng sec nên k test. Bạn pv timo thì thêm 1 vòng VN thì tới vòng với bên kredivo nếu pass
+
+---
+
+### Post #2270 — Minutemen [Interview Experiences]
+
+**Date:** Jul 3, 2026 at 10:58 AM
+
+Tuần sau có buổi pv vs dxc - Junior Java. Bác nào pv rồi e xin thông tin
+
+---
+
+### Post #2271 — jetlivn [Interview Experiences]
+
+**Date:** Jul 5, 2026 at 9:33 PM
+
+có ae nào dạo gần đây pv role Senior Android dev/Mobile dev k cho mình xin 500 review với
+
+---
+
+### Post #2272 — ngominh114 [Interview Experiences]
+
+**Date:** Jul 5, 2026 at 9:59 PM
+
+Cho e hỏi có ai phỏng vấn role SWE ở OL Vietnam chưa ạ? Cho e xin chút kinh nghiệm với ạ
+
+---
+
+### Post #2273 — dongdoilatleo2 [Interview Experiences]
+
+**Date:** Jul 6, 2026 at 2:56 PM
+
+tầm này các cty còn hỏi algo k bác
+giờ dùng AI riết quen thối não rồi
+
+---
+
+### Post #2274 — Minutemen [Interview Experiences]
+
+**Date:** Jul 6, 2026 at 3:03 PM
+
+mấy thằng bạn e gần đây pv level junior thì k thấy nữa, thay vào đó hỏi system design
+
+---
+
+### Post #2275 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jul 6, 2026 at 3:10 PM
+
+có nma ít top tier thôi
+
+---
+
+### Post #2276 — elsol [Interview Experiences]
+
+**Date:** Jul 6, 2026 at 3:18 PM
+
+Vòng culture fit ở Rakuten Fintech sẽ tập trung hỏi về cái gì các bác nhỉ
+
+---
+
+### Post #2277 — Okr2023 [Interview Experiences]
+
+**Date:** Jul 8, 2026 at 4:26 PM
+
+Bác được google approve CV thì kinh vl rồi, dù ko pass nhưng vẫn hơn khối ng như em. Ko biết bác có kinh nghiệm gì trong việc chuẩn bị CV để được pv ko. Chứ e thì cũng background big tech Shopee, TikTok đông nam á thôi nhưng vẫn chưa bh đc process haha
+
+---
+
+### Post #2278 — LãngKh4ck [Interview Experiences]
+
+**Date:** Jul 8, 2026 at 4:57 PM
+
+Chắc do hên thôi bác
+CV tôi thực ra còn kém hơn cả bác khi không có mấy big tech như shopee hay tiktok. Tôi dùng cv theo standford template và theo các recommend trên mạng như nhấn mạnh về các achievement trong công việc của bác ở role đó, chứ không phải liệt kê daily task
+Một tip tôi học từ người quen là nếu cty bác là cty con hoặc liên doanh thì ghi cty mẹ, lấy danh tiếng để boost cv bác lên
+
+---
+
+### Post #2279 — Trình Hà Lân [Interview Experiences]
+
+**Date:** Jul 8, 2026 at 5:09 PM
+
+bác relocate hay du học đó, với bác rv shopee với tik tok cho mng tham khảo dc ko
+
+---
+
+### Post #2280 — Okr2023 [Interview Experiences]
+
+**Date:** Jul 8, 2026 at 5:37 PM
+
+Em relocate á bác.
+TikTok thì làm nhọc hơn mà học được nhiều, vs quy trình làm bài bản hơn Shopee. Vô 2 chỗ đó thì làm chủ yếu với tàu, ấn, indo, nên communicate các thứ cũng mệt. Tech thì cũng challenge do bản chất scale to. TikTok thì internal tools nhiều, probation tới 6 tháng vì phải tốn time học cách dùng nhiều tool đấy. Shopee thì đỡ hơn. TikTok kiểu move fast, task bên S làm 2 tuần thì bên T có thể 3 ngày thôi chẳng hạn, OT nhiều. TikTok có ăn trưa ăn tối free khá tiện, snack pantry thì đầy đủ ko thiếu thứ gì. Shopee hồi trước cũng ngon mà giờ cắt hết rồi. Mà bên TikTok thì kiểu văn hoá theo team chứ ko phải company-wise, nên nếu vào mấy team sếp non tàu thì văn hoá ok đỡ toxic, còn vào trúng sếp tàu thì khá khoai. Phỏng vấn thì khó như nhau, e thấy T khó hơn xí, nhưng so với WorldQuant, Anduin ở VN thì ko khó bằng.
+
+---
+
+### Post #2281 — kazuoken [Interview Experiences]
+
+**Date:** Jul 8, 2026 at 5:53 PM
+
+Bác đi từ đợt covid hay mới gần đây đấy?
+via
+theNEXTvoz
+for iPhone
+
+---
+
+### Post #2282 — hellominhtenngoc [Interview Experiences]
+
+**Date:** Jul 10, 2026 at 5:02 AM
+
+Em có tầm hơn 1 năm kinh nghiệm Java dev nhưng đã gap một thời gian, có bác nào ở đây nhận phỏng vấn thử (mock interview) không ạ. Mock trước cho biết tình hình thị trường
+
+---
+
+### Post #2283 — Minutemen [Interview Experiences]
+
+**Date:** Jul 10, 2026 at 9:28 AM
+
+apply thử vài chỗ r đi thử luôn cho lẹ, chọn mấy chỗ mà tâm thế mình xác định có đậu cũng k định đi làm ấy
+
+---
+
+### Post #2284 — System Design [Interview Experiences]
+
+**Date:** Jul 17, 2026 at 6:58 PM
+
+hmm đi phỏng vấn giờ hay hỏi về harness với quy trình sử dụng AI,MCP này nọ quá
+có nguồn nào sơ nhập mấy khái niệm này để đi chém gió cho mượt k mấy fen
+
+---
+
+### Post #2285 — jiiren [Interview Experiences]
+
+**Date:** Jul 17, 2026 at 7:10 PM
+
+hello interview thím nhé
+
+---
+
+### Post #2286 — nguoi_andanh2026 [Interview Experiences]
+
+**Date:** Jul 18, 2026 at 12:53 AM
+
+hết cái để hỏi nhỉ, role gì hỏi  v fen
+
+---
+
+### Post #2287 — System Design [Interview Experiences]
+
+**Date:** Jul 18, 2026 at 10:48 AM
+
+Middle front end bác ạ
+
+---
+
+### Post #2288 — ngominh114 [Interview Experiences]
+
+**Date:** Jul 18, 2026 at 1:44 PM
+
+E cx mới pvan cty coding challenge là dùng AI code 1 cái feature + hỏi cách mình sử dụng AI -> e tạch. Nên cx lót dép hóng xem học hỏi thêm ở đâu
+
+---
+
+### Post #2289 — picolami [Interview Experiences]
+
+**Date:** Jul 18, 2026 at 3:13 PM
+
+Không phải hết cái để hỏi đâu, như tôi quan sát và bình luận mấy công ty đang dí theo AI điên cuồng. Có 2 nhu cầu chính đáng cho việc pv cái này. 1 là họ đang cần người lead cái vụ chuyển đổi AI, 2 là họ đã chuyển đổi thành công và không thể nhận các ông đang chập chững code tay hay đốt token điên cuồng rồi ngừng làm với lý do hết token.
+
+---
+
+### Post #2290 — Ối Dồi Ôi ! [Interview Experiences]
+
+**Date:** Jul 18, 2026 at 11:21 PM
+
+Có thím nào pv ở TCBs gần đây chưa ạ?
+Cho em xin ít review với
+
+---
+
+### Post #2291 — VieHoang [Interview Experiences]
+
+**Date:** Jul 19, 2026 at 10:55 AM
+
+Ké có thím nào biết range lương tầm 4 yoe ở đây ntn không
+
+---
+
+### Post #2292 — axaria [Interview Experiences]
+
+**Date:** Jul 19, 2026 at 11:24 AM
+
+Bác pvan ở site nào đấy, em chuẩn bị onboard bên site đài mà process em không thấy có vòng OA
+Edit: mới đọc lại thấy bác post Canada rồi
+. Cơ mà bác app L3 hay L4 vậy?
+
+---
+
+### Post #2293 — Ối Dồi Ôi ! [Interview Experiences]
+
+**Date:** Jul 19, 2026 at 12:42 PM
+
+Software Engineer bác ạ.
+Vãi thật 5days - 84 applicants
+Techcom Securities hiring Software Engineer in Hanoi, Hanoi, Vietnam | LinkedIn
+Posted 10:59:09 AM. 1. Mô Tả Công ViệcGia nhập một trong 25 scrum team để xây dựng các sản phẩm công nghệ tài chính…See this and similar jobs on LinkedIn.
+www.linkedin.com
+
+---
+
+### Post #2294 — LãngKh4ck [Interview Experiences]
+
+**Date:** Jul 19, 2026 at 4:45 PM
+
+Không biết luôn bác à
+Apply đại trên trang careers thôi. Mà bác pass Google Đài cũng kinh vl rồi. Tôi xin tip pv hoặc reference sắp tới được không bác?
+
+---
+
+### Post #2295 — axaria [Interview Experiences]
+
+**Date:** Jul 19, 2026 at 5:48 PM
+
+Của em 3 vòng thuật thuần, 1 vòng behavior, sau đó thì team matching thôi. Refer thì em mới vào nên chắc chưa refer được, nhưng có gì bác cứ nhắn riêng em,  em thử hỏi đội VN bên đó xem refer được không nhé. Nhưng bác nên check trước có đang bị dính cooldown không
+
+---
+
+### Post #2296 — recca2007 [Interview Experiences]
+
+**Date:** Jul 19, 2026 at 8:19 PM
+
+Trước mình PV C*K* phỏng vấn tiếng Việt, không live coding bạn
+
+---
+
+### Post #2297 — farawaywayway [Interview Experiences]
+
+**Date:** Jul 20, 2026 at 6:12 AM
+
+độ khó của 3 vòng như thế nào bác, có bao nhiêu câu là DP ?
+
+---
+
+### Post #2298 — axaria [Interview Experiences]
+
+**Date:** Jul 20, 2026 at 6:37 AM
+
+Mỗi vòng sẽ có một main question trong khoảng medium đến hard leetcode, nếu làm kịp sẽ có thêm câu follow up liên quan đến main question tầm hard leetcode. Của em chỉ có 1 round là DP nhưng main question em không dùng DP nên không nghĩ ra được follow up, phải đến khi có hint của interviewer mới nghĩ ra thuật DP nhưng không kịp code
+. Được cái interviewer đánh giá em làm main question ổn (20p là code xong hết rồi mà không có bug) cũng như đưa ra được ý tưởng cho follow up nên vòng đó vẫn ok.
+
+---
+
+### Post #2299 — Kotlin [Interview Experiences]
+
+**Date:** Jul 21, 2026 at 5:41 PM
+
+Bác có được refer ko bác
+
+---
+
+### Post #2300 — axaria [Interview Experiences]
+
+**Date:** Jul 21, 2026 at 5:49 PM
+
+Em cold apply trên trang careers thôi, cơ mà spam 3 tháng mới được, em bị reject 6 cái job khác trước đó rồi
 
 ---
 

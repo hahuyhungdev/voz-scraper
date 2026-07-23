@@ -658,6 +658,10 @@
         background: #16a34a22;
         color: #4ade80;
       }
+      .source-badge.salary {
+        background: #eab30822;
+        color: #facc15;
+      }
     </style>
   </head>
   <body>
@@ -834,6 +838,8 @@
           const count = DATA.posts.filter((p) => p.source === src).length;
           const cls = src.toLowerCase().includes("interview")
             ? "interview"
+            : src.toLowerCase().includes("salary")
+            ? "salary"
             : "review";
           html += `<button class="source-tab ${selectedSource === src ? "active" : ""}" onclick="selectSource('${src.replace(/'/g, "\\'")}')">${esc(src)} (${count})</button>`;
         }

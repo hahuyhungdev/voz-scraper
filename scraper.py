@@ -24,8 +24,14 @@ THREADS = [
     {
         "url": "https://voz.vn/t/review-cong-ty-cntt-boi-het-vao-viet-tat-ten-moi-cty.677450/",
         "label": "Company Reviews",
-        "start_page": 350,
+        "start_page": 1,
         "output": "output_review.md",
+    },
+    {
+        "url": "https://voz.vn/t/thread-tong-hop-chia-se-ve-muc-luong-tai-cac-cong-ty-part-2.515355/",
+        "label": "Salary Sharing",
+        "start_page": 1,
+        "output": "output_salary.md",
     },
 ]
 OUTPUT_COMBINED = Path(__file__).parent / "output.md"
@@ -143,27 +149,25 @@ async def scrape_thread(
     client: httpx.AsyncClient,
     base_url: str,
     label: str,
-    start_page: int,
+    start_page: int = 1,
+    end_page: int | None = None,
 ) -> list[dict]:
-    """Scrape a single thread from start_page to the last page."""
+    """Scrape a single thread from start_page to end_page (or total pages)."""
     print(f"\n{'='*60}")
     print(f"Thread: {label}")
     print(f"URL: {base_url}")
-    print(f"Start page: {start_page}")
 
-    # Fetch start page to detect total pages
     first_url = base_url if start_page == 1 else f"{base_url}page-{start_page}"
     resp = await client.get(first_url, follow_redirects=True)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "lxml")
-    total_pages = get_total_pages(soup)
-    print(f"Total pages in thread: {total_pages} (scraping {start_page}→{total_pages})")
+    detected_max = get_total_pages(soup)
+    total_pages = min(detected_max, end_page) if end_page else detected_max
+    print(f"Scraping range: {start_page} → {total_pages} (detected total: {detected_max})")
 
-    # Parse the first fetched page immediately
     all_posts = extract_posts(soup)
     print(f"  Page {start_page:>3d}: {len(all_posts)} posts extracted")
 
-    # Fetch remaining pages concurrently (bounded)
     remaining = list(range(start_page + 1, total_pages + 1))
     if remaining:
         semaphore = asyncio.Semaphore(CONCURRENT_LIMIT)
@@ -178,35 +182,57 @@ async def scrape_thread(
     return all_posts
 
 
-async def main() -> None:
+async def main(
+    target_idx: int | None = None,
+    start_page: int | None = None,
+    end_page: int | None = None,
+    output_filename: str | None = None,
+) -> None:
     all_posts: list[dict] = []
-    thread_labels: list[str] = []
-    total_pages_all = 0
+
+    configs = [THREADS[target_idx]] if target_idx is not None else THREADS
 
     async with httpx.AsyncClient(headers=HEADERS, timeout=30, verify=VERIFY_SSL) as client:
-        for thread_cfg in THREADS:
+        for thread_cfg in configs:
+            s_page = start_page if start_page is not None else thread_cfg["start_page"]
             posts = await scrape_thread(
                 client,
                 base_url=thread_cfg["url"],
                 label=thread_cfg["label"],
-                start_page=thread_cfg["start_page"],
+                start_page=s_page,
+                end_page=end_page,
             )
             # Tag each post with its source thread
             for p in posts:
                 p["source"] = thread_cfg["label"]
             all_posts.extend(posts)
-            thread_labels.append(thread_cfg["label"])
 
             # Also write individual thread output
-            out_path = Path(__file__).parent / thread_cfg["output"]
+            out_file = output_filename or thread_cfg["output"]
+            out_path = Path(__file__).parent / out_file
             _write_md(out_path, posts, thread_cfg["label"])
 
-    print(f"\n{'='*60}")
-    print(f"Grand total: {len(all_posts)} posts")
+    if target_idx is None:
+        print(f"\n{'='*60}")
+        print(f"Grand total: {len(all_posts)} posts")
+        _write_md(OUTPUT_COMBINED, all_posts, "VOZ Combined")
+        print(f"Combined output: {OUTPUT_COMBINED}")
 
-    # Write combined output
-    _write_md(OUTPUT_COMBINED, all_posts, "VOZ Combined")
-    print(f"Combined output: {OUTPUT_COMBINED}")
+
+def combine_all_outputs() -> None:
+    """Combine all output_*.md files into output.md."""
+    combined_content = ["# VOZ Combined\n\n"]
+    output_files = sorted(Path(__file__).parent.glob("output_*.md"))
+    for out_path in output_files:
+        if out_path.name == "output.md":
+            continue
+        text = out_path.read_text(encoding="utf-8")
+        lines = text.splitlines()
+        body_lines = [l for l in lines if not l.startswith("# ")]
+        combined_content.append("\n".join(body_lines) + "\n\n")
+
+    OUTPUT_COMBINED.write_text("\n".join(combined_content), encoding="utf-8")
+    print(f"Combined {len(output_files)-1 if OUTPUT_COMBINED in output_files else len(output_files)} files into: {OUTPUT_COMBINED}")
 
 
 def _write_md(path: Path, posts: list[dict], title: str) -> None:
@@ -224,4 +250,15 @@ def _write_md(path: Path, posts: list[dict], title: str) -> None:
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    if len(sys.argv) > 1:
+        arg = sys.argv[1]
+        if arg == "--combine":
+            combine_all_outputs()
+        else:
+            t_idx = int(sys.argv[1])
+            s_page = int(sys.argv[2]) if len(sys.argv) > 2 else None
+            e_page = int(sys.argv[3]) if len(sys.argv) > 3 else None
+            o_file = sys.argv[4] if len(sys.argv) > 4 else None
+            asyncio.run(main(t_idx, s_page, e_page, o_file))
+    else:
+        asyncio.run(main())

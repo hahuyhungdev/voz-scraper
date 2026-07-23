@@ -22,9 +22,22 @@ KNOWN_COMPANIES = {
     "n*b vietnam": "NAB",
     "naver": "Naver",
     "n*ver": "Naver",
-    "epam": "EPAM Anywhere",
-    "epam anywhere": "EPAM Anywhere",
-    "ep*m": "EPAM Anywhere",
+    "epam": "EPAM",
+    "epam anywhere": "EPAM",
+    "epam systems": "EPAM",
+    "ep*m": "EPAM",
+    "kms": "KMS Technology",
+    "kms technology": "KMS Technology",
+    "vng": "VNG",
+    "v*g": "VNG",
+    "nashtech": "NashTech",
+    "nash tech": "NashTech",
+    "anduin": "Anduin Transactions",
+    "anduin transactions": "Anduin Transactions",
+    "line": "Line Vietnam",
+    "line vietnam": "Line Vietnam",
+    "agoda": "Agoda",
+    "ag*da": "Agoda",
     "grab": "Grab",
     "g***": "Grab",
     "g**b": "Grab",
@@ -45,6 +58,7 @@ KNOWN_COMPANIES = {
     "fsoft": "FPT Software",
     "fpt software": "FPT Software",
     "fpt": "FPT Software",
+    "f**t": "FPT Software",
     "go1 platform": "Go1",
     "go1": "Go1",
     "ninjavan": "NinjaVan",
@@ -54,7 +68,10 @@ KNOWN_COMPANIES = {
     "manabie": "Manabie",
     "one mount group": "One Mount Group",
     "one mount": "One Mount Group",
+    "omg": "One Mount Group",
     "samsung r&d center vietnam": "Samsung R&D",
+    "samsung r&d": "Samsung R&D",
+    "srct": "Samsung R&D",
     "samsung": "Samsung R&D",
     "employment hero": "Employment Hero",
     "opswat": "OPSWAT",
@@ -66,6 +83,8 @@ KNOWN_COMPANIES = {
     "gotit.ai": "Got It AI",
     "got it ai": "Got It AI",
     "gotit ai": "Got It AI",
+    "got it": "Got It AI",
+    "gotit": "Got It AI",
     "zalo": "Zalo",
     "cmc": "CMC",
     "datalogic": "Datalogic",
@@ -79,6 +98,7 @@ KNOWN_COMPANIES = {
     "techvify": "Techvify",
     "viettel": "Viettel",
     "viettel telecom": "Viettel",
+    "vtt": "Viettel",
     "tiki": "Tiki",
     "ti*i": "Tiki",
     "t*ki": "Tiki",
@@ -107,6 +127,13 @@ KNOWN_COMPANIES = {
     "next practice": "Next Practice",
     "next practice (ptc b.o.t.)": "Next Practice",
 }
+
+# Compile patterns for fast text scanning
+COMPILED_PATTERNS = []
+for _k, _canonical in KNOWN_COMPANIES.items():
+    _escaped = re.escape(_k).replace(r'\*', r'[*_a-z]?')
+    _regex = re.compile(rf'\b{_escaped}\b', re.IGNORECASE)
+    COMPILED_PATTERNS.append((_regex, _canonical))
 
 
 def deobfuscate(name: str) -> str:
@@ -218,21 +245,9 @@ def extract_companies(text: str) -> list[str]:
         if canonical and len(canonical) >= 2:
             companies.add(canonical)
 
-    # Pattern 2: Check for well-known company names mentioned in text
-    # (even without "Công ty:" prefix)
-    text_lower = text.lower()
-    # Only check unambiguous company names (3+ chars, distinct)
-    check_names = {
-        "shopee", "grab", "tiki", "lazada", "momo", "vnpay",
-        "ninjavan", "rakuten", "garena", "zalo", "bosch",
-        "samsung", "employment hero", "opswat", "worldquant",
-        "thoughtworks", "dytechlab", "shopback", "manabie",
-        "one mount", "axon", "nexon", "fsoft", "fpt software",
-        "datalogic", "minswap", "techvify", "viettel",
-    }
-    for name in check_names:
-        if name in text_lower:
-            canonical = KNOWN_COMPANIES.get(name, name.title())
+    # Pattern 2: Scan for all known company names & obfuscations in text
+    for reg, canonical in COMPILED_PATTERNS:
+        if reg.search(text):
             companies.add(canonical)
 
     return sorted(companies)
